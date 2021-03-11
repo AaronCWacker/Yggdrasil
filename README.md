@@ -18,6 +18,7 @@ Open Source Health Care Datasets | https://healthdata.gov/
 Open Source Kaggle Datasets for Health Care | https://www.kaggle.com/tags/healthcare
 
 Demonstration Notebooks and Applications | Link
+------------ | -------------
 AR - Digital Twin | https://xr.azurewebsites.net/DigitalTwin/
 AR - Digital City | https://xr.azurewebsites.net/DigitalCity/
 AR - Aframe Examples for Web Based AR | https://xr.azurewebsites.net/NLP-Dictation/
