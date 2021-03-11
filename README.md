@@ -15,5 +15,5 @@ My personal Genome is being released as information used for research, education
 Data Set Site | Link
 ------------ | -------------
 SOAR | https://github.com/SoarGroup/Soar
-Open Source Health Care Datasets | https://github.com/SoarGroup/Soar
+Open Source Health Care Datasets | https://healthdata.gov/
 Open Source Kaggle Datasets for Health Care | https://www.kaggle.com/tags/healthcare
