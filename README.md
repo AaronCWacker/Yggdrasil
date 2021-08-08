@@ -6,7 +6,7 @@ SOAR  | Intelligent Agents Performant in Explainable Actor AI
 OSGenome | Open Source Genome exploration with KMER counting and SNP Identification for discovery, research and education.
 Language Models | BERT, GPT, T5 for all language everywhere
 
-Full Genome File | What it gets us
+Genomics Resource | URL
 ------------ | -------------
 My personal Genome is available here.  It is released as open source information which can be used for research, education, and furthering our knowledge of genomics and AI.  It is provided here as a free data resource with my permission to use. | https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip
 OSGenome is an open source web application allowing you to gather information on your Genome | https://github.com/AaronCWacker/OSGenome
