@@ -3,14 +3,12 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 App | Link
 ------------ | -------------
-Medication and Diet Rx - Install Link | https://www.appsheet.com/newshortcut/e6b3850c-e53f-417e-968e-38f3055bae86
-Medication and Diet Rx - Browser Link | https://www.appsheet.com/start/e6b3850c-e53f-417e-968e-38f3055bae86
+Medication and Diet Minder - Install Link | https://www.appsheet.com/newshortcut/d4ae64a8-0c9a-468f-823e-8edb20a64349
+Medication and Diet Minder - Browser Link | https://www.appsheet.com/start/d4ae64a8-0c9a-468f-823e-8edb20a64349
 Intelligent Body Map - Install Link | https://www.appsheet.com/newshortcut/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
 Intelligent Body Map - Browser Link | https://www.appsheet.com/start/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
-Meds and Diet Text Analyzer | https://www.appsheet.com/newshortcut/b234dbaf-50b6-44a2-ba11-b98b2a02b4dd
-Meds and Diet Text Analyzer | https://www.appsheet.com/start/b234dbaf-50b6-44a2-ba11-b98b2a02b4dd
-Bucket List Map and Landscapes | https://www.appsheet.com/newshortcut/04bd06f5-3062-4932-b7c8-635f951e0327
-Bucket List Map and Landscapes | https://www.appsheet.com/start/04bd06f5-3062-4932-b7c8-635f951e0327
+US Landmarks Map and Landscapes | https://www.appsheet.com/newshortcut/04bd06f5-3062-4932-b7c8-635f951e0327
+US Landmarks Map and Landscapes | https://www.appsheet.com/start/04bd06f5-3062-4932-b7c8-635f951e0327
 
 Genomics Resource | Link
 ------------ | -------------
