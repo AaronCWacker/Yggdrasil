@@ -12,6 +12,7 @@ My personal Genome is available here.  It is released as open source information
 OSGenome is an open source web application allowing you to gather information on your Genome | https://github.com/AaronCWacker/OSGenome
 
 Appsheet Demonstration URL | Description
+------------ | -------------
 https://www.appsheet.com/newshortcut/e6b3850c-e53f-417e-968e-38f3055bae86 | Medication and Diet Rx - Install Link
 https://www.appsheet.com/start/e6b3850c-e53f-417e-968e-38f3055bae86 | Medication and Diet Rx - Browser Link
 
@@ -24,6 +25,9 @@ Data Set Site | Link
 SOAR | https://github.com/SoarGroup/Soar
 Open Source Health Care Datasets | https://healthdata.gov/
 Open Source Kaggle Datasets for Health Care | https://www.kaggle.com/tags/healthcare
+FHIR | https://console.cloud.google.com/bigquery?project=fhirclinicaldatahealthcareapi&ws=!1m0
+BigQuery Public Health Data | https://console.cloud.google.com/bigquery?project=fhirclinicaldatahealthcareapi&ws=!1m0
+
 
 Demonstration Notebooks and Applications | Link
 ------------ | -------------
