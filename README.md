@@ -9,6 +9,8 @@ Intelligent Body Map - Install Link | https://www.appsheet.com/newshortcut/8ccbf
 Intelligent Body Map - Browser Link | https://www.appsheet.com/start/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
 Meds and Diet Text Analyzer | https://www.appsheet.com/newshortcut/b234dbaf-50b6-44a2-ba11-b98b2a02b4dd
 Meds and Diet Text Analyzer | https://www.appsheet.com/start/b234dbaf-50b6-44a2-ba11-b98b2a02b4dd
+Bucket List Map and Landscapes | https://www.appsheet.com/newshortcut/04bd06f5-3062-4932-b7c8-635f951e0327
+Bucket List Map and Landscapes | https://www.appsheet.com/start/04bd06f5-3062-4932-b7c8-635f951e0327
 
 
 Genomics Resource | Link
