@@ -1,10 +1,5 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
-AI Architecture | What it gets us
------------- | -------------
-SOAR  | Intelligent Agents Performant in Explainable Actor AI
-OSGenome | Open Source Genome exploration with KMER counting and SNP Identification for discovery, research and education.
-Language Models | BERT, GPT, T5 for all language everywhere
 
 Genomics Resource | Link
 ------------ | -------------
@@ -18,14 +13,20 @@ Medication and Diet Rx - Browser Link | https://www.appsheet.com/start/e6b3850c-
 Body Map | https://www.appsheet.com/newshortcut/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
 Browser Link | https://www.appsheet.com/start/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
 
-Data Set Site | Link
+Datasets | Link
 ------------ | -------------
-SOAR | https://github.com/SoarGroup/Soar
 Open Source Health Care Datasets | https://healthdata.gov/
 Open Source Kaggle Datasets for Health Care | https://www.kaggle.com/tags/healthcare
 FHIR | https://console.cloud.google.com/bigquery?project=fhirclinicaldatahealthcareapi&ws=!1m0
 BigQuery Public Health Data | https://console.cloud.google.com/bigquery?project=fhirclinicaldatahealthcareapi&ws=!1m0
 
+AI Architecture | What it gets us
+------------ | -------------
+SOAR  | Intelligent Agents Performant in Explainable Actor AI
+SOAR | https://github.com/SoarGroup/Soar
+OSGenome | Open Source Genome exploration with KMER counting and SNP Identification for discovery, research and education.
+OSGenome | https://github.com/AaronCWacker/OSGenome
+Language Models | BERT, GPT, T5 for all language everywhere
 
 Augmented Reality and Virtual Reality (AR, VR and XR) | Link
 ------------ | -------------
