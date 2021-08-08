@@ -6,12 +6,12 @@ SOAR  | Intelligent Agents Performant in Explainable Actor AI
 OSGenome | Open Source Genome exploration with KMER counting and SNP Identification for discovery, research and education.
 Language Models | BERT, GPT, T5 for all language everywhere
 
-Genomics Resource | URL
+Genomics Resource | Link
 ------------ | -------------
 My personal Genome is available here.  It is released as open source information which can be used for research, education, and furthering our knowledge of genomics and AI.  It is provided here as a free data resource with my permission to use. | https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip
 OSGenome is an open source web application allowing you to gather information on your Genome | https://github.com/AaronCWacker/OSGenome
 
-App | URL
+App | Link
 ------------ | -------------
 Medication and Diet Rx - Install Link | https://www.appsheet.com/newshortcut/e6b3850c-e53f-417e-968e-38f3055bae86
 Medication and Diet Rx - Browser Link | https://www.appsheet.com/start/e6b3850c-e53f-417e-968e-38f3055bae86
@@ -57,7 +57,3 @@ AIML - Visualizing What Convolutional Neural Nets Learn | https://colab.research
 AIML - CycleGAN - Generative Adversarial Neural Networks | https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=2M7LmLtGEMQJ
 AIML Integration - Reading PostgreSQL Databases from Tensorflow IO | https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/postgresql.ipynb
 AIML Integration - Kafka and Zookeeper to Create Streaming Topics on the Fly for Tensorflow IO | https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/kafka.ipynb#scrollTo=48B9eAMMhAgw
-
-
-
-
