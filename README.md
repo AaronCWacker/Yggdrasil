@@ -7,6 +7,9 @@ Medication and Diet Rx - Install Link | https://www.appsheet.com/newshortcut/e6b
 Medication and Diet Rx - Browser Link | https://www.appsheet.com/start/e6b3850c-e53f-417e-968e-38f3055bae86
 Intelligent Body Map - Install Link | https://www.appsheet.com/newshortcut/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
 Intelligent Body Map - Browser Link | https://www.appsheet.com/start/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
+Meds and Diet Text Analyzer | https://www.appsheet.com/newshortcut/b234dbaf-50b6-44a2-ba11-b98b2a02b4dd
+Meds and Diet Text Analyzer | https://www.appsheet.com/start/b234dbaf-50b6-44a2-ba11-b98b2a02b4dd
+
 
 Genomics Resource | Link
 ------------ | -------------
