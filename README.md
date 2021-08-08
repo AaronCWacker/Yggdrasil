@@ -12,6 +12,7 @@ Genomics Resource | Link
 ------------ | -------------
 My personal Genome is available here.  It is released as open source information which can be used for research, education, and furthering our knowledge of genomics and AI.  It is provided here as a free data resource with my permission to use. | https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip
 OSGenome is an open source web application allowing you to gather information on your Genome | https://github.com/AaronCWacker/OSGenome
+SNP Report | https://you.23andme.com/p/312c87a7589c1e01/health/all_reports/
 
 Datasets | Link
 ------------ | -------------
