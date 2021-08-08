@@ -8,7 +8,7 @@ Language Models | BERT, GPT, T5 for all language everywhere
 
 Full Genome File | What it gets us
 ------------ | -------------
-https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip | My personal Genome is available here.  It is released as open source information which can be used for research, education, and furthering our knowledge of genomics and AI.  It is provided here as a free data resource with my permission to use. 
+My personal Genome is available here.  It is released as open source information which can be used for research, education, and furthering our knowledge of genomics and AI.  It is provided here as a free data resource with my permission to use. | https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip
 
 Appsheet Demonstration URL | Description
 https://www.appsheet.com/newshortcut/e6b3850c-e53f-417e-968e-38f3055bae86 | Medication and Diet Rx - Install Link
