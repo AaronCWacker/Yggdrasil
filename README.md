@@ -13,8 +13,8 @@ OSGenome is an open source web application allowing you to gather information on
 
 Appsheet Demonstration URL | Description
 ------------ | -------------
-https://www.appsheet.com/newshortcut/e6b3850c-e53f-417e-968e-38f3055bae86 | Medication and Diet Rx - Install Link
-https://www.appsheet.com/start/e6b3850c-e53f-417e-968e-38f3055bae86 | Medication and Diet Rx - Browser Link
+Medication and Diet Rx - Install Link | https://www.appsheet.com/newshortcut/e6b3850c-e53f-417e-968e-38f3055bae86
+Medication and Diet Rx - Browser Link | https://www.appsheet.com/start/e6b3850c-e53f-417e-968e-38f3055bae86
 
 
 
