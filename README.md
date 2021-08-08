@@ -12,7 +12,6 @@ Meds and Diet Text Analyzer | https://www.appsheet.com/start/b234dbaf-50b6-44a2-
 Bucket List Map and Landscapes | https://www.appsheet.com/newshortcut/04bd06f5-3062-4932-b7c8-635f951e0327
 Bucket List Map and Landscapes | https://www.appsheet.com/start/04bd06f5-3062-4932-b7c8-635f951e0327
 
-
 Genomics Resource | Link
 ------------ | -------------
 My personal Genome is available here.  It is released as open source information which can be used for research, education, and furthering our knowledge of genomics and AI.  It is provided here as a free data resource with my permission to use. | https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip
@@ -33,6 +32,10 @@ SOAR | https://github.com/SoarGroup/Soar
 OSGenome | Open Source Genome exploration with KMER counting and SNP Identification for discovery, research and education.
 OSGenome | https://github.com/AaronCWacker/OSGenome
 Language Models | BERT, GPT, T5 for all language everywhere
+
+AI and Music | Link
+Magenta MIDI | https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb#scrollTo=NjHUvtn5-daA
+
 
 Augmented Reality and Virtual Reality (AR, VR and XR) | Link
 ------------ | -------------
@@ -64,3 +67,76 @@ AIML - Visualizing What Convolutional Neural Nets Learn | https://colab.research
 AIML - CycleGAN - Generative Adversarial Neural Networks | https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=2M7LmLtGEMQJ
 AIML Integration - Reading PostgreSQL Databases from Tensorflow IO | https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/postgresql.ipynb
 AIML Integration - Kafka and Zookeeper to Create Streaming Topics on the Fly for Tensorflow IO | https://colab.research.google.com/github/tensorflow/io/blob/master/docs/tutorials/kafka.ipynb#scrollTo=48B9eAMMhAgw
+
+
+
+
+------
+UMLS Lookup:
+
+import requests
+import pyquery
+from pyquery import PyQuery as pq
+from lxml import etree
+
+uri="https://utslogin.nlm.nih.gov"
+auth_endpoint = "/cas/v1/api-key"
+apikey='1234-1234-123'
+service="http://umlsks.nlm.nih.gov"
+
+params = {'apikey':apikey}
+h = {"Content-type": "application/x-www-form-urlencoded", "Accept": "text/plain", "User-Agent":"python" }
+r = requests.post(uri+auth_endpoint,data=params,headers=h)
+d = pq(r.text)
+tgt = d.find('form').attr('action')
+
+params = {'service': service}
+h = {"Content-type": "application/x-www-form-urlencoded", "Accept": "text/plain", "User-Agent":"python" }
+r = requests.post(tgt,data=params,headers=h)
+st = r.text
+uri1='https://uts-ws.nlm.nih.gov/rest/search/current'
+query = { 'string':'heart', 'ticket':st }
+query['includeObsolete'] = 'true'
+query['includeSuppressible'] = 'true'
+query['returnIdType'] = "sourceConcept"
+query['sabs'] = "SNOMEDCT_US"
+r = requests.get(uri1,params=query)
+print(r.text)
+
+#Sample URI Description Returned JSON Object classType
+#/search/current?string=fracture of carpal bone Retrieves CUIs for a search term searchResults
+#/search/current?string=fracture of carpal bone&searchType=exact Uses ‘exact’ searching searchResults
+#/search/current?string=fracture of carpal bone&sabs=SNOMEDCT_US&returnIdType=code Returns SNOMEDCT concepts associated with a search term searchResults
+#/search/current?string=9468002&inputType=sourceUi&searchType=exact&sabs=SNOMEDCT_US Returns UMLS CUIs associated with a SNOMEDCT_US concept searchResults
+
+
+#Base URI Method Type Path Description
+#https://utslogin.nlm.nih.gov
+#POST /cas/v1/api-key Retrieves a Ticket Granting Ticket (TGT)
+#POST /cas/v1/tickets/{TGT} Retrieves a single-use Service Ticket
+#
+#Base URI HTTP Request Type Path Description
+#https://uts-ws.nlm.nih.gov/rest
+#GET /search/{version} Retrieves CUIs when searching by term or code
+#GET /content/{version}/CUI/{CUI} Retrieves information about a known CUI
+#GET /content/{version}/CUI/{CUI}/atoms Retrieves atoms and information about atoms for a known CUI
+#GET /content/{version}/CUI/{CUI}/definitions Retrieves definitions for a known CUI
+#GET /content/{version}/CUI/{CUI}/relations Retrieves NLM-asserted relationships for a known CUI
+#GET /content/{version}/source/{source}/{id} Retrieves information about a known source-asserted identifier
+#GET /content/{version}/source/{source}/{id}/atoms Retrieves information about atoms for a known source-asserted identifier
+#GET /content/{version}/source/{source}/{id}/parents Retrieves immediate parents of a source-asserted identifier
+#GET /content/{version}/source/{source}/{id}/children Retrieves immediate children of a source-asserted identifier
+#GET /content/{version}/source/{source}/{id}/ancestors Retrieves all ancestors of a source-asserted identifier
+#GET /content/{version}/source/{source}/{id}/descendants Retrieves all descendants of a source-asserted identifier
+#GET /content/{version}/source/{source}/{id}/relations Retrieves all relationships of a source-asserted identifier
+#GET /subsets/{version}/ Retrieves all available source-asserted subsets
+#GET /subsets/{version}/source/{source}/{id} Retrieves information about a specific source-asserted subset
+#GET /subsets/{version}/source/{source}/{id}/members Retrieves members of a specific source-asserted subset
+#GET /subsets/{version}/source/{source}/{id}/member/{id} Retrieves an individual member of a specific source-asserted subset
+#GET /content/{version}/source/{source}/{id}/attributes Retrieves information about source-asserted attributes
+#GET /semantic-network/{version}/TUI/{id} Retrieves information for a known Semantic Type identifier (TUI)
+#GET /content-views/{version} Retrieve all available content views in the UMLS
+#GET /content-views/{version}/CUI/{CUI} Retrieve information about a specific content view
+#GET /content-views/{version}/CUI/{CUI}/members Retrieve members of a specific content view
+#GET /content-views/{version}/CUI/{CUI}/member/{id} Retrieves an individual member of a specific content view
+#GET /crosswalk/{version}/source/{source}/{id} Retrieves all source-asserted identifiers that share a UMLS CUI with a particular code
