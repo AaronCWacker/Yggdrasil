@@ -3,6 +3,8 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 App | Link
 ------------ | -------------
+Hackathon 2021 Install Link | https://www.appsheet.com/newshortcut/432841a0-9298-4eff-a3bf-a83cb44edc0a
+Hackathon 2021 Browser Link | https://www.appsheet.com/start/432841a0-9298-4eff-a3bf-a83cb44edc0a
 Medication and Diet Minder - Install Link | https://www.appsheet.com/newshortcut/d4ae64a8-0c9a-468f-823e-8edb20a64349
 Medication and Diet Minder - Browser Link | https://www.appsheet.com/start/d4ae64a8-0c9a-468f-823e-8edb20a64349
 Intelligent Body Map - Install Link | https://www.appsheet.com/newshortcut/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
