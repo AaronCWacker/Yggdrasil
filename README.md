@@ -7,8 +7,6 @@ Hackathon 2021 Install Link | https://www.appsheet.com/newshortcut/432841a0-9298
 Hackathon 2021 Browser Link | https://www.appsheet.com/start/432841a0-9298-4eff-a3bf-a83cb44edc0a
 Auto OCR Medication and Diet Minder - Install Link | https://www.appsheet.com/newshortcut/d4ae64a8-0c9a-468f-823e-8edb20a64349
 Auto OCR Medication and Diet Minder - Browser Link | https://www.appsheet.com/start/d4ae64a8-0c9a-468f-823e-8edb20a64349
-Intelligent Body Map - Install Link | https://www.appsheet.com/newshortcut/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
-Intelligent Body Map - Browser Link | https://www.appsheet.com/start/8ccbf8d0-7ec1-46f4-805c-fbd6071ff8f3
 US Landmarks Map and Landscapes | https://www.appsheet.com/newshortcut/04bd06f5-3062-4932-b7c8-635f951e0327
 US Landmarks Map and Landscapes | https://www.appsheet.com/start/04bd06f5-3062-4932-b7c8-635f951e0327
 
