@@ -138,3 +138,50 @@ print(r.text)
 #GET /content-views/{version}/CUI/{CUI}/members Retrieve members of a specific content view
 #GET /content-views/{version}/CUI/{CUI}/member/{id} Retrieves an individual member of a specific content view
 #GET /crosswalk/{version}/source/{source}/{id} Retrieves all source-asserted identifiers that share a UMLS CUI with a particular code
+
+---
+
+Meaning of Life Symposium (Manolis Kellis):
+
+The beauty of the human genome
+Coming up on 50th birthday, get together with friends to discuss the meaning of life
+What is the meaning of life?
+
+Meaning of life symposium means - sym (together) posi (drink) so  symposium = drinking party
+42 is answer (Hitchikers Guide)
+
+Give seven minute species on meaning of life
+	I dont know what the meaning of life is but....
+	All mutually synergistic
+	Difference between purpose and meaning
+	Linguistics Harvard - Very Pythian answer.  Pythia oracle "Answer is become one.  
+
+Like a child become one year old everything new, 
+drive yourself to perfection in all your tests, 
+when people are separate, come together as one and support eachother.
+
+Why life itself?
+	is it inevitable
+	about physics
+	transcends physics
+	distinct entity in universe
+	forces, is it another force, lifeforce
+	a new software or layer of a computer system
+
+Gratitude
+	During this pandemic we worked alot breaking all boundaries of where personal life begins
+	Intellectual pleasure in day of exhaustion
+	Wow I was useful today, feeling pleasure and grateful today.  
+	Thankyou for all you have given me and grant me the strength to give to others the way you have given to me.
+	I love this.  Me in most unfiltered way to do something useful and interact with aspects
+	Discover aspects of AI, ML .. that nobody has seen before with data we capture which has never been observed
+	As a father teaching my kids the understanding they have of world around us and me too
+	Unfiltered criticism from a child knows no dishonesty, immense love and passion.
+	We as adults learn how to hide so much better
+	Raw emotions that make a human being
+	To become truly human results.
+	Complexity of language grow as more neural networks are connected, frontal cortex forming for 10 years
+	Incredible that the knowledge fed throughout shaping neural nets as forming
+	Most beautiful thing to do which completes me.
+	Decades of compassion, sharing, anger, patience, as a parent you become a very different kind of teacher
+	Learning process of sharing, conveying knowledge, encapsulating the complex, and giving bite size chunks society can appreciate.
