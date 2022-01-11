@@ -4,6 +4,18 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 App | Link
 ------------ | -------------
+ ArtBreeder | A Generative Adversial Network showcase of wonder.  Enjoy easily inputting and outputting from BigGan and StyleGan jams as we feature the best in generative art!
+URL| https://www.artbreeder.com/
+ Boomy | A Generative pulsating music maker that seeks out your heart and wraps it in poetry, you can sing too.  Bob lets go get your coin - I will fly you there!!
+URL| https://boomy.com/
+ Take it to the Runway ML | Wow rotoscope faster than Hollywood!  Mish and mash your vids, filter it, pick the pulse, do layering, this rocks!
+URL| https://app.runwayml.com/
+
+
+
+
+App | Link
+------------ | -------------
 Hackathon Comments - ACW Favorites | https://www.appsheet.com/newshortcut/432841a0-9298-4eff-a3bf-a83cb44edc0a
 
 
