@@ -1,6 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+AI and Ontology Reference Frame Playlist | Link
+------------ | -------------
+AI Data Governance | Use of Collibra for AI Data Governance and Context of Ontology and Reference Frame Communities
+URL| https://www.youtube.com/playlist?list=PLHgX2IExbFosVR_JgscrcVa6GEaTxzhtX
+Graph Collibra | Use of Collibra and Semantic, Context, Knowledge Graphs for Knowledge Representation in AI
+URL| https://www.youtube.com/playlist?list=PLHgX2IExbFouEM12Ray9W0O5FAZF_C54Z
+Graph Collibra | Use of Collibra and Semantic, Context, Knowledge Graphs for Knowledge Representation in AI
+URL| https://www.youtube.com/playlist?list=PLHgX2IExbFouEM12Ray9W0O5FAZF_C54Z
+Business of Ontology | Use of AI Ontologies For Optimizing Financials, Risk and Data Governance
+URL| https://www.youtube.com/playlist?list=PLHgX2IExbFoujsvmuqwrDfpRUPJJZKOn0
+Ontology Neuroscience and Governance | Use of Nueroscience and Governing Processes and Ontologies as Representations in AI
+URL| https://www.youtube.com/playlist?list=PLHgX2IExbFovS1G68_lf5EyIcL3pBNshi
+
+
+
+
 
 App | Link
 ------------ | -------------
