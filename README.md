@@ -11,7 +11,7 @@ NLP Ontology | Use of Natural Language Processing and Ontologies for Knowledge R
 URL| https://www.youtube.com/playlist?list=PLHgX2IExbFoujsvmuqwrDfpRUPJJZKOn0
 Business of Ontology | Use of AI Ontologies For Optimizing Financials, Risk and Data Governance
 URL| https://www.youtube.com/playlist?list=PLHgX2IExbFostsXRIFlUs7foJ-r9gXw3p
-Ontology Neuroscience and Governance | Use of Nueroscience and Governing Processes and Ontologies as Representations in AI
+Ontology Neuroscience and Governance | Use of Neuroscience, Psychology and Governing Processes Ontologies in the Brain as Representations in AI
 URL| https://www.youtube.com/playlist?list=PLHgX2IExbFovS1G68_lf5EyIcL3pBNshi
 
 
