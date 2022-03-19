@@ -1,8 +1,8 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
-# Analysis of Top 5 Music Streaming Analysis on Subscribers:
--- | -----------------------------------------------------------------------------------
+Rank | Analysis of Top 5 Music Streaming Analysis on Subscribers
+------------ | -------------
 1 | Spotify: 155.8 million: https://open.spotify.com/artist/2o4HpFDjqtVgItUvp7jFF7
 2 | Apple Music: 77.9 million: https://music.apple.com/us/artist/aaron-wacker/1224835090
 3 | Amazon Music: 63.3 million: https://music.amazon.com/artists/B003U5JGPC/aaron-wacker
