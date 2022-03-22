@@ -3,7 +3,7 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 
 
-Rank | Best Spaces for AI Analytics
+Rank | Best HF Spaces for AI using Webassembly, Streamlit and Gradio
 ------------ | -------------
 1 | Pose Estimation: https://huggingface.co/spaces/osanseviero/6DRepNet
 2 | Technology Entity Labeler: https://huggingface.co/spaces/mertguvencli/trending-techs-on-data-science
@@ -12,7 +12,7 @@ Rank | Best Spaces for AI Analytics
 5 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 6 | Data Measurement: https://huggingface.co/spaces/huggingface/data-measurements-tool
 7 | GPT Image Captions: https://huggingface.co/spaces/flax-community/image-captioning
-8 | GLIDE Text2Image: https://huggingface.co/spaces/Salesforce/BLIP
+8 | Unity ML Agents Game: https://huggingface.co/spaces/ThomasSimonini/SnowballFight/tree/main
 9 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 10 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 
