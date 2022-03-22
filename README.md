@@ -10,7 +10,7 @@ Rank | Best Spaces for AI Analytics
 3 | DALL-E Text2Image: https://huggingface.co/spaces/flax-community/dalle-mini
 4 | Wiki Answer Gen: https://huggingface.co/spaces/lfqa/lfqa
 5 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
-6 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+6 | Data Measurement: https://huggingface.co/spaces/huggingface/data-measurements-tool
 7 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 8 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 9 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
