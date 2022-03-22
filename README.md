@@ -6,11 +6,15 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 Rank | Best Spaces for AI Analytics
 ------------ | -------------
 1 | Pose Estimation: https://huggingface.co/spaces/osanseviero/6DRepNet
-2 | Apple Music: 77.9 million: https://music.apple.com/us/artist/aaron-wacker/1224835090
-3 | Amazon Music: 63.3 million: https://music.amazon.com/artists/B003U5JGPC/aaron-wacker
-4 | Tencent: 63.3 million: https://www.tencentmusic.com/en-us
-5 | Google YouTube Music: 39 million: https://www.youtube.com/c/AaronWacker and https://music.youtube.com/search?q=aaron+wacker
-
+2 | Technology Entity Labeler: https://huggingface.co/spaces/mertguvencli/trending-techs-on-data-science
+3 | DALL-E Text2Image: https://huggingface.co/spaces/flax-community/dalle-mini
+4 | Wiki Answer Gen: https://huggingface.co/spaces/lfqa/lfqa
+5 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+6 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+7 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+8 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+9 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+10 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 
 
 Rank | Analysis of Top 5 Music Streaming Analysis on Subscribers
