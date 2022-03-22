@@ -13,8 +13,8 @@ Rank | Best HF Spaces for AI using Webassembly, Streamlit and Gradio
 6 | Data Measurement: https://huggingface.co/spaces/huggingface/data-measurements-tool
 7 | GPT Image Captions: https://huggingface.co/spaces/flax-community/image-captioning
 8 | Unity ML Agents Game: https://huggingface.co/spaces/ThomasSimonini/SnowballFight/tree/main
-9 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
-10 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+9 | Image2LineDrawing: https://huggingface.co/spaces/carolineec/informativedrawings
+10 | Document Text Recognition: https://huggingface.co/spaces/mindee/doctr
 
 
 Rank | Analysis of Top 5 Music Streaming Analysis on Subscribers
