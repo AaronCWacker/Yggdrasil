@@ -11,8 +11,8 @@ Rank | Best Spaces for AI Analytics
 4 | Wiki Answer Gen: https://huggingface.co/spaces/lfqa/lfqa
 5 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 6 | Data Measurement: https://huggingface.co/spaces/huggingface/data-measurements-tool
-7 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
-8 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
+7 | GPT Image Captions: https://huggingface.co/spaces/flax-community/image-captioning
+8 | GLIDE Text2Image: https://huggingface.co/spaces/Salesforce/BLIP
 9 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 10 | BLIP Image QA: https://huggingface.co/spaces/Salesforce/BLIP
 
