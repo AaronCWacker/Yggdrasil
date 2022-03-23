@@ -14,7 +14,19 @@ Rank | Best HF Spaces for AI using Webassembly, Streamlit and Gradio
 7 | GPT Image Captions: https://huggingface.co/spaces/flax-community/image-captioning
 8 | Unity ML Agents Game: https://huggingface.co/spaces/ThomasSimonini/SnowballFight/tree/main
 9 | Image2LineDrawing: https://huggingface.co/spaces/carolineec/informativedrawings
-10 | Document Text Recognition: https://huggingface.co/spaces/mindee/doctr
+10 | Blend GAN Portrait: https://huggingface.co/spaces/akhaliq/BlendGAN
+11 | Document Text Recognition: https://huggingface.co/spaces/mindee/doctr
+12 | Draw2Entity Search: https://huggingface.co/spaces/osanseviero/draw_to_search
+13 | Health Sea Condition2BenefitProducts: https://huggingface.co/spaces/spacy/healthsea-demo
+14 | Image2FoodRecipe: https://huggingface.co/spaces/prithivida/WhatTheFood
+15 | Handwriting OCR: https://huggingface.co/spaces/nielsr/TrOCR-handwritten
+16 | DALL-E Creature Generator: https://huggingface.co/spaces/ronvolutional/ai-pokemon-card
+17 | GAN Styler: https://huggingface.co/spaces/akiyamasho/AnimeBackgroundGAN
+18 | Speaker Verification: https://huggingface.co/spaces/microsoft/unispeech-speaker-verification
+19 | Image2Plot: https://huggingface.co/spaces/deepklarity/poster2plot
+20 | Clip Text2Image: https://huggingface.co/spaces/vivien/clip
+
+
 
 
 Rank | Analysis of Top 5 Music Streaming Analysis on Subscribers
