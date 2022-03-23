@@ -25,6 +25,12 @@ Rank | Best HF Spaces for AI using Webassembly, Streamlit and Gradio
 18 | Speaker Verification: https://huggingface.co/spaces/microsoft/unispeech-speaker-verification
 19 | Image2Plot: https://huggingface.co/spaces/deepklarity/poster2plot
 20 | Clip Text2Image: https://huggingface.co/spaces/vivien/clip
+21 | Text2Speech: https://huggingface.co/spaces/erogol/CoquiTTS
+22 | FlappyBird AI: https://huggingface.co/spaces/mrm8488/FlappyBirds
+23 | Style Transfer: https://huggingface.co/spaces/aravinds1811/neural-style-transfer
+24 | Image Scaling: https://huggingface.co/spaces/eugenesiow/super-image
+25 | 2D Image to 3D Model: https://huggingface.co/spaces/flax-community/DietNerf-Demo
+
 
 
 
