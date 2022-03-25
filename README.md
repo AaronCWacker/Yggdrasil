@@ -1,6 +1,21 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+# Image Generators From Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
+https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
+https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image
+
+
+# Questions and Answers in Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/lfqa/lfqa		|		Wikipedia Assistant answers a text question with a text and a audio response.
+
+
+
 Vision
 Natural Language Processing
 Medical
