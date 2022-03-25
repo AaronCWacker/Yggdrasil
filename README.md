@@ -1,6 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+Vision
+Natural Language Processing
+Medical
+Methodology
+Time Series
+Graphs
+Speech
+Playing Games
+Computer Code
+Audio
+Adversarial
+Robots
+Knowledge Base
+Reasoning
+Music
+
+Rank | Model  |  Image Generator Models
+------------ | ----|---------
+1 | Interactive demo|glide-text2im https://huggingface.co/spaces/osanseviero/6DRepNet
 
 
 Rank | Best HF Spaces for AI using Webassembly, Streamlit and Gradio
