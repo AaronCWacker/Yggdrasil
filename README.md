@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
-# Image Generators From Text:
+# 🖼 Image Generators From Text:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
@@ -13,12 +13,12 @@ URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
 
-
 # Image Generators From Image:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
 https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Scaled Image
+https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
 
 # Text Generators From Text:
 URL| Answer
@@ -30,14 +30,21 @@ URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
 
-
+# Insights From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
 
 # Questions and Answers in Text:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/lfqa/lfqa		|		Wikipedia Assistant answers a text question with a text and a audio response.
 
-
+# Emojis:
+URL| Answer
+------------ | -------------
+https://unicode.org/emoji/charts/full-emoji-list.html	|	List by Platform
+https://emojipedia.org/search/?q=space	|	Search
 
 Vision
 Natural Language Processing
