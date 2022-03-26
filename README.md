@@ -1,17 +1,6 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
-# Audio Recording or Upload to Text
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	|	Text from Audio Mic Recording or Audio Upload
-
-
-# Medical, Clinical, Behavioral, and Medications from Text
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/spacy/healthsea-demo	|	Conditions, Medications, Products and Benefits From Input Text
-
 # 🖼 Image Generators From Text:
 URL| Answer
 ------------ | -------------
@@ -19,11 +8,6 @@ https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
 https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
 https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image - Err
 https://huggingface.co/spaces/vivien/clip	|	Fast Image List and Movies
-
-# Text Generators From Image:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
 
 # Image Generators From Image:
 URL| Answer
@@ -36,11 +20,6 @@ https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image 
 https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
 https://huggingface.co/spaces/aravinds1811/neural-style-transfer	|	Stylized Image from Two Images
 
-# Text Generators From Text:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
-
 # Insights From Datasets and Documents:
 URL| Answer
 ------------ | -------------
@@ -49,6 +28,26 @@ https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extra
 https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
 https://huggingface.co/spaces/stephenleo/stripnet	|	Topic Modeling, Keywords, and Semantic Network From Papers
 
+# Audio Recording or Upload to Text
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	|	Text from Audio Mic Recording or Audio Upload
+
+
+# Medical, Clinical, Behavioral, and Medications from Text
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/spacy/healthsea-demo	|	Conditions, Medications, Products and Benefits From Input Text
+
+# Text Generators From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
+
+# Text Generators From Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
 
 # Insights From Image:
 URL| Answer
