@@ -61,12 +61,17 @@ https://huggingface.co/spaces/sentence-transformers/Sentence_Transformers_for_se
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
+https://huggingface.co/spaces/nouamanetazi/cover-letter-generator	|	Cover Letter Generator for Job
+https://huggingface.co/spaces/flax-community/code-clippy-problem-solver	|	Code Generator from Problem and Starter Code
 
 # 🖼 Insights From Image:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
 https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption		|	Fast Image Caption
+https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning	|	Realistic and Conceptual Concepts
+https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Grounding	|	Crop Box From Image and Text
+https://huggingface.co/spaces/pytorch/YOLOv5	|	Object Recognition Crop Labels
 
 # 🔈 Insights From Audio:
 URL| Answer
