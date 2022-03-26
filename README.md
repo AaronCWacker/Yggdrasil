@@ -19,7 +19,7 @@ URL| Answer
 https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
 https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Scaled Image
 https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
-https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Belnded to One
+https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Blended to One
 
 # Text Generators From Text:
 URL| Answer
