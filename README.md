@@ -14,12 +14,14 @@ https://huggingface.co/spaces/sujitpal/clip-rsicd-demo	|	Overhead Images of Land
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
-https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Scaled Image
+https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Image upscaling and super-resolution
 https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
 https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Blended to One
 https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image Examples and Object Classification
 https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
 https://huggingface.co/spaces/aravinds1811/neural-style-transfer	|	Stylized Image from Two Images
+https://huggingface.co/spaces/eugenesiow/remove-bg	|	Background Removal
+https://huggingface.co/spaces/akhaliq/SwinIR	|	Image upscaling and super-resolution
 
 # 📔 Insights From Text, Datasets and Documents:
 URL| Answer
@@ -31,16 +33,26 @@ https://huggingface.co/spaces/stephenleo/stripnet	|	Topic Modeling, Keywords, an
 https://huggingface.co/spaces/spacy/pipeline-visualizer	|	Part of speech visualizer
 https://huggingface.co/spaces/ml6team/distilbart-tos-summarizer-tosdr	|	Terms of Service analyzer
 
+# 🖼 Insights From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
+https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption		|	Fast Image Caption
+https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning	|	Realistic and Conceptual Concepts
+https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Grounding	|	Crop Box From Image and Text
+https://huggingface.co/spaces/pytorch/YOLOv5	|	Object Recognition Crop Labels
+https://huggingface.co/spaces/dt/zero-shot-image-classification	|	Classification From Image
+
 # 🔊 Audio Recording or Upload to Text
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/akhaliq/demucs	|	Music Source Separation of Vocals, Bass, Drums and Other
 
-# 🔊 Audio to Audio Separation
+# 🔊 Audio to Audio Separation and Generation
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	|	Text from Audio Mic Recording or Audio Upload
-
+https://huggingface.co/spaces/akhaliq/Real-Time-Voice-Cloning	|	Voice Cloning
 
 # 🩺 Medical, Clinical, Behavioral, and Medications from Text
 URL| Answer
@@ -56,6 +68,7 @@ https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/sentence-transformers/Sentence_Transformers_for_semantic_search	|	Github references
+https://huggingface.co/spaces/Modfiededition/Writing_Assistant	|	Grammar correction
 
 # 📄 Text Code Generators and Self Replication:
 URL| Answer
@@ -63,15 +76,6 @@ URL| Answer
 https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
 https://huggingface.co/spaces/nouamanetazi/cover-letter-generator	|	Cover Letter Generator for Job
 https://huggingface.co/spaces/flax-community/code-clippy-problem-solver	|	Code Generator from Problem and Starter Code
-
-# 🖼 Insights From Image:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
-https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption		|	Fast Image Caption
-https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning	|	Realistic and Conceptual Concepts
-https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Grounding	|	Crop Box From Image and Text
-https://huggingface.co/spaces/pytorch/YOLOv5	|	Object Recognition Crop Labels
 
 # 🔈 Insights From Audio:
 URL| Answer
