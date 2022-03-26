@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+# Audio Recording or Upload to Text
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	|	Text from Audio Mic Recording or Audio Upload
+
+
+# Medical, Clinical, Behavioral, and Medications from Text
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/spacy/healthsea-demo	|	Conditions, Medications, Products and Benefits From Input Text
+
+
+
 # 🖼 Image Generators From Text:
 URL| Answer
 ------------ | -------------
