@@ -12,14 +12,13 @@ URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/spacy/healthsea-demo	|	Conditions, Medications, Products and Benefits From Input Text
 
-
-
 # 🖼 Image Generators From Text:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
 https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
 https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image - Err
+https://huggingface.co/spaces/vivien/clip	|	Fast Image List and Movies
 
 # Text Generators From Image:
 URL| Answer
@@ -35,6 +34,7 @@ https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion 
 https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Blended to One
 https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image Examples and Object Classification
 https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
+https://huggingface.co/spaces/aravinds1811/neural-style-transfer	|	Stylized Image from Two Images
 
 # Text Generators From Text:
 URL| Answer
@@ -47,11 +47,24 @@ URL| Answer
 https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
 https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
 https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
+https://huggingface.co/spaces/stephenleo/stripnet	|	Topic Modeling, Keywords, and Semantic Network From Papers
+
 
 # Insights From Image:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
+
+# Insights From Audio:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/microsoft/unispeech-speaker-verification	|	Record and compare two voices
+
+# Video and Insights from Video:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/sxela/ArcaneGAN-video	|	Stylized Video 6 Second Clip
+
 
 # Questions and Answers in Text:
 URL| Answer
