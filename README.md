@@ -31,6 +31,7 @@ URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
 https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
+https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
 # Insights From Image:
 URL| Answer
 ------------ | -------------
