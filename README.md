@@ -8,6 +8,7 @@ https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
 https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
 https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image - Err
 https://huggingface.co/spaces/vivien/clip	|	Fast Image List and Movies
+https://huggingface.co/spaces/sujitpal/clip-rsicd-demo	|	Overhead Images of Landscapes
 
 # 🖼 Image Generators From Image:
 URL| Answer
@@ -20,13 +21,15 @@ https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image 
 https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
 https://huggingface.co/spaces/aravinds1811/neural-style-transfer	|	Stylized Image from Two Images
 
-# 📔 Insights From Datasets and Documents:
+# 📔 Insights From Text, Datasets and Documents:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
 https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
 https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
 https://huggingface.co/spaces/stephenleo/stripnet	|	Topic Modeling, Keywords, and Semantic Network From Papers
+https://huggingface.co/spaces/spacy/pipeline-visualizer	|	Part of speech visualizer
+https://huggingface.co/spaces/ml6team/distilbart-tos-summarizer-tosdr	|	Terms of Service analyzer
 
 # 🔊 Audio Recording or Upload to Text
 URL| Answer
@@ -63,6 +66,7 @@ https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
+https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption		|	Fast Image Caption
 
 # 🔈 Insights From Audio:
 URL| Answer
@@ -79,6 +83,12 @@ https://huggingface.co/spaces/PaddlePaddle/wav2lip	|	Portrait Image and Audio to
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/lfqa/lfqa		|		Wikipedia Assistant answers a text question with a text and a audio response.
+https://huggingface.co/spaces/algomuffin/neural-search-engine	|	5 Answers in Text
+
+# 3D Model Generators
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/flax-community/DietNerf-Demo
 
 # Emojis:
 URL| Answer
