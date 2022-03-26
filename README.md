@@ -52,6 +52,11 @@ https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
 # 📄 Text Generators From Text:
 URL| Answer
 ------------ | -------------
+https://huggingface.co/spaces/sentence-transformers/Sentence_Transformers_for_semantic_search	|	Github references
+
+# 📄 Text Code Generators and Self Replication:
+URL| Answer
+------------ | -------------
 https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
 
 # 🖼 Insights From Image:
@@ -68,7 +73,7 @@ https://huggingface.co/spaces/microsoft/unispeech-speaker-verification	|	Record 
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/sxela/ArcaneGAN-video	|	Stylized Video 6 Second Clip
-
+https://huggingface.co/spaces/PaddlePaddle/wav2lip	|	Portrait Image and Audio to Lip Sync Video
 
 # Questions and Answers in Text:
 URL| Answer
