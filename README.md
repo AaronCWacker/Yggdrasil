@@ -6,7 +6,30 @@ URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
 https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
-https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image
+https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image - Err
+
+# Text Generators From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
+
+
+# Image Generators From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
+https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Scaled Image
+
+# Text Generators From Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
+
+# Insights From Dataset:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
+
 
 
 # Questions and Answers in Text:
