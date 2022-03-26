@@ -19,17 +19,18 @@ URL| Answer
 https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
 https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Scaled Image
 https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
+https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Belnded to One
 
 # Text Generators From Text:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
 
-# Insights From Dataset:
+# Insights From Datasets and Documents:
 URL| Answer
 ------------ | -------------
 https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
-
+https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
 # Insights From Image:
 URL| Answer
 ------------ | -------------
