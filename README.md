@@ -20,6 +20,8 @@ https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
 https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Scaled Image
 https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
 https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Blended to One
+https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image Examples and Object Classification
+https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
 
 # Text Generators From Text:
 URL| Answer
@@ -32,6 +34,7 @@ URL| Answer
 https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
 https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
 https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
+
 # Insights From Image:
 URL| Answer
 ------------ | -------------
