@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+# Oracle
+Type | URL
+------------ | -------------
+Analysis Queries | https://docs.oracle.com/cd/B19306_01/server.102/b14223/analysis.htm
+
+
 # 🖼 Image Generators From Text:
 URL| Answer
 ------------ | -------------
