@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
-# Myths, Legends, Deities, and Demigods
+# Storyteller Myths, Legends, Deities, and Demigods
 Type | URL
 ------------ | -------------
 Tengu	|	tengu, in Japanese folklore, a type of mischievous supernatural being, sometimes considered the reincarnated spirit of one who was proud and arrogant in life. Tengu are renowned swordsmen and are said to have taught the military arts to the Minamoto hero Yoshitsune. They live in trees in mountainous areas.
@@ -9,7 +9,7 @@ Cernnunos	|	Cernunnos was the Gaelic god of beasts and wild places. Often called
 
 
 
-# Music Chords and Lyrics:
+# Musician Music Chords and Lyrics:
 Type | URL
 ------------ | -------------
 Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
