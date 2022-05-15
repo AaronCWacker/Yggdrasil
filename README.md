@@ -9,7 +9,7 @@ Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-gui
 Cause I Love Her Chords by The Brian Jonestown Massacre | https://tabs.ultimate-guitar.com/tab/the-brian-jonestown-massacre/cause-i-love-her-chords-398327
 And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
 Kiss Me Chords by Sixpence None the Richer | https://tabs.ultimate-guitar.com/tab/sixpence-none-the-richer/kiss-me-chords-2707
-
+Millionaire Acoustic Chords by Chris Stapleton | https://tabs.ultimate-guitar.com/tab/chris-stapleton/millionaire-chords-2277865
 # Oracle
 Type | URL
 ------------ | -------------
