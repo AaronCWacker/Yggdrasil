@@ -8,7 +8,7 @@ Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.c
 Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
 Cause I Love Her Chords by The Brian Jonestown Massacre | https://tabs.ultimate-guitar.com/tab/the-brian-jonestown-massacre/cause-i-love-her-chords-398327
 And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
-
+Kiss Me Chords by Sixpence None the Richer | https://tabs.ultimate-guitar.com/tab/sixpence-none-the-richer/kiss-me-chords-2707
 
 # Oracle
 Type | URL
