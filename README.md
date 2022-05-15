@@ -12,6 +12,7 @@ Kiss Me Chords by Sixpence None the Richer | https://tabs.ultimate-guitar.com/ta
 Millionaire Acoustic Chords by Chris Stapleton | https://tabs.ultimate-guitar.com/tab/chris-stapleton/millionaire-chords-2277865
 1979 Chords by The Smashing Pumpkins | https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/1979-chords-355074
 Southern Nights Chords by Glen Campbell | https://tabs.ultimate-guitar.com/tab/glen-campbell/southern-nights-chords-1791694
+Gimme Shelter Chords by The Rolling Stones | https://tabs.ultimate-guitar.com/tab/the-rolling-stones/gimme-shelter-chords-81103
 
 
 # Oracle
