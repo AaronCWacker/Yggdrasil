@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+# Myths, Legends, Deities, and Demigods
+Type | URL
+------------ | -------------
+Tengu	|	tengu, in Japanese folklore, a type of mischievous supernatural being, sometimes considered the reincarnated spirit of one who was proud and arrogant in life. Tengu are renowned swordsmen and are said to have taught the military arts to the Minamoto hero Yoshitsune. They live in trees in mountainous areas.
+Cernnunos	|	Cernunnos was the Gaelic god of beasts and wild places. Often called the Horned One, Cernunnos was a mediator of man and nature, able to tame predator and prey so they might lie down together. He remains a mysterious deity, as his original mythos has been lost to history.
+
+
+
 # Music Chords and Lyrics:
 Type | URL
 ------------ | -------------
@@ -13,6 +21,9 @@ Millionaire Acoustic Chords by Chris Stapleton | https://tabs.ultimate-guitar.co
 1979 Chords by The Smashing Pumpkins | https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/1979-chords-355074
 Southern Nights Chords by Glen Campbell | https://tabs.ultimate-guitar.com/tab/glen-campbell/southern-nights-chords-1791694
 Gimme Shelter Chords by The Rolling Stones | https://tabs.ultimate-guitar.com/tab/the-rolling-stones/gimme-shelter-chords-81103
+Where Is My Mind Chords by Pixies | https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-chords-89446
+Slip Away Chords by Clarence Carter | https://tabs.ultimate-guitar.com/tab/clarence-carter/slip-away-chords-64463
+
 
 
 # Oracle
