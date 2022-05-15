@@ -23,6 +23,7 @@ Southern Nights Chords by Glen Campbell | https://tabs.ultimate-guitar.com/tab/g
 Gimme Shelter Chords by The Rolling Stones | https://tabs.ultimate-guitar.com/tab/the-rolling-stones/gimme-shelter-chords-81103
 Where Is My Mind Chords by Pixies | https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-chords-89446
 Slip Away Chords by Clarence Carter | https://tabs.ultimate-guitar.com/tab/clarence-carter/slip-away-chords-64463
+And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
 
 
 
