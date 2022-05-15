@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+# cHORDS AND lYRICS:
+Type | URL
+------------ | -------------
+Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
+Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
+Cause I Love Her Chords by The Brian Jonestown Massacre | https://tabs.ultimate-guitar.com/tab/the-brian-jonestown-massacre/cause-i-love-her-chords-398327
+And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
+
+
 # Oracle
 Type | URL
 ------------ | -------------
