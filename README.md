@@ -1,6 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+# Animations for Streamlit via Lottie
+Type | URL
+------------ | -------------
+Money & Payments | https://lottiefiles.com/marketplace/money-payments
+Fight Cancer | https://lottiefiles.com/marketplace/fight-cancer
+Coronavirus Prevention | https://lottiefiles.com/marketplace/coronavirus-prevention-8
+Metaverse | https://lottiefiles.com/marketplace/metaverse-15
+Cryptocurrencies Coins | https://lottiefiles.com/marketplace/cryptocurrencies-coins
+Smart Technology | https://lottiefiles.com/marketplace/smart-technology-30
+Medical | https://lottiefiles.com/marketplace/medical-543
+UI UX Design | https://lottiefiles.com/marketplace/ui-ux-design-7
+Medicine | https://lottiefiles.com/marketplace/medicine-77
+Telemedicine | https://lottiefiles.com/marketplace/telemedicine-8
+Office Work | https://lottiefiles.com/marketplace/office-work-9
+Teamwork | https://lottiefiles.com/marketplace/teamwork-56
+Corporate Strategy | https://lottiefiles.com/marketplace/corporate-strategy
+Banking & Finance | https://lottiefiles.com/marketplace/banking-finance-17
+Medical | https://lottiefiles.com/marketplace/medical-502
+Mental Health | https://lottiefiles.com/marketplace/mental-health-10
+Gamification Level Badges | https://lottiefiles.com/marketplace/gamification-level-badges
+Business Company | https://lottiefiles.com/marketplace/business-company-1
+Vaccine | https://lottiefiles.com/marketplace/vaccine-11
+Robotics And Automation | https://lottiefiles.com/marketplace/robotics-and-automation
+Healthcare | https://lottiefiles.com/marketplace/healthcare-60
+Online Services | https://lottiefiles.com/marketplace/online-services-3
+Healthcare | https://lottiefiles.com/marketplace/healthcare-49
+Business Inspiration | https://lottiefiles.com/marketplace/business-inspiration
+Medicine - Character | https://lottiefiles.com/marketplace/medicine-character
+Data Analytics | https://lottiefiles.com/marketplace/data-analytics-38
+Virtual Finance | https://lottiefiles.com/marketplace/virtual-finance
+Hospital | https://lottiefiles.com/marketplace/hospital-90
+Computing | https://lottiefiles.com/marketplace/computing-1
+Healthcare And Medical | https://lottiefiles.com/marketplace/healthcare-and-medical-55
+Healthcare | https://lottiefiles.com/marketplace/healthcare-48
+Mobile & App Utility Permissions | https://lottiefiles.com/marketplace/mobile-app-utility-permissions
+Chat UI | https://lottiefiles.com/marketplace/chat-ui-2
+Ecommerce | https://lottiefiles.com/marketplace/ecommerce-198
+Teamwork | https://lottiefiles.com/marketplace/teamwork-34
+
 # Storyteller Myths, Legends, Deities, and Demigods
 Type | URL
 ------------ | -------------
