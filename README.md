@@ -7,6 +7,21 @@ Type | URL
 ------------ | -------------
 Cusp	|	https://tv.youtube.com/watch/TmDSDND5emQ?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
 Matrix Revolutions	|	https://tv.youtube.com/watch/322n8wNBKFk?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+King Richard	|	https://tv.youtube.com/watch/xe0HCEaKniY?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+Agent Revelation	|	https://tv.youtube.com/watch/cC9vdsa3xxE?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+American Insurrection	|	https://tv.youtube.com/watch/rmXk6irfkiA?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+Old Henry	|	https://tv.youtube.com/watch/78iyEcz-328?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+Reminiscence	|	https://tv.youtube.com/watch/GueBWhADDiU?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+Unbroken	|	https://tv.youtube.com/watch/6o5D1wBxkEI?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+I Heart Huckabees	|	https://tv.youtube.com/watch/mH_DuOLqXv0?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+The Survivor	|	https://tv.youtube.com/watch/N1FOTppixhQ?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+Dune	|	https://tv.youtube.com/watch/UsqeNQIuefw?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+The King's Man	|	https://tv.youtube.com/watch/WXitG3Ckf48?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+The Last Duel	|	https://tv.youtube.com/watch/1zkvf3Qk6lk?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+The Batman	|	https://tv.youtube.com/watch/I27lYAuvTrM?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+The Matrix Resurrections	|	https://tv.youtube.com/watch/322n8wNBKFk?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+
+
 
 # Animations for Streamlit via Lottie
 Type | URL
