@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
+
+# Video Watch List - 2021 and 2022 Movies
+Type | URL
+------------ | -------------
+Cusp	|	https://tv.youtube.com/watch/TmDSDND5emQ?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+Matrix Revolutions	|	https://tv.youtube.com/watch/322n8wNBKFk?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
+
 # Animations for Streamlit via Lottie
 Type | URL
 ------------ | -------------
