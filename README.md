@@ -11,28 +11,34 @@ Dataset	|	Solar Power	|	https://paperswithcode.com/dataset/solar-power
 Dataset	|	eSports	|	https://paperswithcode.com/dataset/esports-sensors-dataset
 Dataset	|	Unbalance	|	https://paperswithcode.com/dataset/unbalance-classification-using-vibration-data
 Dataset	|	Crops	|	https://paperswithcode.com/dataset/sen4agrinet
+Dataset	|	Lyrics and Audio	|	https://paperswithcode.com/paper/love-me-love-me-say-and-write-that-you-love
+Dataset	|	Lyrics	|	https://paperswithcode.com/paper/dali-a-large-dataset-of-synchronized-audio
 Subtask	|	Data Compression	|	https://paperswithcode.com/task/data-compression
 Subtask	|	Time Series Streams	|	https://paperswithcode.com/task/time-series-streams
 RNN	|	Long Short Term Memory	|	https://paperswithcode.com/method/lstm
 Activation Functions NN	|	Sigmoid Activation	|	https://paperswithcode.com/method/sigmoid-activation
-Activation Function NN	|	Tanh Activation		|	https://paperswithcode.com/method/tanh-activation
-Dataset	|	Lyrics	|	https://paperswithcode.com/paper/dali-a-large-dataset-of-synchronized-audio
+Activation Functions NN	|	Tanh Activation		|	https://paperswithcode.com/method/tanh-activation
 Generative Models	|	Lyrics	|	https://paperswithcode.com/paper/creative-gans-for-generating-poems-lyrics-and
 NLP	|	Language Modeling	|	https://paperswithcode.com/task/language-modelling
 NLP	|	Machine Translation	|	https://paperswithcode.com/task/machine-translation
 NLP	|	Text Generation	|	https://paperswithcode.com/task/text-generation
 NLP	|	Translation	|	https://paperswithcode.com/task/translation
+NLP	|	Time Aligned Lyrics	|	https://paperswithcode.com/paper/end-to-end-lyrics-alignment-for-polyphonic
 General Classification	|	Lyrics	|	https://paperswithcode.com/paper/lyrics-based-music-genre-classification-using
 General Classification	|	General Tasks	|	https://paperswithcode.com/task/classification
 Genre Classification	|	Genre Classification	|	https://paperswithcode.com/task/genre-classification
-Information Retrieval	|	General Tasks	|	https://paperswithcode.com/task/information-retrieval
 Genre Classification	|	Music Genre Classification	|	https://paperswithcode.com/task/music-genre-classification
+Information Retrieval	|	General Tasks	|	https://paperswithcode.com/task/information-retrieval
 Information Retrieval	|	Music Information Retrieval	|	https://paperswithcode.com/task/music-information-retrieval
 Audio Generation	|	Lyrics	|	https://paperswithcode.com/paper/score-and-lyrics-free-singing-voice-1
 Audio Generation	|	Audio Generation	|	https://paperswithcode.com/task/audio-generation
 Audio Generation	|	Lyrics and Vocal Melody	|	https://paperswithcode.com/paper/lyrics-and-vocal-melody-generation
-NLP	|	Time Aligned Lyrics	|	https://paperswithcode.com/paper/end-to-end-lyrics-alignment-for-polyphonic
-Dataset	|	Lyrics and Audio	|	https://paperswithcode.com/paper/love-me-love-me-say-and-write-that-you-love
+Chord Recognition	|	General Tasks	|	https://paperswithcode.com/task/chord-recognition
+Chord Recognition	|	General Tasks	|	https://paperswithcode.com/paper/a-bi-directional-transformer-for-musical
+Feature Learning	|	Chords and Audio	|	https://paperswithcode.com/paper/feature-learning-for-chord-recognition-the
+Framing	|	General Tasks	|	https://paperswithcode.com/task/frame
+
+
 
 
 
