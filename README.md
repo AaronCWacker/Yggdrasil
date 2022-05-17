@@ -37,6 +37,21 @@ Chord Recognition	|	General Tasks	|	https://paperswithcode.com/task/chord-recogn
 Chord Recognition	|	General Tasks	|	https://paperswithcode.com/paper/a-bi-directional-transformer-for-musical
 Feature Learning	|	Chords and Audio	|	https://paperswithcode.com/paper/feature-learning-for-chord-recognition-the
 Framing	|	General Tasks	|	https://paperswithcode.com/task/frame
+Continuous Control	|	General Tasks	|	https://paperswithcode.com/task/continuous-control
+Reinforcement Learning	|	General Tasks	|	https://paperswithcode.com/task/reinforcement-learning-1
+Question Answering	|	General Tasks	|	https://paperswithcode.com/task/question-answering
+Behavior Trees	|	General Tasks	|	https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an
+Trajectory Prediction	|	General Tasks	|	https://paperswithcode.com/task/trajectory-prediction
+Autonomous Driving	|	General Tasks	|	https://paperswithcode.com/task/autonomous-driving
+Imitation Learning	|	General Tasks	|	https://paperswithcode.com/task/imitation-learning
+Decision Making	|	General Tasks	|	https://paperswithcode.com/task/decision-making
+Emotion Recognition	|	General Tasks	|	https://paperswithcode.com/task/emotion-recognition
+Multimodal Sentiment Analysis	|	General Tasks	|	https://paperswithcode.com/task/multimodal-sentiment-analysis
+NLP	|	Attention	|	https://paperswithcode.com/methods/category/attention-mechanisms
+Time Series Forecasting	|	General Tasks	|	https://paperswithcode.com/task/time-series-forecasting
+Time Series Classification	|	General Tasks	|	https://paperswithcode.com/task/time-series-classification
+Sequential Pattern Mining	|	General Tasks	|	https://paperswithcode.com/task/sequential-pattern-mining
+Relational Pattern Learning	|	General Tasks	|	https://paperswithcode.com/task/relational-pattern-learning
 
 
 
