@@ -4,6 +4,12 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 # Language, Numeric, and Time Series Progressions
 Data Type	|	Task Type | 	URL
 ------------ | ------------- | -------------
+NLP	|	Speech Spaces	|	https://huggingface.co/spaces?sort=modified&search=Speech
+NLP	|	Lyrics Spaces	|	https://huggingface.co/spaces?sort=modified&search=Lyrics
+Streams	|	General Task Spaces	|	https://huggingface.co/spaces?sort=modified&search=Streams
+Voice	|	Vocal Spaces	|	https://huggingface.co/spaces?sort=modified&search=Voice
+RNN	|	LSTM Spaces	|	https://huggingface.co/spaces?sort=modified&search=LSTM
+NLP	|	Translation	|	https://huggingface.co/spaces?sort=modified&search=Translation
 Dataset	|	Speech Commands	|	https://paperswithcode.com/dataset/speech-commands
 Dataset	|	Electricity	|	https://paperswithcode.com/dataset/electricity
 Dataset	|	EigenWorms	|	https://paperswithcode.com/dataset/eigenworms
