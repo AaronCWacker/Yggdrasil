@@ -56,7 +56,7 @@ https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
 Type | URL
 ------------ | -------------
 Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-down-the-line-chords-1208429
-
+Come and Get Your Love	|	https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019
 
 # 05 Reception Playlist
 https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
