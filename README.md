@@ -42,17 +42,25 @@ Don't Delete the Kisses	|	https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-d
 Never Let you Go	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/never-let-you-go-chords-1830677
 If You Want to Sing Out	|	https://tabs.ultimate-guitar.com/tab/cat-stevens/if-you-want-to-sing-out-sing-out-chords-84503
 Wouldn't it Be Nice	|	https://tabs.ultimate-guitar.com/tab/the-beach-boys/wouldnt-it-be-nice-chords-16805
-Dreams	|	https://tabs.ultimate-guitar.com/tab/the-cranberries/dreams-chords-1485486
+Dreams Cranberries	|	https://tabs.ultimate-guitar.com/tab/the-cranberries/dreams-chords-1485486
 Stumblin In	|	https://tabs.ultimate-guitar.com/tab/chris-norman/stumblin-in-chords-1756318
 Peaceful Easy Feeling	|	https://tabs.ultimate-guitar.com/tab/eagles/peaceful-easy-feeling-chords-14299
 White Rabbit	|	https://tabs.ultimate-guitar.com/tab/jefferson-airplane/white-rabbit-chords-10796
-
+Who Will Save Your Soul	|	https://tabs.ultimate-guitar.com/tab/jewel/who-will-save-your-soul-chords-10950
+Working Class Hero	|	https://tabs.ultimate-guitar.com/tab/john-lennon/working-class-hero-chords-9344
+Dreams Fleetwood Mac	|	https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-chords-43918
 
 #04 Dance Playlist
 https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
 
+Type | URL
+------------ | -------------
+Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-down-the-line-chords-1208429
+
+
 # 05 Reception Playlist
 https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
+You Were Meant for Me	|	https://tabs.ultimate-guitar.com/tab/jewel/you-were-meant-for-me-chords-10951
 
 # 06 Afterparty Playlist
 https://open.spotify.com/playlist/63CpbEHIoiTBigD7Pz9QJG
