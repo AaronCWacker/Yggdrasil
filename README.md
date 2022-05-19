@@ -4,6 +4,10 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 
 # Musician Music Chords and Lyrics:
+
+# 01 Boarding Playlist:
+https://open.spotify.com/playlist/4hKiqFIYmb9DI0SLhsT78u
+
 Type | URL
 ------------ | -------------
 Another Day	|	https://www.e-chords.com/chords/paul-mccartney/another-day
@@ -15,6 +19,10 @@ Could you be loved	| https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-b
 My Sweet Lord	|	https://tabs.ultimate-guitar.com/tab/george-harrison/my-sweet-lord-chords-106200
 Beautiful Boy	|	https://tabs.ultimate-guitar.com/tab/john-lennon/beautiful-boy-darling-boy-chords-1676334
 
+
+# 02 Ceremony Playlist:
+https://open.spotify.com/playlist/54KJeXN3UphC8hO805vCAQ
+
 Type | URL
 ------------ | -------------
 Son of a Preacher Man	|	https://tabs.ultimate-guitar.com/tab/dusty-springfield/son-of-a-preacher-man-chords-85199
@@ -23,11 +31,23 @@ Somewhere Over the Rainbow	|	https://tabs.ultimate-guitar.com/tab/2135261
 Youve got a friend	|	https://tabs.ultimate-guitar.com/tab/james-taylor/youve-got-a-friend-chords-56577
 Do you Realize	|	https://tabs.ultimate-guitar.com/tab/the-flaming-lips/do-you-realize-chords-50449
 
+# 03 Dinner Playlist
+https://open.spotify.com/playlist/2kkijOcsgKduwdsawm1Lun
+
 Type | URL
 ------------ | -------------
 Summer Breeze	|	https://tabs.ultimate-guitar.com/tab/seals-crofts/summer-breeze-chords-83666
 Peaceful Easy Feeling	|	https://tabs.ultimate-guitar.com/tab/eagles/peaceful-easy-feeling-chords-14299
 Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
+
+#04 Dance Playlist
+https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
+
+# 05 Reception Playlist
+https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
+
+# 06 Afterparty Playlist
+https://open.spotify.com/playlist/63CpbEHIoiTBigD7Pz9QJG
 
 
 Type | URL
