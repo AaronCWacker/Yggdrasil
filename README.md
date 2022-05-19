@@ -62,8 +62,14 @@ Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-
 Come and Get Your Love	|	https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019
 Jump Around	|	https://tabs.ultimate-guitar.com/tab/house-of-pain/jump-around-chords-3726668
 Scream and Shout	|	https://tabs.ultimate-guitar.com/tab/will-i-am/scream-and-shout-chords-1218883
-Stronger	|	https://tabs.ultimate-guitar.com/tab/kelly-clarkson/stronger-what-doesnt-kill-you-chords-1115994
 Without Me	|	https://tabs.ultimate-guitar.com/tab/eminem/without-me-chords-3549887
+Save Your Tears	|	https://tabs.ultimate-guitar.com/tab/the-weeknd/save-your-tears-chords-3035397
+In Da Club	|	https://tabs.ultimate-guitar.com/tab/50-cent/in-da-club-chords-1517091
+Low	|	https://tabs.ultimate-guitar.com/tab/flo-rida/low-chords-896325
+Moves Like Jagger	|https://chordsworld.com/maroon-5-moves-like-jagger-chords/
+Sexy Back	|	https://tabs.ultimate-guitar.com/tab/justin-timberlake/sexyback-chords-2615226
+Timber	|	https://tabs.ultimate-guitar.com/tab/postmodern-jukebox/timber-chords-1867246
+Stronger	|	https://tabs.ultimate-guitar.com/tab/kelly-clarkson/stronger-what-doesnt-kill-you-chords-1115994
 
 
 # 05 Reception Playlist
