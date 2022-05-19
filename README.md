@@ -37,8 +37,16 @@ https://open.spotify.com/playlist/2kkijOcsgKduwdsawm1Lun
 Type | URL
 ------------ | -------------
 Summer Breeze	|	https://tabs.ultimate-guitar.com/tab/seals-crofts/summer-breeze-chords-83666
-Peaceful Easy Feeling	|	https://tabs.ultimate-guitar.com/tab/eagles/peaceful-easy-feeling-chords-14299
 Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
+Don't Delete the Kisses	|	https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
+Never Let you Go	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/never-let-you-go-chords-1830677
+If You Want to Sing Out	|	https://tabs.ultimate-guitar.com/tab/cat-stevens/if-you-want-to-sing-out-sing-out-chords-84503
+Wouldn't it Be Nice	|	https://tabs.ultimate-guitar.com/tab/the-beach-boys/wouldnt-it-be-nice-chords-16805
+Dreams	|	https://tabs.ultimate-guitar.com/tab/the-cranberries/dreams-chords-1485486
+Stumblin In	|	https://tabs.ultimate-guitar.com/tab/chris-norman/stumblin-in-chords-1756318
+Peaceful Easy Feeling	|	https://tabs.ultimate-guitar.com/tab/eagles/peaceful-easy-feeling-chords-14299
+White Rabbit	|	https://tabs.ultimate-guitar.com/tab/jefferson-airplane/white-rabbit-chords-10796
+
 
 #04 Dance Playlist
 https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
