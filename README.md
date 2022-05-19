@@ -69,7 +69,11 @@ Low	|	https://tabs.ultimate-guitar.com/tab/flo-rida/low-chords-896325
 Moves Like Jagger	|https://chordsworld.com/maroon-5-moves-like-jagger-chords/
 Sexy Back	|	https://tabs.ultimate-guitar.com/tab/justin-timberlake/sexyback-chords-2615226
 Timber	|	https://tabs.ultimate-guitar.com/tab/postmodern-jukebox/timber-chords-1867246
+West End Girls	|	https://tabs.ultimate-guitar.com/tab/pet-shop-boys/west-end-girls-chords-1769663
 Stronger	|	https://tabs.ultimate-guitar.com/tab/kelly-clarkson/stronger-what-doesnt-kill-you-chords-1115994
+September	|	https://tabs.ultimate-guitar.com/tab/earth-wind-fire/september-chords-1017846
+Dance with Me	|	https://tabs.ultimate-guitar.com/tab/orleans/dance-with-me-chords-507699
+Girl Like Me	|	https://tabs.ultimate-guitar.com/tab/the-black-eyed-peas/girl-like-me-chords-3457574
 
 
 # 05 Reception Playlist
