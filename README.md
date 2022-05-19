@@ -5,6 +5,7 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 # Musician Music Chords and Lyrics:
 
+
 # 01 Boarding Playlist:
 https://open.spotify.com/playlist/4hKiqFIYmb9DI0SLhsT78u
 
@@ -31,6 +32,7 @@ Somewhere Over the Rainbow	|	https://tabs.ultimate-guitar.com/tab/2135261
 Youve got a friend	|	https://tabs.ultimate-guitar.com/tab/james-taylor/youve-got-a-friend-chords-56577
 Do you Realize	|	https://tabs.ultimate-guitar.com/tab/the-flaming-lips/do-you-realize-chords-50449
 
+
 # 03 Dinner Playlist
 https://open.spotify.com/playlist/2kkijOcsgKduwdsawm1Lun
 
@@ -50,6 +52,7 @@ Who Will Save Your Soul	|	https://tabs.ultimate-guitar.com/tab/jewel/who-will-sa
 Working Class Hero	|	https://tabs.ultimate-guitar.com/tab/john-lennon/working-class-hero-chords-9344
 Dreams Fleetwood Mac	|	https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-chords-43918
 
+
 #04 Dance Playlist
 https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
 
@@ -58,12 +61,15 @@ Type | URL
 Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-down-the-line-chords-1208429
 Come and Get Your Love	|	https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019
 
+
 # 05 Reception Playlist
 https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
 You Were Meant for Me	|	https://tabs.ultimate-guitar.com/tab/jewel/you-were-meant-for-me-chords-10951
 
+
 # 06 Afterparty Playlist
 https://open.spotify.com/playlist/63CpbEHIoiTBigD7Pz9QJG
+
 
 
 Type | URL
