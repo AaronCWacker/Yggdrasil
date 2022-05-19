@@ -10,6 +10,11 @@ Another Day	|	https://www.e-chords.com/chords/paul-mccartney/another-day
 Sitting on the Dock of the Bay	| https://tabs.ultimate-guitar.com/tab/otis-redding/sittin-on-the-dock-of-the-bay-chords-1088518
 Come as you are	| https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-chords-1202432
 Gimme Sympathy | https://tabs.ultimate-guitar.com/tab/metric/gimme-sympathy-chords-815972
+Heart of Gold	|	https://tabs.ultimate-guitar.com/tab/neil-young/heart-of-gold-chords-56555
+Could you be loved	| https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-be-loved-chords-578407
+
+Type | URL
+------------ | -------------
 Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
 Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
 Cause I Love Her Chords by The Brian Jonestown Massacre | https://tabs.ultimate-guitar.com/tab/the-brian-jonestown-massacre/cause-i-love-her-chords-398327
