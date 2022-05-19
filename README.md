@@ -15,6 +15,12 @@ Could you be loved	| https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-b
 My Sweet Lord	|	https://tabs.ultimate-guitar.com/tab/george-harrison/my-sweet-lord-chords-106200
 Beautiful Boy	|	https://tabs.ultimate-guitar.com/tab/john-lennon/beautiful-boy-darling-boy-chords-1676334
 
+Type | URL
+------------ | -------------
+Son of a Preacher Man	|	https://tabs.ultimate-guitar.com/tab/dusty-springfield/son-of-a-preacher-man-chords-85199
+Somewhere Over the Rainbow	|	https://tabs.ultimate-guitar.com/tab/2135261
+Youve got a friend	|	https://tabs.ultimate-guitar.com/tab/james-taylor/youve-got-a-friend-chords-56577
+Do you Realize	|	https://tabs.ultimate-guitar.com/tab/the-flaming-lips/do-you-realize-chords-50449
 
 Type | URL
 ------------ | -------------
