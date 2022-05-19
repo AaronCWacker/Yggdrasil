@@ -60,6 +60,10 @@ Type | URL
 ------------ | -------------
 Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-down-the-line-chords-1208429
 Come and Get Your Love	|	https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019
+Jump Around	|	https://tabs.ultimate-guitar.com/tab/house-of-pain/jump-around-chords-3726668
+Scream and Shout	|	https://tabs.ultimate-guitar.com/tab/will-i-am/scream-and-shout-chords-1218883
+Stronger	|	https://tabs.ultimate-guitar.com/tab/kelly-clarkson/stronger-what-doesnt-kill-you-chords-1115994
+Without Me	|	https://tabs.ultimate-guitar.com/tab/eminem/without-me-chords-3549887
 
 
 # 05 Reception Playlist
