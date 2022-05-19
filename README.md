@@ -12,6 +12,9 @@ Come as you are	| https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-c
 Gimme Sympathy | https://tabs.ultimate-guitar.com/tab/metric/gimme-sympathy-chords-815972
 Heart of Gold	|	https://tabs.ultimate-guitar.com/tab/neil-young/heart-of-gold-chords-56555
 Could you be loved	| https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-be-loved-chords-578407
+My Sweet Lord	|	https://tabs.ultimate-guitar.com/tab/george-harrison/my-sweet-lord-chords-106200
+Beautiful Boy	|	https://tabs.ultimate-guitar.com/tab/john-lennon/beautiful-boy-darling-boy-chords-1676334
+
 
 Type | URL
 ------------ | -------------
