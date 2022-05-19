@@ -3,6 +3,24 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 
 
+# Musician Music Chords and Lyrics:
+Type | URL
+------------ | -------------
+Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
+Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
+Cause I Love Her Chords by The Brian Jonestown Massacre | https://tabs.ultimate-guitar.com/tab/the-brian-jonestown-massacre/cause-i-love-her-chords-398327
+And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
+Kiss Me Chords by Sixpence None the Richer | https://tabs.ultimate-guitar.com/tab/sixpence-none-the-richer/kiss-me-chords-2707
+Millionaire Acoustic Chords by Chris Stapleton | https://tabs.ultimate-guitar.com/tab/chris-stapleton/millionaire-chords-2277865
+1979 Chords by The Smashing Pumpkins | https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/1979-chords-355074
+Southern Nights Chords by Glen Campbell | https://tabs.ultimate-guitar.com/tab/glen-campbell/southern-nights-chords-1791694
+Gimme Shelter Chords by The Rolling Stones | https://tabs.ultimate-guitar.com/tab/the-rolling-stones/gimme-shelter-chords-81103
+Where Is My Mind Chords by Pixies | https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-chords-89446
+Slip Away Chords by Clarence Carter | https://tabs.ultimate-guitar.com/tab/clarence-carter/slip-away-chords-64463
+And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
+
+
+
 # Animations for Streamlit via Lottie
 Type | URL
 ------------ | -------------
@@ -132,24 +150,6 @@ The King's Man	|	https://tv.youtube.com/watch/WXitG3Ckf48?vpp=2AEA&vp=0gEEEgIwAw
 The Last Duel	|	https://tv.youtube.com/watch/1zkvf3Qk6lk?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
 The Batman	|	https://tv.youtube.com/watch/I27lYAuvTrM?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
 The Matrix Resurrections	|	https://tv.youtube.com/watch/322n8wNBKFk?vpp=2AEA&vp=0gEEEgIwAw%3D%3D
-
-
-
-# Musician Music Chords and Lyrics:
-Type | URL
------------- | -------------
-Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
-Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
-Cause I Love Her Chords by The Brian Jonestown Massacre | https://tabs.ultimate-guitar.com/tab/the-brian-jonestown-massacre/cause-i-love-her-chords-398327
-And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
-Kiss Me Chords by Sixpence None the Richer | https://tabs.ultimate-guitar.com/tab/sixpence-none-the-richer/kiss-me-chords-2707
-Millionaire Acoustic Chords by Chris Stapleton | https://tabs.ultimate-guitar.com/tab/chris-stapleton/millionaire-chords-2277865
-1979 Chords by The Smashing Pumpkins | https://tabs.ultimate-guitar.com/tab/the-smashing-pumpkins/1979-chords-355074
-Southern Nights Chords by Glen Campbell | https://tabs.ultimate-guitar.com/tab/glen-campbell/southern-nights-chords-1791694
-Gimme Shelter Chords by The Rolling Stones | https://tabs.ultimate-guitar.com/tab/the-rolling-stones/gimme-shelter-chords-81103
-Where Is My Mind Chords by Pixies | https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-chords-89446
-Slip Away Chords by Clarence Carter | https://tabs.ultimate-guitar.com/tab/clarence-carter/slip-away-chords-64463
-And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-beatles/and-i-love-her-chords-521843
 
 
 
