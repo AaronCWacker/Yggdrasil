@@ -4,16 +4,16 @@ Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 # Vows for Love
 Number | Vow
 ------------ | -------------
-1 Physical	|	Support and Walk Beside You Hand in Hand as We Adventure
-2 Emotion 	|	Make you Smile and Laugh, Be Your Biggest Fan
-3 Spirit 	|	Lift Your Heart, Help You Dream Big, Help you Be Your Best You
+1 Physical	|	Walk With You, Hand in Hand, In Pleasure and Intimacy as We Adventure
+2 Emotion 	|	Support You, Make you Smile and Laugh, Be Your Biggest Fan
+3 Spirit 	|	Lift Your Heart, Help You Dream, Help you Be Your Best You
 4 Pure		|	Be Selfless, Best Version of Myself To Be Worthy of Your Love
-5 Family 	|	To Be Smart, Safe and Responsible So We Grow Together
+5 Family 	|	To Be Dependable, Smart, Safe and Responsible So We Grow Together
 6 Love 		|	To Satisy You, Make Your Eyes Sparkle, Tears in Happiness in Love
 7 Respect 	|	Your Best Friend, Honoring Your Wants, Needs, Dreams and Desires
-8 Trust 	|	Be the One You Can Always Depend On, There When You Need Me
-9 Commit 	|	Hopelessly Devoted to You, Choosing You Sunrise to Sunset
-10 Bond 	|	Communicate to You, Even Without Words Wrapping My Heart Around You
+8 Trust 	|	Be Open to You as One You Can Always Depend On, There When You Need Me
+9 Commit 	|	Hopelessly Devoted to You, Choosing You as My Favorite Sunrise to Sunset
+10 Bond 	|	Communicate to You, Even w/o Words, Wrapping My Love and Heart Around You
 
 # Musician Music Chords and Lyrics:
 
