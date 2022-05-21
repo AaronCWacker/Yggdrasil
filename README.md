@@ -1,7 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
-
+# Vows for Love
+# | URL
+------------ | -------------
+1	|	Physical - Support and Walk Beside You Hand in Hand as We Adventure
+2	|	Emotional - Make you Smile and Laugh, Be Your Biggest Fan
+3	|	Spiritual - Lift Your Heart, Help You Dream Big, Help you Be Your Best You
+4	|	Purity - Be Selfless, Best Version of Myself To Be Worthy of Your Love
+5	|	Parenting - To Be Smart, Safe and Responsible So We Grow Together
+6	|	Love - To Satisy You, Make Your Eyes Sparkle, Tears in Happiness in Love
+7	|	Respect - Your Best Friend, Honoring Your Wants, Needs, Dreams and Desires
+8	|	Trust - Be the One You Can Always Depend On, There When You Need Me
+9	|	Commitment - Hopelessly Devoted to You, Choosing You Sunrise to Sunset
+10	|	Bond - Communicate to You, Even Without Words Wrapping My Heart Around You
 
 # Musician Music Chords and Lyrics:
 
