@@ -2,7 +2,7 @@
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
 # Vows for Love
-# | URL
+Number | Vow
 ------------ | -------------
 1 Physical -	|	Support and Walk Beside You Hand in Hand as We Adventure
 2 Emotional - 	|	Make you Smile and Laugh, Be Your Biggest Fan
