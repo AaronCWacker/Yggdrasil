@@ -12,7 +12,7 @@ Chapter		|	Music Playlist
 6 Afterparty	|	https://open.spotify.com/playlist/63CpbEHIoiTBigD7Pz9QJG
 
 # My Vows
-Number | Vow
+Vow | I Vow To..
 ------------ | -------------
 1 Physical	|	Walk With You, Hand in Hand, In Pleasure and Intimacy as We Adventure
 2 Emotion 	|	Support You, Make you Smile and Laugh, Be Your Biggest Fan
