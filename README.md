@@ -1,9 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# My Vows
-Number | Vow
+# Music Spotify Playlists
+Chapter		|	Music Playlist
 ------------ | -------------
+1 Boarding	|	https://open.spotify.com/playlist/4hKiqFIYmb9DI0SLhsT78u
+2 Ceremony	|	https://open.spotify.com/playlist/54KJeXN3UphC8hO805vCAQ
+3 Dinner	|	https://open.spotify.com/playlist/2kkijOcsgKduwdsawm1Lun
+4 Dance		|	https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
+5 Reception	|	https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
+6 Afterparty	|	https://open.spotify.com/playlist/63CpbEHIoiTBigD7Pz9QJG
 
 # My Vows
 Number | Vow
