@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Genomics, Natural Language Processing and Machine Learning
 
-# Vows for Love
+# My Vows
 Number | Vow
 ------------ | -------------
 1 Physical	|	Walk With You, Hand in Hand, In Pleasure and Intimacy as We Adventure
