@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+# Storyteller Myths, Legends, Deities, and Demigods
+Type | URL
+------------ | -------------
+Tengu	|	tengu, in Japanese folklore, a type of mischievous supernatural being, sometimes considered the reincarnated spirit of one who was proud and arrogant in life. Tengu are renowned swordsmen and are said to have taught the military arts to the Minamoto hero Yoshitsune. They live in trees in mountainous areas.
+Cernnunos	|	Cernunnos was the Gaelic god of beasts and wild places. Often called the Horned One, Cernunnos was a mediator of man and nature, able to tame predator and prey so they might lie down together. He remains a mysterious deity, as his original mythos has been lost to history.
+Samhain	|	It was believed that ringing a bell on Samhain kept away evil spirits. Burying animal bones in front of your house on the night of Samhain will keep evil away, according to some legends of eastern Europe. Samhain is a good time of year to work on communicating with the spirit world.
+Elken | In some Pacific Northwest tribes, elk are also considered to be particular protectors of women, and in some legends elk lead women who had been captured by enemy warriors back to their homes. In Plains Indian tribes, elk were associated with masculinity, endurance, and bravery, and elks' eyeteeth were highly valued both as objects of adornment and as the symbol of a man's hunting prowess. In some Plains tribes, men saved the eyeteeth from their first elk kill to make into engagement jewelry for their sweetheart. In others, the number of elk teeth sewn onto a woman's dress showed off the wealth and skill of her husband or father. Elk are associated with coneflowers in some Great Basin tribes, such as the Ute, who refer to coneflowers as "elk root."
+Ah Puch	|	Ah Puch is one of the names associated with a god of death in the ancient Mayan religion. He was known as a god of death, darkness, and disaster. But he was also a god of childbirth and beginnings. The Quiche Maya believed that he ruled over Metnal, the underworld and the Yucatec Maya believed that he was just one of the lords of Xibaba, that translates to "place of fear" in the underworld.
+Nu Wa	|	Nüwa was the one who patched the holes in Heaven with five colored stones, and she used the legs of a tortoise to mend the pillars. There are many instances of her in literature across China which detail her in creation stories, and today remains a figure important to Chinese culture.
+
 # Music Spotify Playlists
 Chapter		|	Music Playlist
 ------------ | -------------
@@ -161,16 +173,6 @@ Mobile & App Utility Permissions | https://lottiefiles.com/marketplace/mobile-ap
 Chat UI | https://lottiefiles.com/marketplace/chat-ui-2
 Ecommerce | https://lottiefiles.com/marketplace/ecommerce-198
 Teamwork | https://lottiefiles.com/marketplace/teamwork-34
-
-
-# Storyteller Myths, Legends, Deities, and Demigods
-Type | URL
------------- | -------------
-Tengu	|	tengu, in Japanese folklore, a type of mischievous supernatural being, sometimes considered the reincarnated spirit of one who was proud and arrogant in life. Tengu are renowned swordsmen and are said to have taught the military arts to the Minamoto hero Yoshitsune. They live in trees in mountainous areas.
-Cernnunos	|	Cernunnos was the Gaelic god of beasts and wild places. Often called the Horned One, Cernunnos was a mediator of man and nature, able to tame predator and prey so they might lie down together. He remains a mysterious deity, as his original mythos has been lost to history.
-Samhain	|	It was believed that ringing a bell on Samhain kept away evil spirits. Burying animal bones in front of your house on the night of Samhain will keep evil away, according to some legends of eastern Europe. Samhain is a good time of year to work on communicating with the spirit world.
-Elken | In some Pacific Northwest tribes, elk are also considered to be particular protectors of women, and in some legends elk lead women who had been captured by enemy warriors back to their homes. In Plains Indian tribes, elk were associated with masculinity, endurance, and bravery, and elks' eyeteeth were highly valued both as objects of adornment and as the symbol of a man's hunting prowess. In some Plains tribes, men saved the eyeteeth from their first elk kill to make into engagement jewelry for their sweetheart. In others, the number of elk teeth sewn onto a woman's dress showed off the wealth and skill of her husband or father. Elk are associated with coneflowers in some Great Basin tribes, such as the Ute, who refer to coneflowers as "elk root."
-Ah Puch	|	Ah Puch is one of the names associated with a god of death in the ancient Mayan religion. He was known as a god of death, darkness, and disaster. But he was also a god of childbirth and beginnings. The Quiche Maya believed that he ruled over Metnal, the underworld and the Yucatec Maya believed that he was just one of the lords of Xibaba, that translates to "place of fear" in the underworld.
 
 # Language, Numeric, and Time Series Progressions
 Data Type	|	Task Type | 	URL
