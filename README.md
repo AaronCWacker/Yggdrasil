@@ -2,7 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
-# Advanced Technology in 2022
+# Advances in AI and NLP Technology in 2022
 Topic | Example Space URL
 ------------ | -------------
 01	|	Voice Search
@@ -19,6 +19,12 @@ Topic | Example Space URL
 12	|	Active Listening < 200ms, Think Ahead
 13	|	On Device Models, Tensor Chip
 14	|	Natural Conversation
+15	|	Lamda 2 AI Test Kitchen Imagine It
+16	|	NLP Conversation Stay on Topic
+17	|	List It break down to relevant subtasks
+18	|	PALM 540B NLP QA - Goals from Text, Joke Explanation, Chain of Thought Prompting
+19	|	Explain reasoning process Prompting
+20	|	SOTA cross corpus language understanding
 
 
 # Advanced Technology for Better Health
