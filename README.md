@@ -2,6 +2,25 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Advanced Technology in 2022
+Topic | Example Space URL
+------------ | -------------
+01	|	Voice Search
+02	|	Image Search, Multisearch and Summarization
+03	|	Map and Model Making
+04	|	Knowledge Representation, Personalization, and Memory
+05	|	AR Vision Scene Exploration KR Search
+06	|	Relevant Info Overlays
+07	|	Voice, Look and Talk, Eye Contact, Face Voice Match
+08	|	AI Pipelines of 8 or more models
+09	|	Head Orientation, Proximity, Lip Movement, Contextual Awareness, Gaze Direction
+10	|	Real Time Intent Determination
+11	|	Quick Phrases - Alarm, Time, Lights, Timers
+12	|	Active Listening < 200ms, Think Ahead
+13	|	On Device Models, Tensor Chip
+14	|	Natural Conversation
+
+
 # Advanced Technology for Better Health
 Topic | Example Space URL
 ------------ | -------------
