@@ -26,6 +26,7 @@ Topic | Innovation in 2022
 19	|	Explain reasoning process Prompting
 20	|	SOTA cross corpus language understanding
 21	|	RCS Secure Messaging Encryption, Wallet, Account, Digital ID, QR
+22	|	Crash and Fall Detection, Alert Automation, Emergency SOS, Warnings
 
 
 # Advanced Technology for Better Health
