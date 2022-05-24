@@ -3,7 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 # Advances in AI and NLP Technology in 2022
-Topic | Example Space URL
+Topic | Innovation in 2022
 ------------ | -------------
 01	|	Voice Search
 02	|	Image Search, Multisearch and Summarization
