@@ -2,6 +2,219 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Advanced Technology for Better Health
+Topic | Example Space URL
+------------ | -------------
+01 Artificial Intelligence and Machine Learning	|	https://huggingface.co/spaces/awacke1/AIPipeline-Multimodel 	
+02 Natural Language Processing	|	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+03 Graph, Ontology and Knowledge Representation	|	https://huggingface.co/spaces/awacke1/GraphViz-Demo
+04 Augmented and Virtual Reality	|	https://huggingface.co/spaces/awacke1/HTML5-AR-VR
+05 Genomics and Cellular Biology	|	https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
+06 Internet of Things, Robots, and Devices	|	
+07 Quantum, Parallel and Big Compute	|	https://huggingface.co/spaces/awacke1/AI-Quantum?option=Circuit
+08 Cognitive, Behavioral and Social AGI 	|	https://huggingface.co/spaces/awacke1/Art-from-Text-and-Images
+
+
+
+# 🖼 Image Generators From Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
+https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
+https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image - Err
+https://huggingface.co/spaces/vivien/clip	|	Fast Image List and Movies
+https://huggingface.co/spaces/sujitpal/clip-rsicd-demo	|	Overhead Images of Landscapes
+
+# 🖼 Image Generators From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
+https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Image upscaling and super-resolution
+https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
+https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Blended to One
+https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image Examples and Object Classification
+https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
+https://huggingface.co/spaces/aravinds1811/neural-style-transfer	|	Stylized Image from Two Images
+https://huggingface.co/spaces/eugenesiow/remove-bg	|	Background Removal
+https://huggingface.co/spaces/akhaliq/SwinIR	|	Image upscaling and super-resolution
+
+# 📔 Insights From Text, Datasets and Documents:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
+https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
+https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
+https://huggingface.co/spaces/stephenleo/stripnet	|	Topic Modeling, Keywords, and Semantic Network From Papers
+https://huggingface.co/spaces/spacy/pipeline-visualizer	|	Part of speech visualizer
+https://huggingface.co/spaces/ml6team/distilbart-tos-summarizer-tosdr	|	Terms of Service analyzer
+
+# 🖼 Insights From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
+https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption		|	Fast Image Caption
+https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning	|	Realistic and Conceptual Concepts
+https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Grounding	|	Crop Box From Image and Text
+https://huggingface.co/spaces/pytorch/YOLOv5	|	Object Recognition Crop Labels
+https://huggingface.co/spaces/dt/zero-shot-image-classification	|	Classification From Image
+
+# 🔊 Audio Recording or Upload to Text
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/akhaliq/demucs	|	Music Source Separation of Vocals, Bass, Drums and Other
+
+# 🔊 Audio to Audio Separation and Generation
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	|	Text from Audio Mic Recording or Audio Upload
+https://huggingface.co/spaces/akhaliq/Real-Time-Voice-Cloning	|	Voice Cloning
+
+# 🩺 Medical, Clinical, Behavioral, and Medications from Text
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/spacy/healthsea-demo	|	Conditions, Medications, Products and Benefits From Input Text
+
+# 📄 Text Generators From Image:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
+
+# 📄 Text Generators From Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/sentence-transformers/Sentence_Transformers_for_semantic_search	|	Github references
+https://huggingface.co/spaces/Modfiededition/Writing_Assistant	|	Grammar correction
+
+# 📄 Text Code Generators and Self Replication:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
+https://huggingface.co/spaces/nouamanetazi/cover-letter-generator	|	Cover Letter Generator for Job
+https://huggingface.co/spaces/flax-community/code-clippy-problem-solver	|	Code Generator from Problem and Starter Code
+
+# 🔈 Insights From Audio:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/microsoft/unispeech-speaker-verification	|	Record and compare two voices
+
+# 📽 Video and Insights from Video:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/sxela/ArcaneGAN-video	|	Stylized Video 6 Second Clip
+https://huggingface.co/spaces/PaddlePaddle/wav2lip	|	Portrait Image and Audio to Lip Sync Video
+
+# Questions and Answers in Text:
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/lfqa/lfqa		|		Wikipedia Assistant answers a text question with a text and a audio response.
+https://huggingface.co/spaces/algomuffin/neural-search-engine	|	5 Answers in Text
+
+# 3D Model Generators
+URL| Answer
+------------ | -------------
+https://huggingface.co/spaces/flax-community/DietNerf-Demo
+
+
+
+# Animations for Streamlit via Lottie
+Type | URL
+------------ | -------------
+Money & Payments | https://lottiefiles.com/marketplace/money-payments
+Fight Cancer | https://lottiefiles.com/marketplace/fight-cancer
+Coronavirus Prevention | https://lottiefiles.com/marketplace/coronavirus-prevention-8
+Metaverse | https://lottiefiles.com/marketplace/metaverse-15
+Cryptocurrencies Coins | https://lottiefiles.com/marketplace/cryptocurrencies-coins
+Smart Technology | https://lottiefiles.com/marketplace/smart-technology-30
+Medical | https://lottiefiles.com/marketplace/medical-543
+UI UX Design | https://lottiefiles.com/marketplace/ui-ux-design-7
+Medicine | https://lottiefiles.com/marketplace/medicine-77
+Telemedicine | https://lottiefiles.com/marketplace/telemedicine-8
+Office Work | https://lottiefiles.com/marketplace/office-work-9
+Teamwork | https://lottiefiles.com/marketplace/teamwork-56
+Corporate Strategy | https://lottiefiles.com/marketplace/corporate-strategy
+Banking & Finance | https://lottiefiles.com/marketplace/banking-finance-17
+Medical | https://lottiefiles.com/marketplace/medical-502
+Mental Health | https://lottiefiles.com/marketplace/mental-health-10
+Gamification Level Badges | https://lottiefiles.com/marketplace/gamification-level-badges
+Business Company | https://lottiefiles.com/marketplace/business-company-1
+Vaccine | https://lottiefiles.com/marketplace/vaccine-11
+Robotics And Automation | https://lottiefiles.com/marketplace/robotics-and-automation
+Healthcare | https://lottiefiles.com/marketplace/healthcare-60
+Online Services | https://lottiefiles.com/marketplace/online-services-3
+Healthcare | https://lottiefiles.com/marketplace/healthcare-49
+Business Inspiration | https://lottiefiles.com/marketplace/business-inspiration
+Medicine - Character | https://lottiefiles.com/marketplace/medicine-character
+Data Analytics | https://lottiefiles.com/marketplace/data-analytics-38
+Virtual Finance | https://lottiefiles.com/marketplace/virtual-finance
+Hospital | https://lottiefiles.com/marketplace/hospital-90
+Computing | https://lottiefiles.com/marketplace/computing-1
+Healthcare And Medical | https://lottiefiles.com/marketplace/healthcare-and-medical-55
+Healthcare | https://lottiefiles.com/marketplace/healthcare-48
+Mobile & App Utility Permissions | https://lottiefiles.com/marketplace/mobile-app-utility-permissions
+Chat UI | https://lottiefiles.com/marketplace/chat-ui-2
+Ecommerce | https://lottiefiles.com/marketplace/ecommerce-198
+Teamwork | https://lottiefiles.com/marketplace/teamwork-34
+
+# Language, Numeric, and Time Series Progressions
+Data Type	|	Task Type | 	URL
+------------ | ------------- | -------------
+NLP	|	Speech Spaces	|	https://huggingface.co/spaces?sort=modified&search=Speech
+NLP	|	Lyrics Spaces	|	https://huggingface.co/spaces?sort=modified&search=Lyrics
+Streams	|	General Task Spaces	|	https://huggingface.co/spaces?sort=modified&search=Streams
+Voice	|	Vocal Spaces	|	https://huggingface.co/spaces?sort=modified&search=Voice
+RNN	|	LSTM Spaces	|	https://huggingface.co/spaces?sort=modified&search=LSTM
+NLP	|	Translation	|	https://huggingface.co/spaces?sort=modified&search=Translation
+Dataset	|	Speech Commands	|	https://paperswithcode.com/dataset/speech-commands
+Dataset	|	Electricity	|	https://paperswithcode.com/dataset/electricity
+Dataset	|	EigenWorms	|	https://paperswithcode.com/dataset/eigenworms
+Dataset	|	Solar Power	|	https://paperswithcode.com/dataset/solar-power
+Dataset	|	eSports	|	https://paperswithcode.com/dataset/esports-sensors-dataset
+Dataset	|	Unbalance	|	https://paperswithcode.com/dataset/unbalance-classification-using-vibration-data
+Dataset	|	Crops	|	https://paperswithcode.com/dataset/sen4agrinet
+Dataset	|	Lyrics and Audio	|	https://paperswithcode.com/paper/love-me-love-me-say-and-write-that-you-love
+Dataset	|	Lyrics	|	https://paperswithcode.com/paper/dali-a-large-dataset-of-synchronized-audio
+Subtask	|	Data Compression	|	https://paperswithcode.com/task/data-compression
+Subtask	|	Time Series Streams	|	https://paperswithcode.com/task/time-series-streams
+RNN	|	Long Short Term Memory	|	https://paperswithcode.com/method/lstm
+Activation Functions NN	|	Sigmoid Activation	|	https://paperswithcode.com/method/sigmoid-activation
+Activation Functions NN	|	Tanh Activation		|	https://paperswithcode.com/method/tanh-activation
+Generative Models	|	Lyrics	|	https://paperswithcode.com/paper/creative-gans-for-generating-poems-lyrics-and
+NLP	|	Language Modeling	|	https://paperswithcode.com/task/language-modelling
+NLP	|	Machine Translation	|	https://paperswithcode.com/task/machine-translation
+NLP	|	Text Generation	|	https://paperswithcode.com/task/text-generation
+NLP	|	Translation	|	https://paperswithcode.com/task/translation
+NLP	|	Time Aligned Lyrics	|	https://paperswithcode.com/paper/end-to-end-lyrics-alignment-for-polyphonic
+General Classification	|	Lyrics	|	https://paperswithcode.com/paper/lyrics-based-music-genre-classification-using
+General Classification	|	General Tasks	|	https://paperswithcode.com/task/classification
+Genre Classification	|	Genre Classification	|	https://paperswithcode.com/task/genre-classification
+Genre Classification	|	Music Genre Classification	|	https://paperswithcode.com/task/music-genre-classification
+Information Retrieval	|	General Tasks	|	https://paperswithcode.com/task/information-retrieval
+Information Retrieval	|	Music Information Retrieval	|	https://paperswithcode.com/task/music-information-retrieval
+Audio Generation	|	Lyrics	|	https://paperswithcode.com/paper/score-and-lyrics-free-singing-voice-1
+Audio Generation	|	Audio Generation	|	https://paperswithcode.com/task/audio-generation
+Audio Generation	|	Lyrics and Vocal Melody	|	https://paperswithcode.com/paper/lyrics-and-vocal-melody-generation
+Chord Recognition	|	General Tasks	|	https://paperswithcode.com/task/chord-recognition
+Chord Recognition	|	General Tasks	|	https://paperswithcode.com/paper/a-bi-directional-transformer-for-musical
+Feature Learning	|	Chords and Audio	|	https://paperswithcode.com/paper/feature-learning-for-chord-recognition-the
+Framing	|	General Tasks	|	https://paperswithcode.com/task/frame
+Continuous Control	|	General Tasks	|	https://paperswithcode.com/task/continuous-control
+Reinforcement Learning	|	General Tasks	|	https://paperswithcode.com/task/reinforcement-learning-1
+Question Answering	|	General Tasks	|	https://paperswithcode.com/task/question-answering
+Behavior Trees	|	General Tasks	|	https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an
+Trajectory Prediction	|	General Tasks	|	https://paperswithcode.com/task/trajectory-prediction
+Autonomous Driving	|	General Tasks	|	https://paperswithcode.com/task/autonomous-driving
+Imitation Learning	|	General Tasks	|	https://paperswithcode.com/task/imitation-learning
+Decision Making	|	General Tasks	|	https://paperswithcode.com/task/decision-making
+Emotion Recognition	|	General Tasks	|	https://paperswithcode.com/task/emotion-recognition
+Multimodal Sentiment Analysis	|	General Tasks	|	https://paperswithcode.com/task/multimodal-sentiment-analysis
+NLP	|	Attention	|	https://paperswithcode.com/methods/category/attention-mechanisms
+Time Series Forecasting	|	General Tasks	|	https://paperswithcode.com/task/time-series-forecasting
+Time Series Classification	|	General Tasks	|	https://paperswithcode.com/task/time-series-classification
+Sequential Pattern Mining	|	General Tasks	|	https://paperswithcode.com/task/sequential-pattern-mining
+Relational Pattern Learning	|	General Tasks	|	https://paperswithcode.com/task/relational-pattern-learning
+
+
+
 
 # Storyteller Myths, Legends, Deities, and Demigods
 Type | URL
@@ -135,106 +348,6 @@ And I Love Her Chords by The Beatles | https://tabs.ultimate-guitar.com/tab/the-
 
 
 
-# Animations for Streamlit via Lottie
-Type | URL
------------- | -------------
-Money & Payments | https://lottiefiles.com/marketplace/money-payments
-Fight Cancer | https://lottiefiles.com/marketplace/fight-cancer
-Coronavirus Prevention | https://lottiefiles.com/marketplace/coronavirus-prevention-8
-Metaverse | https://lottiefiles.com/marketplace/metaverse-15
-Cryptocurrencies Coins | https://lottiefiles.com/marketplace/cryptocurrencies-coins
-Smart Technology | https://lottiefiles.com/marketplace/smart-technology-30
-Medical | https://lottiefiles.com/marketplace/medical-543
-UI UX Design | https://lottiefiles.com/marketplace/ui-ux-design-7
-Medicine | https://lottiefiles.com/marketplace/medicine-77
-Telemedicine | https://lottiefiles.com/marketplace/telemedicine-8
-Office Work | https://lottiefiles.com/marketplace/office-work-9
-Teamwork | https://lottiefiles.com/marketplace/teamwork-56
-Corporate Strategy | https://lottiefiles.com/marketplace/corporate-strategy
-Banking & Finance | https://lottiefiles.com/marketplace/banking-finance-17
-Medical | https://lottiefiles.com/marketplace/medical-502
-Mental Health | https://lottiefiles.com/marketplace/mental-health-10
-Gamification Level Badges | https://lottiefiles.com/marketplace/gamification-level-badges
-Business Company | https://lottiefiles.com/marketplace/business-company-1
-Vaccine | https://lottiefiles.com/marketplace/vaccine-11
-Robotics And Automation | https://lottiefiles.com/marketplace/robotics-and-automation
-Healthcare | https://lottiefiles.com/marketplace/healthcare-60
-Online Services | https://lottiefiles.com/marketplace/online-services-3
-Healthcare | https://lottiefiles.com/marketplace/healthcare-49
-Business Inspiration | https://lottiefiles.com/marketplace/business-inspiration
-Medicine - Character | https://lottiefiles.com/marketplace/medicine-character
-Data Analytics | https://lottiefiles.com/marketplace/data-analytics-38
-Virtual Finance | https://lottiefiles.com/marketplace/virtual-finance
-Hospital | https://lottiefiles.com/marketplace/hospital-90
-Computing | https://lottiefiles.com/marketplace/computing-1
-Healthcare And Medical | https://lottiefiles.com/marketplace/healthcare-and-medical-55
-Healthcare | https://lottiefiles.com/marketplace/healthcare-48
-Mobile & App Utility Permissions | https://lottiefiles.com/marketplace/mobile-app-utility-permissions
-Chat UI | https://lottiefiles.com/marketplace/chat-ui-2
-Ecommerce | https://lottiefiles.com/marketplace/ecommerce-198
-Teamwork | https://lottiefiles.com/marketplace/teamwork-34
-
-# Language, Numeric, and Time Series Progressions
-Data Type	|	Task Type | 	URL
------------- | ------------- | -------------
-NLP	|	Speech Spaces	|	https://huggingface.co/spaces?sort=modified&search=Speech
-NLP	|	Lyrics Spaces	|	https://huggingface.co/spaces?sort=modified&search=Lyrics
-Streams	|	General Task Spaces	|	https://huggingface.co/spaces?sort=modified&search=Streams
-Voice	|	Vocal Spaces	|	https://huggingface.co/spaces?sort=modified&search=Voice
-RNN	|	LSTM Spaces	|	https://huggingface.co/spaces?sort=modified&search=LSTM
-NLP	|	Translation	|	https://huggingface.co/spaces?sort=modified&search=Translation
-Dataset	|	Speech Commands	|	https://paperswithcode.com/dataset/speech-commands
-Dataset	|	Electricity	|	https://paperswithcode.com/dataset/electricity
-Dataset	|	EigenWorms	|	https://paperswithcode.com/dataset/eigenworms
-Dataset	|	Solar Power	|	https://paperswithcode.com/dataset/solar-power
-Dataset	|	eSports	|	https://paperswithcode.com/dataset/esports-sensors-dataset
-Dataset	|	Unbalance	|	https://paperswithcode.com/dataset/unbalance-classification-using-vibration-data
-Dataset	|	Crops	|	https://paperswithcode.com/dataset/sen4agrinet
-Dataset	|	Lyrics and Audio	|	https://paperswithcode.com/paper/love-me-love-me-say-and-write-that-you-love
-Dataset	|	Lyrics	|	https://paperswithcode.com/paper/dali-a-large-dataset-of-synchronized-audio
-Subtask	|	Data Compression	|	https://paperswithcode.com/task/data-compression
-Subtask	|	Time Series Streams	|	https://paperswithcode.com/task/time-series-streams
-RNN	|	Long Short Term Memory	|	https://paperswithcode.com/method/lstm
-Activation Functions NN	|	Sigmoid Activation	|	https://paperswithcode.com/method/sigmoid-activation
-Activation Functions NN	|	Tanh Activation		|	https://paperswithcode.com/method/tanh-activation
-Generative Models	|	Lyrics	|	https://paperswithcode.com/paper/creative-gans-for-generating-poems-lyrics-and
-NLP	|	Language Modeling	|	https://paperswithcode.com/task/language-modelling
-NLP	|	Machine Translation	|	https://paperswithcode.com/task/machine-translation
-NLP	|	Text Generation	|	https://paperswithcode.com/task/text-generation
-NLP	|	Translation	|	https://paperswithcode.com/task/translation
-NLP	|	Time Aligned Lyrics	|	https://paperswithcode.com/paper/end-to-end-lyrics-alignment-for-polyphonic
-General Classification	|	Lyrics	|	https://paperswithcode.com/paper/lyrics-based-music-genre-classification-using
-General Classification	|	General Tasks	|	https://paperswithcode.com/task/classification
-Genre Classification	|	Genre Classification	|	https://paperswithcode.com/task/genre-classification
-Genre Classification	|	Music Genre Classification	|	https://paperswithcode.com/task/music-genre-classification
-Information Retrieval	|	General Tasks	|	https://paperswithcode.com/task/information-retrieval
-Information Retrieval	|	Music Information Retrieval	|	https://paperswithcode.com/task/music-information-retrieval
-Audio Generation	|	Lyrics	|	https://paperswithcode.com/paper/score-and-lyrics-free-singing-voice-1
-Audio Generation	|	Audio Generation	|	https://paperswithcode.com/task/audio-generation
-Audio Generation	|	Lyrics and Vocal Melody	|	https://paperswithcode.com/paper/lyrics-and-vocal-melody-generation
-Chord Recognition	|	General Tasks	|	https://paperswithcode.com/task/chord-recognition
-Chord Recognition	|	General Tasks	|	https://paperswithcode.com/paper/a-bi-directional-transformer-for-musical
-Feature Learning	|	Chords and Audio	|	https://paperswithcode.com/paper/feature-learning-for-chord-recognition-the
-Framing	|	General Tasks	|	https://paperswithcode.com/task/frame
-Continuous Control	|	General Tasks	|	https://paperswithcode.com/task/continuous-control
-Reinforcement Learning	|	General Tasks	|	https://paperswithcode.com/task/reinforcement-learning-1
-Question Answering	|	General Tasks	|	https://paperswithcode.com/task/question-answering
-Behavior Trees	|	General Tasks	|	https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an
-Trajectory Prediction	|	General Tasks	|	https://paperswithcode.com/task/trajectory-prediction
-Autonomous Driving	|	General Tasks	|	https://paperswithcode.com/task/autonomous-driving
-Imitation Learning	|	General Tasks	|	https://paperswithcode.com/task/imitation-learning
-Decision Making	|	General Tasks	|	https://paperswithcode.com/task/decision-making
-Emotion Recognition	|	General Tasks	|	https://paperswithcode.com/task/emotion-recognition
-Multimodal Sentiment Analysis	|	General Tasks	|	https://paperswithcode.com/task/multimodal-sentiment-analysis
-NLP	|	Attention	|	https://paperswithcode.com/methods/category/attention-mechanisms
-Time Series Forecasting	|	General Tasks	|	https://paperswithcode.com/task/time-series-forecasting
-Time Series Classification	|	General Tasks	|	https://paperswithcode.com/task/time-series-classification
-Sequential Pattern Mining	|	General Tasks	|	https://paperswithcode.com/task/sequential-pattern-mining
-Relational Pattern Learning	|	General Tasks	|	https://paperswithcode.com/task/relational-pattern-learning
-
-
-
-
 
 # Video Watch List - 2021 and 2022 Movies
 Type | URL
@@ -261,105 +374,6 @@ The Matrix Resurrections	|	https://tv.youtube.com/watch/322n8wNBKFk?vpp=2AEA&vp=
 Type | URL
 ------------ | -------------
 Analysis Queries | https://docs.oracle.com/cd/B19306_01/server.102/b14223/analysis.htm
-
-
-# 🖼 Image Generators From Text:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/valhalla/glide-text2im	|	Image
-https://huggingface.co/spaces/flax-community/dalle-mini	|	Image
-https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	|	Image - Err
-https://huggingface.co/spaces/vivien/clip	|	Fast Image List and Movies
-https://huggingface.co/spaces/sujitpal/clip-rsicd-demo	|	Overhead Images of Landscapes
-
-# 🖼 Image Generators From Image:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/carolineec/informativedrawings	|	Line Drawing
-https://huggingface.co/spaces/akhaliq/Real-ESRGAN	|	Image upscaling and super-resolution
-https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	|	Clip Diffusion Image and Video
-https://huggingface.co/spaces/akhaliq/BlendGAN	|	Two Portrait Images Blended to One
-https://huggingface.co/spaces/osanseviero/draw_to_search	|	Drawn Image to Image Examples and Object Classification
-https://huggingface.co/spaces/prithivida/WhatTheFood	|	Food Classification and Food Generator with Recipe Generator
-https://huggingface.co/spaces/aravinds1811/neural-style-transfer	|	Stylized Image from Two Images
-https://huggingface.co/spaces/eugenesiow/remove-bg	|	Background Removal
-https://huggingface.co/spaces/akhaliq/SwinIR	|	Image upscaling and super-resolution
-
-# 📔 Insights From Text, Datasets and Documents:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/huggingface/data-measurements-tool	|	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
-https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	|	Document with text extracted
-https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	|	Annotated Document with Tables and Text
-https://huggingface.co/spaces/stephenleo/stripnet	|	Topic Modeling, Keywords, and Semantic Network From Papers
-https://huggingface.co/spaces/spacy/pipeline-visualizer	|	Part of speech visualizer
-https://huggingface.co/spaces/ml6team/distilbart-tos-summarizer-tosdr	|	Terms of Service analyzer
-
-# 🖼 Insights From Image:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/flax-community/image-captioning	|	Image Caption
-https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption		|	Fast Image Caption
-https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning	|	Realistic and Conceptual Concepts
-https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Grounding	|	Crop Box From Image and Text
-https://huggingface.co/spaces/pytorch/YOLOv5	|	Object Recognition Crop Labels
-https://huggingface.co/spaces/dt/zero-shot-image-classification	|	Classification From Image
-
-# 🔊 Audio Recording or Upload to Text
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/akhaliq/demucs	|	Music Source Separation of Vocals, Bass, Drums and Other
-
-# 🔊 Audio to Audio Separation and Generation
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	|	Text from Audio Mic Recording or Audio Upload
-https://huggingface.co/spaces/akhaliq/Real-Time-Voice-Cloning	|	Voice Cloning
-
-# 🩺 Medical, Clinical, Behavioral, and Medications from Text
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/spacy/healthsea-demo	|	Conditions, Medications, Products and Benefits From Input Text
-
-# 📄 Text Generators From Image:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/valhalla/glide-text2im	|	Text
-
-# 📄 Text Generators From Text:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/sentence-transformers/Sentence_Transformers_for_semantic_search	|	Github references
-https://huggingface.co/spaces/Modfiededition/Writing_Assistant	|	Grammar correction
-
-# 📄 Text Code Generators and Self Replication:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/prithivida/Gramformer	|	Grammar Correct Text
-https://huggingface.co/spaces/nouamanetazi/cover-letter-generator	|	Cover Letter Generator for Job
-https://huggingface.co/spaces/flax-community/code-clippy-problem-solver	|	Code Generator from Problem and Starter Code
-
-# 🔈 Insights From Audio:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/microsoft/unispeech-speaker-verification	|	Record and compare two voices
-
-# 📽 Video and Insights from Video:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/sxela/ArcaneGAN-video	|	Stylized Video 6 Second Clip
-https://huggingface.co/spaces/PaddlePaddle/wav2lip	|	Portrait Image and Audio to Lip Sync Video
-
-# Questions and Answers in Text:
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/lfqa/lfqa		|		Wikipedia Assistant answers a text question with a text and a audio response.
-https://huggingface.co/spaces/algomuffin/neural-search-engine	|	5 Answers in Text
-
-# 3D Model Generators
-URL| Answer
------------- | -------------
-https://huggingface.co/spaces/flax-community/DietNerf-Demo
 
 # Emojis:
 URL| Answer
