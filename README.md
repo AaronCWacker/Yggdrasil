@@ -10,7 +10,7 @@ Topic | Example Space URL
 03 Augmented and Virtual Reality	|	https://huggingface.co/spaces/awacke1/HTML5-AR-VR
 04 Internet of Things, Robots, and Devices	|	https://huggingface.co/spaces/awacke1/StreamlitChat
 05 Genomics and Computational Biology	|	https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
-06 Knowledge Representation, Graph and Ontology |	https://huggingface.co/spaces/awacke1/GraphViz-Demo
+06 Knowledge Representation, Graph and Map Models |	https://huggingface.co/spaces/awacke1/GraphViz-Demo
 07 Quantum, Parallel and Big Compute	|	https://huggingface.co/spaces/awacke1/AI-Quantum?option=Circuit
 08 Cognitive, Behavioral and Social AGI 	|	https://huggingface.co/spaces/awacke1/Art-from-Text-and-Images
 
