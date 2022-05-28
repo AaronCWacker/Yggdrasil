@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Interesting Health Datasets - Open Sourced
+Topic | Innovation in 2022	|	URL
+------------ | -------------	|	-------------	
+01	|	Bryan Johnson's open source body and organ data on biological aging	|	https://blueprint.bryanjohnson.co
+02	|	Aaron Wacker's genomic data	|	https://github.com/AaronCWacker/Yggdrasil/blob/main/genome_Aaron_Wacker_v5_Full_20210221040402.zip
 
 # Advances in AI and NLP Technology in 2022
 Topic | Innovation in 2022
