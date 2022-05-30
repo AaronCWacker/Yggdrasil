@@ -1,6 +1,96 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+# My Vows
+Vow | I Vow To..
+------------ | -------------
+1 Physical	|	Walk With You, Hand in Hand, In Pleasure and Intimacy as We Adventure
+2 Emotion 	|	Support You, Make you Smile and Laugh, Be Your Biggest Fan
+3 Spirit 	|	Lift Your Heart, Help You Dream, Help you Be Your Best You
+4 Pure		|	Be Selfless, Best Version of Myself To Be Worthy of Your Love
+5 Family 	|	Be Dependable, Smart, Safe and Responsible So We Grow Together
+6 Love 		|	Satisy You, Make Your Eyes Sparkle, Tears in Happiness in Love
+7 Respect 	|	Be Your Best Friend, Honoring Your Wants, Needs, Dreams and Desires
+8 Trust 	|	Be Open to You as One You Can Always Depend On, There When You Need Me
+9 Commit 	|	Be Hopelessly Devoted to You, Choosing You as My Favorite Sunrise to Sunset
+10 Bond 	|	Communicate to You, Even w/o Words, Wrapping My Love and Heart Around You
+
+
+# Musician Music Chords and Lyrics:
+# 01 Boarding Playlist:
+https://open.spotify.com/playlist/4hKiqFIYmb9DI0SLhsT78u
+
+Type | URL
+------------ | -------------
+Another Day	|	https://www.e-chords.com/chords/paul-mccartney/another-day
+Sitting on the Dock of the Bay	| https://tabs.ultimate-guitar.com/tab/otis-redding/sittin-on-the-dock-of-the-bay-chords-1088518
+Come as you are	| https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-chords-1202432
+Gimme Sympathy | https://tabs.ultimate-guitar.com/tab/metric/gimme-sympathy-chords-815972
+Heart of Gold	|	https://tabs.ultimate-guitar.com/tab/neil-young/heart-of-gold-chords-56555
+Could you be loved	| https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-be-loved-chords-578407
+My Sweet Lord	|	https://tabs.ultimate-guitar.com/tab/george-harrison/my-sweet-lord-chords-106200
+Beautiful Boy	|	https://tabs.ultimate-guitar.com/tab/john-lennon/beautiful-boy-darling-boy-chords-1676334
+
+
+# 02 Ceremony Playlist:
+https://open.spotify.com/playlist/54KJeXN3UphC8hO805vCAQ
+
+Type | URL
+------------ | -------------
+Son of a Preacher Man	|	https://tabs.ultimate-guitar.com/tab/dusty-springfield/son-of-a-preacher-man-chords-85199
+Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
+Somewhere Over the Rainbow	|	https://tabs.ultimate-guitar.com/tab/2135261
+Youve got a friend	|	https://tabs.ultimate-guitar.com/tab/james-taylor/youve-got-a-friend-chords-56577
+Do you Realize	|	https://tabs.ultimate-guitar.com/tab/the-flaming-lips/do-you-realize-chords-50449
+
+
+# 03 Dinner Playlist
+https://open.spotify.com/playlist/2kkijOcsgKduwdsawm1Lun
+
+Type | URL
+------------ | -------------
+Summer Breeze	|	https://tabs.ultimate-guitar.com/tab/seals-crofts/summer-breeze-chords-83666
+Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
+Don't Delete the Kisses	|	https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
+Never Let you Go	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/never-let-you-go-chords-1830677
+If You Want to Sing Out	|	https://tabs.ultimate-guitar.com/tab/cat-stevens/if-you-want-to-sing-out-sing-out-chords-84503
+Wouldn't it Be Nice	|	https://tabs.ultimate-guitar.com/tab/the-beach-boys/wouldnt-it-be-nice-chords-16805
+Dreams Cranberries	|	https://tabs.ultimate-guitar.com/tab/the-cranberries/dreams-chords-1485486
+Stumblin In	|	https://tabs.ultimate-guitar.com/tab/chris-norman/stumblin-in-chords-1756318
+Peaceful Easy Feeling	|	https://tabs.ultimate-guitar.com/tab/eagles/peaceful-easy-feeling-chords-14299
+White Rabbit	|	https://tabs.ultimate-guitar.com/tab/jefferson-airplane/white-rabbit-chords-10796
+Who Will Save Your Soul	|	https://tabs.ultimate-guitar.com/tab/jewel/who-will-save-your-soul-chords-10950
+Working Class Hero	|	https://tabs.ultimate-guitar.com/tab/john-lennon/working-class-hero-chords-9344
+Dreams Fleetwood Mac	|	https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-chords-43918
+
+
+#04 Dance Playlist
+https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
+
+Type | URL
+------------ | -------------
+Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-down-the-line-chords-1208429
+Come and Get Your Love	|	https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019
+Jump Around	|	https://tabs.ultimate-guitar.com/tab/house-of-pain/jump-around-chords-3726668
+Scream and Shout	|	https://tabs.ultimate-guitar.com/tab/will-i-am/scream-and-shout-chords-1218883
+Without Me	|	https://tabs.ultimate-guitar.com/tab/eminem/without-me-chords-3549887
+Save Your Tears	|	https://tabs.ultimate-guitar.com/tab/the-weeknd/save-your-tears-chords-3035397
+In Da Club	|	https://tabs.ultimate-guitar.com/tab/50-cent/in-da-club-chords-1517091
+Low	|	https://tabs.ultimate-guitar.com/tab/flo-rida/low-chords-896325
+Moves Like Jagger	|https://chordsworld.com/maroon-5-moves-like-jagger-chords/
+Sexy Back	|	https://tabs.ultimate-guitar.com/tab/justin-timberlake/sexyback-chords-2615226
+Timber	|	https://tabs.ultimate-guitar.com/tab/postmodern-jukebox/timber-chords-1867246
+West End Girls	|	https://tabs.ultimate-guitar.com/tab/pet-shop-boys/west-end-girls-chords-1769663
+Stronger	|	https://tabs.ultimate-guitar.com/tab/kelly-clarkson/stronger-what-doesnt-kill-you-chords-1115994
+September	|	https://tabs.ultimate-guitar.com/tab/earth-wind-fire/september-chords-1017846
+Dance with Me	|	https://tabs.ultimate-guitar.com/tab/orleans/dance-with-me-chords-507699
+Girl Like Me	|	https://tabs.ultimate-guitar.com/tab/the-black-eyed-peas/girl-like-me-chords-3457574
+
+
+
+
 # Interesting Health Datasets - Open Sourced
 Topic | Innovation in 2022	|	URL
 ------------ | -------------	|	-------------	
@@ -267,93 +357,6 @@ Chapter		|	Music Playlist
 4 Dance		|	https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
 5 Reception	|	https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
 6 Afterparty	|	https://open.spotify.com/playlist/63CpbEHIoiTBigD7Pz9QJG
-
-# My Vows
-Vow | I Vow To..
------------- | -------------
-1 Physical	|	Walk With You, Hand in Hand, In Pleasure and Intimacy as We Adventure
-2 Emotion 	|	Support You, Make you Smile and Laugh, Be Your Biggest Fan
-3 Spirit 	|	Lift Your Heart, Help You Dream, Help you Be Your Best You
-4 Pure		|	Be Selfless, Best Version of Myself To Be Worthy of Your Love
-5 Family 	|	Be Dependable, Smart, Safe and Responsible So We Grow Together
-6 Love 		|	Satisy You, Make Your Eyes Sparkle, Tears in Happiness in Love
-7 Respect 	|	Be Your Best Friend, Honoring Your Wants, Needs, Dreams and Desires
-8 Trust 	|	Be Open to You as One You Can Always Depend On, There When You Need Me
-9 Commit 	|	Be Hopelessly Devoted to You, Choosing You as My Favorite Sunrise to Sunset
-10 Bond 	|	Communicate to You, Even w/o Words, Wrapping My Love and Heart Around You
-
-# Musician Music Chords and Lyrics:
-
-
-# 01 Boarding Playlist:
-https://open.spotify.com/playlist/4hKiqFIYmb9DI0SLhsT78u
-
-Type | URL
------------- | -------------
-Another Day	|	https://www.e-chords.com/chords/paul-mccartney/another-day
-Sitting on the Dock of the Bay	| https://tabs.ultimate-guitar.com/tab/otis-redding/sittin-on-the-dock-of-the-bay-chords-1088518
-Come as you are	| https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-chords-1202432
-Gimme Sympathy | https://tabs.ultimate-guitar.com/tab/metric/gimme-sympathy-chords-815972
-Heart of Gold	|	https://tabs.ultimate-guitar.com/tab/neil-young/heart-of-gold-chords-56555
-Could you be loved	| https://tabs.ultimate-guitar.com/tab/bob-marley/could-you-be-loved-chords-578407
-My Sweet Lord	|	https://tabs.ultimate-guitar.com/tab/george-harrison/my-sweet-lord-chords-106200
-Beautiful Boy	|	https://tabs.ultimate-guitar.com/tab/john-lennon/beautiful-boy-darling-boy-chords-1676334
-
-
-# 02 Ceremony Playlist:
-https://open.spotify.com/playlist/54KJeXN3UphC8hO805vCAQ
-
-Type | URL
------------- | -------------
-Son of a Preacher Man	|	https://tabs.ultimate-guitar.com/tab/dusty-springfield/son-of-a-preacher-man-chords-85199
-Were Going To Be Friends Chords by The White Stripes | https://tabs.ultimate-guitar.com/tab/the-white-stripes/were-going-to-be-friends-chords-22094
-Somewhere Over the Rainbow	|	https://tabs.ultimate-guitar.com/tab/2135261
-Youve got a friend	|	https://tabs.ultimate-guitar.com/tab/james-taylor/youve-got-a-friend-chords-56577
-Do you Realize	|	https://tabs.ultimate-guitar.com/tab/the-flaming-lips/do-you-realize-chords-50449
-
-
-# 03 Dinner Playlist
-https://open.spotify.com/playlist/2kkijOcsgKduwdsawm1Lun
-
-Type | URL
------------- | -------------
-Summer Breeze	|	https://tabs.ultimate-guitar.com/tab/seals-crofts/summer-breeze-chords-83666
-Anyone Else But You Chords by The Moldy Peaches | https://tabs.ultimate-guitar.com/tab/the-moldy-peaches/anyone-else-but-you-chords-630353
-Don't Delete the Kisses	|	https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
-Never Let you Go	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/never-let-you-go-chords-1830677
-If You Want to Sing Out	|	https://tabs.ultimate-guitar.com/tab/cat-stevens/if-you-want-to-sing-out-sing-out-chords-84503
-Wouldn't it Be Nice	|	https://tabs.ultimate-guitar.com/tab/the-beach-boys/wouldnt-it-be-nice-chords-16805
-Dreams Cranberries	|	https://tabs.ultimate-guitar.com/tab/the-cranberries/dreams-chords-1485486
-Stumblin In	|	https://tabs.ultimate-guitar.com/tab/chris-norman/stumblin-in-chords-1756318
-Peaceful Easy Feeling	|	https://tabs.ultimate-guitar.com/tab/eagles/peaceful-easy-feeling-chords-14299
-White Rabbit	|	https://tabs.ultimate-guitar.com/tab/jefferson-airplane/white-rabbit-chords-10796
-Who Will Save Your Soul	|	https://tabs.ultimate-guitar.com/tab/jewel/who-will-save-your-soul-chords-10950
-Working Class Hero	|	https://tabs.ultimate-guitar.com/tab/john-lennon/working-class-hero-chords-9344
-Dreams Fleetwood Mac	|	https://tabs.ultimate-guitar.com/tab/fleetwood-mac/dreams-chords-43918
-
-
-#04 Dance Playlist
-https://open.spotify.com/playlist/6q1b0TXINnPbZaWRlBFZb6
-
-Type | URL
------------- | -------------
-Right Down The Line	|	https://tabs.ultimate-guitar.com/tab/gerry-rafferty/right-down-the-line-chords-1208429
-Come and Get Your Love	|	https://tabs.ultimate-guitar.com/tab/redbone/come-and-get-your-love-chords-1471019
-Jump Around	|	https://tabs.ultimate-guitar.com/tab/house-of-pain/jump-around-chords-3726668
-Scream and Shout	|	https://tabs.ultimate-guitar.com/tab/will-i-am/scream-and-shout-chords-1218883
-Without Me	|	https://tabs.ultimate-guitar.com/tab/eminem/without-me-chords-3549887
-Save Your Tears	|	https://tabs.ultimate-guitar.com/tab/the-weeknd/save-your-tears-chords-3035397
-In Da Club	|	https://tabs.ultimate-guitar.com/tab/50-cent/in-da-club-chords-1517091
-Low	|	https://tabs.ultimate-guitar.com/tab/flo-rida/low-chords-896325
-Moves Like Jagger	|https://chordsworld.com/maroon-5-moves-like-jagger-chords/
-Sexy Back	|	https://tabs.ultimate-guitar.com/tab/justin-timberlake/sexyback-chords-2615226
-Timber	|	https://tabs.ultimate-guitar.com/tab/postmodern-jukebox/timber-chords-1867246
-West End Girls	|	https://tabs.ultimate-guitar.com/tab/pet-shop-boys/west-end-girls-chords-1769663
-Stronger	|	https://tabs.ultimate-guitar.com/tab/kelly-clarkson/stronger-what-doesnt-kill-you-chords-1115994
-September	|	https://tabs.ultimate-guitar.com/tab/earth-wind-fire/september-chords-1017846
-Dance with Me	|	https://tabs.ultimate-guitar.com/tab/orleans/dance-with-me-chords-507699
-Girl Like Me	|	https://tabs.ultimate-guitar.com/tab/the-black-eyed-peas/girl-like-me-chords-3457574
-
 
 # 05 Reception Playlist
 https://open.spotify.com/playlist/39VLBWdsDcvvJeIC0F2Wk5
