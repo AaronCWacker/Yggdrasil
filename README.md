@@ -6,6 +6,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 Type | URL
 ------------ | -------------
 Blister in the Sun	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/blister-in-the-sun-chords-588
+Please do not Go	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/please-do-not-go-chords-1488934
+Kiss Off	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/kiss-off-chords-1703827
+Jumper	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/jumper-chords-1406
+Hows it gonna Be	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/hows-it-going-to-be-chords-1395
+Semi Charmed Life	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/semi-charmed-life-chords-1011668
 
 
 # My Vows
