@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Musician Music Chords and Lyrics:
+# 05302022 Favorites
+Type | URL
+------------ | -------------
+Blister in the Sun	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/blister-in-the-sun-chords-588
 
 
 # My Vows
