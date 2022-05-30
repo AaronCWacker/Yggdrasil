@@ -11,6 +11,9 @@ Kiss Off	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/kiss-off-chords-1
 Jumper	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/jumper-chords-1406
 Hows it gonna Be	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/hows-it-going-to-be-chords-1395
 Semi Charmed Life	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/semi-charmed-life-chords-1011668
+Deep Inside	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/deep-inside-of-you-chords-906104
+Hopeless Devoted	|	https://tabs.ultimate-guitar.com/tab/misc-soundtrack/grease-hopelessly-devoted-to-you-chords-78008
+Honestly Love You	|	https://tabs.ultimate-guitar.com/tab/olivia-newton-john/i-honestly-love-you-chords-646464
 
 
 # My Vows
