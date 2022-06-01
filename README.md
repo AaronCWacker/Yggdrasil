@@ -13,6 +13,9 @@ Clint Eastwood	|	Video	|	https://www.youtube.com/watch?v=UclCCFNG9q4
 Clint Eastwood	|	Chords	|	https://tabs.ultimate-guitar.com/tab/gorillaz/clint-eastwood-chords-1177624
 Need to Know	|	Video	|	https://www.youtube.com/watch?v=dI3xkL7qUAc
 Need to Know	|	Chords	|	Unlisted - DFADF repeat. https://www.chordband.com/guitar/doja_cat_need_to_know.crd
+Dont Be Shy	|	Chords	|	https://tabs.ultimate-guitar.com/tab/cat-stevens/dont-be-shy-chords-1044458
+Dont Be Shy	|	Video	|	https://www.youtube.com/watch?v=246XN55-rSI
+
 
 
 
