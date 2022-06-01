@@ -5,21 +5,21 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 Target		|	Path
 ------------ | -------------
 Stress		|	Break Cycle of Stress and Anxiety
-Mental Strength	|	Build and Boost Mental Strength
+Stress		|	Feel Calm in Stressful Situations
+Stress		|	Deal with Work Pressure
+Stress		|	Learn to Reduce Feelings of Overwhelmed, Burned Out, Exhausted
 Sleep		|	Sleep Better and Find Joy
-Mindfulness	|	Practices to Remedy Physical and Emotional Issues
 Goals		|	Being a Happier and Healthier Person
+Pain		|	Relieve Pain
+Happiness	|	Learn to Use Mindfulness to Affect Well Being
+Actions		|	Build and Boost Mental Strength
 Actions		|	Spending Time Outdoors
 Actions		|	Daily Routine Tasks
 Actions		|	Eating and Drinking
-Stress		|	Feel Calm in Stressful Situations
-Stress		|	Deal with Work Pressure
-Pain		|	Relieve Pain
-Stress		|	Learn to Reduce Feelings of Overwhelmed, Burned Out, Exhausted
-Stress 		|	Learn Minds Ability to Naturally Heal
+Physical	|	Practices to Remedy Physical and Emotional Issues
+Physical	|	Learn Minds Ability to Naturally Heal
 Physical	|	Feel Better Physically
 Practice	|	Ways to Be Mindful Each Day
-Happiness	|	Learn to Use Mindfulness to Affect Well Being
 
 
 
