@@ -3,11 +3,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 ## Songs of the Day
-Name	|	Chords and Lyrics URL
+Name	|	Media	|	Chords and Lyrics URL
 --------|----------------------------
-Saven Nation Army	|	https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-chords-1834279
-Jungle	|	https://tabs.ultimate-guitar.com/tab/tash-sultana/jungle-chords-1876886
-
+Seven Nation Army	|	Chords	|	https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-chords-1834279
+Seven Nation Army	|	Video	|	https://www.youtube.com/watch?v=0J2QdDbelmY
+Jungle	|	Chords	|	https://tabs.ultimate-guitar.com/tab/tash-sultana/jungle-chords-1876886
+Jungle	|	Video	|	https://www.youtube.com/watch?v=Vn8phH0k5HI
 
 
 ## Deliver Compelling Presentations
