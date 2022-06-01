@@ -8,6 +8,7 @@ Stress		|	Break Cycle of Stress and Anxiety
 Stress		|	Feel Calm in Stressful Situations
 Stress		|	Deal with Work Pressure
 Stress		|	Learn to Reduce Feelings of Overwhelmed, Burned Out, Exhausted
+Pain		|	Relieve Stress
 Sleep		|	Sleep Better and Find Joy
 Goals		|	Being a Happier and Healthier Person
 Pain		|	Relieve Pain
@@ -15,11 +16,24 @@ Happiness	|	Learn to Use Mindfulness to Affect Well Being
 Actions		|	Build and Boost Mental Strength
 Actions		|	Spending Time Outdoors
 Actions		|	Daily Routine Tasks
-Actions		|	Eating and Drinking
+Actions		|	Eating and Drinking - Find Healthy Nutrition Habits
+Actions		|	Drinking - Find Reasons and Cut Back or Quit Entirely
+Actions		|	Niksen, Do Nothing, To Just Be, Idle, Hang Around, Look Around, Listen Music, Without Purpose
+Actions		|	Tai Chi
+Actions		|	Yoga and Meditation
+Actions		|	Take a Brain Break - Let Old Brain Amygdala Which Affects Feelings and Emotions, Settle and Be Quiet
+Actions		|	Learn with Neocortex Tools and Techniques to Strengthen Attention
+Actions		|	Infuse Mindfulness into Easy Daily Activities
+Actions		|	1) Sit.  2) Just Breath.  3) Thoughts Come, Let Go, Breath.  4) Wandering, Let Go, Breath.  5) Note Your Attention Strength Build
+Actions		|	1) Gratitude.  2) Escape Comfort Zone.  3) Be Alone w Thoughts.  4) Self Compassion.  5) Assert Power.  6) Label Emotions.  7) Use Mind Wisely
 Physical	|	Practices to Remedy Physical and Emotional Issues
 Physical	|	Learn Minds Ability to Naturally Heal
 Physical	|	Feel Better Physically
+Physical	|	Manage Blood Sugar Levels Affecting Weight Gain and Muscles
+Physical	|	Manage Heart and Cardiovascular Risk
 Practice	|	Ways to Be Mindful Each Day
+Practice	|	Define and Try Your Best Version of Meditation
+
 
 
 
