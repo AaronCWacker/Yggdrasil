@@ -8,9 +8,12 @@ Stress		|	Break Cycle of Stress and Anxiety
 Stress		|	Feel Calm in Stressful Situations
 Stress		|	Deal with Work Pressure
 Stress		|	Learn to Reduce Feelings of Overwhelmed, Burned Out, Exhausted
+Stress		|	1) Mental Body Scan.  2) Stretch, Calm, Breath.  3) Relaxed Seat Breath. 4) Walk Feel.  
+Stress		|	Brain gamification - Health trackers only if alleviating stress or helping breathing, satisfaction
 Pain		|	Relieve Stress
 Pain		|	1) Relaxation Response.  2) Deep Breaths.  3) CBT- ID, Delete Not Helpful Thoughts, Strengthen Helpful.  4) Reprogram Pain Stress Reactions
 Sleep		|	Sleep Better and Find Joy
+Sleep		|	Yoga Sleep: 1) All Fours, Back Up Down.  2) Kneel Arms Overhead Down.  3) Feet Lift and Lower.  4) Side Hip Knee Raise.  5) Flat on Back
 Goals		|	Being a Happier and Healthier Person
 Pain		|	Relieve Pain
 Happiness	|	Learn to Use Mindfulness to Affect Well Being
