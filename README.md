@@ -1,6 +1,56 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Brain Language Words
+Target		|	Path
+------------ | -------------
+Acetylcholine		|	Neurotransmitter of Movement and Memory
+Action Potential	|	Nerve Impulse from Cell to Terminal Buttons
+Amygdala		|	Almond Size emotion old brain
+Apoptosis		|	Pruning of Brain Cells and Connections that are unused
+Autonomic Nervous System|	Controls Automatic Body Functions: Heart Rate, Digestion, Pupils, Salivation
+Axon		|	Nerve signal street bundles making nerves
+Basal Ganglia	|	Interconnected structure: Movement, Emotion, Time Perception -> Episodic memory
+Broca's Area	|	Frontal Lobe region for Speech Production
+Dopamine	|	Neurotransmitter for Reward, Pleasure, Movement, Learning and Memory
+Central Nervous System	|	Brain, Spine, Incoming Senses Coordinating Behavior
+Cerebellum	|	Back of Brain for Movement, Balance, Emotion, Attention, Time Perception
+Cerebral Cortex	|	
+Computerized Tomography	CT|
+Cortisol	|
+Electroencephalogram	EEG|
+fMRI	|
+GABA	|
+Glial Cell	|	
+Hallucination	|
+Hippocampus	|
+Hypothalamic Pituitary Axis	|
+Hypothalamus	|
+Limibic System	|
+MRI	|
+Myelination	|
+Neurogenesis	|
+Neuron	|
+Neurotransmitter	|
+Noradrenalin	|
+Oxytocin	|
+Peripheral Nervous System PNS|
+Pituatary Gland	|
+Plasticity or NeuroPlasticity|
+Positron Emission Tomography PET|
+Prefrontal Cortex|
+Serotonin|
+Suprachiasmaic Nucleus SCN|
+Sympathomedullary Pathway SAM|
+Synaesthesia|
+Synapse|
+Synaptogenesis|
+Wernicke's area|
+
+
+
+
 # Mindful Path to Health and Happiness
 Target		|	Path
 ------------ | -------------
