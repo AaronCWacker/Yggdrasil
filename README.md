@@ -40,6 +40,10 @@ Physical	|	Manage Blood Sugar Levels Affecting Weight Gain and Muscles
 Physical	|	Manage Heart and Cardiovascular Risk
 Practice	|	Ways to Be Mindful Each Day
 Practice	|	Define and Try Your Best Version of Meditation
+Practice	|	Self Care and Community Care - Authentic Connection in RL and Online
+Practice	|	1) Stay Social.  2) Be Neighborly.  3) Hobbies.  4) Exercise.  5) Be Kinder than Necessary.  6) Inhale, Exhale.
+Practice	|	Learning and Memory: 1) Work your Brain Muscle.  2) Delete and Clear Distractions.  3) Minimize Switching Attention Residue.  4) Completion and Save Points.  
+Practice	|	Focus: 1) Attentiveness.  2) Learning.  3) Mindfulness.  
 
 
 
