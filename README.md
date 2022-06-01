@@ -4,7 +4,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ## Songs of the Day
 Name	|	Media	|	Chords and Lyrics URL
---------|----------------------------
+--------|---------------|-------------
 Seven Nation Army	|	Chords	|	https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-chords-1834279
 Seven Nation Army	|	Video	|	https://www.youtube.com/watch?v=0J2QdDbelmY
 Jungle	|	Chords	|	https://tabs.ultimate-guitar.com/tab/tash-sultana/jungle-chords-1876886
