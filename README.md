@@ -9,7 +9,8 @@ Seven Nation Army	|	Chords	|	https://tabs.ultimate-guitar.com/tab/the-white-stri
 Seven Nation Army	|	Video	|	https://www.youtube.com/watch?v=0J2QdDbelmY
 Jungle	|	Chords	|	https://tabs.ultimate-guitar.com/tab/tash-sultana/jungle-chords-1876886
 Jungle	|	Video	|	https://www.youtube.com/watch?v=Vn8phH0k5HI
-
+Clint Eastwood	|	Video	|	https://www.youtube.com/watch?v=UclCCFNG9q4
+Clint Eastwood	|	Chords	|	https://tabs.ultimate-guitar.com/tab/gorillaz/clint-eastwood-chords-1177624
 
 ## Deliver Compelling Presentations
 
