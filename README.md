@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+## Songs of the Day
+Name	|	Chords and Lyrics URL
+--------|----------------------------
+Saven Nation Army	|	https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-chords-1834279
+Jungle	|	https://tabs.ultimate-guitar.com/tab/tash-sultana/jungle-chords-1876886
+
+
+
 ## Deliver Compelling Presentations
 
 Order	|	Content Keyword	|	Content
