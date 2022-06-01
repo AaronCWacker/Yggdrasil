@@ -26,6 +26,8 @@ Actions		|	Learn with Neocortex Tools and Techniques to Strengthen Attention
 Actions		|	Infuse Mindfulness into Easy Daily Activities
 Actions		|	1) Sit.  2) Just Breath.  3) Thoughts Come, Let Go, Breath.  4) Wandering, Let Go, Breath.  5) Note Your Attention Strength Build
 Actions		|	1) Gratitude.  2) Escape Comfort Zone.  3) Be Alone w Thoughts.  4) Self Compassion.  5) Assert Power.  6) Label Emotions.  7) Use Mind Wisely
+Actions		|	1) Walk with Me.  2) Reflect on Day.  3) Learn to Meditate.
+Actions		|	Work Smarter: 1) Cut Yourself Slack.  2) Set Goals.  3) Take Breaks.  4) Just Breath.  5) One Thing at a Time.  6) Schedule.
 Physical	|	Practices to Remedy Physical and Emotional Issues
 Physical	|	Learn Minds Ability to Naturally Heal
 Physical	|	Feel Better Physically
