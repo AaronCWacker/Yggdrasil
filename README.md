@@ -1,6 +1,55 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+#Deliver Compelling Presentations
+
+Order	|	Content Keyword	|	Content
+---------	|	----------		|	---------
+1	|	Idea		|	Choose Idea Worth Spreading
+2	|	Organize		|	Organize Your Talk
+3	|	Story		|	Tell Your Story
+4	|	Catchphrase	|	Craft Your Catchphrase
+5	|	Open		|	Opening Your Talk
+6	|	Parts		|	Transitions Between Parts
+7	|	Conclude		|	Conclusion for Your Talk
+
+Order	|	Delivery Keyword	|	Delivery
+---------	|	----------		|	---------
+1	|	Emotion		|	Project Emotion
+2	|	Language		|	Enhance Your Language
+3	|	Humor		|	Add Humor
+4	|	Dictionary		|	Master Your Verbal Dictionary
+5	|	Nonverbals	|	Master Your Nonverbal Dictionary
+6	|	Stage		|	Move Around Stage
+
+Order	|	Design Keyword	|	Design
+---------	|	----------		|	---------
+1	|	Slides		|	Create Inspiring Slides
+2	|	Video		|	Use Video Effectively
+3	|	Props		|	Use Props Effectively
+4	|	Lectern		|	Use a Lectern
+5	|	Dress		|	Dress for Success
+
+Order	|	Journey Keyword	|	Journey
+---------	|	----------		|	---------
+1	|	Selection		|	Get Selected to Talk
+2	|	Prepare		|	Prepare without Fear
+3	|	Introduction	|	Be Introduced
+4	|	Viral		|	Video to Viral
+5	|	Speaking		|	Stop Reading, Start Speaking
+
+# AI Patterns for Improving Physical and Mental Health
+Order		|	Keyword			|	Playlist URL
+---------	|	----------		|	---------
+1		|	Knowledge Graph		|	https://www.youtube.com/playlist?list=PLHgX2IExbFouEM12Ray9W0O5FAZF_C54Z
+2		|	Governance		|	https://www.youtube.com/playlist?list=PLHgX2IExbFosVR_JgscrcVa6GEaTxzhtX
+3		|	Medical			|	https://www.youtube.com/playlist?list=PLHgX2IExbFosPBGHYuJRdgGWTuElfwBjW
+4		|	Neuroscience		|	https://www.youtube.com/playlist?list=PLHgX2IExbFot3Ks1FBonLfbKd8W8De_pk
+5		|	Visualization		|	https://www.youtube.com/playlist?list=PLHgX2IExbFovFg4DI0_b3EWyIGk-oGRzq
+6		|	Streamlit and Gradio	|	https://www.youtube.com/playlist?list=PLHgX2IExbFosAKDJ6yuVjnQLRhoj_yc3g
+7		|	Containers and Datasets	|	https://www.youtube.com/playlist?list=PLHgX2IExbFospBvSI6k6922l1TlojYiPh
+8		|	QML and QSVM		|	https://www.youtube.com/playlist?list=PLHgX2IExbFosaWB4cuGyal0pmS3gsI7je
+
 # Mindful Path to Health and Happiness
 Target		|	Path
 ------------ | -------------
