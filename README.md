@@ -16,18 +16,18 @@ Broca's Area	|	Frontal Lobe region for Speech Production
 Dopamine	|	Neurotransmitter for Reward, Pleasure, Movement, Learning and Memory
 Central Nervous System	|	Brain, Spine, Incoming Senses Coordinating Behavior
 Cerebellum	|	Back of Brain for Movement, Balance, Emotion, Attention, Time Perception
-Cerebral Cortex	|	
-Computerized Tomography	CT|
-Cortisol	|
-Electroencephalogram	EEG|
-fMRI	|
-GABA	|
-Glial Cell	|	
-Hallucination	|
-Hippocampus	|
-Hypothalamic Pituitary Axis	|
-Hypothalamus	|
-Limibic System	|
+Cerebral Cortex	|	Thinking - Frontal, Parietal, Temporal, Occipital Lobes
+Computerized Tomography	CT|Data Scan Technique
+Cortisol	| Stress Hormone
+Electroencephalogram	EEG|Data Scan Technique
+fMRI	|Data Scan Technique
+GABA	| Neurotransmitter inhibitor dampener - enhanced by alcohol and tranquilizers
+Glial Cell	|	Cells that protect neurons
+Hallucination	|	Experience of seeing, hearing or smelling something that isnt there
+Hippocampus	|	Memory Sea Horse near middle brain
+Hypothalamic Pituitary Axis	HPA|	Slow stres pathway, coordinates body hormonal response to stress
+Hypothalamus	|	Keeps internal body conditions constant
+Limbic System	|	
 MRI	|
 Myelination	|
 Neurogenesis	|
@@ -38,7 +38,7 @@ Oxytocin	|
 Peripheral Nervous System PNS|
 Pituatary Gland	|
 Plasticity or NeuroPlasticity|
-Positron Emission Tomography PET|
+Positron Emission Tomography PET|Data Scan Technique
 Prefrontal Cortex|
 Serotonin|
 Suprachiasmaic Nucleus SCN|
