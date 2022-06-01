@@ -1,19 +1,27 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Musician Music Chords and Lyrics:
-# 05302022 Favorites
-Type | URL
+# Mindful Path to Health and Happiness
+Target		|	Path
 ------------ | -------------
-Blister in the Sun	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/blister-in-the-sun-chords-588
-Please do not Go	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/please-do-not-go-chords-1488934
-Kiss Off	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/kiss-off-chords-1703827
-Jumper	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/jumper-chords-1406
-Hows it gonna Be	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/hows-it-going-to-be-chords-1395
-Semi Charmed Life	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/semi-charmed-life-chords-1011668
-Deep Inside	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/deep-inside-of-you-chords-906104
-Hopeless Devoted	|	https://tabs.ultimate-guitar.com/tab/misc-soundtrack/grease-hopelessly-devoted-to-you-chords-78008
-Honestly Love You	|	https://tabs.ultimate-guitar.com/tab/olivia-newton-john/i-honestly-love-you-chords-646464
+Stress		|	Break Cycle of Stress and Anxiety
+Mental Strength	|	Build and Boost Mental Strength
+Sleep		|	Sleep Better and Find Joy
+Mindfulness	|	Practices to Remedy Physical and Emotional Issues
+Goals		|	Being a Happier and Healthier Person
+Actions		|	Spending Time Outdoors
+Actions		|	Daily Routine Tasks
+Actions		|	Eating and Drinking
+Stress		|	Feel Calm in Stressful Situations
+Stress		|	Deal with Work Pressure
+Pain		|	Relieve Pain
+Stress		|	Learn to Reduce Feelings of Overwhelmed, Burned Out, Exhausted
+Stress 		|	Learn Minds Ability to Naturally Heal
+Physical	|	Feel Better Physically
+Practice	|	Ways to Be Mindful Each Day
+Happiness	|	Learn to Use Mindfulness to Affect Well Being
+
+
 
 
 # My Vows
@@ -29,6 +37,24 @@ Vow | I Vow To..
 8 Trust 	|	Be Open to You as One You Can Always Depend On, There When You Need Me
 9 Commit 	|	Be Hopelessly Devoted to You, Choosing You as My Favorite Sunrise to Sunset
 10 Bond 	|	Communicate to You, Even w/o Words, Wrapping My Love and Heart Around You
+
+
+
+
+# Musician Music Chords and Lyrics:
+# 05302022 Favorites
+Type | URL
+------------ | -------------
+Blister in the Sun	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/blister-in-the-sun-chords-588
+Please do not Go	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/please-do-not-go-chords-1488934
+Kiss Off	|	https://tabs.ultimate-guitar.com/tab/violent-femmes/kiss-off-chords-1703827
+Jumper	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/jumper-chords-1406
+Hows it gonna Be	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/hows-it-going-to-be-chords-1395
+Semi Charmed Life	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/semi-charmed-life-chords-1011668
+Deep Inside	|	https://tabs.ultimate-guitar.com/tab/third-eye-blind/deep-inside-of-you-chords-906104
+Hopeless Devoted	|	https://tabs.ultimate-guitar.com/tab/misc-soundtrack/grease-hopelessly-devoted-to-you-chords-78008
+Honestly Love You	|	https://tabs.ultimate-guitar.com/tab/olivia-newton-john/i-honestly-love-you-chords-646464
+
 
 
 # Musician Music Chords and Lyrics:
