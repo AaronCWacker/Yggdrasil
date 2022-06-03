@@ -59,20 +59,9 @@ An RDF like simplification that uses a few symbols might allow for an optimally 
 
 If we want to simulate the two types of Memory humans use it is worth considering Semantic and Episodic memory since data and knowledge representation exists really to communicate and persist to memory what we communicate.
 
-Nine properties
-There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
+Definitions:
 
-Contain summary records of sensory-perceptual-conceptual-affective processing.
-Retain patterns of activation/inhibition over long periods.
-Often represented in the form of (visual) images.
-They always have a perspective (field or observer).
-Represent short time slices of experience.
-They are represented on a temporal dimension roughly in order of occurrence.
-They are subject to rapid forgetting.
-They make autobiographical remembering specific.
-They are recollectively experienced when accessed.
-
-Definition:ep·i·sod·ic mem·o·ry
+ep·i·sod·ic mem·o·ry
 noun	PSYCHOLOGY
 a type of long-term memory that involves conscious recollection of previous experiences together with their context in terms of time, place, associated emotions, etc.
 "those results suggest that participants were using episodic memory to recall the presented words in all conditions"
@@ -85,6 +74,20 @@ a type of long-term memory involving the capacity to recall words, concepts, or 
 "if patients lose semantic memory, they struggle with knowledge of everyday objects in the world, and have trouble communicating"
 a recollection of a word, concept, or number.
 "the extraction of semantic memories and associated emotions"
+
+
+Nine properties
+There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
+
+Contain summary records of sensory-perceptual-conceptual-affective processing.
+Retain patterns of activation/inhibition over long periods.
+Often represented in the form of (visual) images.
+They always have a perspective (field or observer).
+Represent short time slices of experience.
+They are represented on a temporal dimension roughly in order of occurrence.
+They are subject to rapid forgetting.
+They make autobiographical remembering specific.
+They are recollectively experienced when accessed.
 
 
 Dictionaries are represented within Python code using a minimal structure similar to RDF.  For example in our RDF example above there are three parts, the Subject, the Predice and the Object.  That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
