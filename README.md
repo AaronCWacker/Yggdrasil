@@ -60,7 +60,7 @@ An RDF like simplification that uses a few symbols might allow for an optimally 
 If we want to simulate the two types of Memory humans use it is worth considering Semantic and Episodic memory since data and knowledge representation exists really to communicate and persist to memory what we communicate.
 
 Nine properties
-There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine:[7]
+There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
 
 Contain summary records of sensory-perceptual-conceptual-affective processing.
 Retain patterns of activation/inhibition over long periods.
@@ -71,6 +71,20 @@ They are represented on a temporal dimension roughly in order of occurrence.
 They are subject to rapid forgetting.
 They make autobiographical remembering specific.
 They are recollectively experienced when accessed.
+
+Definition:ep·i·sod·ic mem·o·ry
+noun	PSYCHOLOGY
+a type of long-term memory that involves conscious recollection of previous experiences together with their context in terms of time, place, associated emotions, etc.
+"those results suggest that participants were using episodic memory to recall the presented words in all conditions"
+a conscious memory of a previous experience.
+"the hippocampus is critically involved in forming episodic memories"
+
+se·man·tic mem·o·ry
+noun	PSYCHOLOGY
+a type of long-term memory involving the capacity to recall words, concepts, or numbers, which is essential for the use and understanding of language.
+"if patients lose semantic memory, they struggle with knowledge of everyday objects in the world, and have trouble communicating"
+a recollection of a word, concept, or number.
+"the extraction of semantic memories and associated emotions"
 
 
 Dictionaries are represented within Python code using a minimal structure similar to RDF.  For example in our RDF example above there are three parts, the Subject, the Predice and the Object.  That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
