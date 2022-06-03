@@ -32,7 +32,36 @@ RDF Turtle is used in FHIR to be able to round trip serialization patterns betwe
 
 For human understanding, the ability to be minimal, terse and still maintain structure is key to language.  For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable.
 
-If we simplified the format with Symbols only a possible 
+If we simplified the format with Symbols only a possible more terse more human understandable format which would not loose structure, what might that look like?
+Option	|	Advantages/Disadvantages	|	Example
+--------|---------------|-------------
+
+e.g. Pipe delimiters are nice yet you cannot read the label easily inline and you loose structure:
+BodyParts|Heart|Lung
+Colon and semicolons are used within text frequently by humans so delimiters are easily corrupted:
+: ;
+Programmatic language symbols work well.  But if you mix them it becomes harder for humans to decipher the parts
+{, ", = , }, </>
+HL7 v2.5.x had it pretty good since once you understood a few symbols it is easier to read..  One limitation tho is labeling becomes overly burdensome however structurally it is terse.
+Unicode emojis work well: https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
+
+An RDF like simplification that uses a few symbols might allow for an optimally terse representation that has inline labels for Subject, Predicate, Object
+
+If we want to simulate the two types of Memory humans use it is worth considering Semantic and Episodic memory since data and knowledge representation exists really to communicate and persist to memory what we communicate.
+
+Nine properties
+There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine:[7]
+
+Contain summary records of sensory-perceptual-conceptual-affective processing.
+Retain patterns of activation/inhibition over long periods.
+Often represented in the form of (visual) images.
+They always have a perspective (field or observer).
+Represent short time slices of experience.
+They are represented on a temporal dimension roughly in order of occurrence.
+They are subject to rapid forgetting.
+They make autobiographical remembering specific.
+They are recollectively experienced when accessed.
+
 
 Dictionaries are represented within Python code using a minimal structure similar to RDF.  For example in our RDF example above there are three parts, the Subject, the Predice and the Object.  That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
 
