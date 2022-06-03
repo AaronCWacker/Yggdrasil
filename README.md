@@ -41,6 +41,9 @@ RDF		|	Standard	|	https://www.w3.org/TR/turtle/
 Dictionary	|	Standard	|	https://www.w3schools.com/python/python_dictionaries_nested.asp
 Sets		|	Standard	|	https://www.w3schools.com/python/python_sets.asp
 Tuples		|	Standard	|	https://www.w3schools.com/python/python_tuples.asp
+Lists		|	Standard	|	https://www.w3schools.com/python/python_lists.asp
+Lambda		|	Standard	|	https://www.w3schools.com/python/python_lambda.asp
+Variables	|	Standard	|	https://www.w3schools.com/python/python_variables_multiple.asp
 
 
 e.g. Pipe delimiters are nice yet you cannot read the label easily inline and you loose structure:
@@ -88,6 +91,13 @@ UpperAbdomen = {
     "Lung" : "Excellent"
   }
 }
+
+Super simple yet understandable structures can then be optimal yet the constraint would need to be to not allow any symbolic delimiter within data in order to avoid adding the complexity of escape sequences.  So programmatically understanding data as code could be most descriptive and fluid while being advantageous to trade of to succinct terse implementation:
+
+Two liner, self explanatory, expects data does not contain symbols: {":, to keep it simple.
+CarExample = {"brand": "Ford",  "model": "Mustang",  "year": 1964}
+print(CarExample["brand"])
+
 
 
 
