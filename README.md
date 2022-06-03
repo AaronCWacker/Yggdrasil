@@ -30,7 +30,27 @@ The triple sequence like a sentence is separated by whitespace and terminated by
 
 RDF Turtle is used in FHIR to be able to round trip serialization patterns between different languages including XML and JSON which are used in web services and web applications.
 
-For human understanding, the ability to be minimal, terse and still maintain structure is key to language.  For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable 
+For human understanding, the ability to be minimal, terse and still maintain structure is key to language.  For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable.
+
+Dictionaries are represented within Python code using a minimal structure similar to RDF.  For example in our RDF example above there are three parts, the Subject, the Predice and the Object.  That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
+
+A dictionary is ordered changeable and does not allow duplicates and can be represented like this:
+Parts = {
+  "Body": "Heart",
+  "location": "Chest"
+}
+Nested Dictionaries allow similar representing Health Conditions across People:
+UpperAbdomen = {
+  "PartofBodyForPerson1" : {
+    "Heart" : "Excellent",
+    "Lung" : "Excellent"
+  },
+  "PartofBodyForPerson2" : {
+    "Heart" : "Excellent",
+    "Lung" : "Excellent"
+  }
+}
+
 
 Below is a more complex description of the Turtle format for Resources in context of FHIR resources:
 Turtle Template
