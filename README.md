@@ -9,6 +9,7 @@ A key theme in 2022 is Knowledge Representation in AI, Use of NLP to augment and
 
 To be useful for both humans and machines the form of knowledge representation must be terse, meaning it is short and contains everything you would need to understand the text, the fields on what they contain and the structure which maps entities to values for example "Heart" is a part of a "Body".  "Lung" is also part of a "Body".
 
+## RDF
 The Resource Description Framework or RDF is a general purpose language for representing language on the web.
 
 RDF is often referred to as a "Triple" language which means it can allow structure to exist consisting of a:
@@ -30,9 +31,14 @@ The triple sequence like a sentence is separated by whitespace and terminated by
 
 RDF Turtle is used in FHIR to be able to round trip serialization patterns between different languages including XML and JSON which are used in web services and web applications.
 
-For human understanding, the ability to be minimal, terse and still maintain structure is key to language.  For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable.
+## Enter the Human!
+For human understanding, the ability to be minimal, terse and still maintain structure is key to language.  
+For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable without training.
 
-If we simplified the format with Symbols only a possible more terse more human understandable format which would not loose structure, what might that look like?
+If we simplified format with Symbols a possible more terse more human understandable format would not loose structure. 
+
+What might that look like?
+
 Option	|	Advantages/Disadvantages	|	Example
 --------|---------------|-------------
 Markdown	|	Standard	|	https://github.com/topics/markdown
@@ -57,9 +63,10 @@ Unicode emojis work well: https://huggingface.co/spaces/awacke1/Emoji-Short-Code
 
 An RDF like simplification that uses a few symbols might allow for an optimally terse representation that has inline labels for Subject, Predicate, Object
 
-If we want to simulate the two types of Memory humans use it is worth considering Semantic and Episodic memory since data and knowledge representation exists really to communicate and persist to memory what we communicate.
+If we want to make it easier to read for humans, we would want to simulate the two types of Memory humans use.
+It is worth considering properties of Semantic and Episodic memory since data and knowledge representation exist to communicate and persist to memory what we want to communicate.
 
-Definitions:
+## Definitions:
 
 ep·i·sod·ic mem·o·ry
 noun	PSYCHOLOGY
@@ -76,7 +83,7 @@ a recollection of a word, concept, or number.
 "the extraction of semantic memories and associated emotions"
 
 
-Nine properties
+## Nine properties of Episodic Memory
 There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
 
 Contain summary records of sensory-perceptual-conceptual-affective processing.
@@ -89,6 +96,8 @@ They are subject to rapid forgetting.
 They make autobiographical remembering specific.
 They are recollectively experienced when accessed.
 
+
+## Options for a Terse Knowledge Representation Structure For Easy Understanding
 
 Dictionaries are represented within Python code using a minimal structure similar to RDF.  For example in our RDF example above there are three parts, the Subject, the Predice and the Object.  That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
 
