@@ -35,6 +35,13 @@ For human understanding, the ability to be minimal, terse and still maintain str
 If we simplified the format with Symbols only a possible more terse more human understandable format which would not loose structure, what might that look like?
 Option	|	Advantages/Disadvantages	|	Example
 --------|---------------|-------------
+Markdown	|	Standard	|	https://github.com/topics/markdown
+FHIR		|	Standard	|	https://www.hl7.org/fhir/rdf.html
+RDF		|	Standard	|	https://www.w3.org/TR/turtle/
+Dictionary	|	Standard	|	https://www.w3schools.com/python/python_dictionaries_nested.asp
+Sets		|	Standard	|	https://www.w3schools.com/python/python_sets.asp
+Tuples		|	Standard	|	https://www.w3schools.com/python/python_tuples.asp
+
 
 e.g. Pipe delimiters are nice yet you cannot read the label easily inline and you loose structure:
 BodyParts|Heart|Lung
