@@ -32,6 +32,8 @@ RDF Turtle is used in FHIR to be able to round trip serialization patterns betwe
 
 For human understanding, the ability to be minimal, terse and still maintain structure is key to language.  For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable.
 
+If we simplified the format with Symbols only a possible 
+
 Dictionaries are represented within Python code using a minimal structure similar to RDF.  For example in our RDF example above there are three parts, the Subject, the Predice and the Object.  That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
 
 A dictionary is ordered changeable and does not allow duplicates and can be represented like this:
@@ -52,37 +54,6 @@ UpperAbdomen = {
 }
 
 
-Below is a more complex description of the Turtle format for Resources in context of FHIR resources:
-Turtle Template
-
-[ a fhir:Observation; fhir:nodeRole fhir:treeRoot;
-  # from Resource: id; meta; implicitRules; and language
-  # from DomainResource: text; contained; extension; and modifierExtension
-  fhir:Obervation.identifier [ Identifier ]; # 0..* Unique Id for this particular observation
-  fhir:Obervation.status [ fhir:value "<code>" ]; # R!  registered | preliminary | final | amended +
-  fhir:Obervation.code [ CodeableConcept ]; # 1..1 R!  Type of observation (code / type)
-  fhir:Obervation.subject [ fhir:reference [ Patient|Group|Device|Location ] ]; # 0..1 Who and/or what this is about
-  fhir:Obervation.encounter [ fhir:reference [ Encounter ] ]; # 0..1 Healthcare event during which this observation is made
-  # effective[x]: 0..1 Clinically relevant time/time-period for observation. One of these 2:
-    fhir:Obervation.effectiveDateTime [ fhir:value "<dateTime>" ];
-    fhir:Obervation.effectivePeriod [ Period ];
-]
-
-  fhir:Observation.code [
-     fhir:CodeableConcept.coding [
-       fhir:index 0;
-       fhir:Coding.system [ fhir:value "http://loinc.org" ];
-       fhir:Coding.code [ fhir:value "29463-7" ];
-       fhir:Coding.display [ fhir:value "Body Weight" ]
-    ];
-    fhir:CodeableConcept.coding [
-       fhir:index 1;
-       fhir:Coding.system [ fhir:value "http://snomed.info/sct" ];
-       fhir:Coding.code [ fhir:value "27113001" ];
-       fhir:Coding.display [ fhir:value "Body weight" ]
-    ]
-  ];
-  
 
 ## My Ai Spaces
 https://huggingface.co/awacke1
