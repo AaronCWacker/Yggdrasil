@@ -14,7 +14,7 @@ Being born in 1971 I find myself enjoying the dimensions of 70's through today. 
 2) Melody & Voice
 3) Music
 
-Here is my "play it next" list with a quick link to each set of lyrics and chords together which you need as a musician to play it right away.  Thankyou music for sharing the beauty of the world.
+Here is my "play it next" list with a quick link to each set of lyrics and chords together which you need as a musician to play it right away.  Thankyou musicians for sharing the great beauty of the world.
 
 
 Number	|	Musician or Band	|	URL to Chords and Lyrics
@@ -31,8 +31,10 @@ Number	|	Musician or Band	|	URL to Chords and Lyrics
 10	|	Alannis Morriset|	
 11	|	Beatles		|
 12	|	Paul Simon	|
-13	|	U2
-14	|	Violent Fems
+13	|	U2		|
+14	|	Violent Fems	|
+15	|	Elton John	|
+16	|	David Bowie	|
 
 
 ## General Purpose Languages
