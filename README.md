@@ -35,6 +35,10 @@ Number	|	Musician or Band	|	URL to Chords and Lyrics
 14	|	Violent Fems	|
 15	|	Elton John	|
 16	|	David Bowie	|
+17	|	Bush	|	
+18	|	Metallica	|	
+19	|	AC/DC	|
+
 
 
 ## General Purpose Languages
