@@ -2,6 +2,39 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+
+## Love and Music
+
+One of the struggles in life is loving yourself and feeling that you are deserving.  Complexity and nuance in relationships make you think.
+
+I'm listening and playing music alot daily and these are some of the musicians that I play their songs, melodies, lyrics and all the first time for nearly every sone in descending order of popularity.  Musicians that write sing and perform music inspire me.  These musicians each left a huge mark on music for all, inspiring millions and billions of people around the world to love and to enjoy music together.
+
+Being born in 1971 I find myself enjoying the dimensions of 70's through today.  Each song has an appeal in some way across:
+1) Lyrics
+2) Melody & Voice
+3) Music
+
+Here is my "play it next" list with a quick link to each set of lyrics and chords together which you need as a musician to play it right away.  Thankyou music for sharing the beauty of the world.
+
+
+Number	|	Musician or Band	|	URL to Chords and Lyrics
+--------|---------------|-------------
+1	|	Cat Stevens	|	https://www.ultimate-guitar.com/artist/cat_stevens_2658?filter=chords
+2	|	Billy Joel	|	https://www.ultimate-guitar.com/search.php?title=billy+joel&type%5B0%5D=300&page=1&order=myweight
+3	|	James Taylor	|	https://www.ultimate-guitar.com/search.php?search_type=title&value=james%20taylor
+4	|	Dan Reynolds of Imagine Dragons	|	https://www.ultimate-guitar.com/search.php?search_type=title&value=imagine%20dragons
+5	|	White Stripes	|	https://www.ultimate-guitar.com/search.php?title=white+stripes&page=1&type=300
+6	|	Biggie		|
+7	|	Nirvana		|
+8	|	Enya		|
+9	|	Pearl Jam	|
+10	|	Alannis Morriset|	
+11	|	Beatles		|
+12	|	Paul Simon	|
+13	|	U2
+14	|	Violent Fems
+
+
 ## General Purpose Languages
 W3C Recommendations and HL7 FHIR are the frameworks we use for web languages.	|	https://www.hl7.org/fhir/rdf.html
 
