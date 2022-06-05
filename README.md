@@ -7,9 +7,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 One of the struggles in life is loving yourself and feeling that you are deserving.  Complexity and nuance in relationships make you think.
 
-I'm listening and playing music alot daily and these are some of the musicians that I play their songs, melodies, lyrics and all the first time for nearly every sone in descending order of popularity.  Musicians that write sing and perform music inspire me.  These musicians each left a huge mark on music for all, inspiring millions and billions of people around the world to love and to enjoy music together.
+I'm listening and playing music alot daily and these are some of the musicians that I play their songs, melodies, lyrics and all the first time choosing to order them by meaning found while playing.  Musicians that write, sing and perform music inspire me.  These musicians each leave a huge mark on music for all, inspiring millions and billions of people around the world to love and to enjoy music together.
 
-Being born in 1971 I find myself enjoying the dimensions of 70's through today.  Each song has an appeal in some way across:
+Each song has an appeal in some way across:
 1) Lyrics
 2) Melody & Voice
 3) Music
@@ -24,20 +24,23 @@ Number	|	Musician or Band	|	URL to Chords and Lyrics
 3	|	James Taylor	|	https://www.ultimate-guitar.com/search.php?search_type=title&value=james%20taylor
 4	|	Dan Reynolds of Imagine Dragons	|	https://www.ultimate-guitar.com/search.php?search_type=title&value=imagine%20dragons
 5	|	White Stripes	|	https://www.ultimate-guitar.com/search.php?title=white+stripes&page=1&type=300
-6	|	Biggie		|
-7	|	Nirvana		|
-8	|	Enya		|
-9	|	Pearl Jam	|
-10	|	Alannis Morriset|	
-11	|	Beatles		|
-12	|	Paul Simon	|
-13	|	U2		|
-14	|	Violent Fems	|
-15	|	Elton John	|
-16	|	David Bowie	|
-17	|	Bush	|	
-18	|	Metallica	|	
-19	|	AC/DC	|
+6	|	Metric		|	https://www.ultimate-guitar.com/search.php?title=metric&type%5B0%5D=300&page=1&order=myweight
+7	|	Nirvana		|	https://www.ultimate-guitar.com/search.php?title=nirvana&page=1&type=300
+8	|	Led Zeppelin	|	https://www.ultimate-guitar.com/search.php?title=led+zeppelin&page=1&type=300
+9	|	Tom Petty	|	https://www.ultimate-guitar.com/search.php?title=tom+petty&page=1&type=300
+10	|	Chicago 	|	https://www.ultimate-guitar.com/search.php?title=chicago&page=1&type=300
+11	|	Grateful Dead	|	https://www.ultimate-guitar.com/search.php?title=grateful+dead&page=1&type=300
+12	|	Paul Simon	|	https://www.ultimate-guitar.com/search.php?title=paul+simon&page=1&type=300
+13	|	U2		|	https://www.ultimate-guitar.com/search.php?title=u2&page=1&type=300
+14	|	Violent Femmes	|	https://www.ultimate-guitar.com/search.php?title=violent+femmes&page=1&type=300
+15	|	Elton John	|	https://www.ultimate-guitar.com/search.php?title=elton+john&page=1&type=300
+16	|	David Bowie	|	https://www.ultimate-guitar.com/search.php?title=david+bowie&page=1&type=300
+17	|	Pet Shop Boys	|	https://www.ultimate-guitar.com/search.php?title=pet+shop+boys&page=1&type=300
+18	|	Rolling Stones	|	https://www.ultimate-guitar.com/search.php?title=rolling+stones&page=1&type=300
+19	|	Motley Crue	|	https://www.ultimate-guitar.com/search.php?title=motley+crue&page=1&type=300
+20	|	The Cure	|	https://www.ultimate-guitar.com/search.php?title=the+cure&page=1&type=300
+21	|	Heart		|	https://www.ultimate-guitar.com/search.php?title=heart&page=1&type=300
+22	|	The Zombies	|	https://www.ultimate-guitar.com/search.php?search_type=title&value=the%20zombies
 
 
 
