@@ -42,6 +42,15 @@ Number	|	Musician or Band	|	URL to Chords and Lyrics
 21	|	Heart		|	https://www.ultimate-guitar.com/search.php?title=heart&page=1&type=300
 22	|	The Zombies	|	https://www.ultimate-guitar.com/search.php?search_type=title&value=the%20zombies
 
+## Artists of the Day - 6/7/2022
+My family/friend Dennis who is 94 stopped by walking the island the other day and brought Sam and I four albums, along with a wish of love.  The artists were Peggy Lee, Frank Sinatra, John Prine, and Eydie Gorme.  With my daily music challenge of playing at least three songs per day of each artist I am interesting learning to play them first time through this is my list for today.
+
+Number	|	Musician or Band	|	URL to Chords and Lyrics
+--------|---------------|-------------
+1	|	Peggy Lee	|	https://www.ultimate-guitar.com/search.php?title=peggy+lee&page=1&type=300
+2	|	Frank Sinatra	|	https://www.ultimate-guitar.com/search.php?title=Frank+sinatra&page=1&type=300
+3	|	John Prine	|	https://www.ultimate-guitar.com/search.php?title=John+Prine&page=1&type=300
+4	|	Eydie Gorme	|	https://www.ultimate-guitar.com/artist/eydie_gorme_50068?filter=chords
 
 
 ## General Purpose Languages
