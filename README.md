@@ -22,7 +22,7 @@ a recollection of a word, concept, or number.
 ## Nine properties of Episodic Memory
 There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
 
-#	|	Property of Episodic Memory
+Num	|	Property of Episodic Memory
 --------|------------------------------------
 1|Contain summary records of sensory-perceptual-conceptual-affective processing.
 2|Retain patterns of activation/inhibition over long periods.
