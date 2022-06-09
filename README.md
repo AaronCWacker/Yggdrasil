@@ -1,6 +1,27 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+## Playcast, Canvas, and HTML5 Apps
+
+Playcast is a development environment which makes it easy to create interactive graphical rich media simulations using HTML5 technology allowing your creation to run in a browser across devices where all you need to do to share it is to share a URL.  Below are the tutorial examples that teach key tasks within simulation.  For VR and IoT this technology allows use across devices increasing the reach of and access to software.  The tutorials below cater to creating easy to access interfaces which work in similar ways across all of your devices including VR headsets, Web browsers on PC or Mac, web browsers on phones both Android and iPhones, and work on devices like low cost cards which run linux and python like Raspberry PI and Smart TVs.
+
+Type	|	URL
+--------|-------------
+3D Models	|	https://developer.playcanvas.com/en/tutorials/loading-gltf-glbs/
+Spawn Entities Programmatically	|	https://developer.playcanvas.com/en/tutorials/programmatically-creating/
+Information Hotspots	|	https://developer.playcanvas.com/en/tutorials/information-hotspots/
+WebXR VR AR UI	|	https://developer.playcanvas.com/en/tutorials/webxr-ray-input/
+Physics Raycasting By Tag	|	https://developer.playcanvas.com/en/tutorials/physics-raycasting-by-tag/
+Entity Picking using Physics	|	https://developer.playcanvas.com/en/tutorials/entity-picking-using-physics/
+Stencil Buffer 3D	|	https://developer.playcanvas.com/en/tutorials/stencil-buffer---3d-magic-card/
+HTML CSS UI	|	https://developer.playcanvas.com/en/tutorials/htmlcss-ui/
+Placement Physics	|	https://developer.playcanvas.com/en/tutorials/place-an-entity-with-physics/
+Placement	|	https://developer.playcanvas.com/en/tutorials/place-entity-without-physics/
+Point and Click Move	|	https://developer.playcanvas.com/en/tutorials/point-and-click-movement/
+Point and Click Rotate	|	https://developer.playcanvas.com/en/tutorials/rotating-objects-with-mouse/
+WebXR VR Lab	|	https://developer.playcanvas.com/en/tutorials/webxr-vr-lab/
+
+
 
 
 ## Love and Music
