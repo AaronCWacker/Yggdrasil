@@ -1,6 +1,42 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+## Definitions:
+
+ep·i·sod·ic mem·o·ry
+noun	PSYCHOLOGY
+a type of long-term memory that involves conscious recollection of previous experiences together with their context in terms of time, place, associated emotions, etc.
+"those results suggest that participants were using episodic memory to recall the presented words in all conditions"
+a conscious memory of a previous experience.
+"the hippocampus is critically involved in forming episodic memories"
+
+se·man·tic mem·o·ry
+noun	PSYCHOLOGY
+a type of long-term memory involving the capacity to recall words, concepts, or numbers, which is essential for the use and understanding of language.
+"if patients lose semantic memory, they struggle with knowledge of everyday objects in the world, and have trouble communicating"
+a recollection of a word, concept, or number.
+"the extraction of semantic memories and associated emotions"
+
+
+## Nine properties of Episodic Memory
+There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
+
+#	|	Property of Episodic Memory
+--------|------------------------------------
+1|Contain summary records of sensory-perceptual-conceptual-affective processing.
+2|Retain patterns of activation/inhibition over long periods.
+3|Often represented in the form of (visual) images.
+4|They always have a perspective (field or observer).
+5|Represent short time slices of experience.
+6|They are represented on a **temporal dimension roughly in order** of occurrence.
+7|They are subject to **rapid forgetting**.
+8|They make **autobiographical** remembering specific.
+9|They are recollectively **experienced when accessed**.
+
+
+
+
 ## Playcast, Canvas, and HTML5 Apps
 
 Playcast is a development environment which makes it easy to create interactive graphical rich media simulations using HTML5 technology allowing your creation to run in a browser across devices where all you need to do to share it is to share a URL.  Below are the tutorial examples that teach key tasks within simulation.  For VR and IoT this technology allows use across devices increasing the reach of and access to software.  The tutorials below cater to creating easy to access interfaces which work in similar ways across all of your devices including VR headsets, Web browsers on PC or Mac, web browsers on phones both Android and iPhones, and work on devices like low cost cards which run linux and python like Raspberry PI and Smart TVs.
@@ -137,37 +173,6 @@ An RDF like simplification that uses a few symbols might allow for an optimally 
 
 If we want to make it easier to read for humans, we would want to simulate the two types of Memory humans use.
 It is worth considering properties of Semantic and Episodic memory since data and knowledge representation exist to communicate and persist to memory what we want to communicate.
-
-## Definitions:
-
-ep·i·sod·ic mem·o·ry
-noun	PSYCHOLOGY
-a type of long-term memory that involves conscious recollection of previous experiences together with their context in terms of time, place, associated emotions, etc.
-"those results suggest that participants were using episodic memory to recall the presented words in all conditions"
-a conscious memory of a previous experience.
-"the hippocampus is critically involved in forming episodic memories"
-
-se·man·tic mem·o·ry
-noun	PSYCHOLOGY
-a type of long-term memory involving the capacity to recall words, concepts, or numbers, which is essential for the use and understanding of language.
-"if patients lose semantic memory, they struggle with knowledge of everyday objects in the world, and have trouble communicating"
-a recollection of a word, concept, or number.
-"the extraction of semantic memories and associated emotions"
-
-
-## Nine properties of Episodic Memory
-There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine.  Episodic m
-
-Contain summary records of sensory-perceptual-conceptual-affective processing.
-Retain patterns of activation/inhibition over long periods.
-Often represented in the form of (visual) images.
-They always have a perspective (field or observer).
-Represent short time slices of experience.
-They are represented on a temporal dimension roughly in order of occurrence.
-They are subject to rapid forgetting.
-They make autobiographical remembering specific.
-They are recollectively experienced when accessed.
-
 
 ## Options for a Terse Knowledge Representation Structure For Easy Understanding
 
