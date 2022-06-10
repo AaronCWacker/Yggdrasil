@@ -1,6 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+## Gradio and PlayCanvas for Rich AI Simulation User Interfaces
+
+In 2022, Gradio version 3 introduced updates which allow a new component **Blocks** tocreate layouts, handle events, provide multistep demonstrations, and share rich UI experiences that previously were only capable across a wide variety of disparate technologies.  This makes the latest incarnation of gradio a much easier paradigm for user interface interaction.
+
+https://gradio.app/introduction_to_blocks/#why-blocks
+
+In 2022, PlayCanvas delivered features within their platform Editor that allow you create and publish HTML5 based applications with rich interactivity to use in AR/VR, Visualization, Brand Experience, and Gamification apps.  PlayCanvas allows advanced forms of input and user interface which include raycast, physics, AR/VR device support like cameras, collisions, triggers and forces, detecting input from keyboard, mouse and touch screen devices supporting swipe patterns, allow for menus, HUDs with a user interface system, and support positional audio.
+
+https://developer.playcanvas.com/en/
+
+In 2022, Persistence and memory has changed allowing options to increase scaling by many magnitudes and being able to handle persistent memory in AI models whether it is updating the dataset, or even new forms of document style memory.  Streamlit caching went from experimental to a powerful pattern.  Cloud Firestore simplified database interaction to just a few lines of code.
+
+https://firebase.google.com/docs/firestore
+https://docs.streamlit.io/library/advanced-features/caching
+
+
 ## Playcast, Canvas, and HTML5 Apps
 
 Playcast is a development environment which makes it easy to create interactive graphical rich media simulations using HTML5 technology allowing your creation to run in a browser across devices where all you need to do to share it is to share a URL.  Below are the tutorial examples that teach key tasks within simulation.  For VR and IoT this technology allows use across devices increasing the reach of and access to software.  The tutorials below cater to creating easy to access interfaces which work in similar ways across all of your devices including VR headsets, Web browsers on PC or Mac, web browsers on phones both Android and iPhones, and work on devices like low cost cards which run linux and python like Raspberry PI and Smart TVs.
