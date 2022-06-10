@@ -13,8 +13,8 @@ https://developer.playcanvas.com/en/
 
 In 2022, Persistence and memory has changed allowing options to increase scaling by many magnitudes and being able to handle persistent memory in AI models whether it is updating the dataset, or even new forms of document style memory.  Streamlit caching went from experimental to a powerful pattern.  Cloud Firestore simplified database interaction to just a few lines of code.
 
-https://firebase.google.com/docs/firestore
-https://docs.streamlit.io/library/advanced-features/caching
+1) https://firebase.google.com/docs/firestore
+2) https://docs.streamlit.io/library/advanced-features/caching
 
 
 ## Playcast, Canvas, and HTML5 Apps
