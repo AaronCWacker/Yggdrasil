@@ -4,9 +4,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 Recent Artists and Songs:
 Num	|	|	URL
 --------|-------|------------------
-1	|  	Prince	| 	https://tabs.ultimate-guitar.com/tab/prince/i-could-never-take-the-place-of-your-man-chords-1732169
-2	|	Kittie Brakish | https://www.google.com/search?q=kittie&rlz=1C1CHBF_enUS852US852&sxsrf=ALiCzsagObuxqzOmcamWamsJNzHkRzYMIw:1654909656436&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiC5dPxmqT4AhWgoY4IHUE4B1sQ_AUoAXoECAMQAw&biw=843&bih=1251&dpr=1.56
-3	| Faith no more		|	https://www.ultimate-guitar.com/search.php?title=faith+no+more&page=1&type=300
+1	|  	Prince	| 	https://www.ultimate-guitar.com/search.php?title=prince&page=1&type=300
+2	|	Kittie  | https://www.ultimate-guitar.com/search.php?title=kittie&page=1&type=300
+3	| Faith No More		|	https://www.ultimate-guitar.com/search.php?title=faith+no+more&page=1&type=300
 
 
 ## Gradio and PlayCanvas for Rich AI Simulation User Interfaces
