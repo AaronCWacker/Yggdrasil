@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+Top Ten Prince Songs:
+Num	|	URL
+1	|   https://tabs.ultimate-guitar.com/tab/prince/i-could-never-take-the-place-of-your-man-chords-1732169
+2	|	
+
 ## Gradio and PlayCanvas for Rich AI Simulation User Interfaces
 
 In 2022, Gradio version 3 introduced updates which allow a new component **Blocks** tocreate layouts, handle events, provide multistep demonstrations, and share rich UI experiences that previously were only capable across a wide variety of disparate technologies.  This makes the latest incarnation of gradio a much easier paradigm for user interface interaction.
