@@ -4,7 +4,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 Top Ten Prince Songs:
 Num	|	URL
 1	|   https://tabs.ultimate-guitar.com/tab/prince/i-could-never-take-the-place-of-your-man-chords-1732169
-2	|	
+2	|	Kittie Brakish : https://www.google.com/search?q=kittie&rlz=1C1CHBF_enUS852US852&sxsrf=ALiCzsagObuxqzOmcamWamsJNzHkRzYMIw:1654909656436&source=lnms&tbm=vid&sa=X&ved=2ahUKEwiC5dPxmqT4AhWgoY4IHUE4B1sQ_AUoAXoECAMQAw&biw=843&bih=1251&dpr=1.56
+3	| Faith no more....
+
 
 ## Gradio and PlayCanvas for Rich AI Simulation User Interfaces
 
