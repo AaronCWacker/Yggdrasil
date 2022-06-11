@@ -7,6 +7,9 @@ Num	|	|	URL
 1	|  	Prince	| 	https://www.ultimate-guitar.com/search.php?title=prince&page=1&type=300
 2	|	Kittie  | https://www.ultimate-guitar.com/search.php?title=kittie&page=1&type=300
 3	| Faith No More		|	https://www.ultimate-guitar.com/search.php?title=faith+no+more&page=1&type=300
+4	|	Metric	|	https://www.ultimate-guitar.com/search.php?title=metric&page=1&type=300
+5	|	Billy Joel	|	https://www.ultimate-guitar.com/search.php?title=billy+joel&page=1&type=300
+
 
 
 ## Gradio and PlayCanvas for Rich AI Simulation User Interfaces
