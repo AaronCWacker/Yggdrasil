@@ -23,6 +23,7 @@ Num	|	Word to Remember 	|	URL
 15	|	California	|	https://tabs.ultimate-guitar.com/tab/led-zeppelin/going-to-california-chords-828659
 16	|	Vikings	|	https://tabs.ultimate-guitar.com/tab/led-zeppelin/kashmir-chords-2100381
 17	|	Boston	|	https://www.ultimate-guitar.com/search.php?title=boston&page=1&type=300
+18	|	Boston	|	https://tabs.ultimate-guitar.com/tab/dropkick-murphys/im-shipping-up-to-boston-chords-855024
 
 
 
