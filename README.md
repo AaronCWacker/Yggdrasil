@@ -24,7 +24,8 @@ Num	|	Word to Remember 	|	URL
 16	|	Vikings	|	https://tabs.ultimate-guitar.com/tab/led-zeppelin/kashmir-chords-2100381
 17	|	Boston	|	https://www.ultimate-guitar.com/search.php?title=boston&page=1&type=300
 18	|	Boston	|	https://tabs.ultimate-guitar.com/tab/dropkick-murphys/im-shipping-up-to-boston-chords-855024
-
+19	|	Love	|	https://tabs.ultimate-guitar.com/tab/eagles/best-of-my-love-chords-14281
+20	|	California	|	https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-46190
 
 
 Recent Artists and Songs:
