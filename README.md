@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Top Ten Songs to Play Today - Your Way:
+# Top Songs - Play Today - Your Way:
 
 Recent Artists and Songs:
 Num	|	Word to Remember 	|	URL
