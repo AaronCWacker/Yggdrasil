@@ -1,6 +1,26 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Ten Songs to Play Today - Your Way:
+
+Recent Artists and Songs:
+Num	|	Word to Remember 	|	URL
+--------|-------|------------------
+1	|	Sister	|	https://tabs.ultimate-guitar.com/tab/the-cult/sweet-soul-sister-chords-3108824
+2	|	Phantom	|	https://www.e-chords.com/chords/andrew-lloyd-webber/phantom-of-the-opera
+3	|	Beast	|	https://tabs.ultimate-guitar.com/tab/the-rolling-stones/beast-of-burden-chords-611187
+4	|	Grapevine	|	https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/i-heard-it-through-the-grapevine-chords-755727
+5	|	Seven	|	https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-chords-52559
+6	|	Dream	|	https://tabs.ultimate-guitar.com/tab/aerosmith/dream-on-chords-905779
+7	|	Nova	|	https://tabs.ultimate-guitar.com/tab/eydie-gorme/blame-it-on-the-bossa-nova-chords-626803
+8	|	Shelter	|	https://tabs.ultimate-guitar.com/tab/the-rolling-stones/gimme-shelter-chords-1045118
+9	|	Hurt	|	https://tabs.ultimate-guitar.com/tab/johnny-cash/hurt-chords-271866
+10	|	Spirit	|	https://tabs.ultimate-guitar.com/tab/nirvana/smells-like-teen-spirit-chords-1517379
+11	|	Come	|	https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-chords-1202432
+12	|	Cats	|	https://tabs.ultimate-guitar.com/tab/johnny-cash/cats-in-the-cradle-chords-382189
+13	|	Love	|	https://tabs.ultimate-guitar.com/tab/the-cure/the-lovecats-chords-582327
+
+
 Recent Artists and Songs:
 Num	|	|	URL
 --------|-------|------------------
