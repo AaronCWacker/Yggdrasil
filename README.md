@@ -32,7 +32,7 @@ Type Num	|	Name to Remember 	|	Model URL
 4-Multimodal	|	image to text	|	https://huggingface.co/models?pipeline_tag=image-to-text
 5-Tabular	|	tabular classification	|	https://huggingface.co/models?pipeline_tag=tabular-classification
 6-RL	|	reinforcement learning	|	https://huggingface.co/models?pipeline_tag=reinforcement-learning
-
+7-Datasets	|	Datasets and Knowledge Representation	|	https://huggingface.co/datasets
 
 
 # Top Songs - Play Today - Your Way:
