@@ -2,7 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
-# AI Tasks
+# AI Tasks, Models and Datasets
 Type Num	|	Name to Remember 	|	Model URL
 --------|-------------------------------|------------------
 1-Vision	|	image classification	|	https://huggingface.co/models?pipeline_tag=image-classification
@@ -37,6 +37,7 @@ Type Num	|	Name to Remember 	|	Model URL
 8-DatasetSize-M	|	10M to 100M	|	https://huggingface.co/datasets?size_categories=size_categories:10M%3Cn%3C100M&sort=downloads
 8-DatasetSize-L	|	100M to 1B	|	https://huggingface.co/datasets?size_categories=size_categories:100M%3Cn%3C1B&sort=downloads
 8-DatasetSize-XL	|	1B to 10B	|	https://huggingface.co/datasets?size_categories=size_categories:1B%3Cn%3C10B&sort=downloads
+9-Github-Datasets	|	Datasets	|	https://github.com/huggingface/datasets/tree/master/datasets
 
 
 # Top Songs - Play Today - Your Way:
