@@ -1,6 +1,40 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# AI Tasks
+Type Num	|	Name to Remember 	|	Model URL
+--------|-------------------------------|------------------
+1-Vision	|	image classification	|	https://huggingface.co/models?pipeline_tag=image-classification
+1-Vision	|	image segmentation	|	https://huggingface.co/models?pipeline_tag=image-segmentation
+1-Vision	|	image to image		|	https://huggingface.co/models?pipeline_tag=image-to-image
+1-Vision	|	unconditional image generation	|	https://huggingface.co/models?pipeline_tag=unconditional-image-generation
+1-Vision	|	object detection	|	https://huggingface.co/models?pipeline_tag=object-detection
+2-NLP	|	translation	|	https://huggingface.co/models?pipeline_tag=translation
+2-NLP	|	fill mask		|	https://huggingface.co/models?pipeline_tag=fill-mask
+2-NLP	|	token classification	|	https://huggingface.co/models?pipeline_tag=token-classification
+2-NLP	|	sentence similarity	|	https://huggingface.co/models?pipeline_tag=sentence-similarity
+2-NLP	|	question answering	|	https://huggingface.co/models?pipeline_tag=question-answering
+2-NLP	|	summarization	|	https://huggingface.co/models?pipeline_tag=summarization
+2-NLP	|	zero shot classification	|	https://huggingface.co/models?pipeline_tag=zero-shot-classification
+2-NLP	|	text classification	|	https://huggingface.co/models?pipeline_tag=text-classification
+2-NLP	|	text to text generation	|	https://huggingface.co/models?pipeline_tag=text2text-generation
+2-NLP	|	text-generation		|	https://huggingface.co/models?pipeline_tag=text-generation
+2-NLP	|	conversational		|	https://huggingface.co/models?pipeline_tag=conversational
+2-NLP	|	table question answering	|	https://huggingface.co/models?pipeline_tag=table-question-answering
+3-Audio	|	automatic speech recognition	|	https://huggingface.co/models?pipeline_tag=automatic-speech-recognition
+3-Audio	|	audio classification	|	https://huggingface.co/models?pipeline_tag=audio-classification
+3-Audio	|	text to speech	|	https://huggingface.co/models?pipeline_tag=text-to-speech
+3-Audio	|	audio to audio	|	https://huggingface.co/models?pipeline_tag=audio-to-audio
+3-Audio	|	voice activity detection	|	https://huggingface.co/models?pipeline_tag=voice-activity-detection
+4-Multimodal	|	feature extraction	|	https://huggingface.co/models?pipeline_tag=feature-extraction
+4-Multimodal	|	text to image	|	https://huggingface.co/models?pipeline_tag=text-to-image
+4-Multimodal	|	image to text	|	https://huggingface.co/models?pipeline_tag=image-to-text
+5-Tabular	|	tabular classification	|	https://huggingface.co/models?pipeline_tag=tabular-classification
+6-RL	|	reinforcement learning	|	https://huggingface.co/models?pipeline_tag=reinforcement-learning
+
+
+
 # Top Songs - Play Today - Your Way:
 
 Recent Artists and Songs:
