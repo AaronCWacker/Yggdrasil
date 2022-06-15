@@ -33,6 +33,10 @@ Type Num	|	Name to Remember 	|	Model URL
 5-Tabular	|	tabular classification	|	https://huggingface.co/models?pipeline_tag=tabular-classification
 6-RL	|	reinforcement learning	|	https://huggingface.co/models?pipeline_tag=reinforcement-learning
 7-Datasets	|	Datasets and Knowledge Representation	|	https://huggingface.co/datasets
+8-DatasetSize-S	|	1M to 10M	|	https://huggingface.co/datasets?size_categories=size_categories:1M%3Cn%3C10M&sort=downloads
+8-DatasetSize-M	|	10M to 100M	|	https://huggingface.co/datasets?size_categories=size_categories:10M%3Cn%3C100M&sort=downloads
+8-DatasetSize-L	|	100M to 1B	|	https://huggingface.co/datasets?size_categories=size_categories:100M%3Cn%3C1B&sort=downloads
+8-DatasetSize-XL	|	1B to 10B	|	https://huggingface.co/datasets?size_categories=size_categories:1B%3Cn%3C10B&sort=downloads
 
 
 # Top Songs - Play Today - Your Way:
