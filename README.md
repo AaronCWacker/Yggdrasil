@@ -2,6 +2,50 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Best in Class SOTA Picks - Vision, NLP, Audio, Multimodal, Tabular, RL, Datasets, Github - Rated on Usefulness
+
+1) https://huggingface.co/akhaliq	-	GFP-GAN - Best Image to Image Face Restore, Lama - Best Inpainting
+2) https://huggingface.co/spaces/akhaliq/lama	-	Image to Image Inpainting
+3) https://huggingface.co/spaces/akhaliq/GFPGAN - Real-World Blind Face Restoration
+
+# AI Tasks, Models and Datasets
+Type Num	|	AI Task Area  	|	Author URL	|	Space URL
+--------|-------------------------------|----------|--------
+1-Vision	|	image classification	|	
+1-Vision	|	image segmentation	|	
+1-Vision	|	image to image	| 
+1-Vision	|	image to image		|	
+1-Vision	|	unconditional image generation	|	
+1-Vision	|	object detection	|	
+2-NLP	|	translation	|	
+2-NLP	|	fill mask		|	
+2-NLP	|	token classification	|	
+2-NLP	|	sentence similarity	|	
+2-NLP	|	question answering	|	
+2-NLP	|	summarization	|	
+2-NLP	|	zero shot classification	|	
+2-NLP	|	text classification	|	
+2-NLP	|	text to text generation	|	
+2-NLP	|	text-generation		|	
+2-NLP	|	conversational		|	
+2-NLP	|	table question answering	|	
+3-Audio	|	automatic speech recognition	|	
+3-Audio	|	audio classification	|	
+3-Audio	|	text to speech	|	
+3-Audio	|	audio to audio	|	
+3-Audio	|	voice activity detection	|	
+4-Multimodal	|	feature extraction	|	
+4-Multimodal	|	text to image	|	
+4-Multimodal	|	image to text	|	
+5-Tabular	|	tabular classification	|	
+6-RL	|	reinforcement learning	|	
+7-Datasets	|	Datasets and Knowledge Representation	|	
+8-DatasetSize-S	|	1M to 10M	|	
+8-DatasetSize-M	|	10M to 100M	|	
+8-DatasetSize-L	|	100M to 1B	|	
+8-DatasetSize-XL	|	1B to 10B	|	
+9-Github-Datasets	|	Datasets	|	
+
 # AI Tasks, Models and Datasets
 Type Num	|	Name to Remember 	|	Model URL
 --------|-------------------------------|------------------
