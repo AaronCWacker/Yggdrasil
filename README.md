@@ -7,6 +7,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 1) https://huggingface.co/akhaliq	-	GFP-GAN - Best Image to Image Face Restore, Lama - Best Inpainting
 2) https://huggingface.co/spaces/akhaliq/lama	-	Image to Image Inpainting
 3) https://huggingface.co/spaces/akhaliq/GFPGAN - Real-World Blind Face Restoration
+4) https://huggingface.co/abidlabs - ASR
+5) https://huggingface.co/spaces/rinong/StyleGAN-NADA
+6) https://huggingface.co/spaces/mfrashad/CharacterGAN
+7) https://huggingface.co/spaces/mfrashad/ClothingGAN
+8) 
 
 # AI Tasks, Models and Datasets
 Type Num	|	AI Task Area  	|	Author URL	|	Space URL
