@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Youtube Playlists for Areas of Research
+
+Playlist Name		            	 | Playlist URL
+-----------------------------------------|------------------
+2022 - HTML5 Based Simulation and Game Dev Platforms with Playcanvas, Aframe, Godot, Three.js, Huggingface and Unity	|	https://www.youtube.com/playlist?list=PLHgX2IExbFotMSeJfV6FBYAnSt1SS1sfh
+2022 - PlayCanvas HTML5 Simulation and Gamification for AI, AR/VR, and IoT	|	https://www.youtube.com/playlist?list=PLHgX2IExbFotpWOk95n3FPraETHSLvOSW
+2022 - The Pain, The Joy and the Superpower of What You Are Creating	|	https://www.youtube.com/playlist?list=PLHgX2IExbFos7_pMN_2kUiNnmgYDzhU3F
+2022 - AI, Cognitive and Neuroscience to Assist and Augment Behavioral and Medical Health	|	https://www.youtube.com/playlist?list=PLHgX2IExbFouJoqEr8JMF5MbZSbyC91-L
+
+
 # Areas of Research
 
 The main places where you can quickly learn the state of art tasks, papers, models and datasets in AI quickly are:
