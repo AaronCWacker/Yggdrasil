@@ -1,6 +1,50 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Areas of Research
+
+The main places where you can quickly learn the state of art tasks, papers, models and datasets in AI quickly are:
+1) https://paperswithcode.com/sota
+2) https://huggingface.co/models
+3) https://huggingface.co/datasets
+4) https://www.youtube.com
+
+The table below illustrates the main task areas of innovation in AI.
+
+Type Num		            	 | Search Query
+-----------------------------------------|------------------
+AI/ML Pipelines	 			 | [AI/ML](https://www.youtube.com/results?search_query=AI%2FML)
+IoT, Ambient, Robot and AGI AI	         | Edge, IOT, Security, DME	 | [IOT](https://www.youtube.com/results?search_query=IoT)
+Cognitive, Neuroscience, Psychology, Social, Behavior  AI | 	https://www.youtube.com/results?search_query=neuroscience 
+Cognitive, Neuroscience, Psychology, Social, Behavior  AI | 	https://www.youtube.com/results?search_query=cognitive+ai&sp=EgIIAw%253D%253D
+Health, Medicine, Brain, Body AI | https://www.youtube.com/results?search_query=health+ai&sp=EgQIBBAB
+Health, Medicine, Brain, Body AI | https://www.youtube.com/results?search_query=medical+ai&sp=EgIIBA%253D%253D
+Genomics AI	|	https://www.youtube.com/results?search_query=genomics+ai
+Gaming, GAN, GAIL AR VR XR and 3D Sim AI	|	https://www.youtube.com/results?search_query=gaming+ai&sp=EgIIBA%253D%253D	
+Graph, Ontology, and Knowledge Base AI	|	https://www.youtube.com/results?search_query=graph+ontology+ai&sp=EgIIBA%253D%253D
+Natural Language Processing AI		|	https://www.youtube.com/results?search_query=NLP+ai&sp=EgIIBA%253D%253D
+Quantum Compute GPU TPU NPU AI		|	https://www.youtube.com/results?search_query=quantum+ai&sp=EgIIBA%253D%253D
+Vision Image and Document AI		|	https://www.youtube.com/results?search_query=vision+ai&sp=EgIIBA%253D%253D
+Audio, Music, Speech, and Video AI	|	https://www.youtube.com/results?search_query=audio+ai&sp=EgIIBA%253D%253D
+Computer Code AI			|	https://www.youtube.com/results?search_query=computer+code+ai&sp=EgIIBA%253D%253D
+Decision Making and Reasoning Cognitive AI	|	https://www.youtube.com/results?search_query=reasoning+ai&sp=EgIIBA%253D%253D
+Cryptocurrency, Financial Service AI	|	https://www.youtube.com/results?search_query=crypto+ai&sp=EgIIBA%253D%253D
+
+# Google Search Command Examples:
+
+1) site: name of the website
+2) inurl: specified keyword
+3) intitle: required keyword
+4) intext: required keyword
+5) filetype: pdf,doc, log, etc.
+6) “search keyword”
+7) cyber security -site: wikipedia.org
+8) “river” AND “cap”
+9) “river” OR “town”
+10) intitle:”webcamXP 5”
+11) amazon.com filetype:pdf
+12) filetype: log
+
 
 # Best in Class SOTA Picks - Vision, NLP, Audio, Multimodal, Tabular, RL, Datasets, Github - Rated on Usefulness
 
@@ -11,7 +55,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 5) https://huggingface.co/spaces/rinong/StyleGAN-NADA
 6) https://huggingface.co/spaces/mfrashad/CharacterGAN
 7) https://huggingface.co/spaces/mfrashad/ClothingGAN
-8) 
+
 
 # AI Tasks, Models and Datasets
 Type Num	|	AI Task Area  	|	Author URL	|	Space URL
