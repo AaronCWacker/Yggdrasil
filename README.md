@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# AutoNLP from Transcripts
+
+AI use in transcript analysis offers the capability to automatically summarize, extract entities, understand and score things like bias and sentiment, and also unlock complex memory enhancement which could keep trck of things related to what you know or are interested and personalize the subject maatter in order to help you augment your intelligence.
+
+For this purpose there are five transcripts below which I'm intending to use as a form of instruction where large language models, Seq2Seq NLP Task, MLM NLP Task, Generators, and Transformers can be used together in an AI Pipeline that breaks apart useful information and commits it to memory for you to review later forming an AI agent that helps you learn.
+
+Transcripts are all titled AutoNLPTranscript-AIinScienceFictionandFuturistVisions referring to the fact that thinking creatively about subject matter of possibilities mixed with reality creates a fertile ground for knowledge engineering.
+
+1) 
+
+
 # Youtube Playlists for Areas of Research
 
 Playlist Name		            	 | Playlist URL
