@@ -15,6 +15,8 @@ Number	|	Title		|	URL
 6	|	title: 🖼️NLP Multilingual Vision Image To OCR Text👁️📄	|	https://huggingface.co/spaces/awacke1/Image2OCR
 7	|	title: ▶️NLP Transcript from Video Gen📝	|	https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
 8	|	title: 👩‍⚕️NLP Biomed MLM Mask Language Classifier🩺🏥	|	https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+9	|	title: 👩‍⚕️NLP Text File Context QnA🙋	|	https://huggingface.co/spaces/awacke1/SOTA-Plan
+10	|	
 
 # AutoNLP from Transcripts
 
