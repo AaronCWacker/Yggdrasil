@@ -4,12 +4,18 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # AutoNLP from Transcripts
 
-AI use in transcript analysis offers the capability to automatically summarize, extract entities, understand and score things like bias and sentiment, and also unlock complex memory enhancement which could keep trck of things related to what you know or are interested and personalize the subject maatter in order to help you augment your intelligence.
+AI use in transcript analysis offers the capability to automatically summarize, extract entities, understand and score things like bias and sentiment, and also unlock complex memory enhancement which could keep track of things in context related to what you know or are interested in then to personalize the subject matter in order to help you augment your intelligence.
 
-For this purpose there are five transcripts below which I'm intending to use as a form of instruction where large language models, Seq2Seq NLP Task, MLM NLP Task, Generators, and Transformers can be used together in an AI Pipeline that breaks apart useful information and commits it to memory for you to review later forming an AI agent that helps you learn.
+For this purpose there are five transcripts below.  Goal is to create an AI pipeline that could assist with understanding content in a self supervised fashion just by example.  This is a form of instruction using large language models, Seq2Seq NLP Task, MLM NLP Task, Generators, and Transformers together in an AI Pipeline that breaks apart useful information and commits it to memory for you to review later forming an AI agent that helps you learn what you care about.
 
-Transcripts are all titled AutoNLPTranscript-AIinScienceFictionandFuturistVisions referring to the fact that thinking creatively about subject matter of possibilities mixed with reality creates a fertile ground for knowledge engineering.
+Transcripts are titled AutoNLPTranscript-AIinScienceFictionandFuturistVisions referring to the fact that thinking creatively about subject matter of possibilities mixed with reality creates a fertile ground for knowledge engineering.
 
+As much as possible results will be shown as markdown per the tips on Markdown Cheatsheet located here:  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Playlist:
+https://www.youtube.com/playlist?list=PLHgX2IExbFovQybyfltywXnqZi5YvaSS-
+
+Transcripts:
 1) 
 
 
