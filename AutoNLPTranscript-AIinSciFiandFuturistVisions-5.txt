@@ -1,0 +1,274 @@
+0:00
+Transcriber: Gisele Cristina Ribeiro Reviewer: lisa thompson
+0:10
+Artificial intelligence has often been depicted as villain robots
+0:14
+ready to take over the world.
+0:16
+But I’m here to tell you that AI can actually save lives
+0:20
+and improve health care for millions of patients around the world.
+0:25
+AI is helping us personalize the delivery of care,
+0:29
+make hospitals more efficient,
+0:31
+and improve access to health care by providing accurate decision-making tools.
+0:37
+AI is the process of educating a computer model
+0:40
+using complex and large data sets.
+0:43
+The model learns from this data in a training process
+0:46
+to build its ability to make decisions
+0:49
+or predict outcomes when presented with new data.
+0:54
+We are talking about having access to a computer model that knows,
+0:57
+based on the experience of thousands of other patients,
+1:01
+whether a treatment is likely to work
+1:03
+and what works best for that patient based on their individual conditions.
+1:09
+No two of you in this room or, in fact, anywhere in the world are alike.
+1:14
+But AI models are helping our doctors
+1:17
+learn from patients with similar conditions
+1:19
+or even similar genetic information
+1:21
+and make highly informed decisions
+1:23
+about their diagnosis and their treatment options.
+1:27
+I want to talk about how we are starting to use AI
+1:30
+for delivering care to cancer patients.
+1:34
+Cancer diagnosis can be immensely complicated,
+1:37
+both for the doctors
+1:38
+in making decisions about diagnosing a primary or secondary cancer,
+1:42
+as well as for the patients, in understanding the risks
+1:45
+and success rates of the treatment options.
+1:49
+But we are developing AI models that can help streamline this process
+1:54
+by taking information from a number of sources.
+1:58
+This involves feeding an AI model data from the patient’s blood tests,
+2:03
+X-ray images of the suspected lesions,
+2:06
+as well as genetic information from a tissue biopsy.
+2:10
+The trained AI model can rapidly consolidate this information
+2:14
+and provide highly accurate predictions of the patient's diagnosis,
+2:19
+treatment options most likely to succeed, as well as the prognosis.
+2:25
+Let’s talk about Peter, who is a cancer patient.
+2:29
+He’s gone through comprehensive clinical assessment, imaging
+2:33
+and various other diagnostic workups,
+2:35
+but not even the best doctors in town can tell him where his cancer primary site is,
+2:43
+meaning he can’t get a treatment specific for his cancer
+2:47
+and his chances of surviving another five years is less than ten percent.
+2:52
+But our team right here in Brisbane
+2:55
+has developed a tool using AI and patients’ genetic information
+2:59
+that can accurately identify the cancer primary site of Peter,
+3:03
+and empower doctors
+3:05
+to give Peter a treatment that we know is going to work for him.
+3:09
+These type of models can be expanded exponentially
+3:14
+to predict accurate health care.
+3:17
+This means using an AI model
+3:20
+to understand whether a certain population is more susceptible to a certain disease
+3:26
+and whether they would respond more favorably
+3:28
+to certain health care interventions.
+3:32
+AI is giving us the ability to have a much more refined
+3:35
+and detailed understanding of human health than we’ve ever had before.
+3:41
+But there is a catch to the immense promise of AI
+3:44
+being implemented into routine clinical practice.
+3:48
+Our existing regulation frameworks aren’t designed for AI software
+3:53
+intended for diagnosing, treating or managing the disease,
+3:57
+also known as AI-based software as a medical device.
+4:01
+They are designed for physical medical devices, like surgical implants,
+4:05
+or most software that have the same output
+4:08
+every time that the patient or clinicians are using them.
+4:13
+Traditional software are static,
+4:15
+in a sense that the developers release a version of a software
+4:19
+and, no matter how many times you use it,
+4:21
+it would always have the same output for the same data.
+4:25
+On the other hand,
+4:26
+AI software behaves completely differently to most software in health care
+4:30
+because of the intrinsic ability to learn and evolve over time,
+4:34
+ideally becoming more intelligent
+4:36
+as suited to the environment that they’re being used at.
+4:39
+Our existing regulation frameworks
+4:41
+rely on the static and reproducible nature of this software
+4:45
+to prove that they are safe
+4:46
+to be implemented into routine clinical practice.
+4:51
+So, our regulatory authorities’ solution has been to lock the learning potential
+4:55
+of these algorithms before they are implemented into clinical practice.
+5:00
+This means that the model can no longer learn from its environment and new data,
+5:05
+which limits its potential to improve its functionality or its accuracy,
+5:09
+you know, the whole point of AI.
+5:12
+And, at times, this can even be harmful for the patients
+5:15
+because the AI model is no longer trained on the most up-to-date data
+5:20
+and can potentially lead to a wrong diagnosis.
+5:25
+But the good news is
+5:27
+that there are emerging regulation frameworks being proposed
+5:30
+that, if implemented right, can be a game changer.
+5:35
+Our regulatory authorities are proposing using more transparent reporting mechanism
+5:40
+so that the developers can disclose how their models would learn
+5:44
+and evolve over time.
+5:45
+And this will be combined with ongoing and real-time monitoring
+5:49
+to make sure that the predicted changes actually occur
+5:52
+and that the software is adaptive to make much more accurate predictions
+5:57
+and improve health care outcomes.
+5:59
+We also need to make sure
+6:01
+that the training data used for these algorithms
+6:04
+are representative of the entire human population.
+6:08
+Let’s look at a mobile-based diagnostic software
+6:11
+that we are developing right here in Brisbane
+6:14
+that uses AI to detect skin cancer
+6:17
+from the images that you’ve taken on your iPhone.
+6:21
+If this model has been trained on a predominantly Caucasian population,
+6:25
+how well do you think it would do
+6:27
+on an African American or an Asian patient?
+6:31
+Our AI developers have a huge responsibility
+6:34
+to make sure that data bias doesn’t exist
+6:37
+and that their models are trained
+6:39
+on diverse and robust data sets, representative of the entire population,
+6:44
+you know, not just white males.
+6:48
+But at times, we understand that this is not entirely possible.
+6:52
+Skin cancer does, in fact,
+6:54
+disproportionately affect the Caucasian population
+6:57
+because of the genetic differences,
+6:59
+and, as a result, there are much larger data sets available for those patients.
+7:05
+But this means that we need to build in a functionality in our AI models
+7:09
+that, for low confidence results, for an Asian patient, for example,
+7:14
+the model is capable of saying “I don’t know”
+7:17
+or that “This is my best guess based on a skewed training population.”
+7:22
+But, unfortunately, this functionality doesn’t exist yet,
+7:25
+and it’s urgently needed to be mandated by our regulators.
+7:31
+To successfully implement AI in health care,
+7:34
+we need to establish new regulatory frameworks
+7:38
+in consultation with AI developers, health care practitioners,
+7:42
+policy advisers,
+7:44
+as well as the patients themselves, to bring the best out of AI.
+7:50
+Improve the regulatory frameworks
+7:51
+can make sure that diverse and robust tools are developed
+7:56
+that are compliant and adaptive
+7:58
+and can serve the whole population equally.
+8:01
+If we get this right, we can transform the delivery of health care
+8:06
+where we are promoting personalized health and well-being advice.
+8:09
+I’m excited to be at the forefront of translating this amazing technology
+8:15
+into health care
+8:16
+and use this to help millions of lives around the world.
+8:21
+(Applause)
