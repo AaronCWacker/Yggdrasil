@@ -16,7 +16,11 @@ Playlist:
 https://www.youtube.com/playlist?list=PLHgX2IExbFovQybyfltywXnqZi5YvaSS-
 
 Transcripts:
-1) 
+1) https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-1.txt
+2) https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-2.txt
+3) https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-3.txt
+4) https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-4.txt
+5) https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-5.txt
 
 
 # Youtube Playlists for Areas of Research
