@@ -16,7 +16,27 @@ Number	|	Title		|	URL
 7	|	title: ▶️NLP Transcript from Video Gen📝	|	https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
 8	|	title: 👩‍⚕️NLP Biomed MLM Mask Language Classifier🩺🏥	|	https://huggingface.co/spaces/awacke1/SOTA-MedEntity
 9	|	title: 👩‍⚕️NLP Text File Context QnA🙋	|	https://huggingface.co/spaces/awacke1/SOTA-Plan
-10	|	
+10	|	title: 🔎NLP Image and Movie Semantic Search🎥🖼️	|	https://huggingface.co/spaces/awacke1/Image-Search-Similar
+11	|	title: 📗NLP Advanced Tech Plot Search Stream Memory❤️🎥	|	https://huggingface.co/spaces/awacke1/Search_Streamlit?query=Genomics
+12	|	title: 📚NLP Pegasus Bart Parallel Summary Gen➡️🖺	|	https://huggingface.co/spaces/awacke1/SOTA-Summary
+13	|	title: 📊 NLP Language Visual Graph Gen 🕸️	|	https://huggingface.co/spaces/awacke1/GraphViz-Demo
+14	|	title: ⚡NLP Parallel Summary Mindful Tip Gen🚀	|	https://huggingface.co/spaces/awacke1/ParallelSummaryModel
+15	|	title: 💬NLP Few Shot Sequence Text to Images🧗🖼️	|	https://huggingface.co/spaces/awacke1/GenerativeWordsandImages
+16	|	title: 🧠NLP Document Video Generator🎬	|	https://huggingface.co/spaces/awacke1/AIPipeline-Multimodel
+17	|	title: 🧠📑NLP Document Forms OCR📑🧠	|	https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+18	|	title: 💬NLP TimeSeries Altair Graph📈	|	https://huggingface.co/spaces/awacke1/TimeSeries
+19	|	title: 💬NLP Seq2Seq QnA Gen🙋		|	https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+20	|	title: 🗣️ NLP Text2SpeechSentimentSave 💽	|	https://huggingface.co/spaces/awacke1/Text2SpeechSentimentSave
+21	|	title: 💪 NLP SaveAndReloadDataset 💽	|	https://huggingface.co/spaces/awacke1/SaveAndReloadDataset
+22	|	title: 🎥 NLP Video Playlist Save Document 💽	|	https://huggingface.co/spaces/awacke1/FirestorePersistence
+23	|	title: 💬 NLP Words to Graph ML Ops 📊	|	https://huggingface.co/spaces/awacke1/MLOpsStreamlit
+24	|	title: 🗣️ NLP Speech Sentiment Save 💜💽	|	https://huggingface.co/spaces/awacke1/NLPAutoAI
+25	|	title: 🗒️ NLP CSV Sentiment ❤️		|	https://huggingface.co/spaces/awacke1/CSV2ClassifyVisualization
+26	|	title: 🗣️NLP Speech Story Read Aloud📚	|	https://huggingface.co/spaces/awacke1/SpeechStoryReadAloud
+27	|	title: 🆒 NLP Text to Word Cloud 🌩️	|	https://huggingface.co/spaces/awacke1/VisualCluster
+28	|	title: 🗣️ NLP Speech-In-Out Multi Model 🙉	|	https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+29	|	title: 🐉🐲 NLP Wordfinder From Letters 🐲🐉	|	https://huggingface.co/spaces/awacke1/WordGames
+30	|	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 
 # AutoNLP from Transcripts
 
