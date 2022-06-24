@@ -36,7 +36,14 @@ Number	|	Title		|	URL
 27	|	title: 🆒 NLP Text to Word Cloud 🌩️	|	https://huggingface.co/spaces/awacke1/VisualCluster
 28	|	title: 🗣️ NLP Speech-In-Out Multi Model 🙉	|	https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
 29	|	title: 🐉🐲 NLP Wordfinder From Letters 🐲🐉	|	https://huggingface.co/spaces/awacke1/WordGames
-30	|	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+30	|	title: NLP GPT Mindful Story Gen ❤️	|	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+31	|	title: NLP GPT Story Gen Blocks	|	https://huggingface.co/spaces/awacke1/GradioBlocksDemo-Transformers
+32	|	title: NLP GPT Story Gen	|	https://huggingface.co/spaces/awacke1/Transformers-StoryWriting
+33	|	title: NLP Query CSV File	|	https://huggingface.co/spaces/awacke1/CSV2QnA
+34	|	title: NLP Wikipedia Search	|	https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
+35	|	title: NLP Context QnA		|	https://huggingface.co/spaces/awacke1/ContextQuestionAnswerNLP
+36	|	title: NLP Audio STT Sentiment Save	|	https://huggingface.co/spaces/awacke1/STT-TTS-ASR-AI-NLP-Pipeline
+37	|	title: NLP ASR STT Wav2Vec2	|	https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
 
 # AutoNLP from Transcripts
 
