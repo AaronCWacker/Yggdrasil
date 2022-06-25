@@ -5,12 +5,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 Below is the list of NLP models and spaces which accomplish the tasks required to move between different media types and do language translation and mapping between different ontological schemata.
 
-Number	|	Title		|	URL
---------|-----------------------|-----------------
-1	|	title: 🗨️NLP Speech2Text-ASR📄	|	https://huggingface.co/spaces/awacke1/RealTime-ASR-NLP
-2	|	title: 🧠NLP Memory Streamlit Cache UI🍪 | https://huggingface.co/spaces/awacke1/Memory-Streamlit
-3	|	title: 👩‍🏫NLP Grammar and Sentence Word Correct😊	|	https://huggingface.co/spaces/awacke1/Grammar-Styler
-4	|	title: 📖NLP Semantic Role Label QnA❓	|	https://huggingface.co/spaces/awacke1/QandAGenerator
+Number	|	Title		|	URL		|	Inputs, SDK
+--------|-----------------------|-----------------|--------------
+1	|	title: 🗨️NLP Speech2Text-ASR📄	|	https://huggingface.co/spaces/awacke1/RealTime-ASR-NLP	|	Audio, ASR
+2	|	title: 🧠NLP Memory Streamlit Cache UI🍪 | https://huggingface.co/spaces/awacke1/Memory-Streamlit	|	Text Sentence, Slider, Checkbox
+3	|	title: 👩‍🏫NLP Grammar and Sentence Word Correct😊	|	https://huggingface.co/spaces/awacke1/Grammar-Styler	|	Text Sentence
+4	|	title: 📖NLP Semantic Role Label QnA❓	|	https://huggingface.co/spaces/awacke1/QandAGenerator	|	
 5	|	title: 💬NLP Silero Audio File to STT ASR📄	|	https://huggingface.co/spaces/awacke1/SOTA-Speech2Text
 6	|	title: 🖼️NLP Multilingual Vision Image To OCR Text👁️📄	|	https://huggingface.co/spaces/awacke1/Image2OCR
 7	|	title: ▶️NLP Transcript from Video Gen📝	|	https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
