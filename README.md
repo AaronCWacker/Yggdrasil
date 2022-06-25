@@ -2,7 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
-# Semper Fidelis - always faithful floating docks for Mariners
+# Semper Fidelis - Renaissance of an Always Faithful floating dock for land to sea Mariners
 
 In the US a ship SS Anderson was one of the first concrete boats.
 
