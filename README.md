@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Semper Fidelis - always faithful floating docks for mariners
+Number	|	Title		|	URL		|	Inputs, SDK
+--------|-----------------------|-----------------|--------------
+1	|	Floating concrete docks	|	https://www.google.com/search?q=how+to+make+floating+concrete+docks&rlz=1C1CHBF_enUS852US852&sxsrf=ALiCzsYjskVDbVVV8zie74Cr8MKjaibg8g%3A1656153461279&ei=deW2YtvZEOTXkPIP4-qawAg&ved=0ahUKEwib6IK2tMj4AhXkK0QIHWO1BogQ4dUDCA8&uact=5&oq=how+to+make+floating+concrete+docks&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEB4QFjIGCAAQHhAWMgUIABCGAzIFCAAQhgMyBQgAEIYDMgUIABCGAzoHCAAQRxCwAzoECAAQQzoFCAAQgAQ6BQghEKABOgUIIRCrAjoICCEQHhAWEB1KBAhBGABKBAhGGABQmQ1YwC5g6DFoA3ABeACAAX6IAdoFkgEDMi41mAEAoAEByAEIwAEB&sclient=gws-wiz#kpvalbx=_ieW2Yrj6JK-ckPIPqOeh2A826	| Inputs= Timber, aluminum, Concrete
+
+
+
 # NLP Spaces
 
 Below is the list of NLP models and spaces which accomplish the tasks required to move between different media types and do language translation and mapping between different ontological schemata.
