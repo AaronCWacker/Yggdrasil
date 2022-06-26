@@ -2,15 +2,9 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
-# Semper Fidelis - Renaissance of an Always Faithful floating dock for land to sea Mariners
+# Floating Concrete Docks
 
-In the US a ship SS Anderson was one of the first concrete boats.
-
-A concrete pier or boat will last forever, will always be faithfully stable, can float and can offer optimal crossing from land to sea.
-
-Standing fleet of metal or wood require constant upkeep.
-
-Concrete when floating is the ideal solution.
+In the US a ship SS Anderson was one of the first concrete boats.  A concrete pier or boat will last forever, will always be faithfully stable, can float and can offer optimal crossing from land to sea.  Standing fleet of metal or wood require constant upkeep.  Concrete when floating is the ideal solution.
 
 
 Number	|	Title		|	URL		|	Inputs, SDK
