@@ -8,43 +8,43 @@ Below is the list of NLP models and spaces which accomplish the tasks required t
 
 Number	|	Title		|	URL		|	Inputs, SDK
 --------|-----------------------|-----------------|--------------
-1	|	title: 🗨️NLP Speech2Text-ASR📄	|	https://huggingface.co/spaces/awacke1/RealTime-ASR-NLP	|	Audio, ASR
-2	|	title: 🧠NLP Memory Streamlit Cache UI🍪 | https://huggingface.co/spaces/awacke1/Memory-Streamlit	|	Text Sentence, Slider, Checkbox
-3	|	title: 👩‍🏫NLP Grammar and Sentence Word Correct😊	|	https://huggingface.co/spaces/awacke1/Grammar-Styler	|	Text Sentence
-4	|	title: 📖NLP Semantic Role Label QnA❓	|	https://huggingface.co/spaces/awacke1/QandAGenerator	|	
-5	|	title: 💬NLP Silero Audio File to STT ASR📄	|	https://huggingface.co/spaces/awacke1/SOTA-Speech2Text
-6	|	title: 🖼️NLP Multilingual Vision Image To OCR Text👁️📄	|	https://huggingface.co/spaces/awacke1/Image2OCR
-7	|	title: ▶️NLP Transcript from Video Gen📝	|	https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
-8	|	title: 👩‍⚕️NLP Biomed MLM Mask Language Classifier🩺🏥	|	https://huggingface.co/spaces/awacke1/SOTA-MedEntity
-9	|	title: 👩‍⚕️NLP Text File Context QnA🙋	|	https://huggingface.co/spaces/awacke1/SOTA-Plan
-10	|	title: 🔎NLP Image and Movie Semantic Search🎥🖼️	|	https://huggingface.co/spaces/awacke1/Image-Search-Similar
-11	|	title: 📗NLP Advanced Tech Plot Search Stream Memory❤️🎥	|	https://huggingface.co/spaces/awacke1/Search_Streamlit?query=Genomics
-12	|	title: 📚NLP Pegasus Bart Parallel Summary Gen➡️🖺	|	https://huggingface.co/spaces/awacke1/SOTA-Summary
-13	|	title: 📊 NLP Language Visual Graph Gen 🕸️	|	https://huggingface.co/spaces/awacke1/GraphViz-Demo
-14	|	title: ⚡NLP Parallel Summary Mindful Tip Gen🚀	|	https://huggingface.co/spaces/awacke1/ParallelSummaryModel
-15	|	title: 💬NLP Few Shot Sequence Text to Images🧗🖼️	|	https://huggingface.co/spaces/awacke1/GenerativeWordsandImages
-16	|	title: 🧠NLP Document Video Generator🎬	|	https://huggingface.co/spaces/awacke1/AIPipeline-Multimodel
-17	|	title: 🧠📑NLP Document Forms OCR📑🧠	|	https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
-18	|	title: 💬NLP TimeSeries Altair Graph📈	|	https://huggingface.co/spaces/awacke1/TimeSeries
-19	|	title: 💬NLP Seq2Seq QnA Gen🙋		|	https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
-20	|	title: 🗣️ NLP Text2SpeechSentimentSave 💽	|	https://huggingface.co/spaces/awacke1/Text2SpeechSentimentSave
-21	|	title: 💪 NLP SaveAndReloadDataset 💽	|	https://huggingface.co/spaces/awacke1/SaveAndReloadDataset
-22	|	title: 🎥 NLP Video Playlist Save Document 💽	|	https://huggingface.co/spaces/awacke1/FirestorePersistence
-23	|	title: 💬 NLP Words to Graph ML Ops 📊	|	https://huggingface.co/spaces/awacke1/MLOpsStreamlit
-24	|	title: 🗣️ NLP Speech Sentiment Save 💜💽	|	https://huggingface.co/spaces/awacke1/NLPAutoAI
-25	|	title: 🗒️ NLP CSV Sentiment ❤️		|	https://huggingface.co/spaces/awacke1/CSV2ClassifyVisualization
-26	|	title: 🗣️NLP Speech Story Read Aloud📚	|	https://huggingface.co/spaces/awacke1/SpeechStoryReadAloud
-27	|	title: 🆒 NLP Text to Word Cloud 🌩️	|	https://huggingface.co/spaces/awacke1/VisualCluster
-28	|	title: 🗣️ NLP Speech-In-Out Multi Model 🙉	|	https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
-29	|	title: 🐉🐲 NLP Wordfinder From Letters 🐲🐉	|	https://huggingface.co/spaces/awacke1/WordGames
-30	|	title: NLP GPT Mindful Story Gen ❤️	|	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
-31	|	title: NLP GPT Story Gen Blocks	|	https://huggingface.co/spaces/awacke1/GradioBlocksDemo-Transformers
-32	|	title: NLP GPT Story Gen	|	https://huggingface.co/spaces/awacke1/Transformers-StoryWriting
-33	|	title: NLP Query CSV File	|	https://huggingface.co/spaces/awacke1/CSV2QnA
-34	|	title: NLP Wikipedia Search	|	https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
-35	|	title: NLP Context QnA		|	https://huggingface.co/spaces/awacke1/ContextQuestionAnswerNLP
-36	|	title: NLP Audio STT Sentiment Save	|	https://huggingface.co/spaces/awacke1/STT-TTS-ASR-AI-NLP-Pipeline
-37	|	title: NLP ASR STT Wav2Vec2	|	https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+1	|	🗨️NLP Speech2Text-ASR📄	|	https://huggingface.co/spaces/awacke1/RealTime-ASR-NLP	|	Audio, ASR
+2	|	🧠NLP Memory Streamlit Cache UI🍪 | https://huggingface.co/spaces/awacke1/Memory-Streamlit	|	Text Sentence, Slider, Checkbox
+3	|	 👩‍🏫NLP Grammar and Sentence Word Correct😊	|	https://huggingface.co/spaces/awacke1/Grammar-Styler	|	Text Sentence
+4	|	📖NLP Semantic Role Label QnA❓	|	https://huggingface.co/spaces/awacke1/QandAGenerator	|	
+5	|	💬NLP Silero Audio File to STT ASR📄	|	https://huggingface.co/spaces/awacke1/SOTA-Speech2Text
+6	|	🖼️NLP Multilingual Vision Image To OCR Text👁️📄	|	https://huggingface.co/spaces/awacke1/Image2OCR
+7	|	▶️NLP Transcript from Video Gen📝	|	https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
+8	|	👩‍⚕️NLP Biomed MLM Mask Language Classifier🩺🏥	|	https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+9	|	👩‍⚕️NLP Text File Context QnA🙋	|	https://huggingface.co/spaces/awacke1/SOTA-Plan
+10	|	🔎NLP Image and Movie Semantic Search🎥🖼️	|	https://huggingface.co/spaces/awacke1/Image-Search-Similar
+11	|	📗NLP Advanced Tech Plot Search Stream Memory❤️🎥	|	https://huggingface.co/spaces/awacke1/Search_Streamlit?query=Genomics
+12	|	📚NLP Pegasus Bart Parallel Summary Gen➡️🖺	|	https://huggingface.co/spaces/awacke1/SOTA-Summary
+13	|	📊 NLP Language Visual Graph Gen 🕸️	|	https://huggingface.co/spaces/awacke1/GraphViz-Demo
+14	|	⚡NLP Parallel Summary Mindful Tip Gen🚀	|	https://huggingface.co/spaces/awacke1/ParallelSummaryModel
+15	|	💬NLP Few Shot Sequence Text to Images🧗🖼️	|	https://huggingface.co/spaces/awacke1/GenerativeWordsandImages
+16	|	🧠NLP Document Video Generator🎬	|	https://huggingface.co/spaces/awacke1/AIPipeline-Multimodel
+17	|	🧠📑NLP Document Forms OCR📑🧠	|	https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+18	|	💬NLP TimeSeries Altair Graph📈	|	https://huggingface.co/spaces/awacke1/TimeSeries
+19	|	💬NLP Seq2Seq QnA Gen🙋		|	https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+20	|	🗣️ NLP Text2SpeechSentimentSave 💽	|	https://huggingface.co/spaces/awacke1/Text2SpeechSentimentSave
+21	|	💪 NLP SaveAndReloadDataset 💽	|	https://huggingface.co/spaces/awacke1/SaveAndReloadDataset
+22	|	🎥 NLP Video Playlist Save Document 💽	|	https://huggingface.co/spaces/awacke1/FirestorePersistence
+23	|	💬 NLP Words to Graph ML Ops 📊	|	https://huggingface.co/spaces/awacke1/MLOpsStreamlit
+24	|	🗣️ NLP Speech Sentiment Save 💜💽	|	https://huggingface.co/spaces/awacke1/NLPAutoAI
+25	|	🗒️ NLP CSV Sentiment ❤️		|	https://huggingface.co/spaces/awacke1/CSV2ClassifyVisualization
+26	|	🗣️NLP Speech Story Read Aloud📚	|	https://huggingface.co/spaces/awacke1/SpeechStoryReadAloud
+27	|	🆒 NLP Text to Word Cloud 🌩️	|	https://huggingface.co/spaces/awacke1/VisualCluster
+28	|	🗣️ NLP Speech-In-Out Multi Model 🙉	|	https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+29	|	🐉🐲 NLP Wordfinder From Letters 🐲🐉	|	https://huggingface.co/spaces/awacke1/WordGames
+30	|	NLP GPT Mindful Story Gen ❤️	|	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+31	|	NLP GPT Story Gen Blocks	|	https://huggingface.co/spaces/awacke1/GradioBlocksDemo-Transformers
+32	|	NLP GPT Story Gen	|	https://huggingface.co/spaces/awacke1/Transformers-StoryWriting
+33	|	NLP Query CSV File	|	https://huggingface.co/spaces/awacke1/CSV2QnA
+34	|	NLP Wikipedia Search	|	https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
+35	|	NLP Context QnA		|	https://huggingface.co/spaces/awacke1/ContextQuestionAnswerNLP
+36	|	NLP Audio STT Sentiment Save	|	https://huggingface.co/spaces/awacke1/STT-TTS-ASR-AI-NLP-Pipeline
+37	|	NLP ASR STT Wav2Vec2	|	https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
 
 # AutoNLP from Transcripts
 
