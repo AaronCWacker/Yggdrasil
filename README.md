@@ -68,6 +68,44 @@ Transcripts:
 
 
 
+# AI Tasks, Models and Datasets for Vision, NLP, Audio, Multimodal
+Type Num	|	Name to Remember 	|	Model URL
+--------|-------------------------------|------------------
+1-Vision	|	image classification	|	https://huggingface.co/models?pipeline_tag=image-classification
+1-Vision	|	image segmentation	|	https://huggingface.co/models?pipeline_tag=image-segmentation
+1-Vision	|	image to image		|	https://huggingface.co/models?pipeline_tag=image-to-image
+1-Vision	|	unconditional image generation	|	https://huggingface.co/models?pipeline_tag=unconditional-image-generation
+1-Vision	|	object detection	|	https://huggingface.co/models?pipeline_tag=object-detection
+2-NLP	|	translation	|	https://huggingface.co/models?pipeline_tag=translation
+2-NLP	|	fill mask		|	https://huggingface.co/models?pipeline_tag=fill-mask
+2-NLP	|	token classification	|	https://huggingface.co/models?pipeline_tag=token-classification
+2-NLP	|	sentence similarity	|	https://huggingface.co/models?pipeline_tag=sentence-similarity
+2-NLP	|	question answering	|	https://huggingface.co/models?pipeline_tag=question-answering
+2-NLP	|	summarization	|	https://huggingface.co/models?pipeline_tag=summarization
+2-NLP	|	zero shot classification	|	https://huggingface.co/models?pipeline_tag=zero-shot-classification
+2-NLP	|	text classification	|	https://huggingface.co/models?pipeline_tag=text-classification
+2-NLP	|	text to text generation	|	https://huggingface.co/models?pipeline_tag=text2text-generation
+2-NLP	|	text-generation		|	https://huggingface.co/models?pipeline_tag=text-generation
+2-NLP	|	conversational		|	https://huggingface.co/models?pipeline_tag=conversational
+2-NLP	|	table question answering	|	https://huggingface.co/models?pipeline_tag=table-question-answering
+3-Audio	|	automatic speech recognition	|	https://huggingface.co/models?pipeline_tag=automatic-speech-recognition
+3-Audio	|	audio classification	|	https://huggingface.co/models?pipeline_tag=audio-classification
+3-Audio	|	text to speech	|	https://huggingface.co/models?pipeline_tag=text-to-speech
+3-Audio	|	audio to audio	|	https://huggingface.co/models?pipeline_tag=audio-to-audio
+3-Audio	|	voice activity detection	|	https://huggingface.co/models?pipeline_tag=voice-activity-detection
+4-Multimodal	|	feature extraction	|	https://huggingface.co/models?pipeline_tag=feature-extraction
+4-Multimodal	|	text to image	|	https://huggingface.co/models?pipeline_tag=text-to-image
+4-Multimodal	|	image to text	|	https://huggingface.co/models?pipeline_tag=image-to-text
+5-Tabular	|	tabular classification	|	https://huggingface.co/models?pipeline_tag=tabular-classification
+6-RL	|	reinforcement learning	|	https://huggingface.co/models?pipeline_tag=reinforcement-learning
+7-Datasets	|	Datasets and Knowledge Representation	|	https://huggingface.co/datasets
+8-DatasetSize-S	|	1M to 10M	|	https://huggingface.co/datasets?size_categories=size_categories:1M%3Cn%3C10M&sort=downloads
+8-DatasetSize-M	|	10M to 100M	|	https://huggingface.co/datasets?size_categories=size_categories:10M%3Cn%3C100M&sort=downloads
+8-DatasetSize-L	|	100M to 1B	|	https://huggingface.co/datasets?size_categories=size_categories:100M%3Cn%3C1B&sort=downloads
+8-DatasetSize-XL	|	1B to 10B	|	https://huggingface.co/datasets?size_categories=size_categories:1B%3Cn%3C10B&sort=downloads
+9-Github-Datasets	|	Datasets	|	https://github.com/huggingface/datasets/tree/master/datasets
+
+
 
 # Floating Concrete Docks
 
@@ -150,7 +188,7 @@ Cryptocurrency, Financial Service AI	|	https://www.youtube.com/results?search_qu
 7) https://huggingface.co/spaces/mfrashad/ClothingGAN
 
 
-# AI Tasks, Models and Datasets
+# AI Tasks, Models and Datasets for Vision, NLP, Audio, Multimodal
 Type Num	|	AI Task Area  	|	Author URL	|	Space URL
 --------|-------------------------------|----------|--------
 1-Vision	|	image classification	|	
@@ -187,44 +225,6 @@ Type Num	|	AI Task Area  	|	Author URL	|	Space URL
 8-DatasetSize-L	|	100M to 1B	|	
 8-DatasetSize-XL	|	1B to 10B	|	
 9-Github-Datasets	|	Datasets	|	
-
-# AI Tasks, Models and Datasets
-Type Num	|	Name to Remember 	|	Model URL
---------|-------------------------------|------------------
-1-Vision	|	image classification	|	https://huggingface.co/models?pipeline_tag=image-classification
-1-Vision	|	image segmentation	|	https://huggingface.co/models?pipeline_tag=image-segmentation
-1-Vision	|	image to image		|	https://huggingface.co/models?pipeline_tag=image-to-image
-1-Vision	|	unconditional image generation	|	https://huggingface.co/models?pipeline_tag=unconditional-image-generation
-1-Vision	|	object detection	|	https://huggingface.co/models?pipeline_tag=object-detection
-2-NLP	|	translation	|	https://huggingface.co/models?pipeline_tag=translation
-2-NLP	|	fill mask		|	https://huggingface.co/models?pipeline_tag=fill-mask
-2-NLP	|	token classification	|	https://huggingface.co/models?pipeline_tag=token-classification
-2-NLP	|	sentence similarity	|	https://huggingface.co/models?pipeline_tag=sentence-similarity
-2-NLP	|	question answering	|	https://huggingface.co/models?pipeline_tag=question-answering
-2-NLP	|	summarization	|	https://huggingface.co/models?pipeline_tag=summarization
-2-NLP	|	zero shot classification	|	https://huggingface.co/models?pipeline_tag=zero-shot-classification
-2-NLP	|	text classification	|	https://huggingface.co/models?pipeline_tag=text-classification
-2-NLP	|	text to text generation	|	https://huggingface.co/models?pipeline_tag=text2text-generation
-2-NLP	|	text-generation		|	https://huggingface.co/models?pipeline_tag=text-generation
-2-NLP	|	conversational		|	https://huggingface.co/models?pipeline_tag=conversational
-2-NLP	|	table question answering	|	https://huggingface.co/models?pipeline_tag=table-question-answering
-3-Audio	|	automatic speech recognition	|	https://huggingface.co/models?pipeline_tag=automatic-speech-recognition
-3-Audio	|	audio classification	|	https://huggingface.co/models?pipeline_tag=audio-classification
-3-Audio	|	text to speech	|	https://huggingface.co/models?pipeline_tag=text-to-speech
-3-Audio	|	audio to audio	|	https://huggingface.co/models?pipeline_tag=audio-to-audio
-3-Audio	|	voice activity detection	|	https://huggingface.co/models?pipeline_tag=voice-activity-detection
-4-Multimodal	|	feature extraction	|	https://huggingface.co/models?pipeline_tag=feature-extraction
-4-Multimodal	|	text to image	|	https://huggingface.co/models?pipeline_tag=text-to-image
-4-Multimodal	|	image to text	|	https://huggingface.co/models?pipeline_tag=image-to-text
-5-Tabular	|	tabular classification	|	https://huggingface.co/models?pipeline_tag=tabular-classification
-6-RL	|	reinforcement learning	|	https://huggingface.co/models?pipeline_tag=reinforcement-learning
-7-Datasets	|	Datasets and Knowledge Representation	|	https://huggingface.co/datasets
-8-DatasetSize-S	|	1M to 10M	|	https://huggingface.co/datasets?size_categories=size_categories:1M%3Cn%3C10M&sort=downloads
-8-DatasetSize-M	|	10M to 100M	|	https://huggingface.co/datasets?size_categories=size_categories:10M%3Cn%3C100M&sort=downloads
-8-DatasetSize-L	|	100M to 1B	|	https://huggingface.co/datasets?size_categories=size_categories:100M%3Cn%3C1B&sort=downloads
-8-DatasetSize-XL	|	1B to 10B	|	https://huggingface.co/datasets?size_categories=size_categories:1B%3Cn%3C10B&sort=downloads
-9-Github-Datasets	|	Datasets	|	https://github.com/huggingface/datasets/tree/master/datasets
-
 
 # Top Songs - Play Today - Your Way:
 
