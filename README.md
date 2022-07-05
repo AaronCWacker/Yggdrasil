@@ -3,18 +3,23 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Original Song - 4th of July
 
+GEm, GEm.
 Hey MY FRIENDS. TAKE IT SLOW
 CALL MCCLELLAN, Do ya know.
 
+GACA.  GACA.
 TAKE HIM, TANTA, TAKE HEATHER
 DON'T TALK now, not ABOUT HER.
 
+B A G, B A G
 HE WAS THE ONE.  She was the one.
 WE'RE FALLING DOWN with fun.
 
+GEm, GEm.
 We are FRONT TO BACK.
 CASEY did not React.
 
+GACA, BmAG.
 AND HER MAKEOVER.
 YOU WON'T BELIEVE
 it was ever over, not ever, over!
