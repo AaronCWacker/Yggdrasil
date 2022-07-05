@@ -3,29 +3,32 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Original Song - 4th of July
 
-ALL MY FRIENDS TAKE IT SLOW
-CALL ME, MCCLELLAN, Don't you know.
+Hey MY FRIENDS. TAKE IT SLOW
+CALL MCCLELLAN, Do ya know.
 
 TAKE HIM, TANTA, TAKE HEATHER
-DON'T TALK Another thing ABOUT HER.
+DON'T TALK now, not ABOUT HER.
 
 HE WAS THE ONE.  She was the one.
-WE'RE FALLING DOWN FILLED with fun.
+WE'RE FALLING DOWN with fun.
 
 We are FRONT TO BACK.
-CASEY react.
+CASEY did not React.
 
 AND HER MAKEOVER.
-YOU WON'T BELIEVE ever,
+YOU WON'T BELIEVE
+it was ever over, not ever, over!
 
-HOW FAST EVERYONE
-SO MUCH. So few.
+HOW FAST EVERYONE last.
+SO MUCH. So few. So Fast.
 
-THAT'S enought, thats what I'll do.
+THAT'S enough, thats what I'll do.
+Thats everlasting and on you.
 
 AND I'LL JUST come back to your sun.
 Coming back TO YOUR Sun.
-
+Meant dreaming moment and she,
+Had such fun!
 
 
 
