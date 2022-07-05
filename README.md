@@ -1,6 +1,33 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Original Song - 4th of July
+
+ALL MY FRIENDS TAKE IT SLOW
+CALL ME, MCCLELLAN, Don't you know.
+
+TAKE HIM, TANTA, TAKE HEATHER
+DON'T TALK Another thing ABOUT HER.
+
+HE WAS THE ONE.  She was the one.
+WE'RE FALLING DOWN FILLED with fun.
+
+We are FRONT TO BACK.
+CASEY react.
+
+AND HER MAKEOVER.
+YOU WON'T BELIEVE ever,
+
+HOW FAST EVERYONE
+SO MUCH. So few.
+
+THAT'S enought, thats what I'll do.
+
+AND I'LL JUST come back to your sun.
+Coming back TO YOUR Sun.
+
+
+
 
 # NLP Spaces
 
