@@ -1,41 +1,6 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Original Song - 4th of July
-
-GEm, GEm.
-Hey MY FRIENDS. TAKE IT SLOW
-CALL MCCLELLAN, Do ya know.
-
-GACA.  GACA.
-TAKE HIM, TANTA, TAKE HEATHER
-DON'T TALK now, not ABOUT HER.
-
-B A G, B A G
-HE WAS THE ONE.  She was the one.
-WE'RE FALLING DOWN with fun.
-
-GEm, GEm.
-We are FRONT TO BACK.
-CASEY did not React.
-
-GACA, BmAG.
-AND HER MAKEOVER.
-YOU WON'T BELIEVE
-it was ever over, not ever, over!
-
-HOW FAST EVERYONE last.
-SO MUCH. So few. So Fast.
-
-THAT'S enough, thats what I'll do.
-Thats everlasting and on you.
-
-AND I'LL JUST come back to your sun.
-Coming back TO YOUR Sun.
-Meant dreaming moment and she,
-Had such fun!
-
-
 
 # NLP Spaces
 
