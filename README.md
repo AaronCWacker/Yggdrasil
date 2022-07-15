@@ -18,14 +18,14 @@ Deep Daze		|			|	https://github.com/lucidrains/deep-daze
 Colab			|			|	https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK
 Disco Diffusion		|			|	https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 Jax Diffusion		|			|	https://colab.research.google.com/drive/1Z5kK1WXTkYoMAVN6FqkQg0Fa4bE5BnxG?usp=sharing
-Latent Diffusion	|			|	
-Centipede Diffusion	|			|
-DALL-E, DALL-E 2	|			|
-Glide			|			|
-Cogview			|			|
-MidJourney		|			|
-Imagen			|			|
-Flamingo		|			|
+Latent Diffusion	|			|	https://huggingface.co/spaces/multimodalart/latentdiffusion
+Centipede Diffusion	|			|	https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb
+DALL-E, DALL-E 2	|			|	https://www.reddit.com/r/dalle2/
+Glide			|			|	https://github.com/openai/glide-text2im
+Cogview			|			|	https://github.com/THUDM/CogView
+Mid Journey		|			|	https://www.midjourney.com/
+Imagen			|			|	https://imagen.research.google/
+Flamingo		|			|	https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
 
 
 # NLP Spaces
