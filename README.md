@@ -7,18 +7,18 @@ Below are the popular tasks and methods in AI that are related to generative art
 
 Technique	    |	  Attractions		|	URL	
 --------------------|---------------------------|----------------
-DeepDream		|			|
-GAN			|			|
-Style Transfer		|			|
-CLIP			|			|
-Generator		|			|
-VQVAE			|			|
-Siren			|			|
-DeepDaze		|			|
-Colab			|			|
-Disco Diffusion		|			|
-Jax Diffusion		|			|
-Latent Diffusion	|			|
+DeepDream		|			|	https://huggingface.co/keras-io/deep-dream
+GAN			|			|	https://huggingface.co/spaces?search=gan
+Style Transfer		|			|	https://huggingface.co/spaces?sort=modified&search=style
+CLIP			|			|	https://huggingface.co/spaces?sort=modified&search=CLIP
+Generator		|			|	https://huggingface.co/spaces?sort=modified&search=Generator
+VQVAE			|			|	https://huggingface.co/spaces?search=vq
+Siren			|			|	https://www.vincentsitzmann.com/siren/
+Deep Daze		|			|	https://github.com/lucidrains/deep-daze
+Colab			|			|	https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK
+Disco Diffusion		|			|	https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
+Jax Diffusion		|			|	https://colab.research.google.com/drive/1Z5kK1WXTkYoMAVN6FqkQg0Fa4bE5BnxG?usp=sharing
+Latent Diffusion	|			|	
 Centipede Diffusion	|			|
 DALL-E, DALL-E 2	|			|
 Glide			|			|
