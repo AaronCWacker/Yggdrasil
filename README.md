@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Generated Art, Music, and Language
+
+Below are the popular tasks and methods in AI that are related to generative art, music, and literature.
+
+Technique	    |	  Attractions		|	URL	
+--------------------|---------------------------|----------------
+DeepDream		|			|
+GAN			|			|
+Style Transfer		|			|
+CLIP			|			|
+Generator		|			|
+VQVAE			|			|
+Siren			|			|
+DeepDaze		|			|
+Colab			|			|
+Disco Diffusion		|			|
+Jax Diffusion		|			|
+Latent Diffusion	|			|
+Centipede Diffusion	|			|
+DALL-E, DALL-E 2	|			|
+Glide			|			|
+Cogview			|			|
+MidJourney		|			|
+Imagen			|			|
+Flamingo		|			|
+
 
 # NLP Spaces
 
