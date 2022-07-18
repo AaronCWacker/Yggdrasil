@@ -6,7 +6,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2) Functions like Reversal of sequence
 3) Response Time
 4) Battery of Tests - ACT, SAT, Time Limit on Verbal
-5) Genetics
+5) Genetics - Not dete3rministic, Probabilistic, Honesty, Likability
 6) Enhancing Intelligence
 7) Intelligence and Life Success
 8) Flynn Effect
