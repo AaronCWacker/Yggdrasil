@@ -6,6 +6,19 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2) Functions like Reversal of sequence
 3) Response Time
 4) Battery of Tests - ACT, SAT, Time Limit on Verbal
+5) Genetics
+6) Enhancing Intelligence
+7) Intelligence and Life Success
+8) Flynn Effect
+9) Nature vs Nurture
+10) Test AI
+11) Mortality
+
+
+# Memory Techniques
+1) Image word technique
+2) Loci technique
+3) 
 
 
 
