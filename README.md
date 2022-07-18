@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# G Factor - Definition and Building of Intelligence
+1) Vocabulary
+2) Functions like Reversal of sequence
+3) Response Time
+4) Battery of Tests - ACT, SAT, Time Limit on Verbal
+
+
+
 # AI Generated Art, Music, and Language
 
 Below are the popular tasks and methods in AI that are related to generative art, music, and literature.
