@@ -18,7 +18,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Memory Techniques
 1) Image word technique
 2) Loci technique
-3) 
+3) Fluid Intelligence - Verbal, Sequence, Diagram, Math Reasoning How to Use - Crystallized - Knowledge of Facts
 
 
 
