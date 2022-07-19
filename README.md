@@ -1,6 +1,29 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Assets and Liabilities - Time Title is Zero
+Money is the liability side of banking sector
+Asset for us
+Bank Axxount + Cash - Liability of promise of 3rd parties - Banks, National Reserve
+Augusto Graziani
+	Monetary theory of production - open source
+	Barter - 2 parties, 2 commodities
+	Money - triangle - 3 parties buyer, seller, bank - we exchange promises of banks
+	
+# Pain - In the United States it is difficult to find therapists and psychology professionals.
+
+What if we had a better geographic match making system?
+Sample search engines:
+1) https://www.mhanational.org/finding-therapy
+2) https://members.adaa.org/page/FATMain?
+3) https://www.therapyroute.com/therapists/united-states/1
+4) https://www.nvfc.org/wp-content/uploads/2020/06/Behavioral-Health-Professionals-Directory.pdf
+5) https://www.psychologytoday.com/us/therapists
+6) https://psychcentral.com/health/find-help
+7) https://www.goodtherapy.org/find-therapist.html
+8) https://www.nimh.nih.gov/health/find-help
+9) https://www.samhsa.gov/data/sites/default/files/reports/rpt34657/National_Directory_MH_facilities_2021.pdf
+
 # G Factor - Definition and Building of Intelligence
 1) Vocabulary
 2) Functions like Reversal of sequence
