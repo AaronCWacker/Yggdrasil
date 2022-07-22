@@ -10,6 +10,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 6) HTML5 PlayCanvas Demo 3D AR/VR: https://huggingface.co/spaces/awacke1/SimPhysics
 7) UI with Animation: https://huggingface.co/spaces/awacke1/AnimationAI
 8) UI with Graph: https://huggingface.co/spaces/awacke1/GraphViz-Demo
+9) Video Maker with Speech, Image and Video: https://huggingface.co/spaces/awacke1/AI-MovieMaker-Comedy
 
 # Playlists for learning Streamlit and Gradio
 1) Minimalist Container Apps (High Difficulty): https://www.youtube.com/watch?v=d1ZMnV4yM1U&list=PLHgX2IExbFoubze7E60KU1u4KGhyRc22i
@@ -17,6 +18,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3) AIML Containers with Streamlit, Gradio, Docker: https://www.youtube.com/watch?v=f6zJwK-pCJo&list=PLHgX2IExbFospBvSI6k6922l1TlojYiPh
 4) Gradio UI: https://www.youtube.com/watch?v=RiCQzBluTxU&list=PLHgX2IExbFovDzOyZClg6EJ7dn0NZ1qds
 5) Streamlit on HF : https://www.youtube.com/watch?v=8hOzsFETm4I&list=PLHgX2IExbFosAKDJ6yuVjnQLRhoj_yc3g
+
+https://emojipedia.org/
+
 
 # Assets and Liabilities - Time Title is Zero
 Money is the liability side of banking sector
