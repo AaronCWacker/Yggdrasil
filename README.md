@@ -9,6 +9,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 5) AST to Text Gen to Image to Video: https://huggingface.co/spaces/awacke1/ASRGenerateStory
 6) HTML5 PlayCanvas Demo 3D AR/VR: https://huggingface.co/spaces/awacke1/SimPhysics
 7) UI with Animation: https://huggingface.co/spaces/awacke1/AnimationAI
+8) UI with Graph: https://huggingface.co/spaces/awacke1/GraphViz-Demo
 
 # Playlists for learning Streamlit and Gradio
 1) Minimalist Container Apps (High Difficulty): https://www.youtube.com/watch?v=d1ZMnV4yM1U&list=PLHgX2IExbFoubze7E60KU1u4KGhyRc22i
