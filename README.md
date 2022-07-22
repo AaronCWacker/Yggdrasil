@@ -4,9 +4,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Training in HuggingFace, Gradio, HTML5, Streamlit for Five Minutes to AI
 1) 4 Line Gradio BioMed Context Highlighter:  https://huggingface.co/spaces/awacke1/BioMedContextHighlighter
 2) NLP QA From Context: https://huggingface.co/spaces/awacke1/SOTA-Plan
-3) NLP Sentence Similarity: https://huggingface.co/spaces/awacke1/SentenceSimilarityHeatmapAndClustering
+3) NLP Sentence Similarity: https://huggingface.co/spaces/awacke1/HFSpaceStreamlitHeatmap
 4) Video Summary Generator: https://huggingface.co/spaces/awacke1/VideoSummary2
 5) AST to Text Gen to Image to Video: https://huggingface.co/spaces/awacke1/ASRGenerateStory
+6) HTML5 PlayCanvas Demo 3D AR/VR: https://huggingface.co/spaces/awacke1/SimPhysics
+7) UI with Animation: https://huggingface.co/spaces/awacke1/AnimationAI
 
 # Playlists for learning Streamlit and Gradio
 1) Minimalist Container Apps (High Difficulty): https://www.youtube.com/watch?v=d1ZMnV4yM1U&list=PLHgX2IExbFoubze7E60KU1u4KGhyRc22i
