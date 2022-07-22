@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Training in HuggingFace, Gradio, HTML5, Streamlit for Five Minutes to AI
+1) 4 Line Gradio BioMed Context Highlighter:  https://huggingface.co/spaces/awacke1/BioMedContextHighlighter
+2) NLP QA From Context: https://huggingface.co/spaces/awacke1/SOTA-Plan
+3) NLP Sentence Similarity: https://huggingface.co/spaces/awacke1/SentenceSimilarityHeatmapAndClustering
+4) Video Summary Generator: https://huggingface.co/spaces/awacke1/VideoSummary2
+5) AST to Text Gen to Image to Video: https://huggingface.co/spaces/awacke1/ASRGenerateStory
+
+# Playlists for learning Streamlit and Gradio
+1) Minimalist Container Apps (High Difficulty): https://www.youtube.com/watch?v=d1ZMnV4yM1U&list=PLHgX2IExbFoubze7E60KU1u4KGhyRc22i
+2) Docker and Streamlit: https://www.youtube.com/watch?v=kHz6sz0jVSU&list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg
+3) AIML Containers with Streamlit, Gradio, Docker: https://www.youtube.com/watch?v=f6zJwK-pCJo&list=PLHgX2IExbFospBvSI6k6922l1TlojYiPh
+4) Gradio UI: https://www.youtube.com/watch?v=RiCQzBluTxU&list=PLHgX2IExbFovDzOyZClg6EJ7dn0NZ1qds
+5) Streamlit on HF : https://www.youtube.com/watch?v=8hOzsFETm4I&list=PLHgX2IExbFosAKDJ6yuVjnQLRhoj_yc3g
+
 # Assets and Liabilities - Time Title is Zero
 Money is the liability side of banking sector
 Asset for us
