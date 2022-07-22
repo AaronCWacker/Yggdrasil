@@ -20,7 +20,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 5) Streamlit on HF : https://www.youtube.com/watch?v=8hOzsFETm4I&list=PLHgX2IExbFosAKDJ6yuVjnQLRhoj_yc3g
 
 https://emojipedia.org/
-
+@Aaron_Wacker
 
 # Assets and Liabilities - Time Title is Zero
 Money is the liability side of banking sector
