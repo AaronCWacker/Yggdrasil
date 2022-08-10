@@ -1,6 +1,38 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Playlists for Developing and Deploying AI Pipelines with Gradio, Streamlit, Huggingface, Docker, and Kubernetes
+
+Title	|	URL
+--------|-----------------------------------------
+Data Driven AI User Interfaces and User Experience (UI/UX), Streamlit, Gradio, and HTML5	|	https://www.youtube.com/playlist?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK
+2022 - Python Azure Docker and Streamlit with Azure Sites, Azure Container Service, and VSCode	|	https://www.youtube.com/playlist?list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg
+2022 - AI, Cognitive and Neuroscience to Assist and Augment Behavioral and Medical Health	|	https://www.youtube.com/playlist?list=PLHgX2IExbFouJoqEr8JMF5MbZSbyC91-L
+2022 Quantum Machine Learning (QML) and Quantum Support Vector Machines (QSVM)	|	https://www.youtube.com/playlist?list=PLHgX2IExbFosaWB4cuGyal0pmS3gsI7je
+2022 - PlayCanvas HTML5 Simulation and Gamification for AI, AR/VR, and IoT	| https://www.youtube.com/playlist?list=PLHgX2IExbFotpWOk95n3FPraETHSLvOSW
+2022 - HTML5 Based Simulation and Game Dev Platforms with Playcanvas, Aframe, Godot, Three.js, Huggingface and Unity	|	https://www.youtube.com/playlist?list=PLHgX2IExbFotMSeJfV6FBYAnSt1SS1sfh
+2022 Easy AI ML Containers using Docker, Gradio, Streamlit, Hugging Face, Git Actions, Jenkins, and GPU	|	https://www.youtube.com/playlist?list=PLHgX2IExbFospBvSI6k6922l1TlojYiPh
+2022 - Gradio and PlayCanvas for Rich AI Simulation User Interfaces	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovDzOyZClg6EJ7dn0NZ1qds
+2022 Machine Learning Ops Using Huggingface Spaces, Gradio, Streamlit and HTML5	|	https://www.youtube.com/playlist?list=PLHgX2IExbFosXXjZ2QEYFbKfRFc0pf2j2
+2022 Data Visualization, Charts, Graphs and Dashboard UI with Streamlit and Gradio	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovFg4DI0_b3EWyIGk-oGRzq
+2022 - Medical Surgical Care, Vision and Language Analysis	|	https://www.youtube.com/playlist?list=PLHgX2IExbFosPBGHYuJRdgGWTuElfwBjW
+2022 Streamlit Huggingface Machine Learning Models	| 	https://www.youtube.com/playlist?list=PLHgX2IExbFosAKDJ6yuVjnQLRhoj_yc3g
+2022 Improving Intelligence with Life, Complexity, Technology and AI	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovqd-HIqKyiIND_ZwA3BOgL
+2022 NLP Speech Recognition	|	https://www.youtube.com/playlist?list=PLHgX2IExbFou3i44uIyimpkSj9wv7kGwj
+2022 - Neuroscience, Psychology, Cognitive and Artificial Intelligence	|	https://www.youtube.com/playlist?list=PLHgX2IExbFot3Ks1FBonLfbKd8W8De_pk
+2022 Machine Learning Gradio User Interfaces	|	https://www.youtube.com/playlist?list=PLHgX2IExbFoteD6rqSJoY6yXyglmJ5aiW
+2022 AI and ASR Programming on Best in World Speech Recognition on M1 Neural Processing Unit	|	https://www.youtube.com/playlist?list=PLHgX2IExbFov-sZsn5hsuPo9IX9zQafvL
+2022 - Simulation Software Creating Simulations With Tools and Python	|	https://www.youtube.com/playlist?list=PLHgX2IExbFos0iytmXg-lIdO856zpktHf
+2022 UX/UI Design, AI Frameworks, Cognitive UI, and Optimal Design using AI	|	https://www.youtube.com/playlist?list=PLHgX2IExbFouqFKT13f99FokwNvRqAET7
+2022 - Supervised Learning, Unsupervised Learning and Reinforcement Learning	|	https://www.youtube.com/playlist?list=PLHgX2IExbFosr5kXsxE0vgA4IuL6T5_Vf
+2022 AI Tools and AI Generative Web Applications for Productivity	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovnDGVmPDT6Dlork1VJrkzA
+2022 AR VR XR Avatar Creation From 2D Photo to 3D Model and Video Render	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovGmZ6Nh1iOJ6hYQjz5ZeS8
+2022 - Real Time Context Aware NLP for Offline Transcription and Control Memory	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovRTzi_MNph9nWyubps5NM2
+2022 - Creating Virtual Worlds and Digital Twin Cities Using Google Maps 3D	|	https://www.youtube.com/playlist?list=PLHgX2IExbFovofQNpcy02vh6aoESt6drI
+2022 - Unity ML Agents, WebGL, Massive Multiplayer, Multi-Agent Systems, Simulation, and NLP	|	https://www.youtube.com/playlist?list=PLHgX2IExbFotIggBrp0OZcNfTV94D5Cpr
+2022 - Minimalist Python Container Apps with Docker, Kubernetes, WSL, VSCode, Ubuntu and Alpine	|	https://www.youtube.com/playlist?list=PLHgX2IExbFoubze7E60KU1u4KGhyRc22i
+
+
 # Training in HuggingFace, Gradio, HTML5, Streamlit for Five Minutes to AI
 1) 4 Line Gradio BioMed Context Highlighter:  https://huggingface.co/spaces/awacke1/BioMedContextHighlighter
 2) NLP QA From Context: https://huggingface.co/spaces/awacke1/SOTA-Plan
