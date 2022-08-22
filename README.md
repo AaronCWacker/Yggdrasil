@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# State of the art AI UI and UX
+
+1) Map
+2) Memory and URL
+3) Image Background, Sidebar, Lottie Animation
+4) Vega-Lite Altair Charts
+5) Import and Export Files
+6) Personalization
+7) Live Mode Real Time Gradio
+8) Live Mode Real Time Streamlit
+9) Multipage Tabs, Accordians, Tabs Lists
+10) Uploads and Downloads of Input
+
 # Playlists for Developing and Deploying AI Pipelines with Gradio, Streamlit, Huggingface, Docker, and Kubernetes
 
 Title	|	URL
