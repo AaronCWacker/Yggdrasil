@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Widgets in Streamlit
+st.write(variable)	variable can be a chart or dataframe
+st.title, st.header, st.subheader	st.subheader("SubHeader", anchor="s1")
+st.latex math equations
+st.table(df) and st.dataframe  oenguins = sns.load_dataset("penguins")  st.dataframe(penguins)
+	support for pandas style st.dataframe(penguins.style.applymap(..)
+st.metric(label="Temp", value="70 F", delta=1.2 F)
+st.altair_chart(c)  https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=214
+	https://docs.streamlit.io/library/api-reference/charts/st.altair_chart
+	https://altair-viz.github.io/gallery/
+
+
+
+
 # State of the art AI UI and UX
 
 1) Map
@@ -8,7 +22,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3) Image Background, Sidebar, Lottie Animation
 4) Vega-Lite Altair Charts
 5) Import and Export Files
-6) Personalization
+6) Personalization and Persistence
 7) Live Mode Real Time Gradio - 3D, Galleries, Blocks, Rows, Columns, IO: https://youtu.be/o7kCD4aWMR4?t=132
 8) Live Mode Real Time Streamlit
 9) Multipage Tabs, Accordians, Tabs Lists
