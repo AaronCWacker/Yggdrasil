@@ -12,6 +12,39 @@ st.metric(label="Temp", value="70 F", delta=1.2 F)
 st.altair_chart(c)  https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=214
 	https://docs.streamlit.io/library/api-reference/charts/st.altair_chart
 	https://altair-viz.github.io/gallery/
+	appearance=wide
+	st.line_chart(), st.bar_chart(), st.area_chart()
+	https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=260
+	st.vega_lite_chart(df, spec)
+st.plotly, st.bokeh, st.matplotlib st.plotly_chart(f), st.bokeh_chart(f), st.pyplot(fig)
+st.graphviz_chart(dot_data)	https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=344
+st.pydeck and st.map - mapbox token: secrets.toml
+- Streamlit website: https://streamlit.io/
+- Streamlit docs: https://docs.streamlit.io/
+- Streamlit forum: https://discuss.streamlit.io/
+- Streamlit Discord (official): https://discord.gg/bTz5EDYh9Z
+- Streamlit components (official): https://streamlit.io/components
+- Streamlit components (community): https://discuss.streamlit.io/t/stream...
+- Altair Gallery: https://altair-viz.github.io/gallery/...
+- Bokeh: https://bokeh.org/
+- Plotly Express: https://plotly.com/python/plotly-expr...
+https://linktr.ee/andfanilo
+.add_rows
+st.image, st.audio, st.video
+	with open(filepath, "rb") as f:
+		data=f.read()
+		st.image(data), st.audio(data), st.video(data)
+	generated = generate_media_with_deeplearning(x)
+		st.image(generated), st.audio(generated), st.video(generated)
+	filepath="/Users/media.ext"
+		st.image(filepath), st.audio(filepath), st.video(filepath)
+	url="http://medialink"
+		st.image(url), st.audio(url), st.video(url)
+		
+	
+	
+
+
 ```
 
 
