@@ -9,7 +9,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4) Vega-Lite Altair Charts
 5) Import and Export Files
 6) Personalization
-7) Live Mode Real Time Gradio
+7) Live Mode Real Time Gradio - 3D, Galleries, Blocks, Rows, Columns, IO: https://youtu.be/o7kCD4aWMR4?t=132
 8) Live Mode Real Time Streamlit
 9) Multipage Tabs, Accordians, Tabs Lists
 10) Uploads and Downloads of Input
