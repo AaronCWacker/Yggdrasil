@@ -2,6 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Widgets in Streamlit
+```
 st.write(variable)	variable can be a chart or dataframe
 st.title, st.header, st.subheader	st.subheader("SubHeader", anchor="s1")
 st.latex math equations
@@ -11,7 +12,7 @@ st.metric(label="Temp", value="70 F", delta=1.2 F)
 st.altair_chart(c)  https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=214
 	https://docs.streamlit.io/library/api-reference/charts/st.altair_chart
 	https://altair-viz.github.io/gallery/
-
+```
 
 
 
