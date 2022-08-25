@@ -1,6 +1,29 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Classroom Examples:
+https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
+https://huggingface.co/spaces/awacke1/Image-Search-Similar
+https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe
+https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
+https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
+https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+https://huggingface.co/spaces/awacke1/Image2OCR
+https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
+https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
+https://huggingface.co/spaces/awacke1/SentenceToGeneratedVideo
+https://huggingface.co/spaces/awacke1/TimerASRLive
+https://huggingface.co/spaces/awacke1/CPVisGraph
+https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+https://huggingface.co/spaces/awacke1/VisualCluster
+https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+
+
 # 2020-Current Most Influential Minds on AI, Health, Quantum, Genomics, NLP, AGI and AR/VR
 Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens & Existential Risk | Lex Fridman Podcast #314
 https://youtu.be/eF-E40pxxbI
