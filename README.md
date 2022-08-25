@@ -1,6 +1,107 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 2020-Current Most Influential Minds on AI, Health, Quantum, Genomics, NLP, AGI and AR/VR
+Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens & Existential Risk | Lex Fridman Podcast #314
+https://youtu.be/eF-E40pxxbI
+Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307
+https://youtu.be/VBPTFlpv31k
+Richard Haier: IQ Tests, Human Intelligence, and Group Differences | Lex Fridman Podcast #302
+https://youtu.be/hppbxV9C63g
+Demis Hassabis: DeepMind - AI, Superintelligence & the Future of Humanity | Lex Fridman Podcast #299
+https://youtu.be/Gfr50f6ZBvo
+Tony Fadell: iPhone, iPod, Nest, Steve Jobs, Design, and Engineering | Lex Fridman Podcast #294
+https://youtu.be/4oDZyOf6CW4
+Grimes: Music, AI, and the Future of Humanity | Lex Fridman Podcast #281
+https://youtu.be/KOwm7GUjcg8
+Alien Debate: Sara Walker and Lee Cronin | Lex Fridman Podcast #279
+https://youtu.be/SFxIazwNP_0
+Andrew Huberman: Focus, Stress, Relationships, and Friendship | Lex Fridman Podcast #277
+https://youtu.be/lvh3g7eszVQ
+Lee Cronin: Origin of Life, Aliens, Complexity, and Consciousness | Lex Fridman Podcast #269
+https://youtu.be/ZecQ64l-gKM
+Mark Zuckerberg: Meta, Facebook, Instagram, and the Metaverse | Lex Fridman Podcast #267
+https://youtu.be/5zOHSysMmH0
+Tim Urban: Elon Musk, Neuralink, AI, Aliens, and the Future of Humanity | Lex Fridman Podcast #264
+https://youtu.be/0Jd7fJgFkPU
+John Abramson: Big Pharma | Lex Fridman Podcast #263
+https://youtu.be/arrokG3wCdE
+Philip Goff: Consciousness, Panpsychism, and the Philosophy of Mind | Lex Fridman Podcast #261
+https://youtu.be/BCdV6BMMpOo
+Yann LeCun: Dark Matter of Intelligence and Self-Supervised Learning | Lex Fridman Podcast #258
+https://youtu.be/SGzMElJ11Cc
+Elon Musk: SpaceX, Mars, Tesla Autopilot, Self-Driving, Robotics, and AI | Lex Fridman Podcast #252
+https://youtu.be/DxREm3s1scA
+Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast #250
+https://youtu.be/X0-SXS6zdEQ
+Albert Bourla: Pfizer CEO | Lex Fridman Podcast #249
+https://youtu.be/Z_LhPMhkEdw
+Jamie Metzl: Lab Leak Theory | Lex Fridman Podcast #247
+https://youtu.be/K78jqx9fx2I
+Kevin Systrom: Instagram | Lex Fridman Podcast #243
+https://youtu.be/3pvpNKUPbIY
+Neal Stephenson: Sci-Fi, Space, Aliens, AI, VR & the Future of Humanity | Lex Fridman Podcast #240
+https://youtu.be/xAfdSak2fs8
+Francis Collins: National Institutes of Health (NIH) | Lex Fridman Podcast #238
+https://youtu.be/mRZE-SJShkE
+Stephen Wolfram: Complexity and the Fabric of Reality | Lex Fridman Podcast #234
+https://youtu.be/4-SGpEInX_c
+Brian Greene: Quantum Gravity, The Big Bang, Aliens, Death, and Meaning | Lex Fridman Podcast #232
+https://youtu.be/98HZanvAJ8Y
+Jeffrey Shainline: Neuromorphic Computing and Optoelectronic Intelligence | Lex Fridman Podcast #225
+https://youtu.be/EwueqdgIvq4
+Travis Oliphant: NumPy, SciPy, Anaconda, Python & Scientific Programming | Lex Fridman Podcast #224
+https://youtu.be/gFEE3w7F0ww
+Jay McClelland: Neural Networks and the Emergence of Cognition | Lex Fridman Podcast #222
+https://youtu.be/Ui38ZzTymDY
+Douglas Lenat: Cyc and the Quest to Solve Common Sense Reasoning in AI | Lex Fridman Podcast #221
+https://youtu.be/3wMKoSRbGVs
+Jaron Lanier: Virtual Reality, Social Media & the Future of Humans and AI | Lex Fridman Podcast #218
+https://youtu.be/Fx0G6DHMfXM
+Vincent Racaniello: Viruses and Vaccines | Lex Fridman Podcast #216
+https://youtu.be/G433fa01oMU
+Wojciech Zaremba: OpenAI Codex, GPT-3, Robotics, and the Future of AI | Lex Fridman Podcast #215
+https://youtu.be/U5OD8MjYnOM
+Joscha Bach: Nature of Reality, Dreams, and Consciousness | Lex Fridman Podcast #212
+https://youtu.be/rIpUf-Vy2JA
+Luís and João Batalha: Fermat's Library and the Art of Studying Papers | Lex Fridman Podcast #209
+https://youtu.be/ndMahzDCH1Y
+Jeff Hawkins: The Thousand Brains Theory of Intelligence | Lex Fridman Podcast #208
+https://youtu.be/Z1KwkpTUbkg
+Chris Duffin: The Mad Scientist of Strength | Lex Fridman Podcast #207
+https://youtu.be/e4Bet29PVPY
+Ishan Misra: Self-Supervised Deep Learning in Computer Vision | Lex Fridman Podcast #206
+https://youtu.be/FUS6ceIvUnI
+Zach Bitter: Ultramarathon Running | Lex Fridman Podcast #205
+https://youtu.be/0RTWSJAqTPg
+Sara Walker: The Origin of Life on Earth and Alien Worlds | Lex Fridman Podcast #198
+https://youtu.be/-tDQ74I3Ovs
+Vitalik Buterin: Ethereum 2.0 | Lex Fridman Podcast #188
+https://youtu.be/XW0QZmtbjvs
+Bryan Johnson: Kernel Brain-Computer Interfaces | Lex Fridman Podcast #186
+https://youtu.be/1YbcB6b4A2U
+Sam Harris: Consciousness, Free Will, Psychedelics, AI, UFOs, and Meaning | Lex Fridman Podcast #185
+https://youtu.be/4dC_nRYIDZU
+Risto Miikkulainen: Neuroevolution and Evolutionary Computation | Lex Fridman Podcast #177
+https://youtu.be/CY_LEa9xQtg
+Andrew Huberman: Sleep, Dreams, Creativity, Fasting, and Neuroplasticity | Lex Fridman Podcast #164
+https://youtu.be/ClxRHJPz8aQ
+Jim Keller: The Future of Computing, AI, Life, and Consciousness | Lex Fridman Podcast #162
+https://youtu.be/G4hL5Om4IJ4
+Richard Craib: WallStreetBets, Numerai, and the Future of Stock Trading | Lex Fridman Podcast #159
+https://youtu.be/ziQSpuST6Es
+Max Tegmark: AI and Physics | Lex Fridman Podcast #155
+https://youtu.be/RL4j4KPwNGM
+Dan Kokotov: Speech Recognition with AI and Humans | Lex Fridman Podcast #151
+https://youtu.be/yTWa-Z1UQwU
+Charles Isbell and Michael Littman: Machine Learning and Education | Lex Fridman Podcast #148
+https://youtu.be/yzMVEbs8Zz0
+Michael Mina: Rapid Testing, Viruses, and the Engineering Mindset | Lex Fridman Podcast #146
+https://youtu.be/L-RuvUkcyJI
+
+
+
+
 # Widgets in Streamlit
 ```
 st.write(variable)	variable can be a chart or dataframe
