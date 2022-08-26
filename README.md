@@ -3,36 +3,36 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 
-# AI Classroom Examples - Ordered by Usefulness to Health:
+# AI Examples - Ordered by Usefulness to Health:
 ## NLP
 https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
 https://huggingface.co/spaces/awacke1/SOTA-MedEntity
-## NLP and Knowledge Engineering
+## NLP-KE for Knowledge Engineering
 https://huggingface.co/spaces/awacke1/VisualCluster
 https://huggingface.co/spaces/awacke1/CPVisGraph
 https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
-## NLP and Vision:
+## NLP-V for Vision:
 https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
 https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe
 https://huggingface.co/spaces/awacke1/Image2OCR
-## NLP Integration:
+## NLP-I for Integration:
 https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
 https://huggingface.co/spaces/awacke1/TimerASRLive
 https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
 
-# Future Applivability to Health:
-## NLP and Vision - Output Generators:
+# Future Applicability to Health:
+## NLP-VG for Vision with Output Generators:
 https://huggingface.co/spaces/awacke1/Image-Search-Similar
 https://huggingface.co/spaces/awacke1/SentenceToGeneratedVideo
 https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
-## NLP Integration:
-https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
-https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
 ## Integration - Real Time Live AI:
+https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video
 https://huggingface.co/spaces/awacke1/StreamlitTimerTest
 https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
 https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
+## I for Integration:
+https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
 
 
 # 2020-Current Most Influential Minds on AI, Health, Quantum, Genomics, NLP, AGI and AR/VR
