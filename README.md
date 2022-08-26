@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Chords - 42
+1) https://tabs.ultimate-guitar.com/tab/michael-jackson/man-in-the-mirror-chords-517579
+2) https://tabs.ultimate-guitar.com/tab/george-michael/careless-whisper-chords-1139126
+3) https://tabs.ultimate-guitar.com/tab/sting/englishman-in-new-york-chords-2220
+4) https://tabs.ultimate-guitar.com/tab/sting/fragile-chords-108942
+5) https://tabs.ultimate-guitar.com/tab/pink-floyd/when-the-tigers-broke-free-chords-44532
+6) https://tabs.ultimate-guitar.com/tab/pink-floyd/one-of-my-turns-chords-44540
+7) https://tabs.ultimate-guitar.com/tab/sting/russians-chords-1498283
+8) https://tabs.ultimate-guitar.com/tab/joni-mitchell/both-sides-now-chords-1140752
+9) https://tabs.ultimate-guitar.com/tab/leonard-cohen/im-your-man-chords-64981
+10) https://tabs.ultimate-guitar.com/tab/alison-krauss/the-lucky-one-chords-933283
+
 
 
 # AI Examples - Ordered by Usefulness to Health:
