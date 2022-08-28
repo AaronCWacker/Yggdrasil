@@ -1,7 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Chords - 42
+# Prompt Engineering
+Top examples:
+1) Art Nouveau, in the style of John Singer Sargent ::5 ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
+2) six human senses manifesting all at once, 8k, --ar 10:14
+3) six flags of texas manifesting all at once, 8k, --ar 3840:2160
+4) baba yaga sitting in an armchair, looking out the window with snow falling eating a gingerbread man cookie:: christmas, ultra realistic, 8K, cinematic, vignette --ar 3840:2160 --iw 1.2
+
+
+# Chords - from lyric poetry
 1) https://tabs.ultimate-guitar.com/tab/michael-jackson/man-in-the-mirror-chords-517579
 2) https://tabs.ultimate-guitar.com/tab/george-michael/careless-whisper-chords-1139126
 3) https://tabs.ultimate-guitar.com/tab/sting/englishman-in-new-york-chords-2220
