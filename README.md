@@ -3,11 +3,70 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Prompt Engineering
 Top examples:
+Suffix:
+::5 ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
+
+
 1) Art Nouveau, in the style of John Singer Sargent ::5 ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
 2) six human senses manifesting all at once, 8k, --ar 10:14
 3) six flags of texas manifesting all at once, 8k, --ar 3840:2160
-4) baba yaga sitting in an armchair, looking out the window with snow falling eating a gingerbread man cookie:: christmas, ultra realistic, 8K, cinematic, vignette --ar 3840:2160 --iw 1.2
+4) santa claus sitting in an armchair, looking out the window with snow falling eating a gingerbread man cookie:: christmas, ultra realistic, 8K, cinematic, vignette --ar 3840:2160 --iw 1.2
+5) prompt:Cubism, in the style of Gustav Klimt, ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
+6) Romanticism, in the style of M.C. Escher manifesting all at once with hyper detailed castles and dragons, 8k, --ar 3840:2160
 
+
+https://huggingface.co/spaces/awacke1/Art-from-Text-and-Images
+  ["Futurism, in the style of Wassily Kandinsky"], 
+  ["Art Nouveau, in the style of John Singer Sargent"], 
+  ["Surrealism, in the style of Edgar Degas"], 
+  ["Expressionism, in the style of Wassily Kandinsky"], 
+  ["Futurism, in the style of Egon Schiele"], 
+  ["Neoclassicism, in the style of Gustav Klimt"], 
+  ["Cubism, in the style of Gustav Klimt"], 
+  ["Op Art, in the style of Marc Chagall"], 
+  ["Romanticism, in the style of M.C. Escher"], 
+  ["Futurism, in the style of M.C. Escher"], 
+  ["Abstract Art, in the style of M.C. Escher"], 
+  ["Mannerism, in the style of Paul Klee"], 
+  ["Romanesque Art, in the style of Leonardo da Vinci"], 
+  ["High Renaissance, in the style of Rembrandt"], 
+  ["Magic Realism, in the style of Gustave Dore"], 
+  ["Realism, in the style of Jean-Michel Basquiat"], 
+  ["Art Nouveau, in the style of Paul Gauguin"], 
+  ["Avant-garde, in the style of Pierre-Auguste Renoir"], 
+  ["Baroque, in the style of Edward Hopper"], 
+  ["Post-Impressionism, in the style of Wassily Kandinsky"], 
+  ["Naturalism, in the style of Rene Magritte"], 
+  ["Constructivism, in the style of Paul Cezanne"], 
+  ["Abstract Expressionism, in the style of Henri Matisse"], 
+  ["Pop Art, in the style of Vincent van Gogh"], 
+  ["Futurism, in the style of Wassily Kandinsky"], 
+  ["Futurism, in the style of Zdzislaw Beksinski"], 
+  ['Surrealism, in the style of Salvador Dali'], 
+  ["Aaron Wacker, oil on canvas"],
+      ["abstract"],
+    ["landscape"],
+    ["portrait"],
+    ["sculpture"],
+    ["genre painting"],
+    ["installation"],
+    ["photo"],
+    ["figurative"],
+    ["illustration"],
+    ["still life"],
+    ["history painting"],
+    ["cityscape"],
+    ["marina"],
+    ["animal painting"],
+    ["design"],
+    ["calligraphy"],
+    ["symbolic painting"],
+    ["graffiti"],
+    ["performance"],
+    ["mythological painting"],
+    ["battle painting"],
+    ["self-portrait"],
+    ["Impressionism, oil on canvas"]
 
 # Chords - from lyric poetry
 1) https://tabs.ultimate-guitar.com/tab/michael-jackson/man-in-the-mirror-chords-517579
