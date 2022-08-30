@@ -1,7 +1,28 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-AI Examples - Ordered by Usefulness to Health:
+# Quantum AI
+AI Quantum computing can run simulations down to a quantum and molecular level.  Calculations can run in seconds to solve problems that previously took years.  This advantage in being able to make new discoveries using simulation.  This with support of transformers a technique which runs in classical computing can use the quantum aspect to optimize design of new medicines and materials by using SMILES.  The computations at a quantum and molecular level is solved as language using the pairing of a compound drug code and the selection and bonding reactions when two compunds are combined and match bonds in three dimensions.
+
+Two tools are part of this invention, a quantum modeler application located here:
+https://huggingface.co/spaces/awacke1/AI-Quantum
+
+And the classical part of the AI which supplies the language corpus of SMILES implemented as 2D and 3D models is located here:
+https://huggingface.co/spaces/awacke1/ChemistryModelerSMILES
+
+Info about SMILES: https://archive.epa.gov/med/med_archive_03/web/html/smiles.html
+
+Learn about it at Wikipedia: https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system
+
+Search for any compound on PubChem at National Library of Medicine: https://pubchem.ncbi.nlm.nih.gov/#query=vitamin%20e
+
+Top 3 designs in SMILES code:
+Chloroquine : CCN(CC)CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl
+Fingolimod : CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N
+Favipiravir : C1=C(N=C(C(=O)N1)C(=O)N)F
+
+
+# AI Examples - Ordered by Usefulness to Health:
 
 State of the Art AI and Multi Agent Systems:
 https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator 
