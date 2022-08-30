@@ -22,21 +22,19 @@ NLP-KE for Fomain Expertise, Visualization and Knowledge Engineering
 https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler 
 https://huggingface.co/spaces/awacke1/CPVisGraph 
 
-NLP-I for Integration with Real Time External Datasets:
+NLP-I for Integration with Generators and Real Time External Datasets:
 https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search 
 https://huggingface.co/spaces/awacke1/SentenceToGeneratedVideo 
-
-NLP-VG for Vision with Output Generators:
 https://huggingface.co/spaces/awacke1/Image-Search-Similar 
 
-Integration - Real Time Live AI:
+AI Integration - Real Time Live AI in Streamlit and HTML5:
 https://huggingface.co/spaces/awacke1/StreamlitTimerTest https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
 
 I for Integration:
 https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
-https://huggingface.co/spaces/awacke1/SOTA-MedEntity
 https://huggingface.co/spaces/awacke1/Sentence2Paragraph 
 https://huggingface.co/spaces/awacke1/VisualCluster 
+https://huggingface.co/spaces/awacke1/SOTA-MedEntity
 
 # Prompt Engineering
 Top examples:
