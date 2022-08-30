@@ -2,7 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Quantum AI for Health
-AI Quantum computing can run simulations down to a quantum and molecular level.  Calculations can run in seconds to solve problems that previously took years.  This advantage in being able to make new discoveries using simulation.  This with support of transformers a technique which runs in classical computing can use the quantum aspect to optimize design of new medicines and materials by using SMILES.  The computations at a quantum and molecular level is solved as language using the pairing of a compound drug code and the selection and bonding reactions when two compunds are combined and match bonds in three dimensions.
+Quantum computing can run structural biology and AI simulations down to a quantum and molecular level.  Calculations can run in seconds to solve problems that previously took years.  This advantage in being able to make new discoveries using simulation.  This with support of transformers a technique which runs in classical computing can use the quantum aspect to optimize design of new medicines and materials by using SMILES.  The computations at a quantum and molecular level is solved as language using the pairing of a compound drug code and the selection and bonding reactions when two compunds are combined and match bonds in three dimensions.
 
 Two tools are part of this invention, a quantum modeler application located here:
 https://huggingface.co/spaces/awacke1/AI-Quantum
@@ -23,7 +23,7 @@ Favipiravir : C1=C(N=C(C(=O)N1)C(=O)N)F
 
 The transformers technique uses similar architecture on classical side as Alphafold2 used for protein folding solutions.  https://www.youtube.com/watch?v=W7wJDJ56c88
 
-Transformers on classical side feed the possible selection and bonds of SMILES single character words with quantum random substitutions which are then evaluated in 3D molecule interaction by simulating the bonds between the designed drug and the target such as DNA or RNA including architecture of viruses and target disease related compounds.
+Transformers on classical side feed the possible selection and bonds of SMILES single character words with quantum random substitutions which are then evaluated in 3D molecule interaction by simulating the bonds between the designed drug and the target such as DNA or RNA including architecture of viruses and target disease related compounds.  The RL self play portion is fitness factor scoring by Rx experts in the field evaluating results of simulation runs.
 
 # AI Examples - Ordered by Usefulness to Health:
 
