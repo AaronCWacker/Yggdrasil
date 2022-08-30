@@ -1,6 +1,43 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+AI Examples - Ordered by Usefulness to Health:
+
+State of the Art AI and Multi Agent Systems:
+https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator 
+https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe 
+https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit 
+
+State of the Art NLP:
+https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video 
+https://huggingface.co/spaces/awacke1/TimerASRLive
+
+NLP-V for Vision, Pipelines, and Document Understanding:
+https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+https://huggingface.co/spaces/awacke1/Image2OCR
+https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+
+NLP-KE for Fomain Expertise, Visualization and Knowledge Engineering
+https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler 
+https://huggingface.co/spaces/awacke1/CPVisGraph 
+
+NLP-I for Integration with Real Time External Datasets:
+https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search 
+https://huggingface.co/spaces/awacke1/SentenceToGeneratedVideo 
+
+NLP-VG for Vision with Output Generators:
+https://huggingface.co/spaces/awacke1/Image-Search-Similar 
+
+Integration - Real Time Live AI:
+https://huggingface.co/spaces/awacke1/StreamlitTimerTest https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
+
+I for Integration:
+https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
+https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+https://huggingface.co/spaces/awacke1/Sentence2Paragraph 
+https://huggingface.co/spaces/awacke1/VisualCluster 
+
 # Prompt Engineering
 Top examples:
 Suffix:
