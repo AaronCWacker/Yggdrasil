@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Biomedical Models for Health
+
+The Huggingface Users below have trained amongst the best models according to leaderboards which indicate a proficiency in health terminology:
+1) BioBert : https://huggingface.co/jordyvl
+2) BioClinicalBERT : https://huggingface.co/commanderstrife
+3) Biomedical Summarization : https://huggingface.co/L-macc
+
+
+
+
+
 # Quantum AI for Health
 Quantum computing can run structural biology and AI simulations down to a quantum and molecular level.  Calculations can run in seconds to solve problems that previously took years.  This advantage in being able to make new discoveries using simulation.  This with support of transformers a technique which runs in classical computing can use the quantum aspect to optimize design of new medicines and materials by using SMILES.  The computations at a quantum and molecular level is solved as language using the pairing of a compound drug code and the selection and bonding reactions when two compunds are combined and match bonds in three dimensions.
 
