@@ -1,15 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Biomedical Models for Health
+# AI Models Useful for Health AI Pipelines
 
-The Huggingface Users below have trained amongst the best models according to leaderboards which indicate a proficiency in health terminology:
+The Huggingface Users below have trained amongst the best models according to leaderboards which indicate proficiency in health terminology:
+
 1) BioBert : https://huggingface.co/jordyvl
 2) BioClinicalBERT : https://huggingface.co/commanderstrife
 3) Biomedical Summarization : https://huggingface.co/L-macc
 
+Leaderboard : https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=-any-
 
-
+The Huggingface Spaces below home some of the best examples useful in Biomed with fully integrated software with biomedical ML, RL, and AI models:
+1) Protein Folding : https://huggingface.co/spaces/simonduerr/ProteinMPNN
+2) Extractive QA : https://huggingface.co/spaces/hackathon-pln-es/extractive-qa-biomedicine
+3) SKLearn Clustering : https://huggingface.co/spaces/scikit-learn/clustering
+4) Extractive KB : https://huggingface.co/spaces/fabiochiu/text-to-kb
+5) Bio NER : https://huggingface.co/spaces/ajitrajasekharan/NER-Biomedical-PHI-Ensemble
+6) Bio NER UI : https://huggingface.co/spaces/rajistics/biobert_ner_demo
+7) Semantic Search : https://huggingface.co/spaces/fabiochiu/semantic-search-medium
+8) HealthSea : https://huggingface.co/spaces/spacy/healthsea-demo
+9) Multimodal : https://huggingface.co/spaces/awacke1/ASRtoTexttoStorytoImagestoVideo
+10) Mindfulness : https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+11) Gradio : https://huggingface.co/freddyaboulton
+12) Face Morph : https://huggingface.co/spaces/CVPR/ml-talking-face
+13) DocVQA : https://huggingface.co/spaces/nielsr/donut-docvqa
+14) CodeGen : https://huggingface.co/spaces/codeparrot/code-generation-models
+15) AudioGen : https://huggingface.co/spaces/marcop/musika
 
 
 # Quantum AI for Health
