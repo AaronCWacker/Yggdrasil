@@ -1,6 +1,52 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Mnemonics
+
+Mnemonics can be used to give yourself a planned photographic memory which is useful to memorize large lists of any subject.
+
+There are four main types of mnemonic devices that help you get the most out of your memory.  These can be used to circumvent memory problems we encounter as we age including providing a pre-planned circumvention of the condition known as early onset of adult dimensia in which we slowly loose our memory and ability to easily memorize new facts we encounter.
+1) Imagery and Visualization. 
+	Our brains remember images much more easily than words or sounds.
+	Translating things you want to remember into mental images can be a great mnemonic device.
+2) Acronyms and Acrostics.
+	When we read we often detect what the word will be based on context so often we only need the first 1-3 letters to figure out a word in a sentence.
+	This concept is used in speed reading and grokking which is accelerated memorization using the capabilities of visual acuity and semantic memory.
+3) Rhymes.
+	Ability to remember lyrics and music is powerful as well as rhyming words which can trigger a self audio recall.
+	This often also depends on the capability of our audio memory to respond naturally to emotion which is episodic memory.
+4) Chunking.
+	Chunking is a natural way that we build models in the neocortex.  When we chunk we remember things due to given context like fill in the blank.
+	Chunking can reduce the amount of required space to store a memory.  Chunking that involves three dimensions is useful for memory that is syntactic in nature.
+	
+The keyword mnemonic technique combines these four into a strategy which uses numbered keywords that excite visual memory.  When you encounter something you want to remember.  Add it to a visualization that includes a visual memory that you have stored and numbered.  Then when excercising recall, go either backwards or forwards through the numbered images to recall what you added to the imaginative picture in your mind.
+
+Numbered Image Keywords 0 - 21 (22 item length list)
+0 - Dreamer
+1 - Magician
+2 - Priestess
+3 - Empress
+4 - Emporer
+5 - Unity
+6 - Lovers
+7 - Chariot
+8 - Justice
+9 - Hermit
+10 - Wheel
+11 - Strength
+12 - Awakening
+13 - Release
+14 - Balance
+15 - Ego
+16 - Experience
+17 - Star
+18 - Moon
+19 - Sun
+20 - Renewal
+21 - World
+
+These image generating words are just a sample - feel free to choose your own that are meaningful to you.  The more outrageous or emotion exciting for you the better they will serve you as an internal keyword list that you can combine the imagery with the item you want to remember.
+
 # AI Models Useful for Health AI Pipelines
 
 The Huggingface Users below have trained amongst the best models according to leaderboards which indicate proficiency in health terminology:
