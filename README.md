@@ -1,6 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Chords and Lyrics
+
+Music we remember with our emotional center of the brain called the Amygdala, a center where the newer brain neocortex is still wrapping it like a pearl in an oyster.  The emotional center of our brain is the center of emotional intelligence.  We have two types of memories, semantic like words and your address.  The second type is episodic memory where like what we love and yearn for and remember associated with emotions, feelings, and sentiment.  Music has a direct call line to our emotional memory which has served humanity well in ritual ensuring survival of our species across the last 80k or so years as we traveled as tribes up from Africa, through India, to Europe and then across the ocean to the Americas.
+
+Dreams of magic, and power within music enlighten us, sometimes helping us to understand and plan our place in the future.  What we share if useful and worth spreading, becoming ideas we give away for free and help others find their way because of similarity of plot and struggle.
+
+Life is hard, yet music for our human love of life is a shared way in which we intrigue our brain where the grind becomes a beautiful thing we love to retry and figure out.
+
+For this reason I document some of my favorite music to play.  Lately the band Wolf Alice appeals to me due to their beautiful vocals and the way the band loves the audience and treats eachother with empathy.  Each member of the band has a great way of giving honor to the playing of keyboard, guitar, drums, and the singing.  The words of their lyrics are very special and help us understand our creator, our flaws, what we love and what we are sorry for.  The feel of the music gives us the ability to forgive shortcomings.
+
+On this Sunday my prayer is for anyone in the struggle, to look to elders and yet when we live complicated lives, we gain from singing old songs.
+
+She's a good girl.
+
+1) https://tabs.ultimate-guitar.com/tab/wolf-alice/blush-chords-1747581
+2) https://tabs.ultimate-guitar.com/tab/wolf-alice/bros-chords-1735427
+3) https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
+4) https://tabs.ultimate-guitar.com/tab/wolf-alice/fluffy-chords-1715649
+5) https://tabs.ultimate-guitar.com/tab/wolf-alice/freazy-chords-1769717
+6) https://tabs.ultimate-guitar.com/tab/wolf-alice/i-saw-you-chords-1728245
+7) https://tabs.ultimate-guitar.com/tab/wolf-alice/lipstick-on-the-glass-chords-3740495
+8) https://tabs.ultimate-guitar.com/tab/wolf-alice/no-hard-feelings-chords-3702776
+9) https://tabs.ultimate-guitar.com/tab/wolf-alice/planet-hunter-chords-2237687
+10) https://tabs.ultimate-guitar.com/tab/wolf-alice/silk-chords-1765834
+11) https://tabs.ultimate-guitar.com/tab/wolf-alice/song-to-the-siren-chords-2403139
+12) https://tabs.ultimate-guitar.com/tab/wolf-alice/space-and-time-chords-2174707
+13) https://tabs.ultimate-guitar.com/tab/wolf-alice/safe-from-heartbreak-if-you-never-fall-in-love-chords-3737756
+14) https://tabs.ultimate-guitar.com/tab/wolf-alice/silk-chords-1765834
+15) https://tabs.ultimate-guitar.com/tab/wolf-alice/soapy-water-chords-1765792
+16) https://tabs.ultimate-guitar.com/tab/wolf-alice/song-to-the-siren-chords-2403139
+17) https://tabs.ultimate-guitar.com/tab/wolf-alice/space-and-time-chords-2174707
+18) https://tabs.ultimate-guitar.com/tab/wolf-alice/the-last-man-on-earth-chords-3582701
+19) https://tabs.ultimate-guitar.com/tab/wolf-alice/turn-to-dust-chords-1771930
+20) https://tabs.ultimate-guitar.com/tab/wolf-alice/youre-a-germ-chords-1734296
+
+
+
+
+
 # Mnemonics
 
 Mnemonics can be used to give yourself a planned photographic memory which is useful to memorize large lists of any subject.
