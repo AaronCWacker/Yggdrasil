@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Chatbots - A Comparitive Sampling of Different Chatbots
+
+1) https://huggingface.co/spaces/abidlabs/chatbot-stylized
+2) https://huggingface.co/spaces/gradio/chatbot
+3) https://huggingface.co/spaces/abidlabs/chatbot-minimal
+4) https://huggingface.co/spaces/cahya/persona-chatbot
+5) https://huggingface.co/spaces/gorkemgoknar/moviechatbot
+6) https://huggingface.co/spaces/tareknaous/Chatbot-DialoGPT
+7) https://huggingface.co/spaces/Wootang01/chatbot
+8) https://huggingface.co/spaces/Wootang01/chatbot_four
+9) https://huggingface.co/spaces/carblacac/chatbot
+
+
 # Image Generation for Art, Marketing, Ideation, Design, and Use in Business
 
 A number of multiple AI pipeline element strategies have evolved on the open market which allow you to generate images using a combination of image prompts and word prompts.  This brief analysis gives an idea of the prompting capabilities as well as image rendering techniques that are used in the strategy to generate art from human understanding of images and text used to describe a scene.
