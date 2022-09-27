@@ -24,7 +24,32 @@ URL Links:
 4) Dreamstudio: https://beta.dreamstudio.ai/dream
 5) RunwayML: https://app.runwayml.com/
 
+## Getting Started and Organizing Your AI Pipeline and Process
 
+Any great strategy has a number of steps that combine all capabilities at your disposal.  It is useful to note how you can easily fir these together into a process that works for you.
+
+The techniques worth noted are listed below.  Consider how you will use them will make your pipeline easier and more automated to allow you to spend the majority of your time curating what you have made, and ideating what you want to create next.
+
+1) Source materials: Since prompting requires text and text examples can quickly help you compose good input, its worth considering and documenting some effective prompts.  Nightcafe with its integration into email, sends you a copy of your creation plus the prompting text so one option is to use your email account to keep a record of which prompts work for which outputs.
+2) Source materials:  Discord since its a public chat format allows you to easily see what others are using for prompts in bulk.  There are a number of chat channels designed for people new to the platform and often you can copy and paste if you see very effective prompts with material you are looking for.
+3) Source materials: Collager is unique in its ability to add additive parts and then dial in the percent of AI you would like with that.  This allows you to add a few image elements which help start out your generation.  
+4) Source materials: Since images and prompts are going to be your mainstay for inputs its worth considering an open standard for storing and retrieving these from anywhere.  Github is a good place since markdown language can involve text in table or list format and includes a capability to reference uploaded images within markdown.  This is also a good form for portability since you can later fork and download your repository with a few clicks from anywhere.
+5) Source materials: Google drive is integrated into the Artbreeder Collager workflow which allows you easily expand your work and even compose albums of the ones you like to place in Google photo albums.  The portfolio you save on different sites have different degrees of ease when aggregating your collections.  Collager for instance allows right click save for instant saving of your creation.  Dreamstudio features a history.  Midjourney features a profile site for you to store and review creations even triggering Upscales which important to use to get the highest resolution output for your creations.
+
+##  Social Media integration
+
+Depending on your target "safe for work" exports of your work, it is sometimes important to know your accepted social media outlets that you can integrate.  Cloud based interactions are the key to successful audiences if you want to scale and share your process with others.
+
+The key social media outlets supported for these tools are here in a sorted link list which start with public open source first:
+
+1) Github - Github is open at most companies and allow creation of a free space to share your content.
+2) LinkedIn - LinkedIn is acceptable use at nearly every company.
+3) Twitter - Twitter is supported as a social media outlet at most companies yet can also be used with security restrictions which might limit posting but allow read access.
+4) Facebook - Meta's Facebook is a good outlet since it allows creation of large folios of your images along with stories.  This venue however is locked down at many organizations.
+5) Instagram - Instagram is supported as an output channel for many tools yet has decreased in popularity due to high frequency of ads and pay for likes models.  While it can still be one of the best places for domain specific arrangements of images it is likely locked down in most secure organizations.
+6) Youtube - For video uploads with automated captioning and long term storage of short and long form video this is an essential for any creation you compose as video.  It is also useful to review and compose playlists of videos here for yourself that speed up your learning - Spend some time at Youtube university and keep a record of keyword searches there sometimes along with your playlists to accelerate learning.
+7) Gmail - With the baility to move email in and out its useful to create and wrap up details within email.  Most email policies come with a content limitation (for example no files larger than 25MB.  For this reason get used to creating pproject wrap up archives with winzip or compression software.  With the convenience of keyword searching you can usually use this as a base.
+8) Last a worth mention is Huggingface.com.  Like github as you become more sophisticated in your public open source capabilities, HuggingFace can allow you to wrap up using one of three software development kits which are gadio, streamlit, and HTML5 each with unique AI and UI integration components and features.  If you want to create your own AI pipelines this one also has the open source code and models ready to go to help you on your journey.
 
 
 # Chords and Lyrics
