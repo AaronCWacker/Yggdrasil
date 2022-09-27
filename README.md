@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Image Generation for Art, Marketing, Ideation, Design, and Use in Business
+
+A number of multiple AI pipeline element strategies have evolved on the open market which allow you to generate images using a combination of image prompts and word prompts.  This brief analysis gives an idea of the prompting capabilities as well as image rendering techniques that are used in the strategy to generate art from human understanding of images and text used to describe a scene.
+
+First a top five list on state of the art generators both free and paid is worth consideration.
+
+1) Midjourney - a Discord server based chatboat AI that allows /imagine prompts which can generate multiple images at a time.  This is best at parallel creation, high accuracy even photo real creations.
+2) Artbreeder - A multiple capability tool which now features a Collager which assists in starting image composition.  By far the most innovative approach which does great to combine the right partial elements in a scene.
+3) Dreamstudio - A Huggingface derived art program in beta which uses stable diffusion to create highly accurate art and images.
+4) Nightcafe - A credit based creation AI app that can do generation of video dives into an AI art piece which can produce some of the best experiences in Video.
+5) RunwayML - a quintessential tool in processing morph audio and video tracks which rival most high end video edit tools.
+
+These 5 tools make up some of the best AI pipeline programs that are cloud based that allow anyone to begin easily building their portfolio of art.
+
+The prompting capabilities often involve having a set of text based prompts to get started.  Most also feature a starter image which could be an example of what you would like to create.
+
+URL Links:
+1) Collager:  https://www.artbreeder.com/beta/collage
+2) NightCafe: https://creator.nightcafe.studio/explore
+3) Midjourney: https://www.midjourney.com/app/users/779773261440614430/
+4) Dreamstudio: https://beta.dreamstudio.ai/dream
+5) RunwayML: https://app.runwayml.com/
+
+
+
+
 # Chords and Lyrics
 
 Music we remember with our emotional center of the brain called the Amygdala, a center where the newer brain neocortex is still wrapping it like a pearl in an oyster.  The emotional center of our brain is the center of emotional intelligence.  We have two types of memories, semantic like words and your address.  The second type is episodic memory where like what we love and yearn for and remember associated with emotions, feelings, and sentiment.  Music has a direct call line to our emotional memory which has served humanity well in ritual ensuring survival of our species across the last 80k or so years as we traveled as tribes up from Africa, through India, to Europe and then across the ocean to the Americas.
