@@ -3,17 +3,17 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Chatbots - A Comparitive Sampling of Different Chatbots
 
-Score 0-10 | Num   |   Chatbot URL		|	Question 1		|		Question N+1
+Score 0-10 | Rank   |   Chatbot URL		|	Question 1		|		Question N+1
 ---|----|--------------------|-------------------------------|-----------------------------------------------
-10  |  8  |   https://huggingface.co/spaces/Wootang01/chatbot_four	| Asthma is an inflammatory disease in the airway of the lungs.  |  What is the cure for asthma?  Asthma is a chronic inflammatory disease of the lungs.
-9  |  9  |   https://huggingface.co/spaces/carblacac/chatbot  |  Asthma is a chronic inflammatory disease of the lungs.  |  What is  asthma?  It is a disease of inflammation in the air that affects the respiratory system.  What is  asthma? It's a condition in which the air quality of the air is too high or too high.  What is asthma?  Its an air conditioner that is used to regulate the air conditioning of the human body.
-7  | 1 |  https://huggingface.co/spaces/abidlabs/chatbot-stylized	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
-7  |  3  |   https://huggingface.co/spaces/abidlabs/chatbot-minimal	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
-6  |  7  |   https://huggingface.co/spaces/Wootang01/chatbot  |  Machine text message: It's a disease that causes asthma.  |  Machine text message: It's a disease that causes asthma.
-4  |  5  |   https://huggingface.co/spaces/gorkemgoknar/moviechatbot  |  Gandalf: What is asthma?  Gandalf: We're going to need help.Hands up, Dad. We've heard enough.You haven't had a good day?You know we can help with a | Gandalf: In asthma, it causes an increase in certain types of airways,But this doesn't seem to be a problem with my little dogs.They usually bark  Neo  Neo: What is it?I'm allergic.I don't think so.It hurts a lot.Did you use a lot of flossing before you started to feel weird   Spok Spock: The way the air clears out you should use cold water.Air into a cup.Then let it air out, it will start coughing. Then you can just pour
-3  |  4  |   https://huggingface.co/spaces/cahya/persona-chatbot  |  What is asthma?  It's not good to be an ACF  |  What is asthma? Ashtma is a great disease. It is a disease that can happen often
-2  |  2  |  https://huggingface.co/spaces/gradio/chatbot	|	What is asthma?  I had a great time last night and just looking at it  |  What is asthma?  It's a little more than two times as common as it is in Nigeria.
-1  |  6  |   https://huggingface.co/spaces/tareknaous/Chatbot-DialoGPT  |  What is asthma?  Yes. I am afraid it's not working. | What is asthma?  It's a combination of how much blood pressure you have, and when you get it.
+10  |  1  |   https://huggingface.co/spaces/Wootang01/chatbot_four	| Asthma is an inflammatory disease in the airway of the lungs.  |  What is the cure for asthma?  Asthma is a chronic inflammatory disease of the lungs.
+9  |  2 |   https://huggingface.co/spaces/carblacac/chatbot  |  Asthma is a chronic inflammatory disease of the lungs.  |  What is  asthma?  It is a disease of inflammation in the air that affects the respiratory system.  What is  asthma? It's a condition in which the air quality of the air is too high or too high.  What is asthma?  Its an air conditioner that is used to regulate the air conditioning of the human body.
+7  | 3 |  https://huggingface.co/spaces/abidlabs/chatbot-stylized	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
+7  |  4  |   https://huggingface.co/spaces/abidlabs/chatbot-minimal	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
+6  |  5  |   https://huggingface.co/spaces/Wootang01/chatbot  |  Machine text message: It's a disease that causes asthma.  |  Machine text message: It's a disease that causes asthma.
+4  |  6 |   https://huggingface.co/spaces/gorkemgoknar/moviechatbot  |  Gandalf: What is asthma?  Gandalf: We're going to need help.Hands up, Dad. We've heard enough.You haven't had a good day?You know we can help with a | Gandalf: In asthma, it causes an increase in certain types of airways,But this doesn't seem to be a problem with my little dogs.They usually bark  Neo  Neo: What is it?I'm allergic.I don't think so.It hurts a lot.Did you use a lot of flossing before you started to feel weird   Spok Spock: The way the air clears out you should use cold water.Air into a cup.Then let it air out, it will start coughing. Then you can just pour
+3  |  7 |   https://huggingface.co/spaces/cahya/persona-chatbot  |  What is asthma?  It's not good to be an ACF  |  What is asthma? Ashtma is a great disease. It is a disease that can happen often
+2  |  8 |  https://huggingface.co/spaces/gradio/chatbot	|	What is asthma?  I had a great time last night and just looking at it  |  What is asthma?  It's a little more than two times as common as it is in Nigeria.
+1  |  9 |   https://huggingface.co/spaces/tareknaous/Chatbot-DialoGPT  |  What is asthma?  Yes. I am afraid it's not working. | What is asthma?  It's a combination of how much blood pressure you have, and when you get it.
 
 
 # Image Generation for Art, Marketing, Ideation, Design, and Use in Business
