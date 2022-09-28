@@ -3,7 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Chatbots - A Comparitive Sampling of Different Chatbots
 
-#   |   Chatbot URL		|	Question 1		|		Question N+1
+Num   |   Chatbot URL		|	Question 1		|		Question N+1
 ----|--------------------|-------------------------------|-----------------------------------------------
 1 |  https://huggingface.co/spaces/abidlabs/chatbot-stylized	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
 2  |  https://huggingface.co/spaces/gradio/chatbot	|	What is asthma?  I had a great time last night and just looking at it  |  What is asthma?  It's a little more than two times as common as it is in Nigeria.
