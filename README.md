@@ -5,8 +5,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 Score 0-10 | Rank   |   Chatbot URL		|	Question 1		|		Question N+1
 ---|----|--------------------|-------------------------------|-----------------------------------------------
-10  |  1  |   https://huggingface.co/spaces/Wootang01/chatbot_four	| Asthma is an inflammatory disease in the airway of the lungs.  |  What is the cure for asthma?  Asthma is a chronic inflammatory disease of the lungs.
-9  |  2 |   https://huggingface.co/spaces/carblacac/chatbot  |  Asthma is a chronic inflammatory disease of the lungs.  |  What is  asthma?  It is a disease of inflammation in the air that affects the respiratory system.  What is  asthma? It's a condition in which the air quality of the air is too high or too high.  What is asthma?  Its an air conditioner that is used to regulate the air conditioning of the human body.
+10  |  1  |   https://huggingface.co/spaces/awacke1/ChatbotBlenderBotStreamlit	| Asthma is an inflammatory disease in the airway of the lungs.  |  What is the cure for asthma?  Asthma is a chronic inflammatory disease of the lungs.
+9  |  2 |   https://huggingface.co/spaces/awacke1/BlenderbotGradioChatbotSOTA  |  Asthma is a chronic inflammatory disease of the lungs.  |  What is  asthma?  It is a disease of inflammation in the air that affects the respiratory system.  What is  asthma? It's a condition in which the air quality of the air is too high or too high.  What is asthma?  Its an air conditioner that is used to regulate the air conditioning of the human body.
 7  | 3 |  https://huggingface.co/spaces/abidlabs/chatbot-stylized	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
 7  |  4  |   https://huggingface.co/spaces/abidlabs/chatbot-minimal	|	What is asthma?  It's a disease that causes asthma.  |  What is asthma?  It's a disease that causes asthma.
 6  |  5  |   https://huggingface.co/spaces/Wootang01/chatbot  |  Machine text message: It's a disease that causes asthma.  |  Machine text message: It's a disease that causes asthma.
