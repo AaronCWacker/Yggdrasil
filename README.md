@@ -25,6 +25,19 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 20) Look at our performance - are we making a difference, markers getting rid of severity of condition
 21) Review pop data, review support groups - Celebrate Recovery, AA, Health Dept, Care360-Access resources for people who need it, food deserts, housing issues, plays into MH issues
 
+# BH Federal Support
+1) Deploy programs to reduce substance use and increase BH interventions
+2) Validated screening and assessment tools at trouble (jail, ER, discharge) to ID and track untreated BH conditions
+3) Racial equity - support evidence based prevention efforts to reduce youth substance use, reduce supply of illicit substances
+4) Expand treatment programs and other behavioral health interventions 
+5) Collaborative crisis response and intervention training
+6) Training for response, opiate substance and stimulant abuse programs
+7) Resources - MH Collaboration Toolkit, MH Learning sites, National conferences, Best practice guide
+8) Family treatment resources, residential substance abuse treatment programs
+9) Healthy homes - identify help at family scale, resources for families
+10) Drug court, veterans treatment, peer review
+
+
 
 # Chatbots - A Comparitive Sampling of Different Chatbots
 
