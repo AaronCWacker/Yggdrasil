@@ -1,6 +1,31 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Behavioral Health Best Practices
+
+1) Integrate medical and behavioral care
+2) Payment,AdminBurden, RespectProfessin (FamilyDoctor w Med treatment, side symptoms of BH in family situation)
+3) Larger - if medical issue, yet also suffer depression - send to phys w another specialty - not working on small scale
+4) Admin burdern - documentation - clinical side of it, payment side of it
+5) Services require full staff, full team
+6) Rural area - no luxury of multiple psych, provide in home
+7) physician access model, business case for decisions
+8) value based outcome model
+9) Improved outcomes for hypertension, diabetes, chronic disease, and make sure patient is healthy
+10) Following medication adherence, decrease in ER visits, decrease increased hospitalization
+11) This all adds into shared savings -> business model is to pay attention
+12) Right thing for patients is quality service - happy and healthy lives.
+13) Value based payment model, Social Determinants of Health - drives 70% of outcomes - Achieve health equity
+14) Staff shortages - public health emergencies, Recovery program telehealth, face to face shortages
+15) Individuals to provide counseling in our area
+16) Workflow, telehealth, screening in person - how, staff understand tech
+17) Study your population - know your data, to support stories so you know how much of an impact is undiagnosed, or untreated
+18) Is it depression, anxiety, substance use disorder - create baseline.
+19) Workflow, pull team together, create plan how to ID and address needs of patient
+20) Look at our performance - are we making a difference, markers getting rid of severity of condition
+21) Review pop data, review support groups - Celebrate Recovery, AA, Health Dept, Care360-Access resources for people who need it, food deserts, housing issues, plays into MH issues
+
+
 # Chatbots - A Comparitive Sampling of Different Chatbots
 
 Score 0-10 | Rank   |   Chatbot URL		|	Question 1		|		Question N+1
