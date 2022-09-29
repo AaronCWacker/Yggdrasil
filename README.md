@@ -43,6 +43,18 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3) Depression tookit, Coping, Living and Thriving despite disease
 4) Facility feedback, depression toolkits
 
+# Depression - Options
+1) Physicians write prescriptions yet how to plan and deal as individuals
+2) Nature of addiction - numb pain.  Serious side effects, Psychotherapy talk therapy
+3) What makes you feel good, what makes you feel bad
+4) Situation - what to do, giving up on something you want causes depression
+5) Pinpoint the problem.  When you feel powerless, back up, identify bump, pump up, problem solve
+6) Video screen in mind, Image of what you are mad at, identify and point it, explain why you are mad.
+7) Identify what you want in that circumstance, disorders of power - pinpoint problem
+8) Take breath, feel yourself stronger, more powerful, stronger
+9) Problem solve - scenario solution, what could you do to feel better, stronger, new ideas
+10) Visualization, different solutions, try new, see what you do differently,humility, how feel, bigger, brighter, lighter, techniques and write questions.
+
 # Chatbots - A Comparitive Sampling of Different Chatbots
 
 Score 0-10 | Rank   |   Chatbot URL		|	Question 1		|		Question N+1
