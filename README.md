@@ -37,7 +37,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 9) Healthy homes - identify help at family scale, resources for families
 10) Drug court, veterans treatment, peer review
 
-
+# Complex Conditions and BH
+1) Increase remission of depression
+2) Data reporting accuracy - depression assessments, gaps in depression data
+3) Depression tookit, Coping, Living and Thriving despite disease
+4) Facility feedback, depression toolkits
 
 # Chatbots - A Comparitive Sampling of Different Chatbots
 
