@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Flamenco Songs 2022 - Love is Cool
+https://soundcloud.com/aaron-wacker-941819269/love-is-cool?si=bd12f11dac37440790494988b28ef595&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/not-funny?si=d75db96c8a084bc1865594ebae257e1e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/lights-on?si=279ecd54c2604e2784092b5f55cb8615&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/happy-now?si=5a561b90e10d4ebd9d6a1e2806a098de&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/wiki-waki-wu?si=063733be532148f794d7c1cb6a25fea5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/beach-in-hawaii-09172022?si=ec537c1637b4456f9c9d8f945265e5c8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/trapflamenco?si=8f0c9c6c6e71421cb3bbe06180cffb33&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+https://soundcloud.com/aaron-wacker-941819269/squishmetal?si=5f871ce630ba439d8b1d3c3484efffa2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
 # Behavioral Health Best Practices
 
 1) Integrate medical and behavioral care
