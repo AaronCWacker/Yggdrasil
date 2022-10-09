@@ -6,65 +6,45 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 '''
 <div class="grid lg:grid-cols-3 gap-x-4 gap-y-7">
 	<p class="lg:col-span-3">
-		Hugging Face makes it really easy to share your <a
-			href="https://spacy.io/">spaCy</a
-		>
-		pipelines with the community!<br />
-		With a single command, you can upload any pipeline package, with a pretty
+		Link text prefix here along with link <a href="https://github.com/AaronCWacker/Yggdrasil/">Yggdrasil</a> Yggdrasil - For AI Superheroes!<br />
+		Legend of Huggingface: With a single command, you can upload any pipeline package, with a pretty
 		model card and all required metadata auto-generated for you. The inference
 		API currently supports NER out-of-the-box and you can try out your
 		pipeline interactively in your browser. You'll also get a live URL for
 		your package that you can pip install from anywhere for a smooth path from
 		prototype all the way to production!
 	</p>
-	<a href="https://spacy.io/" class="block overflow-hidden group">
-		<div
-			class="w-full h-40 object-cover mb-2 rounded-lg flex items-center justify-center bg-[#ECFAFF]"
-		>
-			<img alt="" src="/front/assets/promo/spacy_logo.png" class="w-40" />
+	<a href="https://huggingface.co/awacke1" class="block overflow-hidden group">
+		<div class="w-full h-40 object-cover mb-2 rounded-lg flex items-center justify-center bg-[#ECFAFF]">
+			<img alt="" src="/image.png" class="w-40" />
 		</div>
-		<div class="underline">spaCy website</div>
+		<div class="underline">Web</div>
 	</a>
 	<a
-		href="https://github.com/explosion/spacy-huggingface-hub"
+		href="https://github.com/AaronCWacker"
 		class="block overflow-hidden"
 	>
 		<div class="flex items-center h-40 bg-[#ECFAFF] rounded-lg px-4 mb-2">
 			<pre
 				class="break-words leading-1 whitespace-pre-line text-xs text-gray-800">
-	python -m spacy huggingface-hub push [whl_path] [--org] [--msg] [--local-repo] [--verbose]
+	python -m CoolModelPackages huggingface-hub push [whl_path] [--org] [--msg] [--local-repo] [--verbose]
 		</pre>
 		</div>
 		<div class="underline">Upload packages on the hub</div>
 	</a>
-	<a
-		href="https://huggingface.co/models?filter=spacy"
-		class="block overflow-hidden group"
-	>
-		<div
-			class="w-full h-40 mb-2 bg-gray-900 group-hover:bg-gray-850 rounded-lg flex items-start justify-start overflow-hidden"
-		>
-			<img
-				alt=""
-				src="/front/assets/promo/spacy_widget.jpeg"
-				class="w-full h-40 object-cover overflow-hidden"
-			/>
+	<a href="https://huggingface.co/awacke1?sort_spaces=likes#spaces"
+		class="block overflow-hidden group">
+		<div class="w-full h-40 mb-2 bg-gray-900 group-hover:bg-gray-850 rounded-lg flex items-start justify-start overflow-hidden">
+			<img alt="" src="/widget.jpeg" class="w-full h-40 object-cover overflow-hidden"/>
 		</div>
-		<div class="underline">Find all spaCy models in the Hub</div>
+		<div class="underline">Find AI Classroom Spaces</div>
 	</a>
 	<div class="lg:col-span-3">
 		<p class="mb-4">
-			To upload your spaCy pipelines to the Hub, you can use the <a
-				href="https://github.com/explosion/spacy-huggingface-hub"
-				>spacy-huggingface-hub</a
-			>
-			library.
+			To upload pipelines to the Hub, use the <a href="https://github.com/explosion/spacy-huggingface-hub">spacy-huggingface-hub</a> library.
 		</p>
-		<div
-			class="p-4 bg-gradient-to-b from-gray-50-to-white border border-gray-100 rounded-lg relative mb-4"
-		>
-			<pre
-				class="break-words leading-1 whitespace-pre-line text-xs md:text-sm text-gray-800">
+		<div class="p-4 bg-gradient-to-b from-gray-50-to-white border border-gray-100 rounded-lg relative mb-4">
+			<pre class="break-words leading-1 whitespace-pre-line text-xs md:text-sm text-gray-800">
 	pip install spacy-huggingface-hub
 	huggingface-cli login
 	python -m spacy package ./en_ner_fashion ./output --build wheel
@@ -73,10 +53,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 		</pre>
 		</div>
 		<p>
-			More information: <a
-				href="https://spacy.io/usage/v3-1#huggingface-hub"
-				class="underline">spaCy 3.1 release post</a
-			>
+			More information: <a href="https://spacy.io/usage/v3-1#huggingface-hub"
+				class="underline">spaCy 3.1 release post</a>
 		</p>
 	</div>
 </div>
