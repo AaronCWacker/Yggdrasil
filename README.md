@@ -2,6 +2,86 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Organization Card - Code Template
+'''
+<div class="grid lg:grid-cols-3 gap-x-4 gap-y-7">
+	<p class="lg:col-span-3">
+		Hugging Face makes it really easy to share your <a
+			href="https://spacy.io/">spaCy</a
+		>
+		pipelines with the community!<br />
+		With a single command, you can upload any pipeline package, with a pretty
+		model card and all required metadata auto-generated for you. The inference
+		API currently supports NER out-of-the-box and you can try out your
+		pipeline interactively in your browser. You'll also get a live URL for
+		your package that you can pip install from anywhere for a smooth path from
+		prototype all the way to production!
+	</p>
+	<a href="https://spacy.io/" class="block overflow-hidden group">
+		<div
+			class="w-full h-40 object-cover mb-2 rounded-lg flex items-center justify-center bg-[#ECFAFF]"
+		>
+			<img alt="" src="/front/assets/promo/spacy_logo.png" class="w-40" />
+		</div>
+		<div class="underline">spaCy website</div>
+	</a>
+	<a
+		href="https://github.com/explosion/spacy-huggingface-hub"
+		class="block overflow-hidden"
+	>
+		<div class="flex items-center h-40 bg-[#ECFAFF] rounded-lg px-4 mb-2">
+			<pre
+				class="break-words leading-1 whitespace-pre-line text-xs text-gray-800">
+	python -m spacy huggingface-hub push [whl_path] [--org] [--msg] [--local-repo] [--verbose]
+		</pre>
+		</div>
+		<div class="underline">Upload packages on the hub</div>
+	</a>
+	<a
+		href="https://huggingface.co/models?filter=spacy"
+		class="block overflow-hidden group"
+	>
+		<div
+			class="w-full h-40 mb-2 bg-gray-900 group-hover:bg-gray-850 rounded-lg flex items-start justify-start overflow-hidden"
+		>
+			<img
+				alt=""
+				src="/front/assets/promo/spacy_widget.jpeg"
+				class="w-full h-40 object-cover overflow-hidden"
+			/>
+		</div>
+		<div class="underline">Find all spaCy models in the Hub</div>
+	</a>
+	<div class="lg:col-span-3">
+		<p class="mb-4">
+			To upload your spaCy pipelines to the Hub, you can use the <a
+				href="https://github.com/explosion/spacy-huggingface-hub"
+				>spacy-huggingface-hub</a
+			>
+			library.
+		</p>
+		<div
+			class="p-4 bg-gradient-to-b from-gray-50-to-white border border-gray-100 rounded-lg relative mb-4"
+		>
+			<pre
+				class="break-words leading-1 whitespace-pre-line text-xs md:text-sm text-gray-800">
+	pip install spacy-huggingface-hub
+	huggingface-cli login
+	python -m spacy package ./en_ner_fashion ./output --build wheel
+	cd ./output/en_ner_fashion-0.0.0/dist
+	python -m spacy huggingface-hub push en_ner_fashion-0.0.0-py3-none-any.whl
+		</pre>
+		</div>
+		<p>
+			More information: <a
+				href="https://spacy.io/usage/v3-1#huggingface-hub"
+				class="underline">spaCy 3.1 release post</a
+			>
+		</p>
+	</div>
+</div>
+'''
+
 # Flamenco Songs 2022 - Love is Cool
 https://soundcloud.com/aaron-wacker-941819269/love-is-cool?si=bd12f11dac37440790494988b28ef595&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 https://soundcloud.com/aaron-wacker-941819269/not-funny?si=d75db96c8a084bc1865594ebae257e1e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
