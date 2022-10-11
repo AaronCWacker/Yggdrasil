@@ -1,6 +1,23 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI UI UX 2022 Trends
+1) Consolidated Visibility - from an overall view to a granular view
+2) Deeper Design Thinking - way of thinking about problem spaces and solution spaces to create business impact
+3) Showcasing Culture - clear identity of what the organization stands for, proof of those values
+4) Simplicity - UI and UX design components together, called product design
+5) User Research - Partner closely with researchers on customer feedback loop and market research throughout lifecycle of product
+6) User Tutorials - prepare for process by asking existing customers what would like to know now or wish knew started using software
+7) Emphasis On Employee Experience - optimal UI/UX ability of knowledge workers to do their jobs efficiently, fewer tools and apps, streamlining for collaboration, having fewer business siloes
+8) Collaboration Between Design And Tech - integrating methodologies and processes creating user-centered solutions
+9) Hyperpersonalization - highly specific personalization, interfaces seamless blend of cultivated, personalized resources in every facet of business communication
+10) Emphasis On Usability - design thinking is user empathy, choosing features that are easy to use, prepare by performing usability assessments
+11) AI-Powered Design - AI-powered design revolution focus on the bigger picture
+12) Intuitive UIs - simple, and features should be easily discoverable, try new features without fear of breaking something
+13) Platform-Centric Approaches - Platform-centric approach to each form factor, automated deployment pipelines for application builds
+14) Passwordless Login - secure way to access products without having to remember
+15) Low-Code Tools - allowing less technical users to manipulate data and self-service via low-code and visual interfaces
+
 
 # Organization Card - Code Template
 '''
