@@ -18,6 +18,23 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 14) Passwordless Login - secure way to access products without having to remember
 15) Low-Code Tools - allowing less technical users to manipulate data and self-service via low-code and visual interfaces
 
+# AI UI UX 2022 User Experience Abstracts and Code Examples
+1) Experiments on Generalizability of User-Oriented Fairness in Recommender Systems: https://arxiv.org/abs/2205.08289v1
+2) Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience: https://paperswithcode.com/paper/extensive-error-analysis-and-a-learning-based
+3) Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis: https://paperswithcode.com/paper/transfer-learning-from-speaker-verification
+4) Whisper based speech to stable diffusion generator: https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion
+5) User-in-the-loop Adaptive Intent Detection for Instructable Digital Assistant: https://paperswithcode.com/paper/user-in-the-loop-adaptive-intent-detection
+6) Annotation Curricula to Implicitly Train Non-Expert Annotators: https://paperswithcode.com/paper/annotation-curricula-to-implicitly-train-non
+7) Neural News Recommendation with Attentive Multi-View Learning: https://arxiv.org/abs/1907.05576v1
+8) Positive Refframing: https://huggingface.co/spaces/Ella2323/Positive-Reframing
+9) Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification: https://arxiv.org/abs/2103.12656v2
+10) NRPA: Neural Recommendation with Personalized Attention: https://arxiv.org/abs/1905.12480v1
+11) Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning: https://arxiv.org/abs/2108.03353v1
+12) Neural Graph Collaborative Filtering: https://paperswithcode.com/paper/neural-graph-collaborative-filtering
+13) Semantic Image Synthesis with Spatially-Adaptive Normalization: https://paperswithcode.com/paper/semantic-image-synthesis-with-spatially
+14) Question-Driven Design Process for Explainable AI User Experiences: https://paperswithcode.com/paper/question-driven-design-process-for
+15) Explainable AI using Shapely: https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance/  https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html
+
 
 # Organization Card - Code Template
 '''
