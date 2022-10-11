@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# AI UI UX 2022 Trends
+# AI UI UX 2022 Trends in User Experience
 1) Consolidated Visibility - from an overall view to a granular view
 2) Deeper Design Thinking - way of thinking about problem spaces and solution spaces to create business impact
 3) Showcasing Culture - clear identity of what the organization stands for, proof of those values
@@ -18,7 +18,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 14) Passwordless Login - secure way to access products without having to remember
 15) Low-Code Tools - allowing less technical users to manipulate data and self-service via low-code and visual interfaces
 
-# AI UI UX 2022 User Experience Abstracts and Code Examples
+# AI UI UX 2022 in User Experience - Papers, Abstracts and Code Examples
 1) Experiments on Generalizability of User-Oriented Fairness in Recommender Systems: https://arxiv.org/abs/2205.08289v1
 2) Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience: https://paperswithcode.com/paper/extensive-error-analysis-and-a-learning-based
 3) Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis: https://paperswithcode.com/paper/transfer-learning-from-speaker-verification
