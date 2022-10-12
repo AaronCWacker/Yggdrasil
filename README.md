@@ -7,6 +7,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3) Create src directory on desktop - land zip archive of code and data files there
 4) Requirements.txt is used to store all references in one place which can be run with pip install -r requirements.txt
 5) These two requirements are needed:  translate-toolkit  datasets  make sure both pip install
+6) Opening large files with VSCode requires upping memory limit, raise from 4096 (4gb) to 16384 (16GB)
+7) Turn on VSCode sync settings with Github as source.  Replace Remote
+8) 
 
 
 
