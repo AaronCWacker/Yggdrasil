@@ -9,7 +9,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 5) These two requirements are needed:  translate-toolkit  datasets  make sure both pip install
 6) Opening large files with VSCode requires upping memory limit, raise from 4096 (4gb) to 16384 (16GB)
 7) Turn on VSCode sync settings with Github as source.  Replace Remote
-8) 
+8) If using Teams Toolkit NPM and Node.js are required.  Add those if you are using the Team toolkit.
 
 
 
