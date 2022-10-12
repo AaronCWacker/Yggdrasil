@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero from Scratch
+1) Download VSCode, install, add Python extension latest, download Python 3.10, add Interpreter as 3.10
+2) Download Github latest, enable experimental file system feature, use Windows options if windows
+3) Create src directory on desktop - land zip archive of code and data files there
+4) Requirements.txt is used to store all references in one place which can be run with pip install -r requirements.txt
+5) These two requirements are needed:  translate-toolkit  datasets  make sure both pip install
+
+
+
 # AI UI UX 2022 Trends in User Experience
 1) Consolidated Visibility - from an overall view to a granular view
 2) Deeper Design Thinking - way of thinking about problem spaces and solution spaces to create business impact
