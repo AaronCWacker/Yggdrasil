@@ -6,6 +6,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2) https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
 3) https://huggingface.co/spaces/awacke1/NLPStoryWriterWithMemory
 4) https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
+5) https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+6) https://huggingface.co/spaces/awacke1/AW-06-SL-AI-Image-Music-Video-UI-UX-URL
+7) https://huggingface.co/spaces/awacke1/AW-04-GR-Seq-2-Seq-QA-Auto-Gen
 
 # AI Zero to Hero from Scratch
 1) Download VSCode, install, add Python extension latest, download Python 3.10, add Interpreter as 3.10
