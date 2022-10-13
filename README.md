@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero - Thursday Examples:
+1) https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
+2) https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+3) https://huggingface.co/spaces/awacke1/NLPStoryWriterWithMemory
+4) https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
+
 # AI Zero to Hero from Scratch
 1) Download VSCode, install, add Python extension latest, download Python 3.10, add Interpreter as 3.10
 2) Download Github latest, enable experimental file system feature, use Windows options if windows
