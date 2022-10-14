@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Tennessee Songs - Going to TN in a few weeks here is the gig songs to make me rock superstah!!
+# Tennessee Songs - Going to TN in a few weeks - my playlist
 1) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
 2) https://tabs.ultimate-guitar.com/tab/alabama/dixieland-delight-chords-1124378
 3) https://www.guitaretab.com/n/needtobreathe/314751.html
@@ -14,7 +14,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 10) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
 11) https://tabs.ultimate-guitar.com/tab/brothers-osborne/dont-let-smokey-mountain-smoke-get-in-your-eyes-chords-3782195
 12) https://www.youtube.com/watch?v=IAc0FKyBgks Johnny Rivers
-13) 
+13) https://tabs.ultimate-guitar.com/tab/johnny-rivers/memphis-chords-1049642
 
 # AI Zero to Hero - Thursday Examples:
 1) https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
