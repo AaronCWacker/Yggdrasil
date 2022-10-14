@@ -1,6 +1,21 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tennessee Songs - Going to TN in a few weeks here is the gig songs to make me rock superstah!!
+1) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
+2) https://tabs.ultimate-guitar.com/tab/alabama/dixieland-delight-chords-1124378
+3) https://www.guitaretab.com/n/needtobreathe/314751.html
+4) https://tabs.ultimate-guitar.com/tab/patty-page/tennessee-waltz-chords-1879008
+5) https://tabs.ultimate-guitar.com/tab/noah-gundersen/nashville-chords-1136039
+6) https://tabs.ultimate-guitar.com/tab/grateful-dead/tennessee-jed-chords-1454916
+7) https://tabs.ultimate-guitar.com/tab/sturgill-simpson/tennessee-chords-3492629
+8) https://tabs.ultimate-guitar.com/tab/ronnie-milsap/smoky-mountain-rain-chords-887766
+9) https://tabs.ultimate-guitar.com/tab/the-osborne-brothers/rocky-top-chords-1771381
+10) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
+11) https://tabs.ultimate-guitar.com/tab/brothers-osborne/dont-let-smokey-mountain-smoke-get-in-your-eyes-chords-3782195
+12) https://www.youtube.com/watch?v=IAc0FKyBgks Johnny Rivers
+13) 
+
 # AI Zero to Hero - Thursday Examples:
 1) https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
 2) https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
