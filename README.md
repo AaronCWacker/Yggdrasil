@@ -3,7 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Friday Night Playlist - Chords
 1) https://tabs.ultimate-guitar.com/tab/prince/i-could-never-take-the-place-of-your-man-chords-1732169
-2) 
+2) https://tabs.ultimate-guitar.com/tab/prince/raspberry-beret-chords-80002
 
 # Tennessee Songs - Going to TN in a few weeks - my playlist
 1) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
