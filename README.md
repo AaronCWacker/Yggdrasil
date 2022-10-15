@@ -1,6 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tennessee Must See Guide for Musicians
+1) https://www.musicianshalloffame.com/
+2) http://johnnycashmuseum.com/
+3) http://glencampbellmuseum.com/
+4) http://georgejones.com/
+5) http://nmaam.org/
+6) http://studiob.org/
+7) Aretha Franklin
+8) Kenny Chesney
+9) Tina Turner
+10) Justin Timberlake
+11) Dolly Parton
+12) Gregg Allman (Allman Brothers Band)
+13) Bessie Smith
+14) Miley Cyrus
+15) Chet Atkins
+16) Caleb and Jared Followill (Kings of Leon)
+17) Duane Allman (Allman Brothers Band)
+18) Isaiah Rashad
+19) Kitty Wells
+20) Rosanne Cash
+21) Dustin Lynch
+22) Taylor York (Paramore)
+23) Paramore
+24) Trace Adkins
+25) Chet Atkins
+26) Jimmy Blanton
+27) Rosanne Cash
+28) Kesha
+29) Diamond Rio
+30) Dobie Gray
+31) The Civil Wars
+32) Big Maybelle
+33) The LeFevres Southern Gospel
+34) Sonicflood
+35) Lonestar
+36) https://www.ranker.com/list/best-tennessee-artists-and-musicians/ranker-music
+
+
 # Friday Night Playlist - Chords
 1) https://tabs.ultimate-guitar.com/tab/prince/i-could-never-take-the-place-of-your-man-chords-1732169
 2) https://tabs.ultimate-guitar.com/tab/prince/raspberry-beret-chords-80002
