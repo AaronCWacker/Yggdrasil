@@ -2,41 +2,34 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Tennessee Must See Guide for Musicians
-1) https://www.musicianshalloffame.com/
-2) http://johnnycashmuseum.com/
-3) http://glencampbellmuseum.com/
-4) http://georgejones.com/
-5) http://nmaam.org/
-6) http://studiob.org/
-7) Aretha Franklin
-8) Kenny Chesney
-9) Tina Turner
-10) Justin Timberlake
-11) Dolly Parton
-12) Gregg Allman (Allman Brothers Band)
-13) Bessie Smith
-14) Miley Cyrus
-15) Chet Atkins
-16) Caleb and Jared Followill (Kings of Leon)
-17) Duane Allman (Allman Brothers Band)
-18) Isaiah Rashad
-19) Kitty Wells
-20) Rosanne Cash
-21) Dustin Lynch
-22) Taylor York (Paramore)
-23) Paramore
-24) Trace Adkins
-25) Chet Atkins
-26) Jimmy Blanton
-27) Rosanne Cash
-28) Kesha
-29) Diamond Rio
-30) Dobie Gray
-31) The Civil Wars
-32) Big Maybelle
-33) The LeFevres Southern Gospel
-34) Sonicflood
-35) Lonestar
+1) https://www.musicianshalloffame.com/ - Chet Atkins, Charlie Daniels, Barbara Mandrell, Roy Orbison, Garth Brooks, Peter Frampton, Nashville A-Team, the Wrecking Crew, The Tennessee Two, The Muscle Shoals Rhythm Section, the G-Men (Garth Brooks’ studio musicians) and the studio musicians from Sigma Sound Studio in Philadelphia.
+2) http://johnnycashmuseum.com/ - https://www.ultimate-guitar.com/search.php?title=johnny+cash&page=1&type=300
+3) http://glencampbellmuseum.com/ - https://www.ultimate-guitar.com/search.php?title=glen+campbell&page=1&type=300
+4) http://georgejones.com/ - https://www.ultimate-guitar.com/search.php?title=george+jones&page=1&type=300
+5) http://nmaam.org/ - history of Black music in America. Rivers of Rhythm, music genres, Take Over Moments, Wade in the Water, Crossroads, A Love Supreme, One Nation Under a Groove, and The Message
+6) http://studiob.org/ - Built in 1957, RCA Studio B became known as the birthplace for the “Nashville Sound,” a style characterized by background vocals and strings that helped establish Nashville as an international recording center, located on Nashville's Music Row. EDDY ARNOLD, Chet Atkins, Bobby Bare, Jim Ed Brown, The Browns, Jerry Byrd, Floyd Cramer, Charlie Daniels, Luderin Darbone
+7) Aretha Franklin - https://www.ultimate-guitar.com/artist/aretha_franklin_10308?filter=chords
+8) Kenny Chesney - https://www.ultimate-guitar.com/search.php?title=kenny+chesney&page=1&type=300
+9) Tina Turner - https://www.ultimate-guitar.com/search.php?title=tina+turner+&page=1&type=300
+10) Justin Timberlake - https://www.ultimate-guitar.com/search.php?title=justin+timberlake&page=1&type=300
+11) Dolly Parton - https://www.ultimate-guitar.com/search.php?title=dolly+parton&page=1&type=300
+12) Gregg Allman (Allman Brothers Band) - https://www.ultimate-guitar.com/search.php?title=greg+allman&page=1&type=300
+13) Bessie Smith - https://www.ultimate-guitar.com/search.php?title=bessie+smith&page=1&type=300
+14) Miley Cyrus - https://www.ultimate-guitar.com/search.php?title=mile+cyrus&page=1&type=300
+15) Chet Atkins - https://www.ultimate-guitar.com/search.php?title=chet+atkins&page=1&type=300
+16) Caleb and Jared Followill (Kings of Leon) - https://www.ultimate-guitar.com/search.php?title=kings+of+leon&page=1&type=300
+19) Kitty Wells - https://www.ultimate-guitar.com/search.php?title=kitty+wells&page=1&type=300
+20) Rosanne Cash - https://www.ultimate-guitar.com/search.php?title=rosanne+cash&page=1&type=300
+21) Dustin Lynch - https://www.ultimate-guitar.com/search.php?title=dustin+lynch&page=1&type=300
+23) Paramore - https://www.ultimate-guitar.com/search.php?title=paramore&page=1&type=300
+24) Trace Adkins - https://www.ultimate-guitar.com/search.php?title=trace+adkins&page=1&type=300
+25) Chet Atkins - https://www.ultimate-guitar.com/search.php?title=chet+atkins&page=1&type=300
+28) Kesha - https://www.ultimate-guitar.com/search.php?title=kesha&page=1&type=300
+29) Diamond Rio - https://www.ultimate-guitar.com/search.php?title=diamond+rio&page=1&type=300
+30) Dobie Gray - https://www.ultimate-guitar.com/search.php?title=dobie+gray&page=1&type=300
+31) The Civil Wars - https://www.ultimate-guitar.com/search.php?title=the+civil+wars&page=1&type=300
+34) Sonicflood - https://www.ultimate-guitar.com/search.php?title=sonicflood&page=1&type=300
+35) Lonestar - https://www.ultimate-guitar.com/search.php?title=lonestar&page=1&type=300
 36) https://www.ranker.com/list/best-tennessee-artists-and-musicians/ranker-music
 
 
