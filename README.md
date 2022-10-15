@@ -1,6 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Friday Night Playlist - Chords
+1) https://tabs.ultimate-guitar.com/tab/prince/i-could-never-take-the-place-of-your-man-chords-1732169
+2) 
+
 # Tennessee Songs - Going to TN in a few weeks - my playlist
 1) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
 2) https://tabs.ultimate-guitar.com/tab/alabama/dixieland-delight-chords-1124378
