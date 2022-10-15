@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Tennessee Must See Guide for Musicians
+# Tennessee Guide for Musicians
 1) https://www.musicianshalloffame.com/ - Chet Atkins, Charlie Daniels, Barbara Mandrell, Roy Orbison, Garth Brooks, Peter Frampton, Nashville A-Team, the Wrecking Crew, The Tennessee Two, The Muscle Shoals Rhythm Section, the G-Men (Garth Brooks’ studio musicians) and the studio musicians from Sigma Sound Studio in Philadelphia.
 2) http://johnnycashmuseum.com/ - https://www.ultimate-guitar.com/search.php?title=johnny+cash&page=1&type=300
 3) http://glencampbellmuseum.com/ - https://www.ultimate-guitar.com/search.php?title=glen+campbell&page=1&type=300
