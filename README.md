@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero Example List and LinkedIn URLs to check out:
+1) https://huggingface.co/AISuperheroes
+2) https://huggingface.co/awacke1
+3) AW1 - https://www.linkedin.com/in/aaron-wacker-1823885/
+4) AW2 - https://www.linkedin.com/in/aaron-wacker-963b75174/
+5) https://www.linkedin.com/in/sean-oneil-mpls/
+6) https://www.linkedin.com/in/danmccreary/
+7) https://www.linkedin.com/in/versaggi/
+
+
 # Tennessee Guide for Musicians
 1) https://www.musicianshalloffame.com/ - Chet Atkins, Charlie Daniels, Barbara Mandrell, Roy Orbison, Garth Brooks, Peter Frampton, Nashville A-Team, the Wrecking Crew, The Tennessee Two, The Muscle Shoals Rhythm Section, the G-Men (Garth Brooks’ studio musicians) and the studio musicians from Sigma Sound Studio in Philadelphia.
 2) http://johnnycashmuseum.com/ - https://www.ultimate-guitar.com/search.php?title=johnny+cash&page=1&type=300
