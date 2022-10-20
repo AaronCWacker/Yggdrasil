@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# AI Zero to Hero - Top Ten AI Examples for Teaching MLOPS:
+# AI Zero to Hero - Top Ten AI Examples - SOTA
 1) CSV Data Analyzer	https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
 2) Live Speech Recognition Memory	https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
 3) Chatbot SOTA w Memory	https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
