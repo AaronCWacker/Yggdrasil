@@ -1,6 +1,23 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Examples - Datasets
+
+## Wikipedia Search AI Output Dataset:
+https://huggingface.co/datasets/awacke1/WikipediaSearch
+
+## Table of filtered Dataset after CSV Data Analyzer - Expert Review Process
+
+title| story| time
+-----|------|-----
+electromagnetic energy is absorbed or emitted in discrete packets|https://en.wikipedia.org/wiki/Quantum|2022-10-12 01:47:58.485120
+speeches|https://en.wikipedia.org/wiki/Cicero|2022-10-12 01:48:09.186213
+cerebrovascular disease|https://en.wikipedia.org/wiki/Alzheimer%27s_disease|2022-10-12 01:48:18.661961
+provides the prescription drug|https://en.wikipedia.org/wiki/Pharmacy|2022-10-12 01:49:17.023443
+anxiety and depression|https://en.wikipedia.org/wiki/Physical_fitness|2022-10-12 02:11:19.485917
+Film|https://en.wikipedia.org/wiki/National_Commission_for_Culture_and_the_Arts|2022-10-19 03:05:22.704793
+
+
 # AI Zero to Hero - Top Ten AI Examples - By Difficulty
 Number | Difficulty | Name | URL
 -------|------------|------|----
