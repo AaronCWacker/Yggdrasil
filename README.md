@@ -1,7 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# AI Examples - Datasets
+# AI Zero to Hero - Top Ten AI Examples - SOTA
+
+1) CSV Data Analyzer	https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
+2) Live Speech Recognition Memory	https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+3) Chatbot SOTA w Memory	https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+4) Story Writer w Memory	https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+5) Image to OCR Multilingual	https://huggingface.co/spaces/awacke1/Image2OCR
+6) Sentence Similarity Heatmap, Clusters	https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+7) Sequence 2 Sequence Auto QA	https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+8) Kitchen Sink Gradio Live Webcam AI UI UX	https://huggingface.co/spaces/awacke1/KitchenSink-AGI-SDKit
+9) Streamlit Dashboard with Deep Linking	https://huggingface.co/spaces/awacke1/AW-06-SL-AI-Image-Music-Video-UI-UX-URL?option=RunwayML
+10) Real Time Live Data Science Dashboard	https://huggingface.co/spaces/awacke1/StreamlitTimerTest
 
 ## Wikipedia Search AI Output Dataset:
 https://huggingface.co/datasets/awacke1/WikipediaSearch
@@ -32,19 +43,6 @@ Number | Difficulty | Name | URL
 2)| 6 |Live Speech Recognition Memory	|https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
 4)| 7 |Story Writer w Memory	|https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
 
-
-
-# AI Zero to Hero - Top Ten AI Examples - SOTA
-1) CSV Data Analyzer	https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
-2) Live Speech Recognition Memory	https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-3) Chatbot SOTA w Memory	https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
-4) Story Writer w Memory	https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
-5) Image to OCR Multilingual	https://huggingface.co/spaces/awacke1/Image2OCR
-6) Sentence Similarity Heatmap, Clusters	https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
-7) Sequence 2 Sequence Auto QA	https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
-8) Kitchen Sink Gradio Live Webcam AI UI UX	https://huggingface.co/spaces/awacke1/KitchenSink-AGI-SDKit
-9) Streamlit Dashboard with Deep Linking	https://huggingface.co/spaces/awacke1/AW-06-SL-AI-Image-Music-Video-UI-UX-URL?option=RunwayML
-10) Real Time Live Data Science Dashboard	https://huggingface.co/spaces/awacke1/StreamlitTimerTest
 
 # AI Zero to Hero Example List and LinkedIn URLs to check out:
 1) https://huggingface.co/AISuperheroes
