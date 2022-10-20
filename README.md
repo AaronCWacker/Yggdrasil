@@ -1,6 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero - Top Ten AI Examples - By Difficulty
+Number | Difficulty | Name | URL
+-------|------------|------|----
+1)| 1 |CSV Data Analyzer	|https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
+8)| 2 |Kitchen Sink Gradio Live Webcam AI UI UX	https://huggingface.co/spaces/awacke1/KitchenSink-AGI-SDKit
+9)| 2 |Streamlit Dashboard with Deep Linking	https://huggingface.co/spaces/awacke1/AW-06-SL-AI-Image-Music-Video-UI-UX-URL?option=RunwayML
+10)| 2 |Real Time Live Data Science Dashboard	https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+5)| 2 |Image to OCR Multilingual	|https://huggingface.co/spaces/awacke1/Image2OCR
+6)| 3 |Sentence Similarity Heatmap, Clusters	|https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+7)| 4 |Sequence 2 Sequence Auto QA	|https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+3)| 5 |Chatbot SOTA w Memory	|https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+2)| 6 |Live Speech Recognition Memory	|https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+4)| 7 |Story Writer w Memory	|https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+
+
+
 # AI Zero to Hero - Top Ten AI Examples - SOTA
 1) CSV Data Analyzer	https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
 2) Live Speech Recognition Memory	https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
