@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Ten TN Chords
+
+1) https://tabs.ultimate-guitar.com/tab/grateful-dead/tennessee-jed-chords-1454916
+2) https://tabs.ultimate-guitar.com/tab/chris-stapleton/tennessee-whiskey-chords-1741042
+3) https://tabs.ultimate-guitar.com/tab/dolly-parton/my-tennessee-mountain-home-chords-2113357
+4) https://tabs.ultimate-guitar.com/tab/the-osborne-brothers/rocky-top-chords-1771381
+5) https://tabs.ultimate-guitar.com/tab/cory-morrow/nashville-blues-chords-2444803
+6) https://tabs.ultimate-guitar.com/tab/emmylou-harris/tennessee-rose-chords-2290197
+7) https://tabs.ultimate-guitar.com/tab/alabama/dixieland-delight-chords-1124378
+8) https://tabs.ultimate-guitar.com/tab/marc-cohn/walking-in-memphis-chords-1950777
+9) https://tabs.ultimate-guitar.com/tab/johnny-cash/tennessee-chords-1671419
+10) https://tabs.ultimate-guitar.com/tab/jason-aldean/crazy-town-chords-1016234
+
 # AI Zero to Hero - Top Ten AI Examples - SOTA
 
 1) CSV Data Analyzer	https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
