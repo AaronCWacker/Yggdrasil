@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Midjourney, Artbreeder, Artstation Links
+1) https://discord.com/channels/@me/997514686608191558
+2) https://www.midjourney.com/app/
+3) https://www.artbreeder.com/beta/aaroncwacker
+4) https://www.artstation.com/aaroncwacker
+
 # Top Ten TN Chords
 
 1) https://tabs.ultimate-guitar.com/tab/grateful-dead/tennessee-jed-chords-1454916
