@@ -1,6 +1,37 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Body of Work - 2022
+1. STAR UM AI Dashboard - Created a Cognitive Technology AI Dashboard for Transparency of Decisions and Exception Reasoning using Streamlit and SOAR.
+2. As part of OTU - Taught recurring Thursday class "AI Zero to Hero - Fast AI by Example" to over 140 engineers.
+   - URL: https://optum.video.uhc.com/media/t/1_97xcph0j
+3. As part of Hackathon Board with OTU - led all technology deliverables for event and participated as the host.
+   - URL: https://optum.video.uhc.com/channel/2022%2BOptum%2BVirtual%2BGlobal%2BHackathon/261764302
+   - Over 2000 engineers participated in the Hackathon.  I owned delivery of the 8 Technology Challenges across 5 Optum Business Objectives.
+4. As a leader in Optum Open Source taught class "Github Actions" for AI MLops.
+   - URL: https://optum.video.uhc.com/playlist/dedicated/161071901/1_1lvxerx0/1_l08bl7ce
+5. As a leader in Intelligent Solutions, helped deliver AI Care Plan, AI Assessment applications within OCM2.
+6. As a development team lead, led the creation of a Transcript NLP Fact Extraction AI pipeline application
+   - URL: https://optum.video.uhc.com/media/Ben%20and%20Prithvi%20NLP%20Fact%20Extraction%20Pipeline/1_2w28bdcc
+     - Mentored team of 14 Interns and Co-Op team members in AI
+7. Led adoption of AI Development Architecture approach using Huggingface platform and trained other engineers weekly on its use.
+   - Set record in speed of development of AI software being able to create AI programs with ML models, Datasets, and Spaces in under two minutes.
+   - URL: https://optum.video.uhc.com/media/Aaron%20Wacker%20-%20Fastest%20AI%20In%20the%20West%20-%20AI_ML%20NLP%20Program%20in%20Under%20Two%20Minutes!/1_jel9l0wq
+8. Created over 180 open source AI spaces examples to teach AI including multiple biomedical datasets, programs, and models.
+   - URL: https://huggingface.co/awacke1?sort_spaces=modified#spaces
+      - 184 Spaces - Spaces are AI programs written using HTML5, Gradio, and Streamlit.  Half have API's to call from any program internally or externally.
+      - 7 Models - Models are trained machine learning models using Torch, Tensorflow and many other SDK's for building neural networks and AI pipelines.
+      - 33 datasets - Datasets are curated and processed data to use as inputs, outputs, persistent memory of inference, and tokenized embeddings for AI.
+9. Created AI / UI / UX applications with state of the art AI in User Interfaces with real time using voice, streams, images, video, and documents.
+   - Real Time ASR AI: https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+   - Clinical Terminology AutoMap AI: https://huggingface.co/spaces/awacke1/SNOMED-LOINC-eCQM
+   - Real Time Chatbot AI: https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+   - Real Time ASR with Speech to Text then to synthesized voice Speech output: https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+   - Biomed Real Time Named Entity Recognition (NER): https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+10. Delivered AI Assessment to Clinical Terminology AI which can recognize and classify using SNOMED, LOINC and CQM.
+   - URL: https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+
+
 # Midjourney, Artbreeder, Artstation Links
 1) https://discord.com/channels/@me/997514686608191558
 2) https://www.midjourney.com/app/
