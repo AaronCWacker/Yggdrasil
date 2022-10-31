@@ -9,7 +9,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
 5. Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
 
+Introduce AI and STEM - 3 Lessons - 1 hour session each
+1) What is AI? - Examples, What you see in daily life.  Why is it the future
+   - How can I change this, How it works..  Examples
+2) NLP, Speech - 
+3) Art, Story?  - Capabilities
+Bias?  
 
+Short easy definitions, explanations script
 
 # Body of Work - 2022
 1. STAR UM AI Dashboard - Created a Cognitive Technology AI Dashboard for Transparency of Decisions and Exception Reasoning using Streamlit and SOAR.
