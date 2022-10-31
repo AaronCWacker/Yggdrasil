@@ -3,11 +3,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # AI and STEM Ideas
 
-SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
-3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
-Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
-Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+1. SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+3. 3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
+4. Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
+5. Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
 
 
 
