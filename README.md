@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI and STEM Ideas
+
+SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
+Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
+Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+
+
+
 # Body of Work - 2022
 1. STAR UM AI Dashboard - Created a Cognitive Technology AI Dashboard for Transparency of Decisions and Exception Reasoning using Streamlit and SOAR.
 2. As part of OTU - Taught recurring Thursday class "AI Zero to Hero - Fast AI by Example" to over 140 engineers.
