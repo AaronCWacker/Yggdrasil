@@ -3,23 +3,19 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # AI Zero to Hero for Health
 
-5 Image and Video AI Demos
+5 Fun AI Demos
 1. https://huggingface.co/spaces/awacke1/Image2OCR
 2. https://huggingface.co/spaces/awacke1/Video-Summary
-3. 
+3. https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
 4. https://huggingface.co/spaces/awacke1/Image2LineDrawing
 5. https://huggingface.co/spaces/awacke1/Image-Search-Similar
 
-Too hard:
-https://huggingface.co/spaces/awacke1/Art-from-Text-and-Images
-
-
-5 NLP and Language AI Demos
-1.
-2.
-3.
-4.
-5.
+5 Fun Demos Useful for Health
+1. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+3. https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+4. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+5. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 
 
 # AI and STEM Ideas
