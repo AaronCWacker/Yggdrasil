@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero for Health
+
+5 Most Liked:
+
+5 Most Pertinent to Health Care:
+
+
+
 # AI and STEM Ideas
 
 1. SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
