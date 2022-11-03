@@ -4,8 +4,13 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # AI Zero to Hero for Health
 
 5 Most Liked:
+https://huggingface.co/spaces/awacke1/Image2OCR
+https://huggingface.co/spaces/awacke1/Video-Summary
+https://huggingface.co/spaces/awacke1/Art-from-Text-and-Images
+https://huggingface.co/spaces/awacke1/Image2LineDrawing
+https://huggingface.co/spaces/awacke1/Image-Search-Similar
 
-5 Most Pertinent to Health Care:
+5 Most Helpful to Health Care:
 
 
 
