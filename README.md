@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI NLP for Clinical Terminology Automatic Questions and Answers for Clinical Assessments with Assistive Programs
+
+1. https://www.youtube.com/c/HuggingFace
+2. https://www.youtube.com/watch?v=r38lXjz3g6M&list=PLHgX2IExbFov_5_4WfkesR7gnWPHHG-a1
+
+
 # AI Zero to Hero for Health
 
 5 Fun AI Demos
