@@ -1,17 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# AGI GAN Process for Training Computer/Camera to Computer/Camera with dual AI Agents feeding in loop - Toolbar:
+# AGI GAN Experimental Evolution Process for Training Computer/Camera to Computer/Camera with Dual AI Agents Feeding in Human Input Loop - Toolbar:
 1. Yggdrasil KB on AI in Health:  https://github.com/AaronCWacker/Yggdrasil
 2. Aaron Wacker 180+ Published Prod AI Demonstration Examples: https://huggingface.co/awacke1
 3. AINLPCT Biomed Playlist (have AI watch at 1.75 speed): https://www.youtube.com/playlist?list=PLHgX2IExbFov_5_4WfkesR7gnWPHHG-a1
 4. AINLPCT AGI Medical School (have AI watch at 1.75 speed): https://www.youtube.com/watch?v=r38lXjz3g6M&list=PLHgX2IExbFov_5_4WfkesR7gnWPHHG-a1
-5. Azure Mountain Sky Album (have AI listen and test NLP understanding): https://soundcloud.com/aaron-wacker-941819269/sets/azure-mountain-sky
-6: Discord - AW - Have AI Read Server Activity for:https://discord.com/channels/@me/997514686608191558
-7: Discord - have AI generate images, feeding NER into prompting
+5. Azure Mountain Sky Album (have AI listen for testing hard NLP understanding of episodic and semantic memory): https://soundcloud.com/aaron-wacker-941819269/sets/azure-mountain-sky
+6. Discord - AW - Have AI Read Server Activity for:https://discord.com/channels/@me/997514686608191558
+7. Discord - have AI generate images, feeding NER into prompting
    - Example: /imagine prompt:two laptops with screens showing big brains, with usb cameras pointed at eachother to read eachothers apps and learning in a loop --ar 3840:2160
-8: RunwayML - composite videos using AI to mash up audio gen, image gen, video gen
-
+8. RunwayML - composite videos using AI to mash up audio gen, image gen, video gen
+9. Instacart - Have trained AGI surface products and shop for needed supplies delivery: https://www.instacart.com/store/s?k=usb+camera&search_id=341b0338-6459-41ac-8e14-561cc9164594&page_view_id=ecae9737-e41b-4043-a437-9a554b972898
+10. Feedback loop - train in examples for composing AGI pipeline parts: https://huggingface.co/AIZero2Hero4Health
 
 # LOINC, SNOMED-CT, eCQM in Health Care
 
