@@ -1,11 +1,27 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# LOINC, SNOMED-CT, eCQM in Health Care
+
+1. Standardized Assessment Measures: https://loinc.org/kb/users-guide/standardized-assessment-measures/
+2. Needs Assessment: https://www.findacode.com/snomed/225343006--assessment-of-needs.html
+3. Assessment Scales: https://www.findacode.com/snomed/273249006--assessment-scales.html
+4. SNOMED CT Starter Guide: https://www.snomed.org/SNOMED/media/SNOMED/documents/doc_StarterGuide_Current-en-US_INT_20140731.pdf
+5. Electronic Clinical Quality Measures Basics: https://www.cms.gov/regulations-and-guidance/legislation/ehrincentiveprograms/clinicalqualitymeasures
+6. Electronic Clinical Quality Measures (eCQM) Overview: https://qualitynet.cms.gov/inpatient/measures/ecqm
+7. eCQM Measures: https://www.cms.gov/regulations-and-guidance/legislation/ehrincentiveprograms/clinicalqualitymeasures
+8. 2022 Hospital IQR Requirements: https://blog.medisolv.com/articles/2022-hospital-iqr-requirements
+9. Medicaid Promoting Interoperability (PI) Program: https://healthcurrent.org/wp-content/uploads/Final-Frequently-Asked-Questions-Clinical-Quality-Measures.pdf
+10. eCQM Tools for Testing: https://ecqi.healthit.gov/taxonomy/term/311
+11. eCQM Certification: https://www.ncqa.org/programs/data-and-information-technology/hit-and-data-certification/ecqm-certification/
+12. eCQM Example: Weight Assessment and Counseling for Nutrition and Physical Activity: https://help.practicefusion.com/s/article/eCQM-Weight-Assessment-and-Counseling-for-Nutrition-and-Physical-Activity-for-Children-and-Adolescents-CMS-155v5
+13. eCQM Measures: https://www.ihs.gov/rpms/packagedocs/ECQM/ecqm030o_Measure_Guidance_Manual.pdf
+14. BioPortal - Health Assessment Questionnaire: https://bioportal.bioontology.org/ontologies/SNOMEDCT?p=classes&conceptid=273510007
+
 # AI NLP for Clinical Terminology Automatic Questions and Answers for Clinical Assessments with Assistive Programs
 
 1. https://www.youtube.com/c/HuggingFace
 2. https://www.youtube.com/watch?v=r38lXjz3g6M&list=PLHgX2IExbFov_5_4WfkesR7gnWPHHG-a1
-
 
 # AI Zero to Hero for Health
 
