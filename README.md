@@ -3,9 +3,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Card Game Design for Developing Mnemonic Memory Techniques to Enhance Semantic and Episodic Memory
 
-This plan is designed to assist creating superhuman memory which is useful for aging adults (to circumvent early onset of adult dimensia and alzheimers disease) using multiple memory system techniques called Mnemonics.  This technique teaches both how to count cards and how to win at competitive Blackjack by improving semantic and emotional (episodic) memory.
+This plan is designed to assist creating superhuman memory which is useful for aging adults to circumvent early onset of adult dimensia and to counter effects of alzheimers disease using multiple memory system techniques called **Mnemonics**.  This technique teaches both how to **count cards and how to win** at competitive Blackjack by **improving semantic and emotional (episodic) memory**.
 
-Mnemonics are used for developing photographic memory capabilities and to exercise positive framing Cognitive therapy techniques which reduce errors in thinking and can help improve lives of sufferers of mental health issues such as depression, anxiety, OCD, MDD, and other issues related to neuroscience, psychology and the human brain.
+Mnemonics are used for developing **photographic memory capabilities** and to exercise **positive framing Cognitive techniques** which reduce errors in thinking and can help improve lives of sufferers of mental health issues such as depression, anxiety, OCD, MDD, and other issues related to neuroscience, psychology and the human brain.
 
 Basis:
 By taking a game that most people have heard of and can play, this plan and system is designed to relate new memory key devices to existing memories in order to improve:
