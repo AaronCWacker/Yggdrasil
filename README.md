@@ -25,9 +25,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 <img src="Mnemonics/AC.png.2.Aaron_Wacker_Lighthouse_with_Black_Clubs_Cloud_Pattern.png" width="100">
 4. Ace of Spades:
 <img src="Mnemonics/AS.png.1.Aaron_Wacker_Lighthouse_with_Black_Spades_Cloud_Pattern.png" width="100">
-<img src="Mnemonics/AS.png.1.Aaron_Wacker_Lighthouse_with_Black_Spades_Cloud_Pattern_high_de_1ae14e01-06ea-4f94-b24d-45b0c71157a5.png" width="100">
-<img src="Mnemonics/AS.png.1.Aaron_Wacker_Lighthouse_with_Black_Spades_Cloud_Pattern.png" width="100">
 <img src="Mnemonics/AS.png.2.Aaron_Wacker_Lighthouse_with_Black_Spades_Cloud_Pattern.png" width="100">
+
 
 
 
