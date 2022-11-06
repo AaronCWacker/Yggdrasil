@@ -89,6 +89,40 @@ The first part of this solution uses a game that some people know the rules well
    - Uneven grouping allow you to easily know and remember suit
    - Red and Hearts/Diamonds will end with 5- 5 fingers to Trigger recency a mnemonic which lets you most remember what occurred recently in time.
    - Black and Clubs/Spades will center with 5- 5 fingers to Trigger Visual alignment of symmetry which represents mnemonic of beauty where we remember what is beautiful to us.
+
+7. Peg word system and training base images.
+   - Image word systems allow you to create a peg word or word which triggers a visual picture in your memory
+   - With this special set of Cards the outer frame is maintained for compatibility with card systems.
+   - The inner frame is replaced with these pictures which use at least one form of Mnemonic:
+
+Keyword System Example - Use These or pick your own picture words:
+1. Lighthouse - It looks like a 1.
+2. Glasses - How many lenses?  2.
+3. Stool - How many legs?  3.
+4. Window - How many panes?  4.
+5. Hand - How many fingers?  5.
+6. Dice - How many sides?  6.
+7. Heaven or Clouds - Why?  It rhymes.
+8. Gate - Why?  It rhymes.
+9. Cat - Why?  Cats have nine lives.
+10. Toes - Why?  You have ten toes.
+11. Jack with Drum sticks - Why - Two drum sticks look like 11.
+12. Queen is Boxing - Why?  We have two hands/fists and the one two punch is left right.
+13. King with Mask - Why?  Sensational or scary things are easy to remember.  Crown makes up Mask.
+
+Process: 
+When attempting to memorize, have these cards pre associated with something you can see in your mind.
+With new words or subjects you are remembering blend these into the picture and remember with imagery using imagination to remember in a sequence.
+Test the memory by stepping through each in order.
+Speak and describe the images you see when remembering.
+When recalling, speak and say name of card or number.
+Use suit images of Heart (love) Diamond (riches) Club (needs) and Spades (work) to modify your internal picture.
+You can then remember anything in order easily recalling by going through them.  Test it.
+If you miss one, go on but look up answer and add something into picture that you recall or make it more sensational.
+Try writing it down while reading it aloud, the combination of more than one type of input and output will add to memory strength.
+Test once, let it go, do something else.  Later come back and number on paper and retest what you remember associated with the pegwords.
+Rehearsing once immediately and once after letting your mind wander should be enough to reinforce the memory.
+To blend semantic and episodic memory try adding things that create an emotional response for you into the picture and also use language, rhyming, etc to increase language ties to memory which will use both semantic and episodic memory.
       
 # Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
    
