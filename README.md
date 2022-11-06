@@ -103,7 +103,7 @@ The first part of this solution uses a game that some people know the rules well
    - With this special set of Cards the outer frame is maintained for compatibility with card systems.
    - The inner frame is replaced with these pictures which use at least one form of Mnemonic:
 
-Keyword System Example - Use These or pick your own picture words:
+Peg word (Keyword) System Example - Use These or pick your own picture words:
 1. Lighthouse - It looks like a 1.
 2. Glasses - How many lenses?  2.
 3. Stool - How many legs?  3.
