@@ -1,6 +1,99 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Card Game Design for Developing Mnemonic Memory Techniques to Enhance Semantic and Episodic Memory
+
+This plan is designed to assist creating superhuman memory which is useful for aging adults (to circumvent early onset of adult dimensia and alzheimers disease) using multiple memory system techniques called Mnemonics.  Mnemonics are used for developing photographic memory capabilities and to exercise positive framing Cognitive therapy techniques which reduce errors in thinking and can help improve lives of sufferers of mental health issues such as depression, anxiety, OCD, MDD, and other issues related to neuroscience, psychology and the human brain.
+
+Basis:
+By taking a game that most people have heard of and can play, this plan and system is designed to relate new memory key devices to existing memories in order to improve:
+1. Imagery and Vizualization
+2. Acronyms and Acrostics
+3. Rhymes
+4. Chunking
+These four strategic structuring of human brain neural network and synaptic improvements build a solid model making capability where humans bring into conscious planning and solutions these capabilities which strengthen thinking.
+
+The first part of this solution uses a game that some people know the rules well called "Blackjack".  Blackjack can be played with a deck of cards with card regions which describe the following parts:
+1. Inner card frame
+   - Size: Approx 65 pixels width by 121 pixels height or roughly 1x2 the inner card form factor with standard playing cards contains a picture visual composed of parts.
+      - Parts: Image first is often card inset top of size 65 px by 62 pixels.  This can be square as well.
+      - Parts: Image below is often a mirror of image above so that the card reversed looks the same when rotated eliminating need to sort upside down cards for use.  This also lends itself to be able to see same thing when cards are shuffled and upside down.
+      - Design: All design of parts should allow use by disabled persons.  Font size of any writing should pass the bifocals test:
+         - Bifocals test.  If you have vision problems, cards need to have readable text large enough and simple enough for reading.
+	 - If still readable without glasses or vision assistance the cards can be used in low light environments, and by people with fading vision capability.
+2. Outer card frame
+   - Size: Approx 100 pixels width by 152 pixels height with proportion of roughly 1 by 1.5 aspect ratio
+   - Design: Corners rounded for cut physical cards have a spline middlepoint of four pixels at corner for rounding of corners which allow cards to be more easily handled and shuffled.
+   - Font and text: Typically cards have a Color (black or red) a Suit (Clubs, Diamonds, Hearts, Spades), and a card value which is close to numeric but also identifies face cards which can have additional meaning.  Card Values are as follows:
+   1. Ace = 1
+   2. 2-10 = Numeric values
+   3. J = Jack
+   4. Q = Queen
+   5. K = King
+   6. Optional = Jokers which can also be used as Zero within math number systems.
+3. Deck Size
+   - Deck size can include either 52 or 54 for a standard deck of playing cards.
+   - 52 cards in a deck are roughly 13 cards in each of four suits and do not include Jokers / 0.
+   - 54 cards in a deck are 13 cards in each of four suits and include Jokers / 0.
+   - For mathematics the inclusion of the Joker or zero based number systems allow representation of imaginary numbers.
+   - For last 500 years we discovered imaginary numbers are important especially when counting into negatives because the representation of empty sets and null is important in some calculations.  Since four suits imply a 2D system, there are two zero points
+      1. Left to Right: Horizontal
+      2. Top to Down: Vertical
+      3. Red versus Black allows teams of two which can be two players or one player and one AI.
+      
+   
+   
+
+
+
+# Mnemonics
+
+Mnemonics can be used to give yourself a planned photographic memory which is useful to memorize large lists of any subject.
+
+There are four main types of mnemonic devices that help you get the most out of your memory.  These can be used to circumvent memory problems we encounter as we age including providing a pre-planned circumvention of the condition known as early onset of adult dimensia in which we slowly loose our memory and ability to easily memorize new facts we encounter.
+1) Imagery and Visualization. 
+	Our brains remember images much more easily than words or sounds.
+	Translating things you want to remember into mental images can be a great mnemonic device.
+2) Acronyms and Acrostics.
+	When we read we often detect what the word will be based on context so often we only need the first 1-3 letters to figure out a word in a sentence.
+	This concept is used in speed reading and grokking which is accelerated memorization using the capabilities of visual acuity and semantic memory.
+3) Rhymes.
+	Ability to remember lyrics and music is powerful as well as rhyming words which can trigger a self audio recall.
+	This often also depends on the capability of our audio memory to respond naturally to emotion which is episodic memory.
+4) Chunking.
+	Chunking is a natural way that we build models in the neocortex.  When we chunk we remember things due to given context like fill in the blank.
+	Chunking can reduce the amount of required space to store a memory.  Chunking that involves three dimensions is useful for memory that is syntactic in nature.
+	
+The keyword mnemonic technique combines these four into a strategy which uses numbered keywords that excite visual memory.  When you encounter something you want to remember.  Add it to a visualization that includes a visual memory that you have stored and numbered.  Then when excercising recall, go either backwards or forwards through the numbered images to recall what you added to the imaginative picture in your mind.
+
+Numbered Image Keywords 0 - 21 (22 item length list)
+0 - Dreamer
+1 - Magician
+2 - Priestess
+3 - Empress
+4 - Emporer
+5 - Unity
+6 - Lovers
+7 - Chariot
+8 - Justice
+9 - Hermit
+10 - Wheel
+11 - Strength
+12 - Awakening
+13 - Release
+14 - Balance
+15 - Ego
+16 - Experience
+17 - Star
+18 - Moon
+19 - Sun
+20 - Renewal
+21 - World
+
+These image generating words are just a sample - feel free to choose your own that are meaningful to you.  The more outrageous or emotion exciting for you the better they will serve you as an internal keyword list that you can combine the imagery with the item you want to remember.
+
+
+
 # AGI GAN Experimental Evolution Process for Training Computer/Camera to Computer/Camera with Dual AI Agents Feeding in Human Input Loop - Toolbar:
 1. Yggdrasil KB on AI in Health:  https://github.com/AaronCWacker/Yggdrasil
 2. Aaron Wacker 180+ Published Prod AI Demonstration Examples: https://huggingface.co/awacke1
@@ -491,53 +584,6 @@ She's a good girl.
 
 
 
-
-
-# Mnemonics
-
-Mnemonics can be used to give yourself a planned photographic memory which is useful to memorize large lists of any subject.
-
-There are four main types of mnemonic devices that help you get the most out of your memory.  These can be used to circumvent memory problems we encounter as we age including providing a pre-planned circumvention of the condition known as early onset of adult dimensia in which we slowly loose our memory and ability to easily memorize new facts we encounter.
-1) Imagery and Visualization. 
-	Our brains remember images much more easily than words or sounds.
-	Translating things you want to remember into mental images can be a great mnemonic device.
-2) Acronyms and Acrostics.
-	When we read we often detect what the word will be based on context so often we only need the first 1-3 letters to figure out a word in a sentence.
-	This concept is used in speed reading and grokking which is accelerated memorization using the capabilities of visual acuity and semantic memory.
-3) Rhymes.
-	Ability to remember lyrics and music is powerful as well as rhyming words which can trigger a self audio recall.
-	This often also depends on the capability of our audio memory to respond naturally to emotion which is episodic memory.
-4) Chunking.
-	Chunking is a natural way that we build models in the neocortex.  When we chunk we remember things due to given context like fill in the blank.
-	Chunking can reduce the amount of required space to store a memory.  Chunking that involves three dimensions is useful for memory that is syntactic in nature.
-	
-The keyword mnemonic technique combines these four into a strategy which uses numbered keywords that excite visual memory.  When you encounter something you want to remember.  Add it to a visualization that includes a visual memory that you have stored and numbered.  Then when excercising recall, go either backwards or forwards through the numbered images to recall what you added to the imaginative picture in your mind.
-
-Numbered Image Keywords 0 - 21 (22 item length list)
-0 - Dreamer
-1 - Magician
-2 - Priestess
-3 - Empress
-4 - Emporer
-5 - Unity
-6 - Lovers
-7 - Chariot
-8 - Justice
-9 - Hermit
-10 - Wheel
-11 - Strength
-12 - Awakening
-13 - Release
-14 - Balance
-15 - Ego
-16 - Experience
-17 - Star
-18 - Moon
-19 - Sun
-20 - Renewal
-21 - World
-
-These image generating words are just a sample - feel free to choose your own that are meaningful to you.  The more outrageous or emotion exciting for you the better they will serve you as an internal keyword list that you can combine the imagery with the item you want to remember.
 
 # AI Models Useful for Health AI Pipelines
 
