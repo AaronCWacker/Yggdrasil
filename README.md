@@ -126,9 +126,15 @@ Test once, let it go, do something else.  Later come back and number on paper an
 Rehearsing once immediately and once after letting your mind wander should be enough to reinforce the memory.
 To blend semantic and episodic memory try adding things that create an emotional response for you into the picture and also use language, rhyming, etc to increase language ties to memory which will use both semantic and episodic memory.
       
-# Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
-   
-
+# Play games with two programs: 
+1. Blackjack AI Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
+   - Use this after you have remembered a list.  When you see a card, try to call out the name of the cards you see along with what your remembered word is.
+   - Often you will only need to remember a part but once you recall that part, it will trigger the further memory of everything you assoicated it to.
+3. Speech to Text Application: When reciting memory list of number to thing to remember - use ASR to transcribe: https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+   - Save copy of transcription for later to serve as backup.
+4. Speech to Audio File to Speech: Use this program to record and playback audio: https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+   - Save copy of audio file in your voice along with text.  Save generated audio file.  Leave mistakes in translation.
+5. When retesting come back later and listen to audio and read text - this combination of IO patterns will strengthen what you want to remember.
 
 
 # Mnemonics
