@@ -3,7 +3,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Card Game Design for Developing Mnemonic Memory Techniques to Enhance Semantic and Episodic Memory
 
-This plan is designed to assist creating superhuman memory which is useful for aging adults (to circumvent early onset of adult dimensia and alzheimers disease) using multiple memory system techniques called Mnemonics.  Mnemonics are used for developing photographic memory capabilities and to exercise positive framing Cognitive therapy techniques which reduce errors in thinking and can help improve lives of sufferers of mental health issues such as depression, anxiety, OCD, MDD, and other issues related to neuroscience, psychology and the human brain.
+This plan is designed to assist creating superhuman memory which is useful for aging adults (to circumvent early onset of adult dimensia and alzheimers disease) using multiple memory system techniques called Mnemonics.  This technique teaches both how to count cards and how to win at competitive Blackjack by improving semantic and emotional (episodic) memory.
+
+Mnemonics are used for developing photographic memory capabilities and to exercise positive framing Cognitive therapy techniques which reduce errors in thinking and can help improve lives of sufferers of mental health issues such as depression, anxiety, OCD, MDD, and other issues related to neuroscience, psychology and the human brain.
 
 Basis:
 By taking a game that most people have heard of and can play, this plan and system is designed to relate new memory key devices to existing memories in order to improve:
@@ -36,10 +38,30 @@ The first part of this solution uses a game that some people know the rules well
    - 52 cards in a deck are roughly 13 cards in each of four suits and do not include Jokers / 0.
    - 54 cards in a deck are 13 cards in each of four suits and include Jokers / 0.
    - For mathematics the inclusion of the Joker or zero based number systems allow representation of imaginary numbers.
-   - For last 500 years we discovered imaginary numbers are important especially when counting into negatives because the representation of empty sets and null is important in some calculations.  Since four suits imply a 2D system, there are two zero points
-      1. Left to Right: Horizontal
-      2. Top to Down: Vertical
+   - For last 500 years we discovered imaginary numbers are important especially when counting into negatives because the representation of empty sets and null is important in some calculations where the ccenter point is required.  
+   - Since four suits imply a 2D system, there are two zero points (one red Joker, one black Joker)
+      1. Left to Right: Horizontal which will be represented by red - a heat scale from cool (Ace) to hot (King).  Hearts and Diamonds are red.
+      2. Top to Down: Vertical which will be represented by black - a light scale from dark (Ace) to hot (King). Clubs and Spades are black.
       3. Red versus Black allows teams of two which can be two players or one player and one AI.
+      4. Red and Black also allow a binary measurement then of heat and light, which can also be used to represent Mass and Agency.
+4. Tarot and Rules
+   - In the Tarot decks you have 22 value cards.  These cards have values which symbolically represent progression of life
+   - Birth - Starting at Zero - Perfect beginning.
+   - Death - Ending at 21 - Perfect ending.
+   - These Tarot major arcana originated in Celtic systems to desccribe progressions of the circle of life.
+   - Dealing cards in Blackjack (21) and odds of actions to win ratio:
+      1. Wizardofodds.com has an odds table containing distinct clusters of recommended actions
+      2. Clusters include:
+         - H) Hit - Request for dealer to give me more cards
+         - S) Stand - Let ir ride - I believe I can win with this hand
+         - Dh) Double if allowed otherwise hit
+         - Ds) Double if allowed otherwise stand
+         - P) Split
+      3. Four Sub-Clusters exist:
+         - Ph - Split if double after split is allowed, otherwise hit
+         - Rh - Surrender if allowed, otherwise hit
+         - Rs - Surrender if allowed, otherwise stand
+         - Rp - Surrender if allowed, otherwise split
       
    
    
