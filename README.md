@@ -10,8 +10,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ## Diamonds
 1. Ace of Diamonds link: [Ace of Diamonds 1](https://github.com/AaronCWacker/Yggdrasil/blob/main/Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png)
-![](./Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png =100x200)
+![alt=Ace of Diamonds 1](./Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png =100x200)
 
+
+<img src="Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png" width="100">
 
 
 
