@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+# Mnemonic Cards - Samples Inner Frame Design:
+
+## Hearts
+1. Ace of Hearts
+
+## Diamonds
+1. Ace of Diamonds link: [Ace of Diamonds 1](https://github.com/AaronCWacker/Yggdrasil/blob/main/Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png)
+![](./Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png =100x200)
+
+
+
+
 # Card Game Design for Developing Mnemonic Memory Techniques to Enhance Semantic and Episodic Memory
 
 This plan is designed to assist creating superhuman memory which is useful for aging adults to circumvent early onset of adult dimensia and to counter effects of alzheimers disease using multiple memory system techniques called **Mnemonics**.  This technique teaches both how to **count cards and how to win** at competitive Blackjack by **improving semantic and emotional (episodic) memory**.
@@ -144,18 +158,6 @@ To blend semantic and episodic memory try adding things that create an emotional
 4. Speech to Audio File to Speech: Use this program to record and playback audio: https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
    - Save copy of audio file in your voice along with text.  Save generated audio file.  Leave mistakes in translation.
 5. When retesting come back later and listen to audio and read text - this combination of IO patterns will strengthen what you want to remember.
-
-
-
-# Mnemonic Cards - Samples Inner Frame Design:
-
-## Hearts
-1. Ace of Hearts
-
-## Diamonds
-1. Ace of Diamonds link: [Ace of Diamonds 1](https://github.com/AaronCWacker/Yggdrasil/blob/main/Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png)
-
-
 
 
 
