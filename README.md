@@ -85,7 +85,7 @@ The first part of this solution uses a game that some people know the rules well
    - Left: 1,2,3,4  5,6,7,8  9,10,J,Q,K   Hearts
    - Right: 1,2,3,4  5,6,7,8  9,10,J,Q,k   Diamonds
    - The groupings shown are to accommodate chunking of contiguous elements into one.
-   - This mnemonicc will also allow chunking to activate neural network chaining and compression where if you know one thing in sequence it leads to another.
+   - This mnemonic will also allow chunking to activate neural network chaining and compression where if you know one thing in sequence it leads to another.
    - Uneven grouping allow you to easily know and remember suit
    - Red and Hearts/Diamonds will end with 5- 5 fingers to Trigger recency a mnemonic which lets you most remember what occurred recently in time.
    - Black and Clubs/Spades will center with 5- 5 fingers to Trigger Visual alignment of symmetry which represents mnemonic of beauty where we remember what is beautiful to us.
