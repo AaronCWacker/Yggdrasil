@@ -65,7 +65,7 @@ The first part of this solution uses a game that some people know the rules well
       1. Wizardofodds.com has an odds table containing distinct clusters of recommended actions
       2. Clusters include:
          - H) Hit - Request for dealer to give me more cards
-         - S) Stand - Let ir ride - I believe I can win with this hand
+         - S) Stand - Let it ride - I believe I can win with this hand
          - Dh) Double if allowed otherwise hit
          - Ds) Double if allowed otherwise stand
          - P) Split
