@@ -5,10 +5,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Mnemonic Cards - Samples Inner Frame Design:
 
-## Hearts
-1. Ace of Hearts
 
-## Diamonds
+## Aces
 1. Ace of Diamonds Samples:
 <img src="Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png" width="100">
 <img src="Mnemonics/AD.png.2.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png" width="100">
@@ -26,6 +24,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Ace of Spades:
 <img src="Mnemonics/AS.png.1.Aaron_Wacker_Lighthouse_with_Black_Spades_Cloud_Pattern_high_de_1ae14e01-06ea-4f94-b24d-45b0c71157a5.png" width="100">
 <img src="Mnemonics/AS.png.2.Aaron_Wacker_Lighthouse_with_Black_Spades_Cloud_Pattern.png" width="100">
+
+## Two - Eyeglasses
+<img src="Mnemonics/2S.png.2.Aaron_Wacker_vr_goggles_with_spade_eyeglasses_glowing_cool_two.png" width="100">
+<img src="Mnemonics/2D.png.1.Aaron_Wacker_vr_goggles_with_diamonds_eyeglasses_glowing_cool_two.png" width="100">
+<img src="Mnemonics/2D.png.3.Aaron_Wacker_vr_goggles_with_diamonds_eyeglasses_glowing_cool_two.png" width="100">
+<img src="Mnemonics/2D.png.3.Aaron_Wacker_vr_goggles_with_diamonds_eyeglasses_glowing_cool_two.png" width="100">
 
 
 
