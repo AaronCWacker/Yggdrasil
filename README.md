@@ -146,6 +146,19 @@ To blend semantic and episodic memory try adding things that create an emotional
 5. When retesting come back later and listen to audio and read text - this combination of IO patterns will strengthen what you want to remember.
 
 
+
+# Mnemonic Cards - Samples Inner Frame Design:
+
+## Hearts
+1. Ace of Hearts
+
+## Diamonds
+1. Ace of Diamonds link: [Ace of Diamonds 1](https://github.com/AaronCWacker/Yggdrasil/blob/main/Mnemonics/AD.png.Aaron_Wacker_Lighthouse_with_Red_Diamond_Pattern_Ace.png)
+
+
+
+
+
 # Mnemonics
 
 Mnemonics can be used to give yourself a planned photographic memory which is useful to memorize large lists of any subject.
