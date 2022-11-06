@@ -13,7 +13,8 @@ By taking a game that most people have heard of and can play, this plan and syst
 2. Acronyms and Acrostics
 3. Rhymes
 4. Chunking
-These four strategic structuring of human brain neural network and synaptic improvements build a solid model making capability where humans bring into conscious planning and solutions these capabilities which strengthen thinking.
+
+These four strategic structures of human brain neural network and synaptic improvements build a solid model making capability where humans bring into conscious planning and solutions superhuman capabilities which strengthen thinking.
 
 The first part of this solution uses a game that some people know the rules well called "Blackjack".  Blackjack can be played with a deck of cards with card regions which describe the following parts:
 1. Inner card frame
