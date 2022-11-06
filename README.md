@@ -38,13 +38,23 @@ The first part of this solution uses a game that some people know the rules well
    - Deck size can include either 52 or 54 for a standard deck of playing cards.
    - 52 cards in a deck are roughly 13 cards in each of four suits and do not include Jokers / 0.
    - 54 cards in a deck are 13 cards in each of four suits and include Jokers / 0.
-   - For mathematics the inclusion of the Joker or zero based number systems allow representation of imaginary numbers.
-   - For last 500 years we discovered imaginary numbers are important especially when counting into negatives because the representation of empty sets and null is important in some calculations where the ccenter point is required.  
-   - Since four suits imply a 2D system, there are two zero points (one red Joker, one black Joker)
+   - For mathematics, inclusion of the Joker or zero based number systems allow representation of imaginary numbers.
+   - For last 500 years we discovered imaginary numbers are important especially when counting from positives into negatives because the representation of empty sets and null is important in some calculations where a center point between positive and negative is required.  
+   - Since four suits and two colors imply a 2D system, there are two zero points (one red Joker, one black Joker)
       1. Left to Right: Horizontal which will be represented by red - a heat scale from cool (Ace) to hot (King).  Hearts and Diamonds are red.
       2. Top to Down: Vertical which will be represented by black - a light scale from dark (Ace) to hot (King). Clubs and Spades are black.
       3. Red versus Black allows teams of two which can be two players or one player and one AI.
-      4. Red and Black also allow a binary measurement then of heat and light, which can also be used to represent Mass and Agency.
+      4. Red and Black also allow a binary measurement then of heat and light, which can also be used to represent Mass and Agency
+   - Ikigai - a term which refers to four dimensions will be used to emotionally load differences between Suits:
+      1. Hearts or Love is Positive therefore from 0 red Joker to K hearts will represent horizontally Left
+      2. Diamonds or Riches is negative from 0 red joker to K diamonds will representing horizontally Right
+      3. Clubs or Groups of people is positive therefore from 0 black Joker to K clubs will represent vertical Up
+      4. Spades or Work is negative from 0 black Joker to King of Spades vertical Down
+   - Ikigai has four quadrants.  These are ties to emotional memory and happiness by our purpose in life:
+      1. Up (Clubs) - What the world needs - Color = Blue, Element = Air
+      2. Down (Spades) - What you are good at - Color = Yellow, Element = Fire
+      3. Left (Hearts) - What you love - Color = Red, Element = Water
+      4. Right (Diamonds) - What you get paid for - Color = Red to Green, Element = Earth
 4. Tarot and Rules
    - In the Tarot decks you have 22 value cards.  These cards have values which symbolically represent progression of life
    - Birth - Starting at Zero - Perfect beginning.
