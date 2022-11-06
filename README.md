@@ -24,6 +24,7 @@ The first part of this solution uses a game that some people know the rules well
       - Design: All design of parts should allow use by disabled persons.  Font size of any writing should pass the bifocals test:
          - Bifocals test.  If you have vision problems, cards need to have readable text large enough and simple enough for reading.
 	 - If still readable without glasses or vision assistance the cards can be used in low light environments, and by people with fading vision capability.
+	 - Midjourney card prompt for inner frame: Lighthouse with Red Diamonds Cloud Pattern high detail Aces --ar 1:2
 2. **Outer Card Frame**
    - Size: Approx 100 pixels width by 152 pixels height with proportion of roughly 1 by 1.5 aspect ratio
    - Design: Corners rounded for cut physical cards have a spline middlepoint of four pixels at corner for rounding of corners which allow cards to be more easily handled and shuffled.
