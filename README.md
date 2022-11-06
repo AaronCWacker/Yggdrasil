@@ -89,6 +89,14 @@ The first part of this solution uses a game that some people know the rules well
    - Uneven grouping allow you to easily know and remember suit
    - Red and Hearts/Diamonds will end with 5- 5 fingers to Trigger recency a mnemonic which lets you most remember what occurred recently in time.
    - Black and Clubs/Spades will center with 5- 5 fingers to Trigger Visual alignment of symmetry which represents mnemonic of beauty where we remember what is beautiful to us.
+   - Use the Ikigai or Suit words to modify the visual picture.
+      - If for example you are using 9 of hearts to remember keys location on nite table, your visual picture might be:
+      - A love cat purring on the nitestand wearing keys around collar jingling as cat dances on top of table.
+      - The more interesting, colorful picture you imagine, the stronger the memory will be.
+      - By using the modifiers of suits you can then create easy to remember variants of same pegwords without requiring more words.
+      - This system should then allow memorizing lists of up to 52 things.
+      - If you are remembering multiple lists per day break the lists thematically into the four categories and use those consistently.
+      - Choose which suit to use at onset and say it aloud (e.g. for work related use spades, for things about family use hearts..)
 
 7. Peg word system and training base images.
    - Image word systems allow you to create a peg word or word which triggers a visual picture in your memory
