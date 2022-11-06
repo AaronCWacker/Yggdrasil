@@ -75,7 +75,7 @@ The first part of this solution uses a game that some people know the rules well
          - Rs - Surrender if allowed, otherwise stand
          - Rp - Surrender if allowed, otherwise split
       
-   
+# Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
    
 
 
