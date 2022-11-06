@@ -126,7 +126,7 @@ Test once, let it go, do something else.  Later come back and number on paper an
 Rehearsing once immediately and once after letting your mind wander should be enough to reinforce the memory.
 To blend semantic and episodic memory try adding things that create an emotional response for you into the picture and also use language, rhyming, etc to increase language ties to memory which will use both semantic and episodic memory.
       
-# Play games with two programs: 
+# Play with these AI programs: 
 1. Blackjack AI Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
    - Use this after you have remembered a list.  When you see a card, try to call out the name of the cards you see along with what your remembered word is.
    - Often you will only need to remember a part but once you recall that part, it will trigger the further memory of everything you assoicated it to.
