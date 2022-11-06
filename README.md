@@ -51,10 +51,10 @@ The first part of this solution uses a game that some people know the rules well
       3. Clubs or Groups of people is positive therefore from 0 black Joker to K clubs will represent vertical Up
       4. Spades or Work is negative from 0 black Joker to King of Spades vertical Down
    - Ikigai has four quadrants.  These are ties to emotional memory and happiness by our purpose in life:
-      1. Up (Clubs) - What the world needs
-      2. Down (Spades) - What you are good at
-      3. Left (Hearts) - What you love
-      4. Right (Diamonds) - What you get paid for
+      1. Up (Clubs) - What the world needs - Agency - As we work together in larger groups we increase exponentially in capability.
+      2. Down (Spades) - What you are good at - Mass - As we go into a microcosm, even dig down to center of earth, mass and gravity increases.
+      3. Left (Hearts) - What you love - In the beginning we are product of love between two people.
+      4. Right (Diamonds) - What you get paid for - In the end we accumulate resources and ability to help others.
    - Ikigai quadrants can also specify "Air vs Earth - Up to Down, and Water vs Fire - Left to Right"
 4. **Tarot and Action Rules**
    - In the Tarot decks you have 22 value cards.  These cards have values which symbolically represent progression of life
