@@ -60,7 +60,7 @@ The first part of this solution uses a game that some people know the rules well
    - In the Tarot decks you have 22 value cards.  These cards have values which symbolically represent progression of life
    - Birth - Starting at Zero - Perfect beginning.
    - Death - Ending at 21 - Perfect ending.
-   - These Tarot major arcana originated in Celtic systems to desccribe progressions of the circle of life.
+   - These Tarot major arcana originated in Celtic systems to describe progressions of the circle of life.
    - Dealing cards in Blackjack (21) and odds of actions to win ratio:
       1. Wizardofodds.com has an odds table containing distinct clusters of recommended actions
       2. Clusters include:
