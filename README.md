@@ -107,8 +107,10 @@ Keyword System Example - Use These or pick your own picture words:
 9. Cat - Why?  Cats have nine lives.
 10. Toes - Why?  You have ten toes.
 11. Jack with Drum sticks - Why - Two drum sticks look like 11.
-12. Queen is Boxing - Why?  We have two hands/fists and the one two punch is left right.
-13. King with Mask - Why?  Sensational or scary things are easy to remember.  Crown makes up Mask.
+12. Queen is Boxing - Why?  We have two hands/fists and the one two punch is left right.  Queen is best fighter in Chess.
+13. King with Mask - Why?  Sensational or scary things are easy to remember.  Crown makes up Mask.  King being highest card per suit is fearsome.
+
+Math: 13 * 4 = 52 card deck..
 
 Process: 
 When attempting to memorize, have these cards pre associated with something you can see in your mind.
