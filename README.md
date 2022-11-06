@@ -74,6 +74,21 @@ The first part of this solution uses a game that some people know the rules well
          - Rh - Surrender if allowed, otherwise hit
          - Rs - Surrender if allowed, otherwise stand
          - Rp - Surrender if allowed, otherwise split
+5. Getting Started - Sort the Cards
+   - Sort Cards In Order and By Suit into Quadrants
+   - Black will be up and down
+   - Red will be left and right
+   - Two Jokers go in Center
+6. Once Sorted by Suit, Order Cards from Ace to King
+   - Top : 1,2,3,4,5  6,7,8,9,10   J,Q,K   Clubs
+   - Bottom: 1,2,3,4,5  6,7,8,9,10  J,Q,K   Spades
+   - Left: 1,2,3,4  5,6,7,8  9,10,J,Q,K   Hearts
+   - Right: 1,2,3,4  5,6,7,8  9,10,J,Q,k   Diamonds
+   - The groupings shown are to accommodate chunking of contiguous elements into one.
+   - This mnemonicc will also allow chunking to activate neural network chaining and compression where if you know one thing in sequence it leads to another.
+   - Uneven grouping allow you to easily know and remember suit
+   - Red and Hearts/Diamonds will end with 5- 5 fingers to Trigger recency a mnemonic which lets you most remember what occurred recently in time.
+   - Black and Clubs/Spades will center with 5- 5 fingers to Trigger Visual alignment of symmetry which represents mnemonic of beauty where we remember what is beautiful to us.
       
 # Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
    
