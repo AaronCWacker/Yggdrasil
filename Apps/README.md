@@ -12,6 +12,11 @@ Python 3.11.0
 Add Streamlit, or bring it to latest version:
 C:\Users\temporary>pip install --upgrade streamlit
 
+Common issue: pyarrow fails to install.  If this happens, upgrade pip:
+python.exe -m pip install --upgrade pip
+Reinstall pyarrow:
+pip install --upgrade pyarrow
+
 Syntax:
 1. Open a prompt with start run cmd if on windows
 2. Then launch streamlit run [URLtoApp.py]
