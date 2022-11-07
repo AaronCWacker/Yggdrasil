@@ -16,6 +16,7 @@ Common issue: pyarrow fails to install.  If this happens, upgrade pip:
 python.exe -m pip install --upgrade pip
 Reinstall pyarrow:
 pip install --upgrade pyarrow
+Upgrade CMAKE?  VS 2017 fails.  https://cmake.org/download/
 
 Syntax:
 1. Open a prompt with start run cmd if on windows
