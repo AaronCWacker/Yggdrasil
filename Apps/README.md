@@ -18,6 +18,7 @@ Reinstall pyarrow:
 pip install --upgrade pyarrow
 Upgrade CMAKE?  VS 2017 fails.  https://cmake.org/download/
 Upgrade VS redistrib: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Try old VS2017: https://aka.ms/vs/15/release/VC_redist.x64.exe
 
 Syntax:
 1. Open a prompt with start run cmd if on windows
