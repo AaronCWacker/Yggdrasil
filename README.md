@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# LOINC Assessment Example
+https://loinc.org/panels/
+https://loinc.org/panels/category/clinical-assessments-scales-measures/
+https://loinc.org/panels/category/clinical-assessments-scales-measures/physical-activity-exercise/
+
 
 # LOINC, SNOMED-CT, eCQM in Health Care
 
