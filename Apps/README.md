@@ -19,6 +19,7 @@ pip install --upgrade pyarrow
 Upgrade CMAKE?  VS 2017 fails.  https://cmake.org/download/
 Upgrade VS redistrib: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 Try old VS2017: https://aka.ms/vs/15/release/VC_redist.x64.exe
+Try this and reboot: https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16#
 
 In ubuntu you can update Python with this:
 sudo add-apt-repository ppa:deadsnakes/ppa
