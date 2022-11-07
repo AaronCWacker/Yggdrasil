@@ -35,4 +35,5 @@ https://github.com/AaronCWacker/Yggdrasil/tree/main/Apps
 streamlit run https://github.com/AaronCWacker/Yggdrasil/blob/main/Apps/README.md
 streamlit run https://raw.githubusercontent.com/AaronCWacker/Yggdrasil/main/Apps/Pygraph_app.py
    - for files at App directory here: https://github.com/AaronCWacker/Yggdrasil/tree/main/Apps
+   - Then if using windows, right click on Machine to get fully qualified domain name of machine for url.
 
