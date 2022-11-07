@@ -2,10 +2,12 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # LOINC Assessment Example
-https://loinc.org/panels/
-https://loinc.org/panels/category/clinical-assessments-scales-measures/
-https://loinc.org/panels/category/clinical-assessments-scales-measures/physical-activity-exercise/
-
+1. Panels https://loinc.org/panels/
+2. Clinical Assessments Scales and Measures https://loinc.org/panels/category/clinical-assessments-scales-measures/
+3. Physical Activity Exercise https://loinc.org/panels/category/clinical-assessments-scales-measures/physical-activity-exercise/
+4. SDC Form : 
+<img src="images/LOINCAssessmentExerciseTrackingPanel-55409-7.png" width="640">
+https://github.com/AaronCWacker/Yggdrasil/blob/main/images/LOINCAssessmentExerciseTrackingPanel-55409-7.png
 
 # LOINC, SNOMED-CT, eCQM in Health Care
 
