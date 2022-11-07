@@ -30,4 +30,9 @@ Syntax:
 
 ## Pygraph App:
 streamlit run https://github.com/AaronCWacker/Yggdrasil/Apps/Pygraph_app.py
+You need to use the raw URL which is on the file view screen from RAW button:
+https://github.com/AaronCWacker/Yggdrasil/tree/main/Apps
+streamlit run https://github.com/AaronCWacker/Yggdrasil/blob/main/Apps/README.md
+streamlit run https://raw.githubusercontent.com/AaronCWacker/Yggdrasil/main/Apps/Pygraph_app.py
+   - for files at App directory here: https://github.com/AaronCWacker/Yggdrasil/tree/main/Apps
 
