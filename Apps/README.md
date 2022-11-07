@@ -1,4 +1,4 @@
-# How to Run Streamlit Apps from a URL
+# How to Run Streamlit Apps from a Github URL
 
 Prep:
 1. Install VSCode, allow adding to Path.  https://code.visualstudio.com/download
