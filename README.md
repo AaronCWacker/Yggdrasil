@@ -13,8 +13,7 @@ graph TD;
     C-->D;
 ```
 
-'''
-mermaid
+```mermaid
   graph AssessmentModel;
       Assessment-->Score;
       Assessment-->QuestionAsked;
@@ -47,7 +46,7 @@ mermaid
       Assessment-->Service;
       Service-->History;
       Service-->Request;
-'''
+```
 
 # LOINC Assessment Example
 1. Panels https://loinc.org/panels/
