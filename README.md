@@ -14,7 +14,7 @@ graph TD;
 ```
 
 ```mermaid
-graph Assessment;
+graph TD;
     Assessment-->Score;
     Assessment-->QuestionAsked;
     Assessment-->ProgressChange;
