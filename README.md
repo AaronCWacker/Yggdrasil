@@ -1,6 +1,44 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Mermaid Graph in Markdown
+
+'''
+mermaid
+  graph AssessmentModel;
+      Assessment-->Score;
+      Assessment-->QuestionAsked;
+      Assessment-->ProgressChange;
+      Assessment-->Programs;
+      Assessment-->Product;
+      Assessment-->Program;
+      Program-->Population;
+      Assessment-->Plan;
+      Plan-->Question;
+      Plan-->Problem;
+      Assessment-->Response;
+      Response-->Choice;
+      Response-->Populator;
+      Assessment-->Section;
+      Section-->Score;
+      Assessment-->Template;
+      Template-->Script;
+      Template-->Question;
+      Question-->SubQuestion;
+      Question-->Table;
+      Table-->SubTable;
+      Table-->Column;
+      Column-->Choice;
+      Question-->Response;
+      Response-->ResponseTable;
+      Response-->ResponseText;
+      Template-->Section;
+      Assessment-->Document;
+      Assessment-->Service;
+      Service-->History;
+      Service-->Request;
+'''
+
 # LOINC Assessment Example
 1. Panels https://loinc.org/panels/
 2. Clinical Assessments Scales and Measures https://loinc.org/panels/category/clinical-assessments-scales-measures/
