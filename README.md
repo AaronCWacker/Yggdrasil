@@ -5,13 +5,21 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Mermaid Graph in Markdown
 
 Here is a simple flow chart:
-
 ```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+flowchart TB
+    c1-->a2
+    subgraph one[Training]
+    a1[Select a Data Set]-->a2[Perform Data Splitting]
+    end
+    subgraph two[Deploy]
+    b1[Model Deploy]-->b2[Web App Deploy]
+    end
+    subgraph three[Testing]
+    c1[Test Model with Input Data]-->c2[Figure Out What Works]
+    end
+    one --> two
+    three --> two
+    two --> c2
 ```
 
 ```mermaid
