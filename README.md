@@ -10,12 +10,19 @@ flowchart TB
     c1-->a2
     subgraph one[Training]
     a1[Select a Data Set]-->a2[Perform Data Splitting]
+    a2-->a3[Model Building]
+    a3-->a4[Select SKLearn, TensorFlow or Pytorch]
+    a4-->a5[Determine if Model Performs Well]
     end
     subgraph two[Deploy]
     b1[Model Deploy]-->b2[Web App Deploy]
+    b2-->b3[Choose Local or Cloud]
+    b3-->b4[Cloud Options are HF Spaces, Gradio Hosted, Heroku, AWS, Azure, GCP]
     end
     subgraph three[Testing]
     c1[Test Model with Input Data]-->c2[Figure Out What Works]
+    c2-->c3[Examples of Inputs that Work, Examples That Break Model]
+    c3-->c4[Governance - Analyze and Publish Implicit Fairness, Equity, Bias in Datasets and Outputs]
     end
     one --> two
     three --> two
