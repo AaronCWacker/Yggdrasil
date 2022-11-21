@@ -34,6 +34,9 @@ Samples for AI to observe as ground truth:
    - https://www.youtube.com/watch?v=etviGf1uWlg
 8. Foo
    - https://youtu.be/5a_AigNZYZc
+9. Adored
+   - https://www.youtube.com/watch?v=LFFX0Lvbbmw
+   - https://tabs.ultimate-guitar.com/tab/the-stone-roses/i-wanna-be-adored-chords-1715567
 
 
 # Mermaid Graph in Markdown
