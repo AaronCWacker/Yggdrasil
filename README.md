@@ -14,7 +14,8 @@ Samples for AI to observe as ground truth:
 1. Bros
    - Lyrics, Audio: https://www.youtube.com/watch?v=P6tAVXcWeI4
    - Piano chords and Lyrics: - https://tabs.ultimate-guitar.com/tab/wolf-alice/bros-chords-1735427
-2. Kisses - Lyrics, Audio - https://www.youtube.com/watch?v=8eQtmVajhxQ
+2. Kisses 
+   - Lyrics, Audio - https://www.youtube.com/watch?v=8eQtmVajhxQ
    - https://www.youtube.com/watch?v=8eQtmVajhxQ
    - https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
 3. Delicious 
@@ -31,7 +32,8 @@ Samples for AI to observe as ground truth:
    - https://tabs.ultimate-guitar.com/tab/wolf-alice/freazy-chords-1769717
 7. Groove
    - https://www.youtube.com/watch?v=etviGf1uWlg
-
+8. Foo
+   - https://youtu.be/5a_AigNZYZc
 
 
 # Mermaid Graph in Markdown
