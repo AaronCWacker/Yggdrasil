@@ -1,6 +1,36 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Music Writer AI
+## Main Idea - AI music understanding and analysis for writing and playing options along with sheet music and chord diagram outputs
+
+Have AI watch a video with lyrics, while also watching a scrolling selection of piano chords and lyrics to be able to generate an output video with lyrics, chords, and analysis of instrument play, singing and lyrics
+
+Goal is only to have a sing along AI which attempts to show anyone who wants to play or sing along with a song to share in the experience without prior knowledge of what lyrics to use or what notes to play, only that each person can watch the output and be able to enjoy while singing or playing along in real time, with an output which would allow musicians to then do the same by memory again without any guidance.
+
+AI training gets all resources together with no instructions.  Multimodal AI understanding of NLP tasks, self supervised training, and AGI methods which include one computer just watching and listening to video of second computer provides the GAN based architecture of player/listener pair programming where one computer shows text, audio, video in multiple browser windows and the AI generator uses attention heads and transformers along with semantic and episodic memory to infer meaning live and in real time as a human would.
+
+Samples for AI to observe as ground truth:
+1. Bros
+   - Lyrics, Audio: https://www.youtube.com/watch?v=P6tAVXcWeI4
+   - Piano chords and Lyrics: - https://tabs.ultimate-guitar.com/tab/wolf-alice/bros-chords-1735427
+2. Kisses - Lyrics, Audio - https://www.youtube.com/watch?v=8eQtmVajhxQ
+   - https://www.youtube.com/watch?v=8eQtmVajhxQ
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
+3. Delicious 
+   - https://www.youtube.com/watch?v=JfvN4UQrsHY
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/delicious-things-chords-3738035
+4. Blush
+   - https://youtu.be/liYyyoAgc_4
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/blush-chords-1747581
+5. Fluffy
+   - https://www.youtube.com/watch?v=dwpDQip0J-4
+   - https://www.youtube.com/watch?v=UkghyKKQDss
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/fluffy-chords-1715649
+6. Freazy
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/freazy-chords-1769717
+
+
 
 # Mermaid Graph in Markdown
 
