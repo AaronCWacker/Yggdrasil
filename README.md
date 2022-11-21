@@ -37,6 +37,27 @@ Samples for AI to observe as ground truth:
 9. Adored
    - https://www.youtube.com/watch?v=LFFX0Lvbbmw
    - https://tabs.ultimate-guitar.com/tab/the-stone-roses/i-wanna-be-adored-chords-1715567
+10. Smile
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/smile-chords-3672704
+   - https://www.youtube.com/watch?v=NV39h7GHDYs
+   - https://www.youtube.com/watch?v=Wq7g9j5149E
+11. Love
+   - https://youtu.be/VMXNtSKstv4
+12. Light
+   - https://youtu.be/3nr6VQI_7Ik
+   - https://tabs.ultimate-guitar.com/tab/wolf-alice/the-last-man-on-earth-chords-3582701
+ 13. Blue
+   - https://youtu.be/AraEB55ynPc
+ 14. Smile
+   - https://www.youtube.com/results?search_query=mona+lisa+smile+lyrics
+   - https://www.youtube.com/watch?v=z71df68qLp0
+   - https://www.youtube.com/watch?v=8mbAClggFMs
+   - https://www.youtube.com/watch?v=8mbAClggFMs&list=RD8mbAClggFMs&start_radio=1
+   - https://www.youtube.com/watch?v=Y6RjOJaqOWY
+   - https://youtu.be/GqPysg2m95A
+   - https://youtu.be/X5cu7pPmv44
+   - https://www.youtube.com/watch?v=Pk4nKhpzex0
+   - https://www.youtube.com/watch?v=nYN2SDjnNW8
 
 
 # Mermaid Graph in Markdown
