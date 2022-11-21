@@ -29,6 +29,8 @@ Samples for AI to observe as ground truth:
    - https://tabs.ultimate-guitar.com/tab/wolf-alice/fluffy-chords-1715649
 6. Freazy
    - https://tabs.ultimate-guitar.com/tab/wolf-alice/freazy-chords-1769717
+7. Groove
+   - https://www.youtube.com/watch?v=etviGf1uWlg
 
 
 
