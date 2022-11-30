@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Pipeline Suite
+Best in 3D animation, Image from prompt, Chat with Memory, Datasets, Speech to Text to Speech, Medical NER, ASR Live, Health and Mindful Story Gen
+1. https://github.com/AaronCWacker/Yggdrasil/edit/main/README.md
+2. https://huggingface.co/awacke1
+3. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+4. https://huggingface.co/spaces/awacke1/AIPromptSearch
+5. https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+6. https://huggingface.co/spaces/awacke1/FreddysDatasetViewer
+7. https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+8. https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+9. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+10. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+
+
 # Music Writer AI
 ## Main Idea - AI music understanding and analysis for writing and playing options along with sheet music and chord diagram outputs
 
