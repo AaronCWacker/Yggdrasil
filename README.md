@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Writing Programs that Write Programs
+1. Quine - program that takes no input and outputs its own source
+2. Python: s='s=%r;print(s%%s)';print(s%s)
+3. Biological self replication - biological cells with dna, code which replicates DNA.
+
 # Future Directions in Programming
 1. Structure Editor for Racket - Edit allows you to modify living structure
 2. Racket - Pattern matching - Self Documenting
