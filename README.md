@@ -1,6 +1,24 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Future Directions in Programming
+1. Structure Editor for Racket - Edit allows you to modify living structure
+2. Racket - Pattern matching - Self Documenting
+3. DataRabbit - Visualization in Closure - DataViz, Refinement
+4. Clerk - Editor and View with contents of namespacce working on
+   1. Version control of notebook
+   2. Literate programming - markdown and text
+   3. Minimal coding
+5. Grab sliders and change in real time
+6. Clerk - Visual interaction and talk to databases and filesystems
+7. Hazel - L like holes - improved interfaces - holes
+   1. Student interfaces
+   2. TYLR - David Moons Twitter
+8. David Moon, Andrew Glin - Livelets $ Data is shown as dataframe inline with source ccode
+   1. Interactive views
+9. Enzo - Projectional representation - lines to boxes - edit both sides
+10. Text - Ivan Reese, Factorial  -  Jack Rusher
+
 # AI Pipeline Suite
 Best in 3D animation, Image from prompt, Chat with Memory, Datasets, Speech to Text to Speech, Medical NER, ASR Live, Health and Mindful Story Gen
 1. https://github.com/AaronCWacker/Yggdrasil/edit/main/README.md
