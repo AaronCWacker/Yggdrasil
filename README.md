@@ -8,8 +8,26 @@ These are curated and sorted by particular groups that I find interesting.
    1. 0xJustin/Dungeons-and-Diffusion	https://huggingface.co/datasets/0xJustin/Dungeons-and-Diffusion
 2. Medicine and Mental Capabilities
    1. 14-07-22/wikimedqa	https://huggingface.co/datasets/14-07-22/wikimedqa
+   2. Disease	https://huggingface.co/datasets/AdithyaSNair/disease
 3. Articles and Summaries for AI, NLP and Engineering
    1. ACL-OCL/acl-anthology-corpus	[ACL-OCL/acl-anthology-corpus](https://huggingface.co/datasets/ACL-OCL/acl-anthology-corpus)
+   2. Patents Claims https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
+4. Software and Code for Programs Which Write Programs
+   1. Code Net https://huggingface.co/datasets/Abirate/code_net_dataset
+   2. Code Snippets	https://huggingface.co/datasets/AhmedSSoliman/CoNaLa-Large
+   3. Code Glue	https://huggingface.co/datasets/AhmedSSoliman/CodeXGLUE-CONCODE
+5. Quotes, Expert Use of Language, Worthy of Repeating
+   1. English Quotes	https://huggingface.co/datasets/Abirate/english_quotes
+   2. Comedy	https://huggingface.co/datasets/AlekseyKorshuk/comedy-scripts
+   3. Leadership Advice	https://huggingface.co/datasets/AlekseyKorshuk/dalio-all-io
+   4. Drama	https://huggingface.co/datasets/AlekseyKorshuk/drama-books
+   5. Horror Scripts	https://huggingface.co/datasets/AlekseyKorshuk/horror-scripts
+6. Sentiment, Episodic Memory, Feelings, and Cognitive Technology
+   1. Empathetic Dialogue	https://huggingface.co/datasets/Adapting/empathetic_dialogues_v2
+   2. Empathetic Dialogue With Tokens	https://huggingface.co/datasets/Adapting/empathetic_dialogues_with_special_tokens
+   3. Activity Identification	https://huggingface.co/datasets/AlekseyKorshuk/hellaswag
+   
+   
 
 
 # Writing Programs that Write Programs
