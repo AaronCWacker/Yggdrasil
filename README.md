@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Datasets of Holding
+The following datasets have original properties valuable in domain specific machine learning and form quite interesting stored knowledge graphs of illuminating text, images, art, science, medicine, and more.
+These are curated and sorted by particular groups that I find interesting.
+1. Images and Image Prompt Text
+   1. 0xJustin/Dungeons-and-Diffusion	https://huggingface.co/datasets/0xJustin/Dungeons-and-Diffusion
+2. Medicine and Mental Capabilities
+   1. 14-07-22/wikimedqa	https://huggingface.co/datasets/14-07-22/wikimedqa
+3. Articles and Summaries for AI, NLP and Engineering
+   1. ACL-OCL/acl-anthology-corpus	ACL-OCL/acl-anthology-corpus
+
 # Writing Programs that Write Programs
 1. Quine - program that takes no input and outputs its own source
 2. Python: s='s=%r;print(s%%s)';print(s%s)
