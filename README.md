@@ -9,7 +9,8 @@ These are curated and sorted by particular groups that I find interesting.
 2. Medicine and Mental Capabilities
    1. 14-07-22/wikimedqa	https://huggingface.co/datasets/14-07-22/wikimedqa
 3. Articles and Summaries for AI, NLP and Engineering
-   1. ACL-OCL/acl-anthology-corpus	ACL-OCL/acl-anthology-corpus
+   1. ACL-OCL/acl-anthology-corpus	[ACL-OCL/acl-anthology-corpus](https://huggingface.co/datasets/ACL-OCL/acl-anthology-corpus)
+
 
 # Writing Programs that Write Programs
 1. Quine - program that takes no input and outputs its own source
