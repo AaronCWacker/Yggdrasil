@@ -1113,7 +1113,7 @@ https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
 https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
 
 
-# 2020-Current Most Influential Minds on AI, Health, Quantum, Genomics, NLP, AGI and AR/VR
+# 2020-2022 Most Influential Minds on AI, Health, Quantum, Genomics, NLP, AGI and AR/VR
 Liv Boeree: Poker, Game Theory, AI, Simulation, Aliens & Existential Risk | Lex Fridman Podcast #314
 https://youtu.be/eF-E40pxxbI
 Brian Armstrong: Coinbase, Cryptocurrency, and Government Regulation | Lex Fridman Podcast #307
