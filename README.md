@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero Examples - 12/08/2022
+
+1. Clinical Terminology Search: https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
+2. Datasets: https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+3. Chemistry Compound Modeler: https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
+4. PromptArt: https://huggingface.co/spaces/awacke1/AIPromptSearch
+5. BigCodeSearch:  https://huggingface.co/spaces/awacke1/BigCodeStackSearch
+6. Mindful Story:	https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+7. 2D to 3D: https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+8. Speech Gen:  https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+9. Flamingo Image Describe: https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe
+10. Gallery Sample: https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+
 # Datasets of Holding
 The following datasets have original properties valuable in domain specific machine learning and form quite interesting stored knowledge graphs of illuminating text, images, art, science, medicine, and more.
 These are curated and sorted by particular groups that I find interesting.
