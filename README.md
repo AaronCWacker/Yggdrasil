@@ -14,6 +14,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 8. Aint no hollaback girl: https://www.youtube.com/watch?v=Kgjkth6BRRY
 9. When you are providing for your family, you are doing the right thing.  You deserve to feel your heart and mind are valuable.
 10. Accountability is love.  Change each other.
+11. you will hear suggestions to change.   Dont change: https://www.youtube.com/watch?v=9rlNpWYQunY
 
 # AI Zero to Hero Examples - 12/08/2022
 
