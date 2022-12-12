@@ -1,6 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+shame''
+understand why
+flash mobs
+love
 
 # Life Lessons
 
