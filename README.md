@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Life Lessons
+
+1. Support others and friends under attack
+2. Safe, healthy and positive experience is healthy content.
+3. Reconcile free speech with rights
+4. Screenshots and Twitter handles
+5. Restorative Justive
+6. An Apology
+7. Do no more harm
+8. Aint no hollaback girl: https://www.youtube.com/watch?v=Kgjkth6BRRY
+9. When you are providing for your family, you are doing the right thing.  You deserve to feel your heart and mind are valuable.
+10. Accountability is love.  Change each other.
+
 # AI Zero to Hero Examples - 12/08/2022
 
 1. Clinical Terminology Search: https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
