@@ -18,7 +18,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
    1. Logo Generation	https://huggingface.co/datasets/AmanK1202/LogoGeneration
    2. Bene Logos	https://huggingface.co/datasets/AmanK1202/BeneLogos
    3. WIkiArt	https://huggingface.co/datasets/Artificio/WikiArt
-2. Medicine and Mental Capabilities
+2. Medicine and Mental Health
    1. 14-07-22/wikimedqa	https://huggingface.co/datasets/14-07-22/wikimedqa
    2. Disease	https://huggingface.co/datasets/AdithyaSNair/disease
 3. Articles and Summaries for AI, NLP and Engineering
