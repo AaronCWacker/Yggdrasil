@@ -13,6 +13,13 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. Flamingo Image Understanding: https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe
 3. Health and Mindful Story Gen: https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 
+## Models and Spaces - Three Top SOTA
+1. M4Singer - AI That Can Sing:  https://huggingface.co/spaces/zlc99/M4Singer
+2. Inkpunk Diffusion- SD Space Creator:  https://huggingface.co/spaces/Sambosis/Inkpunk-Diffusion
+   1. Try prompt "Health Care Icon Set blue and orange with white background"
+3. Positive Reframing:  https://huggingface.co/spaces/Ella2323/Positive-Reframing
+   1. Try variants with this prompt: "Covid has me down.  I felt really sick this week and had a bad fever."
+
 ## Datasets and Autotrain
 1. Images and Image Prompt Text
    1. Logo Generation	https://huggingface.co/datasets/AmanK1202/LogoGeneration
