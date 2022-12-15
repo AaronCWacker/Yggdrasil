@@ -1,10 +1,51 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-shame''
-understand why
-flash mobs
-love
+# AI Zero to Hero Examples - 12/15/2022
+
+## Models and Spaces - Three Last Updates:
+1. Big Code Search: https://huggingface.co/spaces/awacke1/BigCodeStackSearch
+2. Clinical Terminology Search: https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
+3. Dataset Analyzer: https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+
+## Models and Spaces - Three Top Likes
+1. Image to Line Drawing: https://huggingface.co/spaces/awacke1/Image2LineDrawing
+2. Flamingo Image Understanding: https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe
+3. Health and Mindful Story Gen: https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+
+## Datasets and Autotrain
+1. Images and Image Prompt Text
+   1. Logo Generation	https://huggingface.co/datasets/AmanK1202/LogoGeneration
+   2. Bene Logos	https://huggingface.co/datasets/AmanK1202/BeneLogos
+   3. WIkiArt	https://huggingface.co/datasets/Artificio/WikiArt
+2. Medicine and Mental Capabilities
+   1. 14-07-22/wikimedqa	https://huggingface.co/datasets/14-07-22/wikimedqa
+   2. Disease	https://huggingface.co/datasets/AdithyaSNair/disease
+3. Articles and Summaries for AI, NLP and Engineering
+   1. ACL-OCL/acl-anthology-corpus	[ACL-OCL/acl-anthology-corpus](https://huggingface.co/datasets/ACL-OCL/acl-anthology-corpus)
+   2. Patents Claims https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
+   3. Abstracts	https://huggingface.co/datasets/Artifact-AI/arxiv_abstracts_specter_faiss_flat_index
+4. Software and Code for Programs Which Write Programs
+   1. Code Net https://huggingface.co/datasets/Abirate/code_net_dataset
+   2. Code Snippets	https://huggingface.co/datasets/AhmedSSoliman/CoNaLa-Large
+   3. Code Glue	https://huggingface.co/datasets/AhmedSSoliman/CodeXGLUE-CONCODE
+5. Quotes, Expert Use of Language, Worthy of Repeating
+   1. English Quotes	https://huggingface.co/datasets/Abirate/english_quotes
+   2. Comedy	https://huggingface.co/datasets/AlekseyKorshuk/comedy-scripts
+   3. Leadership Advice	https://huggingface.co/datasets/AlekseyKorshuk/dalio-all-io
+   4. Drama	https://huggingface.co/datasets/AlekseyKorshuk/drama-books
+   5. Horror Scripts	https://huggingface.co/datasets/AlekseyKorshuk/horror-scripts
+   6. Trivia	https://huggingface.co/datasets/AmazonScience/mintaka
+   7. DBPedia	https://huggingface.co/datasets/BeIR/dbpedia-entity
+      1. https://huggingface.co/datasets/BeIR/dbpedia-entity-generated-queries
+      2. https://huggingface.co/datasets/BeIR/dbpedia-entity-qrels
+6. Sentiment, Episodic Memory, Feelings, and Cognitive Technology
+   1. Empathetic Dialogue	https://huggingface.co/datasets/Adapting/empathetic_dialogues_v2
+   2. Empathetic Dialogue With Tokens	https://huggingface.co/datasets/Adapting/empathetic_dialogues_with_special_tokens
+   3. Activity Identification	https://huggingface.co/datasets/AlekseyKorshuk/hellaswag
+   4. Intent	https://huggingface.co/datasets/Bhuvaneshwari/intent_classification
+   5. Bias AntiStereotyping	https://huggingface.co/datasets/BigScienceBiasEval/crows_pairs_multilingual
+   
 
 # Life Lessons
 
@@ -36,6 +77,7 @@ love
 # Datasets of Holding
 The following datasets have original properties valuable in domain specific machine learning and form quite interesting stored knowledge graphs of illuminating text, images, art, science, medicine, and more.
 These are curated and sorted by particular groups that I find interesting.
+
 1. Images and Image Prompt Text
    1. 0xJustin/Dungeons-and-Diffusion	https://huggingface.co/datasets/0xJustin/Dungeons-and-Diffusion
    2. Logo Generation	https://huggingface.co/datasets/AmanK1202/LogoGeneration
