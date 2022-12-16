@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Music Generators:
+1. Soundraw : https://soundraw.io/edit_music?length=180&tempo=low,normal,high&mood=Happy
+2. Ampermusic : https://score.ampermusic.com/4oduB0pnSzmwSbltIhnJesdqMtsD/workspace/
+3. Aiva: https://creators.aiva.ai/create
+4. Boomy: https://boomy.com/
+5. Musenet: https://openai.com/blog/musenet/
+6. https://huggingface.co/spaces/kboaten/MIDI-Audio-Extension
+7. https://huggingface.co/spaces/Mubert/Text-to-Music
+8. https://huggingface.co/spaces/lukewys/midi-ddsp
+9. https://melobytes.com/en/app/ai_melobytes_song
+
 # AI Zero to Hero Examples - 12/15/2022
 
 ## Models and Spaces - Three Last Updates:
