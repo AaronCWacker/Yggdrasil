@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Structured Data Capture, Ontology, and Open Source Health SDK and Tools
+
+1. AidBox SDK for SDC: https://github.com/AaronCWacker/aidbox-sdc
+2. Lister Hill Python CDC Tables: https://github.com/AaronCWacker/ListerHillPython-CDCTables
+3. Py Meta Map Lite for Clinical Terminologies: https://github.com/AaronCWacker/ListerHillPython-pymetamaplite
+4. Lister Hill Py SDK for Medline Scheduler: https://github.com/AaronCWacker/ListerHillPython-skr_web_python_api
+5. Lister Hill Py Spreadsheet to Concept Map:  https://github.com/AaronCWacker/ListerHillPython-Spreadsheet-to-ConceptMap
+6. Python UMLS Interfaces to API: https://github.com/AaronCWacker/py-umls
+7. Python SDC Services: https://github.com/AaronCWacker/sdc-services
+8. Web Protege for Ontology: https://github.com/AaronCWacker/webprotege
+
+
 # AI Music Generators:
 1. Soundraw : https://soundraw.io/edit_music?length=180&tempo=low,normal,high&mood=Happy
 2. Ampermusic : https://score.ampermusic.com/4oduB0pnSzmwSbltIhnJesdqMtsD/workspace/
