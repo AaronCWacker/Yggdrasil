@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# NLP Idea - Large Language Models with Attention and Tokenization at both "Starts with" and "Contains"
+
+Current art of the language processing step called "tokenization" breaks word parts and terms often into varying degrees of pieces including single letters, or word parts (e.g. syllable or parts relevant that have matching endings), words, and sometimes even phrases of words.
+
+There is one drawback however that has not been addressed and that is within language use we often model something in terms of contains and also starts with.
+
+For example lets say you are choosing a location.  Lets say the location has two options within language like below:
+
+Where did the accident occur:  [At Home, At Work]
+
+Both of two options in a text corpus could then be relatively frequently but it is only when the text starts with the label does it matter within that classification context.  If using the word accident in above example for tokenization, it would not be properly trained because it could occur in other contexts.
+
+Example 2:
+
+This is a sample accident form to determine if the accident occurred at home.
+------------------------------
+Where did the accident occur:  [At Home, At Work, Other]	(circle one)
+
+Form output:
+Where did the accident occur: home
+
+In example 2 if the model was trained on simply identifying words then it would positively correlate the title, the option example which includes both and also within the Form output of the word home, yet in different contexts they hold different meaning.  
+
+If as tokenization takes place we rescore both the "startswith" matches with accumulated context so far with a read back head for attention, and also a contains, the two resulting scores would more accurately describe usage of the term alone yet in different contexts.  This awareness of context is stored data within the corpus but our process must look at both to be able to store relationships in cumulative contexts where the language is structured to pose questions and answers in line which can classify something by what preceded it and the consistency within the corpus of it repeating is the important information to be able to extract and generalize.
+
+
 # Structured Data Capture, Ontology, and Open Source Health SDK and Tools
 
 1. AidBox SDK for SDC: https://github.com/AaronCWacker/aidbox-sdc
