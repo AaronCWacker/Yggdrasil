@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Docker and Huggingface - Docker AI/ML Spaces
+1. https://huggingface.co/docs/hub/spaces-sdks-docker
+2. https://huggingface.co/spaces/DockerTemplates/secret-example/tree/main
+3. https://huggingface.co/docs/hub/spaces-sdks-docker-first-demo
+4. https://huggingface.co/spaces/DockerTemplates/secret-example
+5. https://huggingface.co/spaces/julien-c/persistent-data
+6. https://huggingface.co/docs/huggingface_hub/index
+7. https://github.com/new
+
+
+
 # NLP Idea - Large Language Models with Attention and Tokenization at both "Starts with" and "Contains"
 
 Current art of the language processing step called "tokenization" breaks word parts and terms often into varying degrees of pieces including single letters, or word parts (e.g. syllable or parts relevant that have matching endings), words, and sometimes even phrases of words.
