@@ -9,6 +9,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 5. https://huggingface.co/spaces/julien-c/persistent-data
 6. https://huggingface.co/docs/huggingface_hub/index
 7. https://github.com/new
+8. T5 Flan https://github.com/google-research/t5x
 
 
 
