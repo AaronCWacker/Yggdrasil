@@ -7,16 +7,16 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 journey
     title Create AI
     section Training
-      Format DataSet Inputs Files, Data Splits: 5: Me
-      Model Build w/ SKLearn, TF, Pytorch: 3: Me
-      Determine Model Performance: 1: Me, Cat
+      Format DataSet Inputs Files, Data Splits: 5: Teacher
+      Model Build w/ SKLearn, TF, Pytorch: 3: Student
+      Determine Model Performance: 1: Teacher, Student
     section Deploy
-      Web Deploy Local and Cloud: 5: Me
-      Architecture Spaces Gradio Streamlit Heroku AWS Azure and GCCP: 5: Me
+      Web Deploy Local and Cloud: 5: Teacher
+      Architecture Spaces Gradio Streamlit Heroku AWS Azure and GCCP: 5: Teacher
     section Testing
-      Test Model with Input Datasets: 5: Me
-      Examples. Inputs that Work, Inputs That Break Model: 5: Me
-      Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs: 5: Me
+      Test Model with Input Datasets: 5: Teacher
+      Examples. Inputs that Work, Inputs That Break Model: 5: Teacher
+      Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs: 5: Teacher
 ```
    
 ```mermaid
