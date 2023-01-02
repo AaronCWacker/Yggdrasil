@@ -13,9 +13,8 @@ flowchart TB
     a4-->a5[Determine if Model Performs Well]
     end
     subgraph two[Deploy]
-    b1[Model Deploy]-->b2[Web App Deploy]
-    b2-->b3[Choose Local or Cloud]
-    b3-->b4[Cloud Options are HF Spaces, Gradio Hosted, Heroku, AWS, Azure, GCP]
+    b1[Model Deploy]-->b2[Web Deploy Local and Cloud]
+    b2-->b3[Cloud SDK and Container - Spaces, Gradio, Streamlit, Heroku, AWS, Azure, GCP]
     end
     subgraph three[Testing]
     c1[Test Model with Input Data]-->c2[Figure Out What Works]
