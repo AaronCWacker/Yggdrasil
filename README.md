@@ -17,7 +17,7 @@ flowchart TB
     b2-->b3[Architecture - Spaces, Gradio, Streamlit, Heroku, AWS, Azure, GCP]
     end
     subgraph three[Testing]
-    c1[Test Model with Input Data]-->c2[Figure Out What Works]
+    c1[Test Model with Input Data]-->c2[Analyze Tasks and Inputs]
     c2-->c3[Examples. Inputs that Work, Inputs That Break Model]
     c3-->c4[Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs]
     end
