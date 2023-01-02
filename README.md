@@ -5,17 +5,20 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ```mermaid
 journey
-    title My working day
-    section Go to work
-      Make tea: 5: Me
-      Go upstairs: 3: Me
-      Do work: 1: Me, Cat
-    section Go home
-      Go downstairs: 5: Me
-      Sit down: 5: Me
+    title Create AI
+    section Training
+      Format DataSet Inputs Files, Data Splits: 5: Me
+      Model Build w/ SKLearn, TF, Pytorch: 3: Me
+      Determine Model Performance: 1: Me, Cat
+    section Deploy
+      Web Deploy Local and Cloud: 5: Me
+      Architecture Spaces Gradio Streamlit Heroku AWS Azure and GCCP: 5: Me
+    section Testing
+      Test Model with Input Datasets: 5: Me
+      Examples. Inputs that Work, Inputs That Break Model: 5: Me
+      Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs: 5: Me
 ```
-      
-
+   
 ```mermaid
 flowchart TB
     c1-->a2
