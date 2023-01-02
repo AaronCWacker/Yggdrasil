@@ -3,8 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Machine Learning State of the Art From Scratch
 
-
-
+```mermaid
 flowchart TB
     c1-->a2
     subgraph one[Training]
@@ -26,7 +25,7 @@ flowchart TB
     one --> two
     three --> two
     two --> c2
-
+```
 
 
 # Docker and Huggingface - Docker AI/ML Spaces
