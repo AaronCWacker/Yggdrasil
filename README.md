@@ -4,6 +4,19 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Machine Learning State of the Art From Scratch
 
 ```mermaid
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+```
+      
+
+```mermaid
 flowchart TB
     c1-->a2
     subgraph one[Training]
