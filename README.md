@@ -13,13 +13,13 @@ flowchart TB
     a4-->a5[Determine if Model Performs Well]
     end
     subgraph two[Deploy]
-    b1[Model Deploy]-->b2[Web Deploy Local and Cloud]
-    b2-->b3[Cloud SDK and Container - Spaces, Gradio, Streamlit, Heroku, AWS, Azure, GCP]
+    b1[Model Deploy]-->b2[Web Deploy Local, Cloud]
+    b2-->b3[Architecture - Spaces, Gradio, Streamlit, Heroku, AWS, Azure, GCP]
     end
     subgraph three[Testing]
     c1[Test Model with Input Data]-->c2[Figure Out What Works]
-    c2-->c3[Examples of Inputs that Work, Examples That Break Model]
-    c3-->c4[Governance - Analyze and Publish Implicit Fairness, Equity, Bias in Datasets and Outputs]
+    c2-->c3[Examples. Inputs that Work, Inputs That Break Model]
+    c3-->c4[Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs]
     end
     one --> two
     three --> two
