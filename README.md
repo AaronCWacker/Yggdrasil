@@ -60,7 +60,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	4. Notebooks - moved to dev driven apps like gradio and streamlit, give it an AI UI/UX.
 
 
-# Machine Learning State of the Art From Scratch
+# Machine Learning State of the Art - AI Architecture: Mermaid-> https://github.com/mermaid-js/mermaid
 
 ```mermaid
 journey
@@ -103,14 +103,6 @@ flowchart TB
 
 
 # Docker and Huggingface - Docker AI/ML Spaces
-1. https://huggingface.co/docs/hub/spaces-sdks-docker
-2. https://huggingface.co/spaces/DockerTemplates/secret-example/tree/main
-3. https://huggingface.co/docs/hub/spaces-sdks-docker-first-demo
-4. https://huggingface.co/spaces/DockerTemplates/secret-example
-5. https://huggingface.co/spaces/julien-c/persistent-data
-6. https://huggingface.co/docs/huggingface_hub/index
-7. https://github.com/new
-8. T5 Flan https://github.com/google-research/t5x
 
 
 
