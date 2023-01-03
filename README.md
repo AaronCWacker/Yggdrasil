@@ -1,6 +1,30 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI/ML Ops
+1. Models
+	1. Repo: HF Models
+	2. Fine Tune and Retrain, Push
+	3. Web Upload
+	4. Download and Pin Revisions
+	5. Use in Apps:
+		1. Webapp with GPU
+		2. Spaces app with CPU or GPU
+		3. Github Codespace with GPU
+		4. CLI with GPU
+2. Supervised Learning - old way
+	1. News Dataset -> News Summarization Model -> Prediction
+	2. Literature Dataset -> News Summarization Model -> Prediction
+	3. Supervised Learning Requires Resources Unavailable to Most: Datasets and Compute
+3. Transfer Learning - new way
+	1. News Dataset -> News Summarization Model -> Body
+	2. Literature Dataset -> News Summarization Model -> Body
+	3. Fine Tuning - Smaller Data and Compute -> News Summarization Model Head -> Literature Summarization Model Head
+	4. Prediction
+	5. Transfer Learning - High Quality Model based Trained Efficiently on Another Domain
+
+
+
 # Machine Learning State of the Art From Scratch
 
 ```mermaid
