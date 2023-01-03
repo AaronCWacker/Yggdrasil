@@ -32,17 +32,17 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	2. Github .devcontainer/Dockerfile
 	3. Github .devcontainer/devcontainer.json
 	4. Copilot->OpenAI Codex->enabled Coding
-	5. AWS, GCP, Azure Cloud
+	5. AWS, GCP, Azure, HF Cloud as Docker/Kubernetes targets
 	6. Transcribe Video
 	7. OpenAI Codex <-> Github Copilot
 	8. Meta-AI Enabled Programming
 	9. AI creates AI to talk to AI
 5. # Transformers eating Deep Learning
-	1. BERT
-	2. BART
-	3. GPT-2
+	1. BERT - https://paperswithcode.com/method/bert
+	2. BART - https://paperswithcode.com/method/bart
+	3. GPT-2 - https://paperswithcode.com/method/gpt
 	4. GPT-3
-	5. CLIP
+	5. CLIP - https://paperswithcode.com/method/clip
 	6. WAV2VEC2
 	7. STABLE DIFFUSION
 	8. WHISPER
