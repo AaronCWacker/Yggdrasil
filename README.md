@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# AI/ML Ops
+# AI/ML Ops - Changes in 2022-2023
 1. Models
 	1. Repo: HF Models
 	2. Fine Tune and Retrain, Push
@@ -32,7 +32,23 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	7. OpenAI Codex <-> Github Copilot
 	8. Meta-AI Enabled Programming
 	9. AI creates AI to talk to AI
-
+5. Transformers eating Deep Learning
+	1. BERT
+	2. BART
+	3. GPT-2
+	4. GPT-3
+	5. CLIP
+	6. WAV2VEC2
+	7. STABLE DIFFUSION
+	8. WHISPER
+	9. VISION TRANSFORMER
+	10. AlphaFold2
+	11. GATO
+	12. Flamingo
+6. Old on the way out
+	1. CNN
+	2. LSTM
+	3. RNN
 
 
 # Machine Learning State of the Art From Scratch
