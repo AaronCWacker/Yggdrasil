@@ -7,7 +7,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3. https://fontawesome.com/docs
 
 ## AI/ML Ops - Changes in 2022-2023
-#1. Models
+1. # Models
 	1. Repo: HF Models
 	2. Fine Tune and Retrain, Push
 	3. Web Upload
@@ -17,17 +17,17 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 		2. Spaces app with CPU or GPU
 		3. Github Codespace with GPU
 		4. CLI with GPU
-2. Supervised Learning - old way
+2. # Supervised Learning - old way
 	1. News Dataset -> News Summarization Model -> Prediction
 	2. Literature Dataset -> News Summarization Model -> Prediction
 	3. Supervised Learning Requires Resources Unavailable to Most: Datasets and Compute
-3. Transfer Learning - new way
+3. # Transfer Learning - new way
 	1. News Dataset -> News Summarization Model -> Body
 	2. Literature Dataset -> News Summarization Model -> Body
 	3. Fine Tuning - Smaller Data and Compute -> News Summarization Model Head -> Literature Summarization Model Head
 	4. Prediction
 	5. Transfer Learning - High Quality Model based Trained Efficiently on Another Domain
-4. AI Tools Workflow - Modern AI 
+4. # AI Tools Workflow - Modern AI 
 	1. Github Codespaces
 	2. Github .devcontainer/Dockerfile
 	3. Github .devcontainer/devcontainer.json
@@ -37,7 +37,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	7. OpenAI Codex <-> Github Copilot
 	8. Meta-AI Enabled Programming
 	9. AI creates AI to talk to AI
-5. Transformers eating Deep Learning
+5. # Transformers eating Deep Learning
 	1. BERT
 	2. BART
 	3. GPT-2
@@ -51,10 +51,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	11. GATO
 	12. Flamingo
 	13. Transformers emerging as General Purpose AI/ML (www.stateof.ai)
-6. Old on the way out
+6. # Old on the way out due to simpler more efficient workflow
 	1. CNN
 	2. LSTM
 	3. RNN
+	4. Notebooks - moved to dev driven apps like gradio and streamlit
 
 
 # Machine Learning State of the Art From Scratch
