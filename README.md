@@ -45,6 +45,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	10. AlphaFold2
 	11. GATO
 	12. Flamingo
+	13. Transformers emerging as General Purpose AI/ML (www.stateof.ai)
 6. Old on the way out
 	1. CNN
 	2. LSTM
