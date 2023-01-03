@@ -6,8 +6,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. https://fontawesome.com/icons/mdb?s=solid&f=brands
 3. https://fontawesome.com/docs
 
-## AI/ML Ops - Changes in 2022-2023
-1. # Models
+# AI/ML Ops - Changes in 2022-2023
+1. ## Models
 	1. Repo: HF Models
 	2. Fine Tune and Retrain, Push
 	3. Web Upload
@@ -17,19 +17,19 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 		2. Spaces app with CPU or GPU
 		3. Github Codespace with GPU
 		4. CLI with GPU
-2. # Supervised Learning - old way
+2. ## Supervised Learning - old way
 	1. News Dataset -> News Summarization Model -> Prediction
 	2. Literature Dataset -> News Summarization Model -> Prediction
 	3. Supervised Learning Requires Two Resources Unavailable to Most: 
 		1. Curated Model Ready Datasets
 		2. GPU, TPU and Neural Compute
-3. # Transfer Learning - new way
+3. ## Transfer Learning - new way
 	1. News Dataset -> News Summarization Model -> Body
 	2. Literature Dataset -> News Summarization Model -> Body
 	3. Fine Tuning - Smaller Data and Compute -> News Summarization Model Head -> Literature Summarization Model Head
 	4. Prediction
 	5. Transfer Learning - High Quality Model based Trained Efficiently on Another Domain
-4. # AI Tools Workflow - Modern AI 
+4. ## AI Tools Workflow - Modern AI 
 	1. Github Codespaces
 	2. Github .devcontainer/Dockerfile
 	3. Github .devcontainer/devcontainer.json
@@ -39,7 +39,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	7. OpenAI Codex <-> Github Copilot
 	8. Meta-AI Enabled Programming
 	9. AI creates AI to talk to AI
-5. # Transformers eating Deep Learning
+5. ## Transformers eating Deep Learning
 	1. BERT - https://paperswithcode.com/method/bert
 	2. BART - https://paperswithcode.com/method/bart
 	3. GPT-2 - https://paperswithcode.com/method/gpt
@@ -53,7 +53,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	11. GATO - https://www.reddit.com/r/reinforcementlearning/comments/uosao3/gato_a_single_transformer_to_rule_them_all/
 	12. Flamingo - https://arxiv.org/abs/2204.14198
 	13. Transformers emerging as General Purpose AI/ML (www.stateof.ai) - https://github.com/huggingface/transformers
-6. # Old on the way out due to simpler more efficient workflow
+6. ## Old on the way out due to simpler more efficient workflow
 	1. CNN
 	2. LSTM
 	3. RNN
