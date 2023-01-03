@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Font Awesome and Material Design Icons
+1. https://mermaid.js.org/syntax/mindmap.html
+2. https://fontawesome.com/icons/mdb?s=solid&f=brands
+3. https://fontawesome.com/docs
+
 # AI/ML Ops - Changes in 2022-2023
 1. Models
 	1. Repo: HF Models
