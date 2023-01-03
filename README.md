@@ -20,7 +20,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. # Supervised Learning - old way
 	1. News Dataset -> News Summarization Model -> Prediction
 	2. Literature Dataset -> News Summarization Model -> Prediction
-	3. Supervised Learning Requires Resources Unavailable to Most: Datasets and Compute
+	3. Supervised Learning Requires Two Resources Unavailable to Most: 
+		1. Curated Model Ready Datasets
+		2. GPU, TPU and Neural Compute
 3. # Transfer Learning - new way
 	1. News Dataset -> News Summarization Model -> Body
 	2. Literature Dataset -> News Summarization Model -> Body
