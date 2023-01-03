@@ -22,6 +22,16 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	3. Fine Tuning - Smaller Data and Compute -> News Summarization Model Head -> Literature Summarization Model Head
 	4. Prediction
 	5. Transfer Learning - High Quality Model based Trained Efficiently on Another Domain
+4. AI Tools Workflow - Modern AI 
+	1. Github Codespaces
+	2. Github .devcontainer/Dockerfile
+	3. Github .devcontainer/devcontainer.json
+	4. Copilot->OpenAI Codex->enabled Coding
+	5. AWS, GCP, Azure Cloud
+	6. Transcribe Video
+	7. OpenAI Codex <-> Github Copilot
+	8. Meta-AI Enabled Programming
+	9. AI creates AI to talk to AI
 
 
 
