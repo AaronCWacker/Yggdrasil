@@ -43,21 +43,21 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	1. BERT - https://paperswithcode.com/method/bert
 	2. BART - https://paperswithcode.com/method/bart
 	3. GPT-2 - https://paperswithcode.com/method/gpt
-	4. GPT-3
+	4. GPT-3 - https://github.com/openai/gpt-3
 	5. CLIP - https://paperswithcode.com/method/clip
-	6. WAV2VEC2
-	7. STABLE DIFFUSION
-	8. WHISPER
-	9. VISION TRANSFORMER
-	10. AlphaFold2
-	11. GATO
-	12. Flamingo
-	13. Transformers emerging as General Purpose AI/ML (www.stateof.ai)
+	6. WAV2VEC2 - https://paperswithcode.com/paper/wav2vec-2-0-a-framework-for-self-supervised
+	7. STABLE DIFFUSION - https://paperswithcode.com/paper/high-resolution-image-synthesis-with-latent
+	8. WHISPER - https://huggingface.co/blog/fine-tune-whisper
+	9. VISION TRANSFORMER - https://huggingface.co/blog/fine-tune-vit
+	10. AlphaFold2 - https://github.com/deepmind/alphafold https://github.com/lucidrains/alphafold2
+	11. GATO - https://www.reddit.com/r/reinforcementlearning/comments/uosao3/gato_a_single_transformer_to_rule_them_all/
+	12. Flamingo - https://arxiv.org/abs/2204.14198
+	13. Transformers emerging as General Purpose AI/ML (www.stateof.ai) - https://github.com/huggingface/transformers
 6. # Old on the way out due to simpler more efficient workflow
 	1. CNN
 	2. LSTM
 	3. RNN
-	4. Notebooks - moved to dev driven apps like gradio and streamlit
+	4. Notebooks - moved to dev driven apps like gradio and streamlit, give it an AI UI/UX.
 
 
 # Machine Learning State of the Art From Scratch
