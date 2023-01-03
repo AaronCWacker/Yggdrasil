@@ -6,8 +6,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. https://fontawesome.com/icons/mdb?s=solid&f=brands
 3. https://fontawesome.com/docs
 
-# AI/ML Ops - Changes in 2022-2023
-1. # Models
+## AI/ML Ops - Changes in 2022-2023
+#1. Models
 	1. Repo: HF Models
 	2. Fine Tune and Retrain, Push
 	3. Web Upload
