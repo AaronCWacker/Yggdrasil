@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Ever Wonder Which Myths Santa Claus Comes From?
+1. Erik the Red: https://en.wikipedia.org/wiki/Erik_the_Red
+2. Nicomund the Red
+3. Weihnachtsmann
+4. Julenissen
+5. Shengdan Laoren
+6. Babbo Natale
+7. Pere Noel
+8. Kris Kringle
+9. Jolly old Saint Nick
+10. Santa
+
 # Font Awesome and Material Design Icons
 1. https://mermaid.js.org/syntax/mindmap.html
 2. https://fontawesome.com/icons/mdb?s=solid&f=brands
