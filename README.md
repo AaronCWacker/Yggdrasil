@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# STEM Mentoring
+1. Micropython for Raspberry Pi Pico
+2. Robot car with line following and collision avoidance
+3. Codordojo origin: https://jetannenbaum.github.io/scratch/
+4. Scratch: scratch.mit.edu 
+5. Esperanza:  https://jetannenbaum.github.io/esperanzaSTEM/
+
 # Next 2022 - Kaggle Data Science Industry Survey
 1. Demographics: Japan and India growing 4x in last five years
 2. Demographics: Only 15% Women in data science for 7 years in a row.  85% men.
