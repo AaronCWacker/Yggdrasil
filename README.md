@@ -5,7 +5,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 1. Micropython for Raspberry Pi Pico
 2. Robot car with line following and collision avoidance
 3. Codordojo origin: https://jetannenbaum.github.io/scratch/
-4. Scratch: scratch.mit.edu 
+4. Scratch: https://scratch.mit.edu/
 5. Esperanza:  https://jetannenbaum.github.io/esperanzaSTEM/
 6. https://trinket.io
 7. https://www.coderdojotc.org/python/trinket/00-introduction/
