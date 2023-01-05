@@ -19,6 +19,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 15. GCP: ML as a computer - Fastest.  DB Access fastest.  HF Model and Dataset with PyArrow and Caching w Streamlit fastest.  TPU/GPU fastest.
 16. Video Playlist for 2023 Machine Learning to Watch:  https://www.youtube.com/playlist?list=PLHgX2IExbFotPcPu6pauNHOoZTTbnAQ2F
 
+# ML Training - HF Autotrain, AWS Sagemaker - Task Types:
+
+![image](https://user-images.githubusercontent.com/30595158/210783371-86985b88-5b5f-4548-a12b-42227f482a7b.png)
+
+Trained with AutoTrain: 695 Models: https://huggingface.co/models?other=autotrain
 
 # Ever Wonder Which Myths Santa Claus Comes From?
 1. Erik the Red: https://en.wikipedia.org/wiki/Erik_the_Red
