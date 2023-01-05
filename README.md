@@ -19,6 +19,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 15. SHAP: https://shap.readthedocs.io/en/latest/
 16. Cloud: Amazon Web Services 55, Google cloud platform 48, MS Azure 30
 17. GCP: ML as a computer - Fastest.  DB Access fastest.  HF Model and Dataset with PyArrow and Caching w Streamlit fastest.  TPU/GPU fastest.
+18. 18 Video Playlist for 2023 Machine Learning to Watch:  https://www.youtube.com/playlist?list=PLHgX2IExbFotPcPu6pauNHOoZTTbnAQ2F
 
 
 # Ever Wonder Which Myths Santa Claus Comes From?
