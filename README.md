@@ -7,6 +7,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3. Codordojo origin: https://jetannenbaum.github.io/scratch/
 4. Scratch: scratch.mit.edu 
 5. Esperanza:  https://jetannenbaum.github.io/esperanzaSTEM/
+6. https://trinket.io
+7. https://www.coderdojotc.org/python/trinket/00-introduction/
+8. https://jetannenbaum.github.io/scratch/intro/01-getting-started/
+
+https://illustrated-machine-learning.github.io/
+https://www.aidancooper.co.uk/how-shapley-values-work/
 
 # Next 2022 - Kaggle Data Science Industry Survey
 1. Demographics: Japan and India growing 4x in last five years
