@@ -1,6 +1,26 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Next 2022 - Kaggle Data Science Industry Survey
+1. Demographics: Japan and India growing 4x in last five years
+2. Demographics: Only 15% Women in data science for 7 years in a row.  85% men.
+3. Machine Learning:
+4. Cloud Computing:
+5. Programming: 95 percent using Python. 50 SQL.  37 R. 10 Java, Javascript, C, C++, Other.
+6. Programming: Jupyter Notebooks 85%.   VS, VSCode, Extensions 57% - VSCode IPYNB.  Rstudio 25%. Pycharm 35%.Matlab 7%
+7. Programming: Since Kaggle itself is Jupyter Notebook based:  25% None.  40% Kaggle Noyebooks, 52% Colab NB.
+8. Programming: Shift to VSCode, web, IDE, Platform agnostic.  Platforms w storage, persistence, compute.  Browser IDE.
+9. Machine Learning Frameworks, SDKs: Scikit-Learm=n 85, Tensorflow/Keras 58, XGBoost/LightGBM 58, Pytorch 48
+10. Machine Learning: Tabular Datasets XGBoost and tabular NN - estimate decision boundary find best fit function
+11. Feature complexity - accuracy performance explainability.  Scikit - metrics, model, optimization sklearn, xgboost
+12. Scikit-Learn: Org on HF: https://huggingface.co/scikit-learn  https://huggingface.co/scikit-learn/sklearn-transformers?text=I+like+you.+I+love+you
+13. import xgboost as xgb
+14. dataset = load_dataset("scikit-learn/adult-census-income")
+15. SHAP: https://shap.readthedocs.io/en/latest/
+16. Cloud: Amazon Web Services 55, Google cloud platform 48, MS Azure 30
+17. GCP: ML as a computer - Fastest.  DB Access fastest.  HF Model and Dataset with PyArrow and Caching w Streamlit fastest.  TPU/GPU fastest.
+
+
 # Ever Wonder Which Myths Santa Claus Comes From?
 1. Erik the Red: https://en.wikipedia.org/wiki/Erik_the_Red
 2. Nicomund the Red
