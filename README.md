@@ -14,7 +14,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 10. Machine Learning: Tabular Datasets XGBoost and tabular NN - estimate decision boundary find best fit function
 11. Feature complexity - accuracy performance explainability.  Scikit - metrics, model, optimization sklearn, xgboost
 12. Scikit-Learn: Org on HF: https://huggingface.co/scikit-learn  https://huggingface.co/scikit-learn/sklearn-transformers?text=I+like+you.+I+love+you
-13. import xgboost as xgb.  xgb and scikit in action for explainable AI: https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+13. import xgboost as xgb.  xgb and scikit in action for explainable AI: https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance  https://huggingface.co/spaces/awacke1/BiasMitigatorForFairEquityData
 14. dataset = load_dataset("scikit-learn/adult-census-income")
 15. SHAP: https://shap.readthedocs.io/en/latest/
 16. Cloud: Amazon Web Services 55, Google cloud platform 48, MS Azure 30
