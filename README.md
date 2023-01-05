@@ -13,6 +13,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 https://illustrated-machine-learning.github.io/
 https://www.aidancooper.co.uk/how-shapley-values-work/
+animate and emoji, optical illusions: 👸👑
 
 # Next 2022 - Kaggle Data Science Industry Survey
 1. Demographics: Japan and India growing 4x in last five years
