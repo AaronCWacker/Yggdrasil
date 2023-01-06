@@ -1,6 +1,21 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Six AI Artists 2023
+1.  Guido Van Rossum beneficial dictator for life:  https://www.youtube.com/watch?v=-DVyjdw4t9I
+2.  Andrej Karpathy: https://www.youtube.com/watch?v=cdiD-9MMpb0&t=1192s
+3.  Jordan Peterson: https://www.youtube.com/watch?v=sY8aFSY2zv4
+4.  Oriol Vinyals: https://www.youtube.com/watch?v=aGBLRlLe7X8&t=345s
+5.  Demis Hassabis: https://www.youtube.com/watch?v=Gfr50f6ZBvo&t=1493s
+6.  Tony Fadell: https://www.youtube.com/watch?v=4oDZyOf6CW4&t=3149s
+   1. Neuro M1.
+   2. VDSP
+   3. Pain, Joy, Superhero
+
+
+
+
+
 # Top Six Music Artists 2023
 1. Kanye West at 1.8B.  Top 4 Songs: Power, Runaway, Stronger, Blood on the Leaves
 2. Rihanna at 1.4B.	Top 4 Songs: Umbrella, Pon De Replay, Dont stop the music, Diamonds
