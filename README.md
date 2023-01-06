@@ -7,6 +7,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 3. Review original input corpus cases: https://figshare.com/collections/MACCROBAT/4652765
 4. Use library from here: https://pypi.org/project/Bio-Epidemiology-NER/
 5. Watch video from here:  https://www.youtube.com/watch?v=xpiDPdBpS18
+6. Check Deepak's code on GH: https://github.com/dreji18?tab=repositories  https://github.com/dreji18/Bio-Epidemiology-NER
+7. Program 1 - Use Download from here: https://huggingface.co/spaces/awacke1/KitchenSink-AGI-SDKit
+8. Program 2: Use to Edit and provide Incorrect - retrain output https://huggingface.co/spaces/awacke1/AI-EIO-Editor
+9. Program 3: Use to check Clinical Terminology matches: https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
 
 # Top Six AI Artists 2023
 1.  Guido Van Rossum beneficial dictator for life:  https://www.youtube.com/watch?v=-DVyjdw4t9I
