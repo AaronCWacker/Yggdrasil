@@ -1,13 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Top Six Music Artists
+# Top Six Music Artists 2023
 1. Kanye West at 1.8B.  Top 4 Songs: Power, Runaway, Stronger, Blood on the Leaves
 2. Rihanna at 1.4B.	Top 4 Songs: Umbrella, Pon De Replay, Dont stop the music, Diamonds
 3. Jay-Z AT 1.4b	Top 4 Songs: Big Pimpin, ...
 4. Paul McCartney 1B
 5. P-Diddy 8hun Mil
 6. Madonna 8hun Mil
+
+
+# Top Six Image Artists 2023
+1. Damien Hirst
+2. Jeff Koons
+3. Jasper Johns
+4. David Choe
+5. Andre Vicari
+6. Takashi Murakami 
 
 
 # STEM Mentoring
