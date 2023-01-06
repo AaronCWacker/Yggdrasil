@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Six Music Artists
+1. Kanye West at 1.8B.  Top 4 Songs: Power, Runaway, Stronger, Blood on the Leaves
+2. Rihanna at 1.4B.	Top 4 Songs: Umbrella, Pon De Replay, Dont stop the music, Diamonds
+3. Jay-Z AT 1.4b	Top 4 Songs: Big Pimpin, ...
+4. Paul McCartney 1B
+5. P-Diddy 8hun Mil
+6. Madonna 8hun Mil
+
+
 # STEM Mentoring
 1. Micropython for Raspberry Pi Pico
 2. Robot car with line following and collision avoidance
