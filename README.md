@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Named Entity Recognition - Transfer Learning Process
+1. Test Model Page for NER for entities: https://huggingface.co/d4data/biomedical-ner-all
+2. Download code and model from here: https://huggingface.co/d4data/biomedical-ner-all/tree/main
+3. Review original input corpus cases: https://figshare.com/collections/MACCROBAT/4652765
+4. Use library from here: https://pypi.org/project/Bio-Epidemiology-NER/
+5. Watch video from here:  https://www.youtube.com/watch?v=xpiDPdBpS18
+
 # Top Six AI Artists 2023
 1.  Guido Van Rossum beneficial dictator for life:  https://www.youtube.com/watch?v=-DVyjdw4t9I
 2.  Andrej Karpathy: https://www.youtube.com/watch?v=cdiD-9MMpb0&t=1192s
