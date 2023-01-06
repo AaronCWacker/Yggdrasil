@@ -8,9 +8,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4.  Oriol Vinyals: https://www.youtube.com/watch?v=aGBLRlLe7X8&t=345s
 5.  Demis Hassabis: https://www.youtube.com/watch?v=Gfr50f6ZBvo&t=1493s
 6.  Tony Fadell: https://www.youtube.com/watch?v=4oDZyOf6CW4&t=3149s
-   1. Neuro M1.
-   2. VDSP
-   3. Pain, Joy, Superhero
+	- Neuro M1.
+	- VDSP
+	- Pain, Joy, Superhero
 
 
 
