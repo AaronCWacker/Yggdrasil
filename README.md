@@ -17,6 +17,23 @@ https://www.aidancooper.co.uk/how-shapley-values-work/
 animate and emoji, optical illusions: 👸👑
 
 
+# AI and STEM Ideas
+
+1. SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+3. 3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
+4. Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
+5. Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+
+Introduce AI and STEM - 3 Lessons - 1 hour session each
+1) What is AI? - Examples, What you see in daily life.  Why is it the future
+   - How can I change this, How it works..  Examples
+2) NLP, Speech - 
+3) Art, Story?  - Capabilities
+Bias?  
+
+Short easy definitions, explanations script
+
 
 # AI Zero to Hero for Health
 
@@ -35,22 +52,6 @@ animate and emoji, optical illusions: 👸👑
 5. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 
 
-# AI and STEM Ideas
-
-1. SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-2. Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
-3. 3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
-4. Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
-5. Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
-
-Introduce AI and STEM - 3 Lessons - 1 hour session each
-1) What is AI? - Examples, What you see in daily life.  Why is it the future
-   - How can I change this, How it works..  Examples
-2) NLP, Speech - 
-3) Art, Story?  - Capabilities
-Bias?  
-
-Short easy definitions, explanations script
 
 # Biomed NER to CT
 1. Named Entity Recognition 
