@@ -1,6 +1,57 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# STEM Mentoring
+1. Micropython for Raspberry Pi Pico
+2. Robot car with line following and collision avoidance
+3. Codordojo origin: https://jetannenbaum.github.io/scratch/
+4. Scratch: https://scratch.mit.edu/
+5. Esperanza:  https://jetannenbaum.github.io/esperanzaSTEM/
+6. https://trinket.io
+7. https://www.coderdojotc.org/python/trinket/00-introduction/
+8. https://jetannenbaum.github.io/scratch/intro/01-getting-started/
+
+https://illustrated-machine-learning.github.io/
+https://www.aidancooper.co.uk/how-shapley-values-work/
+animate and emoji, optical illusions: 👸👑
+
+
+
+# AI Zero to Hero for Health
+
+5 Fun AI Demos
+1. https://huggingface.co/spaces/awacke1/Image2OCR
+2. https://huggingface.co/spaces/awacke1/Video-Summary
+3. https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+4. https://huggingface.co/spaces/awacke1/Image2LineDrawing
+5. https://huggingface.co/spaces/awacke1/Image-Search-Similar
+
+5 Fun Demos Useful for Health
+1. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+3. https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+4. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+5. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+
+
+# AI and STEM Ideas
+
+1. SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+3. 3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
+4. Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
+5. Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+
+Introduce AI and STEM - 3 Lessons - 1 hour session each
+1) What is AI? - Examples, What you see in daily life.  Why is it the future
+   - How can I change this, How it works..  Examples
+2) NLP, Speech - 
+3) Art, Story?  - Capabilities
+Bias?  
+
+Short easy definitions, explanations script
+
 # Biomed NER to CT
 1. Named Entity Recognition 
    1. 'Sign_symptom', 'Detailed_description', 'History', 'Activity', 'Medication'
@@ -49,20 +100,6 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 5. Andre Vicari
 6. Takashi Murakami 
 
-
-# STEM Mentoring
-1. Micropython for Raspberry Pi Pico
-2. Robot car with line following and collision avoidance
-3. Codordojo origin: https://jetannenbaum.github.io/scratch/
-4. Scratch: https://scratch.mit.edu/
-5. Esperanza:  https://jetannenbaum.github.io/esperanzaSTEM/
-6. https://trinket.io
-7. https://www.coderdojotc.org/python/trinket/00-introduction/
-8. https://jetannenbaum.github.io/scratch/intro/01-getting-started/
-
-https://illustrated-machine-learning.github.io/
-https://www.aidancooper.co.uk/how-shapley-values-work/
-animate and emoji, optical illusions: 👸👑
 
 # Next 2022 - Kaggle Data Science Industry Survey
 1. Demographics: Japan and India growing 4x in last five years
@@ -801,39 +838,6 @@ These image generating words are just a sample - feel free to choose your own th
 9. Instacart - Have trained AGI surface products and shop for needed supplies delivery: https://www.instacart.com/store/s?k=usb+camera&search_id=341b0338-6459-41ac-8e14-561cc9164594&page_view_id=ecae9737-e41b-4043-a437-9a554b972898
 10. Feedback loop - train in examples for composing AGI pipeline parts: https://huggingface.co/AIZero2Hero4Health
 
-# AI Zero to Hero for Health
-
-5 Fun AI Demos
-1. https://huggingface.co/spaces/awacke1/Image2OCR
-2. https://huggingface.co/spaces/awacke1/Video-Summary
-3. https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
-4. https://huggingface.co/spaces/awacke1/Image2LineDrawing
-5. https://huggingface.co/spaces/awacke1/Image-Search-Similar
-
-5 Fun Demos Useful for Health
-1. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-2. https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
-3. https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
-4. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
-5. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
-
-
-# AI and STEM Ideas
-
-1. SpeakNow - ASR : https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-2. Chatback Chatbot : https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
-3. 3D Model AI : https://huggingface.co/spaces/AIZ2H/Gradio331-3D-Models-AI-1
-4. Art Gen: https://huggingface.co/spaces/AIZ2H/02-Gradio-Art-From-Text-And-Images
-5. Story Gen: https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
-
-Introduce AI and STEM - 3 Lessons - 1 hour session each
-1) What is AI? - Examples, What you see in daily life.  Why is it the future
-   - How can I change this, How it works..  Examples
-2) NLP, Speech - 
-3) Art, Story?  - Capabilities
-Bias?  
-
-Short easy definitions, explanations script
 
 # Body of Work - 2022
 1. STAR UM AI Dashboard - Created a Cognitive Technology AI Dashboard for Transparency of Decisions and Exception Reasoning using Streamlit and SOAR.
