@@ -1,6 +1,123 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+## Medications - Top 16 Commonly Abused Prescription Drugs:
+1. Opioids
+   1. UMLS - https://uts.nlm.nih.gov/uts/umls/searchResults?searchString=Opioids
+   2. UMLS Vocabularies: MTH · MSH · SNOMEDCT_US · NCI · CHV · LNC · PSY · SNMI
+   3. PubChem - https://pubchem.ncbi.nlm.nih.gov/#query=Opioids
+   4. PubMed - https://pubmed.ncbi.nlm.nih.gov/?term=Opioids&filter=pubt.meta-analysis
+   5. MeSH - https://meshb.nlm.nih.gov/record/ui?ui=D000701
+   6. Medline - https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=Opioids
+   7. Locator Plus - https://catalog.nlm.nih.gov/discovery/search?query=any,contains,Opioids&tab=LibraryCatalog&search_scope=MyInstitution&vid=01NLM_INST:01NLM_INST&offset=0
+2. Fentanyl (Duragesic)
+3. Hydrocodone (Vicodin)
+4. Oxycodone (OxyContin)
+5. Oxymorphone (Darvon)
+6. Hydromorphone (Dilaudid)
+7. Meperidine (Demerol)
+8. Diphenoxylate (Lomotil)
+9. Morphine Sulfate
+10. Central Nervous System (CNS) Depressants
+11. Pentobarbital sodium (Nembutal)
+12. Diazepam (Valium)
+13. Alprazolam (Xanax)
+14. Zolpidem Tartrate (Ambien)
+15. Sertraline (Zoloft)
+16. Stimulants
+17. Dextroamphetamine (Dexedrine)
+18. Methylphenidate (Ritalin and Concerta)
+19. Amphetamines (Adderall)
+
+
+# Medications, CPT/HCPCS and Service Codes, and NPI datasets
+1. PubChem:  https://pubchem.ncbi.nlm.nih.gov/#query=albuterol
+2. PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=albuterol
+3. MeSH: https://meshb.nlm.nih.gov/record/ui?ui=D000420
+4. UMLS: https://uts.nlm.nih.gov/uts/umls/searchResults?searchString=albuterol
+5. Medline: https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=albuterol&_gl=1*esosy1*_ga*MTkyMjI5MzQyNi4xNjU1MjE5MjA5*_ga_7147EPK006*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTQyNjUuMC4wLjA.*_ga_P1FPTH9PL4*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTQyNjUuMC4wLjA.&_ga=2.62597996.1787877391.1673452917-1922293426.1655219209
+6. LocatorPlus: https://catalog.nlm.nih.gov/discovery/search?query=any,contains,albuterol&tab=LibraryCatalog&search_scope=MyInstitution&vid=01NLM_INST:01NLM_INST&offset=0
+7. Collections: https://collections.nlm.nih.gov/?f%5Bdrep2.format%5D%5B%5D=&q=albuterol
+
+# Medications Datasets - Images showing content features with sample "albuterol"
+
+1. __PubChem__ - SMILES Isomeric can be used to model the medication compound.
+
+![image](https://github.optum.com/storage/user/15588/files/b0c2bce0-3cb5-4330-8e4d-f73679f78dcb)
+
+__Isomeric SMILES__: CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O  
+
+2. __PubMed__ - Articles on medications.  Journal abstracts, Full text, Books, Meta Analysis, Trials, Reviews
+
+![image](https://github.optum.com/storage/user/15588/files/7d954bdb-fa40-491d-8b9e-c12acaf45ea1)
+
+3. __MeSH__ - Details, Qualifiers, MeSH Tree Structures, Concepts, Actions RDF Unique ID, Entry terms
+
+![image](https://github.optum.com/storage/user/15588/files/e0382091-c2a5-4db7-9d5d-94450722e15d)
+
+![image](https://github.optum.com/storage/user/15588/files/98a60d73-779c-467c-aef0-442187c3d956)
+
+![image](https://github.optum.com/storage/user/15588/files/2a77ae8b-bdb0-413e-be41-99568f119e68)
+
+![image](https://github.optum.com/storage/user/15588/files/0f38ded1-7031-448a-ae36-5c564d50b28d)
+
+__MeSH Tree__:
+Organic Chemicals [D02]
+	Alcohols [D02.033]
+		Amino Alcohols [D02.033.100]
+			Ethanolamines [D02.033.100.291]
+				Albuterol [D02.033.100.291.057] 
+					Albuterol, Ipratropium Drug Combination [D02.033.100.291.057.125]
+					Levalbuterol [D02.033.100.291.057.500]
+					Salmeterol Xinafoate [D02.033.100.291.057.750] 
+
+4. __UMLS__ - Definitions, Semantic Types, Vocabularies, Relationships
+
+![image](https://github.optum.com/storage/user/15588/files/2a5505fb-c4cb-49ce-bb67-e9632844d26b)
+
+__Vocabularies in UMLS with Medications:__
+1. CHV
+2. DRUGBANK
+3. GS
+4. MTH
+5. MTHSPL
+6. MSH
+7. MMSL
+8. NDDF
+9. NCI
+10. RXNORM
+11. RCD
+12. SCTSPA
+13. SNOMEDCT_US
+14. USP
+15. USPMG
+16. VANDF
+
+
+5. __MedlinePlus__ - Articles, Drugs, Encyclopedia, Usages
+
+![image](https://github.optum.com/storage/user/15588/files/2e544e97-2ffd-4044-be1e-5edc3c3f7a86)
+
+6. __LocatorPlus__ - Collection Books and Videos
+
+![image](https://github.optum.com/storage/user/15588/files/b1321e1c-c81f-4aae-b914-5e59de23741d)
+
+7. __Collections__ - Publications, Authors, Subjects
+
+![image](https://github.optum.com/storage/user/15588/files/9ef000fd-fbac-42e8-b1ae-1328e46dddc2)
+
+
+# National Library of Medicine Datasets
+1. __PubMed__	https://pubmed.ncbi.nlm.nih.gov/
+2. __MeSH__		https://meshb.nlm.nih.gov/search?_gl=1*sbdb1m*_ga*MTkyMjI5MzQyNi4xNjU1MjE5MjA5*_ga_7147EPK006*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI4NzYuMC4wLjA.*_ga_P1FPTH9PL4*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI4NzYuMC4wLjA.
+3. __UMLS__		https://www.nlm.nih.gov/research/umls/index.html?_gl=1*4rt2wb*_ga*MTkyMjI5MzQyNi4xNjU1MjE5MjA5*_ga_7147EPK006*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI4OTMuMC4wLjA.*_ga_P1FPTH9PL4*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI4OTMuMC4wLjA.
+4. __MedLine__	https://medlineplus.gov/?_gl=1*pflq1g*_ga*MTkyMjI5MzQyNi4xNjU1MjE5MjA5*_ga_7147EPK006*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI5MTAuMC4wLjA.*_ga_P1FPTH9PL4*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI5MTEuMC4wLjA.
+5. __Locator Plus__		https://catalog.nlm.nih.gov/discovery/search?vid=01NLM_INST:01NLM_INST
+6. __Digital Collections__		https://collections.nlm.nih.gov/?_gl=1*10rwjnn*_ga*MTkyMjI5MzQyNi4xNjU1MjE5MjA5*_ga_7147EPK006*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI5NjQuMC4wLjA.*_ga_P1FPTH9PL4*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI5NjQuMC4wLjA.
+
+
 # STEM/STEAM Oriented AO Spaces
 1. Science - https://huggingface.co/spaces?sort=likes&search=science
 2. Technology - https://huggingface.co/spaces?sort=likes&search=tech
