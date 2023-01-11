@@ -2,6 +2,160 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# STEM/STEAM Oriented AO Spaces
+1. Science - https://huggingface.co/spaces?sort=likes&search=science
+2. Technology - https://huggingface.co/spaces?sort=likes&search=tech
+3. Engineering - https://huggingface.co/spaces?sort=likes&search=engineer
+4. Art - https://huggingface.co/spaces?sort=likes&search=art
+5. Math - https://huggingface.co/spaces?sort=likes&search=math
+
+# STEM/STEAM Oriented Datasets - https://huggingface.co/datasets?sort=likes&search=math
+1. Math		https://huggingface.co/datasets/math_dataset
+2. Math QA	https://huggingface.co/datasets/math_qa
+3. Competition Math	https://huggingface.co/datasets/competition_math
+4. Pile DM Math		https://huggingface.co/datasets/conceptofmind/pile_dm_mathematics
+5. Handwritten Math	https://huggingface.co/datasets/Azu/Handwritten-Mathematical-Expression-Convert-LaTeX
+
+# STEM/STEAM Science Datasets - https://huggingface.co/datasets?sort=likes&search=science
+1. https://huggingface.co/datasets/multi_x_science_sum
+2. https://huggingface.co/datasets/web_of_science
+3. https://huggingface.co/datasets/hugginglearners/data-science-job-salaries
+4. https://huggingface.co/datasets/espejelomar/data-science-job-salaries
+5. https://huggingface.co/datasets/LawalAfeez/science-dataset
+6. https://huggingface.co/datasets/millawell/wikipedia_field_of_science
+
+# STEM/STEAM Tech Datasets - https://huggingface.co/datasets?sort=likes&search=tech
+
+# STEM/STEAM Engineering Datasets - https://huggingface.co/datasets?sort=likes&search=engineer
+
+Engineering Type|	Median Salary (May 2020)|	Job Growth Rate (2020-30)
+----------------|-------------------------------|----------------------------------
+Petroleum Engineers|	$137,330|	8%
+Computer Hardware Engineers|	$119,560|	2%
+Aerospace Engineers|	$118,610|	8%
+Nuclear Engineers|	$116,140|	-8%
+Chemical Engineers|	$108,540|	9%
+Electrical and Electronics Engineers|	$103,390|	7%
+Materials Engineers|	$95,640|	8%
+Marine Engineers|	$95,440|	4%
+Health and Safety Engineers|	$94,240|	6%
+Mining and Geological Engineers|	$93,800|	4%
+Biomedical Engineers|	$92,620|	6%
+Environmental Engineers|	$92,120|	4%
+Mechanical Engineers|	$90,160|	7%
+Industrial Engineers|	$88,950|	14%
+Civil Engineers|	$88,570|	8%
+Agricultural Engineers|	$84,410|	5%
+
+# Mapping for AI
+1. Zip Codes: https://simple.wikipedia.org/wiki/List_of_ZIP_Code_prefixes
+2. States
+3. United States
+
+# STEM/STEAM Art Datasets - https://huggingface.co/datasets?sort=likes&search=art
+
+
+
+# Drug Dependence QA - Detectable Factors of Drug Dependence and Healthy Goals and Treatments
+1. SAMHSA - National Helpline confidential 24/7 365 treatment referral and info service
+   1. https://www.samhsa.gov/find-help/national-helpline
+2. Q: What are signs that you may be dependent on a drug?
+   1. A: According to the National Council on Alcoholism and Drug Dependence, withdrawal symptoms may include but are not limited to:
+      1. Shakiness, trembling, and jumpiness
+      2. Loss of appetite
+      3. Nausea and vomiting
+      4. Depression
+      5. Insomnia and fatigue
+      6. Headaches and fever
+      7. Confusion and hallucinations
+      8. Seizures
+3. Q: What are 3 warning signs that someone has a substance abuse problem?
+   1. Bloodshot eyes, pupils larger or smaller than usual
+   2. Changes in appetite, sleep patterns, physical appearance
+   3. Unusual smells on breath, body, or clothing, or impaired coordination
+4. Q: What are the six major characteristics of addictive behavior?
+   1. salience
+   2. mood modification
+   3. tolerance
+   4. withdrawal symptoms
+   5. conflict
+   6. relapse
+5. Q: What are the 6 types of drug dependence?
+   1. opioids
+   2. alcohol
+   3. benzodiazepines
+   4. hallucinogens
+   5. cannabinoids
+   6. barbiturates
+6. Q: What are red flags for substance abuse?
+   1. Memory loss
+   2. Confusion
+   3. Muscle in-coordination
+7. Q: Warning Signs of Addiction?
+   1. anxiety or depression
+   2. memory problems
+   3. mood swings (temper flare-ups, irritability, defensiveness)
+   4. rapid increases in the amount of medication needed
+8. Q: What are the three basic characteristics of drug abuse?
+   1. display a lack of control concerning the substance, thing, or behavior they are addicted to
+   2. experience increased desires for the specific substance, thing, or behavior
+   3. eny that their addictive behavior may be causing negative consequences
+9. Q: What are the C's of addiction?
+   1. Cooperation
+   2. Creativity
+   4. Curiosity
+   5. Chaos
+   6. Compassion
+   7. Couch
+10. Q: What are the Levels and Behaviors of Addiction?
+   1. Drowsiness
+   2. Slurred speech
+   3. Lack of coordination
+   4. Irritability or changes in mood
+   5. Problems concentrating or thinking clearly
+   6. Memory problems
+   7. Involuntary eye movements
+   8. Lack of inhibition
+11. Q: What are the types of addiction?
+   1. Behavioral addiction: Many people associate addiction solely with substances, like alcohol or drugs
+   2. Substance addiction: Substance addiction creates a physical dependence on a specific chemical
+   3. Impulse addiction: Impulse control disorders can lead to impulse addiction
+12. Q: What are 2 kinds of drug dependence?
+   1. The dependence classification has two main categories — physical and psychological dependency
+13. Q: What are the red flag symptoms?
+   1. pain following a fall or other trauma
+   2. fever
+   3. sudden unexplained weight loss
+   4. acute onset of severe pain
+   5. new-onset weakness or sensory loss
+   6. loss of bowel or bladder function
+   7. jaw claudication
+   8. new headaches
+   9. bone pain
+14. Q: What are red flags in a relationship to look out for?
+   1. Overly controlling behavior
+   2. Lack of trust
+   3. Feeling low self-esteem
+   4. Physical, emotional, or mental abuse
+   5. Substance abuse
+   6. Narcissism
+   7. Anger management issues
+   8. Codependency
+15. Q: What are personality traits linked to addiction?
+   1. Impulsivity. Impulsive people are often viewed as fun to be around due to their spontaneous nature, but this personality trait has a serious dark side
+   2. Nonconformity
+   3. Anxiety
+   4. Low Tolerance for Stress
+   5. Sensation Seeking
+   6. Blame Shifting
+16. Q: How do you help someone with an addiction?
+   1. Educate Yourself. Get information about addictions
+   2. Get Support
+   3. Get Counseling
+   4. Seek Specialty Help
+   5. Don't Enable
+   6. Have Realistic Expectations
+   7. Take Care of Yourself
 
 ## Medications - Top 16 Commonly Abused Prescription Drugs:
 1. Opioids
@@ -117,58 +271,6 @@ __Vocabularies in UMLS with Medications:__
 5. __Locator Plus__		https://catalog.nlm.nih.gov/discovery/search?vid=01NLM_INST:01NLM_INST
 6. __Digital Collections__		https://collections.nlm.nih.gov/?_gl=1*10rwjnn*_ga*MTkyMjI5MzQyNi4xNjU1MjE5MjA5*_ga_7147EPK006*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI5NjQuMC4wLjA.*_ga_P1FPTH9PL4*MTY3MzQ1MjcyMy4zNi4xLjE2NzM0NTI5NjQuMC4wLjA.
 
-
-# STEM/STEAM Oriented AO Spaces
-1. Science - https://huggingface.co/spaces?sort=likes&search=science
-2. Technology - https://huggingface.co/spaces?sort=likes&search=tech
-3. Engineering - https://huggingface.co/spaces?sort=likes&search=engineer
-4. Art - https://huggingface.co/spaces?sort=likes&search=art
-5. Math - https://huggingface.co/spaces?sort=likes&search=math
-
-# STEM/STEAM Oriented Datasets - https://huggingface.co/datasets?sort=likes&search=math
-1. Math		https://huggingface.co/datasets/math_dataset
-2. Math QA	https://huggingface.co/datasets/math_qa
-3. Competition Math	https://huggingface.co/datasets/competition_math
-4. Pile DM Math		https://huggingface.co/datasets/conceptofmind/pile_dm_mathematics
-5. Handwritten Math	https://huggingface.co/datasets/Azu/Handwritten-Mathematical-Expression-Convert-LaTeX
-
-# STEM/STEAM Science Datasets - https://huggingface.co/datasets?sort=likes&search=science
-1. https://huggingface.co/datasets/multi_x_science_sum
-2. https://huggingface.co/datasets/web_of_science
-3. https://huggingface.co/datasets/hugginglearners/data-science-job-salaries
-4. https://huggingface.co/datasets/espejelomar/data-science-job-salaries
-5. https://huggingface.co/datasets/LawalAfeez/science-dataset
-6. https://huggingface.co/datasets/millawell/wikipedia_field_of_science
-
-# STEM/STEAM Tech Datasets - https://huggingface.co/datasets?sort=likes&search=tech
-
-# STEM/STEAM Engineering Datasets - https://huggingface.co/datasets?sort=likes&search=engineer
-
-Engineering Type|	Median Salary (May 2020)|	Job Growth Rate (2020-30)
-----------------|-------------------------------|----------------------------------
-Petroleum Engineers|	$137,330|	8%
-Computer Hardware Engineers|	$119,560|	2%
-Aerospace Engineers|	$118,610|	8%
-Nuclear Engineers|	$116,140|	-8%
-Chemical Engineers|	$108,540|	9%
-Electrical and Electronics Engineers|	$103,390|	7%
-Materials Engineers|	$95,640|	8%
-Marine Engineers|	$95,440|	4%
-Health and Safety Engineers|	$94,240|	6%
-Mining and Geological Engineers|	$93,800|	4%
-Biomedical Engineers|	$92,620|	6%
-Environmental Engineers|	$92,120|	4%
-Mechanical Engineers|	$90,160|	7%
-Industrial Engineers|	$88,950|	14%
-Civil Engineers|	$88,570|	8%
-Agricultural Engineers|	$84,410|	5%
-
-# Mapping for AI
-1. Zip Codes: https://simple.wikipedia.org/wiki/List_of_ZIP_Code_prefixes
-2. States
-3. United States
-
-# STEM/STEAM Art Datasets - https://huggingface.co/datasets?sort=likes&search=art
 
 # Health Datasets - https://huggingface.co/datasets?sort=likes&search=health
 
