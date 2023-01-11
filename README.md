@@ -56,7 +56,7 @@ Agricultural Engineers|	$84,410|	5%
 
 
 
-# Drug Dependence QA - Detectable Factors of Drug Dependence and Healthy Goals and Treatments
+# Drug Dependency and Recovery to Health QA - Detectable Factors of Dependence with Healthy Goals and Treatments
 1. SAMHSA - National Helpline confidential 24/7 365 treatment referral and info service
    1. https://www.samhsa.gov/find-help/national-helpline
 2. Q: What are signs that you may be dependent on a drug?
