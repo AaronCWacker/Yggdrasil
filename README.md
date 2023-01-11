@@ -8,6 +8,77 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Art - https://huggingface.co/spaces?sort=likes&search=art
 5. Math - https://huggingface.co/spaces?sort=likes&search=math
 
+# STEM/Steam Oriented Datasets - https://huggingface.co/datasets?sort=likes&search=math
+1. Math		https://huggingface.co/datasets/math_dataset
+2. Math QA	https://huggingface.co/datasets/math_qa
+3. Competition Math	https://huggingface.co/datasets/competition_math
+4. Pile DM Math		https://huggingface.co/datasets/conceptofmind/pile_dm_mathematics
+5. Handwritten Math	https://huggingface.co/datasets/Azu/Handwritten-Mathematical-Expression-Convert-LaTeX
+
+# STEM/Steam Science Datasets - https://huggingface.co/datasets?sort=likes&search=science
+1. https://huggingface.co/datasets/multi_x_science_sum
+2. https://huggingface.co/datasets/web_of_science
+3. https://huggingface.co/datasets/hugginglearners/data-science-job-salaries
+4. https://huggingface.co/datasets/espejelomar/data-science-job-salaries
+5. https://huggingface.co/datasets/LawalAfeez/science-dataset
+6. https://huggingface.co/datasets/millawell/wikipedia_field_of_science
+
+# STEM/STEAM Tech Datasets - https://huggingface.co/datasets?sort=likes&search=tech
+
+# STEM/STEAM Engineering Datasets - https://huggingface.co/datasets?sort=likes&search=engineer
+
+# STEM/STEAM Art Datasets - https://huggingface.co/datasets?sort=likes&search=art
+
+# Health Datasets - https://huggingface.co/datasets?sort=likes&search=health
+# Medicine Datasets - https://huggingface.co/datasets?sort=likes&search=medicine
+# Biomed Datasets - https://huggingface.co/datasets?sort=likes&search=bio
+1. https://huggingface.co/datasets/biosses
+2. https://huggingface.co/datasets/biomrc
+3. https://huggingface.co/datasets/bigbio/bioasq_task_b
+4. https://huggingface.co/datasets/ywchoi/biomed_textbooks_jul22
+5. https://huggingface.co/datasets/Javtor/biomedical-topic-categorization
+6. https://huggingface.co/datasets/Javtor/biomedical-topic-categorization-cased
+7. https://huggingface.co/datasets/pubmed_qa
+8. https://huggingface.co/datasets/ccdv/pubmed-summarization
+9. https://huggingface.co/datasets/pubmed
+10. https://huggingface.co/datasets/qanastek/WMT-16-PubMed
+11. https://huggingface.co/datasets/gayanin/pubmed-gastro-paraphrasing
+12. https://huggingface.co/datasets/zj88zj/PubMed_200k_RCT
+13. https://huggingface.co/datasets/owaiskha9654/PubMed_MultiLabel_Text_Classification_Dataset_MeSH
+14. https://huggingface.co/datasets/ywchoi/pubmed_abstract_0
+15. https://huggingface.co/datasets/ywchoi/pubmed_abstract_2
+16. https://huggingface.co/datasets/Corran/Pubmed-OpenAccess-Commercial-Use
+17. https://huggingface.co/datasets/midas/pubmed
+
+# Mental Datasets
+1. https://huggingface.co/datasets/solomonk/reddit_mental_health_posts
+2. https://huggingface.co/datasets/Kanakmi/mental-disorders
+3. https://huggingface.co/datasets/jsfactory/mental_health_reddit_posts
+4. https://huggingface.co/datasets/alexandreteles/mental-health-conversational-data
+
+# AutoTrain Model Datasets for STEM and Health - https://huggingface.co/models?sort=likes&search=autotrain
+1. https://huggingface.co/omarques/autotrain-in-class-test-demo-1659958767
+2. https://huggingface.co/abhishek/autotrain_cifar10_vit_base
+3. https://huggingface.co/abhishek/autotrain-indian-food-image-classification
+4. https://huggingface.co/dracero/autotrain-dracero-fine-tuned-physics-2123168626
+5. https://huggingface.co/vlsb/autotrain-security-texts-classification-distilroberta-688220764
+6. https://huggingface.co/jurader/autotrain-livedoor_news-732022289
+7. https://huggingface.co/rabiaqayyum/autotrain-mental-health-analysis-752423172
+8. https://huggingface.co/Sathira/autotrain-mbtiNlp-798824628
+9. https://huggingface.co/pier297/autotrain-chemprot-re-838426740
+10. https://huggingface.co/victorlifan/autotrain-song_title_generate-939531516
+11. https://huggingface.co/abhishek/autotrain_fashion_mnist_vit_base
+12. https://huggingface.co/abhishek/autotrain-iris-xgboost
+13. https://huggingface.co/Wanjiru/autotrain_gro_ner
+14. https://huggingface.co/L-macc/autotrain-Biomedical_sc_summ-1217846144
+15. https://huggingface.co/noob123/autotrain-app_review_bert_train-1310050094
+16. https://huggingface.co/rahulmallah/autotrain-emotion-detection-1366352626
+17. https://huggingface.co/nuts/autotrain-human_art_or_not-1432453604
+
+
+# Model Evaluator for Datasets
+https://huggingface.co/spaces/autoevaluate/model-evaluator?dataset=acronym_identification
+
 # STEM Mentoring
 1. Micropython for Raspberry Pi Pico
 2. Robot car with line following and collision avoidance
