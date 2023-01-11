@@ -28,7 +28,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # STEM/STEAM Engineering Datasets - https://huggingface.co/datasets?sort=likes&search=engineer
 
 Engineering Type|	Median Salary (May 2020)|	Job Growth Rate (2020-30)
----------------------------------------------------------------------------------
+----------------|-------------------------------|----------------------------------
 Petroleum Engineers|	$137,330|	8%
 Computer Hardware Engineers|	$119,560|	2%
 Aerospace Engineers|	$118,610|	8%
@@ -46,6 +46,10 @@ Industrial Engineers|	$88,950|	14%
 Civil Engineers|	$88,570|	8%
 Agricultural Engineers|	$84,410|	5%
 
+# Mapping for AI
+1. Zip Codes: https://simple.wikipedia.org/wiki/List_of_ZIP_Code_prefixes
+2. States
+3. United States
 
 # STEM/STEAM Art Datasets - https://huggingface.co/datasets?sort=likes&search=art
 
