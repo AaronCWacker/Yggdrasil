@@ -34,6 +34,43 @@ Bias?
 
 Short easy definitions, explanations script
 
+# Mental Health - Therapy Online Tools
+1. https://www.betterhelp.com/get-started/?go=true&transaction_id=1023dbc1a043a936f3eb1b14aadbc2&utm_source=affiliate&utm_campaign=1339&utm_medium=Desktop&utm_content=&utm_term=&not_found=1&gor=start
+2. https://www.betterhelp.com/get-started/?go=true&transaction_id=1023dbc1a043a936f3eb1b14aadbc2&utm_source=affiliate&utm_campaign=1339&utm_medium=Desktop&utm_content=&utm_term=&not_found=1&gor=start
+3. https://www.regain.us/get-started/
+4. https://www.betterhelp.com/get-started/?go=true&transaction_id=1023dbc1a043a936f3eb1b14aadbc2&utm_source=affiliate&utm_campaign=1339&utm_medium=Desktop&utm_content=&utm_term=&not_found=1&gor=start
+5. https://www.faithfulcounseling.com/get-started/?transaction_id=10229c59ac92debda749212ac66a3a&utm_source=affiliate&utm_campaign=1339&utm_medium=Desktop&utm_content=&utm_term=%7BSource%7D&not_found=1&gor=start&go=true
+6. https://www.teencounseling.com/parent_start/?transaction_id=102919a4c07635430cd55bfa7dc5ff&utm_source=affiliate&utm_campaign=Natural+Intelligence&utm_medium=Desktop&utm_content=&utm_term=%7BSource%7D&not_found=1
+7. https://us.calmerry.com/quality-therapy-online/?ho_tr_id=102d95c46e06fbb10f31e52b80918f&utm_source=affiliate&utm_medium=Natural+Intelligence&campaign=Desktop
+8. https://www.pridecounseling.com/get-started/?transaction_id=10274f79d273d50fbc8e306044e86e&utm_source=affiliate&utm_campaign=1339&utm_medium=Desktop&utm_content=&utm_term=%7BSource%7D&not_found=1&gor=start_go&go=true
+9. https://cerebral.com/?irclickid=XH8TY-3vBxyNWO2XyU1D9UGQUkAwmYynNx6lSw0&utm_medium=impact&utm_source=affiliate&utm_campaign=Impact-Natural%20Intelligence%20LTD%2C-12128-NI%20Text%20Ad%20with%20TOP10%20Promo&irgwc=1&plan=medication-therapy&promo=TOP10
+10. https://try.talkspace.com/affiliate/top-10?irclickid=WbQ2jDyYexyNRnMRQWzSQ1l8UkAwmYyvNx6lSw0&irgwc=1&utm_medium=affiliate&utm_campaign=Affiliate_Impact&utm_source=Natural%20Intelligence%20LTD%2C&utm_keyword=TEXT_LINK&utm_term=34020&utm_content=NI%20-%20Get%20%24100%20OFF%20your%20first%20month%20at%20Talkspace%21%20Use%20code%20TOP10TALK%20at%20checkout.&utr_adid=1334803&utr_adgroup=34020
+
+# Mental Health Inputs and Capabilities for Finding Best Therapist for You
+
+1. Age Specialty for Pediatric, Teen, Adult, Elderly
+2. Individual, Sponsor, Family, Couple, Multiuser (Self, Partner, Child)
+3. Evaluations and Assessments for Needs
+4. App based for Phone or Web
+5. Video Chat
+6. Phone
+7. Live Chat
+8. Messaging
+9. Faith counseling - Spiritually Informed
+10. Teen counseling with Parents
+11. Coping Skills Education
+12. Skills Education
+13. Therapy Styles
+14. LGBT-focused Therapy, Man, Woman, Non Binary, Transfeminine, Transmasculine
+15. Equality and Acceptance
+16. Emotional Assessment
+17. Progress Tracking and Sharing
+18. Cognitive Behavioral Therapy (CBT)
+19. Online Flexible Plan
+20. Questionnaire Start to Get Preferences
+21. Licenses
+22. 24/7 Services
+
 
 # AI Zero to Hero for Health
 
