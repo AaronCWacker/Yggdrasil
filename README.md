@@ -2,14 +2,14 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
-# STEM/STEAM Oriented AO Spaces
+# STEM/STEAM AI Spaces
 1. Science - https://huggingface.co/spaces?sort=likes&search=science
 2. Technology - https://huggingface.co/spaces?sort=likes&search=tech
 3. Engineering - https://huggingface.co/spaces?sort=likes&search=engineer
 4. Art - https://huggingface.co/spaces?sort=likes&search=art
 5. Math - https://huggingface.co/spaces?sort=likes&search=math
 
-# STEM/STEAM Oriented Datasets - https://huggingface.co/datasets?sort=likes&search=math
+# STEM/STEAM Datasets - https://huggingface.co/datasets?sort=likes&search=math
 1. Math		https://huggingface.co/datasets/math_dataset
 2. Math QA	https://huggingface.co/datasets/math_qa
 3. Competition Math	https://huggingface.co/datasets/competition_math
