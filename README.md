@@ -8,14 +8,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Art - https://huggingface.co/spaces?sort=likes&search=art
 5. Math - https://huggingface.co/spaces?sort=likes&search=math
 
-# STEM/Steam Oriented Datasets - https://huggingface.co/datasets?sort=likes&search=math
+# STEM/STEAM Oriented Datasets - https://huggingface.co/datasets?sort=likes&search=math
 1. Math		https://huggingface.co/datasets/math_dataset
 2. Math QA	https://huggingface.co/datasets/math_qa
 3. Competition Math	https://huggingface.co/datasets/competition_math
 4. Pile DM Math		https://huggingface.co/datasets/conceptofmind/pile_dm_mathematics
 5. Handwritten Math	https://huggingface.co/datasets/Azu/Handwritten-Mathematical-Expression-Convert-LaTeX
 
-# STEM/Steam Science Datasets - https://huggingface.co/datasets?sort=likes&search=science
+# STEM/STEAM Science Datasets - https://huggingface.co/datasets?sort=likes&search=science
 1. https://huggingface.co/datasets/multi_x_science_sum
 2. https://huggingface.co/datasets/web_of_science
 3. https://huggingface.co/datasets/hugginglearners/data-science-job-salaries
@@ -30,7 +30,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # STEM/STEAM Art Datasets - https://huggingface.co/datasets?sort=likes&search=art
 
 # Health Datasets - https://huggingface.co/datasets?sort=likes&search=health
+
 # Medicine Datasets - https://huggingface.co/datasets?sort=likes&search=medicine
+
 # Biomed Datasets - https://huggingface.co/datasets?sort=likes&search=bio
 1. https://huggingface.co/datasets/biosses
 2. https://huggingface.co/datasets/biomrc
