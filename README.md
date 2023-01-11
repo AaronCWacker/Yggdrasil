@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# STEM/STEAM Oriented AO Spaces
+1. Science - https://huggingface.co/spaces?sort=likes&search=science
+2. Technology - https://huggingface.co/spaces?sort=likes&search=tech
+3. Engineering - https://huggingface.co/spaces?sort=likes&search=engineer
+4. Art - https://huggingface.co/spaces?sort=likes&search=art
+5. Math - https://huggingface.co/spaces?sort=likes&search=math
 
 # STEM Mentoring
 1. Micropython for Raspberry Pi Pico
