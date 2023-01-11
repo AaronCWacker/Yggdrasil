@@ -45,23 +45,23 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 1. __PubChem__ - SMILES Isomeric can be used to model the medication compound.
 
-![image](https://github.optum.com/storage/user/15588/files/b0c2bce0-3cb5-4330-8e4d-f73679f78dcb)
+![image](https://user-images.githubusercontent.com/30595158/211877328-d2788644-2dea-4419-b95c-7b8213ebea51.png)
 
 __Isomeric SMILES__: CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O  
 
 2. __PubMed__ - Articles on medications.  Journal abstracts, Full text, Books, Meta Analysis, Trials, Reviews
 
-![image](https://github.optum.com/storage/user/15588/files/7d954bdb-fa40-491d-8b9e-c12acaf45ea1)
+![image](https://user-images.githubusercontent.com/30595158/211877418-c411d881-2529-4f77-af72-72242693478b.png)
 
 3. __MeSH__ - Details, Qualifiers, MeSH Tree Structures, Concepts, Actions RDF Unique ID, Entry terms
 
-![image](https://github.optum.com/storage/user/15588/files/e0382091-c2a5-4db7-9d5d-94450722e15d)
+![image](https://user-images.githubusercontent.com/30595158/211877540-f94c9fbd-d31f-4796-bc6e-498e73933bd2.png)
 
-![image](https://github.optum.com/storage/user/15588/files/98a60d73-779c-467c-aef0-442187c3d956)
+![image](https://user-images.githubusercontent.com/30595158/211877584-9d3f9931-b83f-4d19-9d3f-ce8fcb61ebc8.png)
 
-![image](https://github.optum.com/storage/user/15588/files/2a77ae8b-bdb0-413e-be41-99568f119e68)
+![image](https://user-images.githubusercontent.com/30595158/211877618-46f437f4-ead0-47d5-b79d-af17e96c70b2.png)
 
-![image](https://github.optum.com/storage/user/15588/files/0f38ded1-7031-448a-ae36-5c564d50b28d)
+![image](https://user-images.githubusercontent.com/30595158/211877669-5d51f677-ac29-49f1-b9ce-363064a4f7c3.png)
 
 __MeSH Tree__:
 Organic Chemicals [D02]
@@ -75,7 +75,7 @@ Organic Chemicals [D02]
 
 4. __UMLS__ - Definitions, Semantic Types, Vocabularies, Relationships
 
-![image](https://github.optum.com/storage/user/15588/files/2a5505fb-c4cb-49ce-bb67-e9632844d26b)
+![image](https://user-images.githubusercontent.com/30595158/211877748-7174b962-0e36-4edb-937d-9a9dba5305cf.png)
 
 __Vocabularies in UMLS with Medications:__
 1. CHV
@@ -98,15 +98,15 @@ __Vocabularies in UMLS with Medications:__
 
 5. __MedlinePlus__ - Articles, Drugs, Encyclopedia, Usages
 
-![image](https://github.optum.com/storage/user/15588/files/2e544e97-2ffd-4044-be1e-5edc3c3f7a86)
+![image](https://user-images.githubusercontent.com/30595158/211877806-b1a33c95-a10d-42b3-82eb-87b73550e5dd.png)
 
 6. __LocatorPlus__ - Collection Books and Videos
 
-![image](https://github.optum.com/storage/user/15588/files/b1321e1c-c81f-4aae-b914-5e59de23741d)
+![image](https://user-images.githubusercontent.com/30595158/211877863-943440e9-75d0-47a9-8458-977bcd1bb333.png)
 
 7. __Collections__ - Publications, Authors, Subjects
 
-![image](https://github.optum.com/storage/user/15588/files/9ef000fd-fbac-42e8-b1ae-1328e46dddc2)
+![image](https://user-images.githubusercontent.com/30595158/211877902-8b9b2954-ff94-442d-9f47-f29a70315599.png)
 
 
 # National Library of Medicine Datasets
