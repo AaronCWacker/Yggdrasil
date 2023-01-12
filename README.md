@@ -1,6 +1,34 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Zero to Hero - TDP/STEM/Open Source Edition
+1. Biomedical NER to CT search using NLP, Transformers, and AutoTokenizer: https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+2. https://huggingface.co/spaces/awacke1/EasyQAwithRoberta
+3. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+4. https://huggingface.co/spaces/awacke1/AI-EIO-Editor
+5. https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+6. https://huggingface.co/spaces/awacke1/AICodeFly
+7. https://huggingface.co/spaces/awacke1/PrompTart
+8. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+9. https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+10. https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
+11. https://huggingface.co/spaces/awacke1/PromptRefinery
+
+
+---
+## Pressures teens face
+
+Youth mental health expert have raised concerns about the extreme pressures on children and teens throughout the COVID-19 pandemic. Lingering effects of school closures and COVID-related stressors are key factors in teen stress. Many young people are also dealing with overwhelming pressure to achieve good grades in school or gain admission to elite colleges and universities.  The need to be superstars in sports, the performing arts or other extracurricular activities.  Tough schedules that don't allow enough time for rest, relaxation and unstructured fun.  They deal with Bullying whether in person, via social media or both.  They face persistent fears about climate change, global conflict and other weighty issues.  They may face discrimination based on race, gender, sexual orientation, weight, religion, disability or other factors.  Teens also face problems related to a poverty or lack of money for safe, stable housing and enough nutritious food.
+
+## Pressures adults face 
+
+Nearly half of Americans surveyed reported recent symptoms of an anxiety or depressive disorder, and 10% feel their mental health needs are not being met. Rates of anxiety, depression, and substance use disorder have increased since the beginning of the pandemic. People who have mental illnesses or disorders and then get COVID-19 are more likely to die than those who don’t have mental illnesses or disorders.  Adults face a number of symptoms related to brain and mental health including cognitive and attention deficits like brain fog, anxiety and depression, seizures, and suicidal behavior.  Stressors caused by the COVID-19 pandemic is not yet fully understood but include changes to daily routines, virtual office and schooling, mask wearing, caregiver absence, loss and grief, and financial instability.  People more likely to experience difficulties include people from racial and ethnic minority groups, mothers and pregnant women, people with finanical or housing insecurity, children, people with disabilities, people with pre-existing mental illnesses or substance use problems and health care workers.  
+
+## Pressures facing elderly
+
+Anxiety and depression have increased for older adults since the start of the pandemic.  Elders cope with uncertainty better than younger generations, however depression and anxiety have negative impacts on quality of life, function and general health.  Due to medical vulnerability elders face isolation with sacrifices and pain to endure including loneliness.  At least one in four older adults experience mental disorders such as depression, anxiety and dementia.  Number of seniors is expected to double by 2030.  Isolation, affective and anxiety disorders, dementia, and psychosis are common as well as sleep disorders.  Behavioral disorders, cognitive deterioration or confusion states as a result of physical disorders and surgical interventions occur for elderly.  Health care providers including those in primary care can play a key role in promoting mental health by working with mental health professionals, local governments, civil society organizations, families and communities to provide comprehensive mental health care and supportive environments.  Elderly should be encouraged to participate in communities and society while policy makers should ensure health concerns are addressed in national health planning and policies.  
+
+---
 
 # STEM/STEAM AI Spaces
 1. Science - https://huggingface.co/spaces?sort=likes&search=science
