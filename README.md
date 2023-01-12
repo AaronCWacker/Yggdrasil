@@ -84,7 +84,7 @@ Agricultural Engineers|	$84,410|	5%
 
 
 
-# Drug Dependency and Recovery to Health QA - Detectable Factors of Dependence with Healthy Goals and Treatments
+# Drug Dependence QA - Assessing Detectable Factors of Drug Dependence to Recommend Healthy Goals and Treatments
 1. SAMHSA - National Helpline confidential 24/7 365 treatment referral and info service
    1. https://www.samhsa.gov/find-help/national-helpline
 2. Q: What are signs that you may be dependent on a drug?
@@ -102,12 +102,12 @@ Agricultural Engineers|	$84,410|	5%
    2. Changes in appetite, sleep patterns, physical appearance
    3. Unusual smells on breath, body, or clothing, or impaired coordination
 4. Q: What are the six major characteristics of addictive behavior?
-   1. salience
-   2. mood modification
-   3. tolerance
-   4. withdrawal symptoms
-   5. conflict
-   6. relapse
+   1. salience - Salience describes how prominent or emotionally striking something is. If an element seems to jump out from its environment, it's salient. If it blends into the background and takes a while to find, it's not. Salience Bias states that the brain prefers to pay attention to salient elements of an experience.
+   2. mood modification - This refers to the subjective experiences that people report as a consequence of engaging in the activity and can be seen as a coping strategy (i.e., they experience an arousing “buzz” or a “high” or paradoxically a tranquilizing feel of “escape” or “numbing”).
+   3. tolerance - Tolerance is a person's diminished response to a drug, which occurs when the drug is used repeatedly and the body adapts to the continued presence of the drug.
+   4. withdrawal symptoms - Acute withdrawal symptoms can cause a variety of physical health problems, ranging from mild flu-like symptoms to severe seizure-like activity. Protracted withdrawal symptoms, on the other hand, can lead to mental health issues, including anxiety and/or depression
+   5. conflict - Once the conflict is over, the feeling is gone, and your body goes through an adrenaline dump that mimics the symptoms of mild depression. Just like drug addiction, your brain will then want more conflict. Enemies can be made out of anyone or anything to get the same feeling from the first fight.
+   6. relapse - A relapse happens when a person stops maintaining his or her goal of reducing or avoiding use of alcohol or other drugs and returns to dependency and abuse.
 5. Q: What are the 6 types of drug dependence?
    1. opioids
    2. alcohol
@@ -136,82 +136,56 @@ Agricultural Engineers|	$84,410|	5%
    6. Compassion
    7. Couch
 10. Q: What are the Levels and Behaviors of Addiction?
-   1. Drowsiness
-   2. Slurred speech
-   3. Lack of coordination
-   4. Irritability or changes in mood
-   5. Problems concentrating or thinking clearly
-   6. Memory problems
-   7. Involuntary eye movements
-   8. Lack of inhibition
+	1. Drowsiness
+	2. Slurred speech
+	3. Lack of coordination
+	4. Irritability or changes in mood
+	5. Problems concentrating or thinking clearly
+	6. Memory problems
+	7. Involuntary eye movements
+	8. Lack of inhibition
 11. Q: What are the types of addiction?
-   1. Behavioral addiction: Many people associate addiction solely with substances, like alcohol or drugs
-   2. Substance addiction: Substance addiction creates a physical dependence on a specific chemical
-   3. Impulse addiction: Impulse control disorders can lead to impulse addiction
+	1. Behavioral addiction: Many people associate addiction solely with substances, like alcohol or drugs
+	2. Substance addiction: Substance addiction creates a physical dependence on a specific chemical
+	3. Impulse addiction: Impulse control disorders can lead to impulse addiction
 12. Q: What are 2 kinds of drug dependence?
-   1. The dependence classification has two main categories — physical and psychological dependency
+	1. The dependence classification has two main categories — physical and psychological dependency
 13. Q: What are the red flag symptoms?
-   1. pain following a fall or other trauma
-   2. fever
-   3. sudden unexplained weight loss
-   4. acute onset of severe pain
-   5. new-onset weakness or sensory loss
-   6. loss of bowel or bladder function
-   7. jaw claudication
-   8. new headaches
-   9. bone pain
+	1. pain following a fall or other trauma
+	2. fever
+	3. sudden unexplained weight loss
+	4. acute onset of severe pain
+	5. new-onset weakness or sensory loss
+	6. loss of bowel or bladder function
+	7. jaw claudication
+	8. new headaches
+	9. bone pain
 14. Q: What are red flags in a relationship to look out for?
-   1. Overly controlling behavior
-   2. Lack of trust
-   3. Feeling low self-esteem
-   4. Physical, emotional, or mental abuse
-   5. Substance abuse
-   6. Narcissism
-   7. Anger management issues
-   8. Codependency
+	1. Overly controlling behavior
+	2. Lack of trust
+	3. Feeling low self-esteem
+	4. Physical, emotional, or mental abuse
+	5. Substance abuse
+	6. Narcissism
+	7. Anger management issues
+	8. Codependency
 15. Q: What are personality traits linked to addiction?
-   1. Impulsivity. Impulsive people are often viewed as fun to be around due to their spontaneous nature, but this personality trait has a serious dark side
-   2. Nonconformity
-   3. Anxiety
-   4. Low Tolerance for Stress
-   5. Sensation Seeking
-   6. Blame Shifting
+	1. Impulsivity. Impulsive people are often viewed as fun to be around due to their spontaneous nature, but this personality trait has a serious dark side
+	2. Nonconformity
+	3. Anxiety
+	4. Low Tolerance for Stress
+	5. Sensation Seeking
+	6. Blame Shifting
 16. Q: How do you help someone with an addiction?
-   1. Educate Yourself. Get information about addictions
-   2. Get Support
-   3. Get Counseling
-   4. Seek Specialty Help
-   5. Don't Enable
-   6. Have Realistic Expectations
-   7. Take Care of Yourself
+	1. Educate Yourself. Get information about addictions
+	2. Get Support
+	3. Get Counseling
+	4. Seek Specialty Help
+	5. Don't Enable
+	6. Have Realistic Expectations
+	7. Take Care of Yourself
 
-## Medications - Top 16 Commonly Abused Prescription Drugs:
-1. Opioids
-   1. UMLS - https://uts.nlm.nih.gov/uts/umls/searchResults?searchString=Opioids
-   2. UMLS Vocabularies: MTH · MSH · SNOMEDCT_US · NCI · CHV · LNC · PSY · SNMI
-   3. PubChem - https://pubchem.ncbi.nlm.nih.gov/#query=Opioids
-   4. PubMed - https://pubmed.ncbi.nlm.nih.gov/?term=Opioids&filter=pubt.meta-analysis
-   5. MeSH - https://meshb.nlm.nih.gov/record/ui?ui=D000701
-   6. Medline - https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=Opioids
-   7. Locator Plus - https://catalog.nlm.nih.gov/discovery/search?query=any,contains,Opioids&tab=LibraryCatalog&search_scope=MyInstitution&vid=01NLM_INST:01NLM_INST&offset=0
-2. Fentanyl (Duragesic)
-3. Hydrocodone (Vicodin)
-4. Oxycodone (OxyContin)
-5. Oxymorphone (Darvon)
-6. Hydromorphone (Dilaudid)
-7. Meperidine (Demerol)
-8. Diphenoxylate (Lomotil)
-9. Morphine Sulfate
-10. Central Nervous System (CNS) Depressants
-11. Pentobarbital sodium (Nembutal)
-12. Diazepam (Valium)
-13. Alprazolam (Xanax)
-14. Zolpidem Tartrate (Ambien)
-15. Sertraline (Zoloft)
-16. Stimulants
-17. Dextroamphetamine (Dexedrine)
-18. Methylphenidate (Ritalin and Concerta)
-19. Amphetamines (Adderall)
+
 
 
 # Medications, CPT/HCPCS and Service Codes, and NPI datasets
