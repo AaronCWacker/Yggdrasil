@@ -1,6 +1,35 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Clinical Terminology Mapping
+
+Setting up a terminology solution would shift manual processes to a highly automated and much less labor-intensive platform. 
+
+Semantic services go beyond just the coding systems mentioned above. Libraries can include:
+
+1. SNOMED CT
+2. ICD-9, ICD-10
+3. LOINC
+4. RxNorm
+5. CMS eCQMs
+6. MedDRA
+7. CVX/MVX
+8. CDC (demographics)
+
+
+Different Codes for Different End Users
+Not all functional areas and roles within a health system require the same level of precision when it comes to identifiers for diagnoses and treatments:
+
+1. A physician needs to precisely document a visit in an EMR. They will use a problem list and diagnosis codes. For example, SNOMED CT or customized homegrown codes
+2. A lab test is performed during the visit. Codes are assigned and associated with these items. For example, LOINC
+3. The physician orders a medication. For example, RxNorm
+4. A billing/coding specialist would use documentation from a provider and assign codes to appropriately bill for the visit. For example, CPT and ICD-10
+5. A call center agent, for example, is best off viewing plain English information in a CRM system when talking to a patient (“Oh yes, I see that you were treated for your broken leg last August”)
+6. Integration data coming across the EMR from outside sources containing SNOMED, LOINC, NDC, RxNorm, and local codes
+
+
+
+
 # AI Zero to Hero - TDP/STEM/Open Source Edition
 1. Biomedical NER to CT search using NLP, Transformers, and AutoTokenizer: https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
 2. https://huggingface.co/spaces/awacke1/EasyQAwithRoberta
