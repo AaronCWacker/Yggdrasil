@@ -1,6 +1,24 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Therapist Finder
+
+Finding a therapist in your area is a match between your geography, distance, your preferences and needs, and which therapists you can find that meet your needs.
+
+Common searches include policy names, city names, and the conditions therapists are familiar with treating.
+
+Example searches:
+
+1. therapists near me
+2. therapists that accept MyPolicyName near me
+3. best therapist near me
+4. therapist milwaukee
+5. therapy
+6. online therapy wisconsin
+7. how to find a therapist
+8. therapists in madison, wi
+
+
 # Clinical Terminology Mapping
 
 Setting up a terminology solution would shift manual processes to a highly automated and much less labor-intensive platform. 
