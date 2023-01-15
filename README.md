@@ -78,6 +78,23 @@ Industrial Engineers|	$88,950|	14%
 Civil Engineers|	$88,570|	8%
 Agricultural Engineers|	$84,410|	5%
 
+
+# AI Zero to Hero - TDP/STEM/Open Source Edition
+
+1. Biomedical NER to CT search using NLP, Transformers, and AutoTokenizer: https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+2. https://huggingface.co/spaces/awacke1/EasyQAwithRoberta
+3. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+4. https://huggingface.co/spaces/awacke1/AI-EIO-Editor
+5. https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+6. https://huggingface.co/spaces/awacke1/AICodeFly
+7. https://huggingface.co/spaces/awacke1/PrompTart
+8. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+9. https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+10. https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
+11. https://huggingface.co/spaces/awacke1/PromptRefinery
+
+
+
 # Mapping for AI
 1. Zip Codes: https://simple.wikipedia.org/wiki/List_of_ZIP_Code_prefixes
 2. States
@@ -162,22 +179,6 @@ Example searches:
 8. therapists in madison, wi
 
 ---
-
-# AI Zero to Hero - TDP/STEM/Open Source Edition
-
-1. Biomedical NER to CT search using NLP, Transformers, and AutoTokenizer: https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
-2. https://huggingface.co/spaces/awacke1/EasyQAwithRoberta
-3. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
-4. https://huggingface.co/spaces/awacke1/AI-EIO-Editor
-5. https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
-6. https://huggingface.co/spaces/awacke1/AICodeFly
-7. https://huggingface.co/spaces/awacke1/PrompTart
-8. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
-9. https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
-10. https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
-11. https://huggingface.co/spaces/awacke1/PromptRefinery
-
-
 
 # Drug Dependence QA - Assessing Detectable Factors of Drug Dependence to Recommend Healthy Goals and Treatments
 
