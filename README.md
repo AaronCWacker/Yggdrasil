@@ -476,7 +476,7 @@ Short easy definitions, explanations script
 6. Check Deepak's code on GH: https://github.com/dreji18?tab=repositories  https://github.com/dreji18/Bio-Epidemiology-NER
 
 
-# Top Six AI Artists 2023
+# Top Six Engineers and Leaders for Knowledge and Product Including AI
 1.  Guido Van Rossum beneficial dictator for life:  https://www.youtube.com/watch?v=-DVyjdw4t9I
 2.  Andrej Karpathy: https://www.youtube.com/watch?v=cdiD-9MMpb0&t=1192s
 3.  Jordan Peterson: https://www.youtube.com/watch?v=sY8aFSY2zv4
