@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Ten Pivotal Teaching Examples:
+# Ten AI and NLP Teaching Examples:
 1. Story Generator AI Pipeline with GPT - https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 2. Voice Clone Using Text and Audio Sample - https://huggingface.co/spaces/awacke1/CloneAnyVoice
 3. Github Code Search with AI Code Superfly - https://huggingface.co/spaces/awacke1/AICodeFly
