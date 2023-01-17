@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Ten Pivotal Teaching Examples:
+1. Story Generator AI Pipeline with GPT - https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+2. Voice Clone Using Text and Audio Sample - https://huggingface.co/spaces/awacke1/CloneAnyVoice
+3. Github Code Search with AI Code Superfly - https://huggingface.co/spaces/awacke1/AICodeFly
+4. Wikipedia Question Answer with References - https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+5. PromptArt Text to Art Analyzer - https://huggingface.co/spaces/awacke1/PrompTart
+6. NLP Clinical Ontology Biomedical NER - https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+7. Yolo and Coco- Real Time Live Object Recognition - https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+8. Mermaid for Journey and Sequence Models by Graph - https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+9. Prompt Writers Refinery - https://huggingface.co/spaces/awacke1/PromptRefinery
+10. Dataset Analyzer and Datasetter - https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+
+
 
 # STEM Mentoring
 1. Micropython for Raspberry Pi Pico
