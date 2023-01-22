@@ -1,6 +1,46 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Notes on Massive Multiplayer Persistent Open Universe Games
+
+The advent of MMORPG's led to large scale real time interactive simulations involving hundreds of people interacting in real time.  The first MMORPG to prove this on a large scale where you could interact with hundreds of other players at the same time was "Dark Age of Camelot - DAOC".  This was a huge innovation and stands til today as a system that proves personalization of content with representation in social chat settings is the way to design massive multiuser spaces.
+
+VR in 2023 remains in its infancy as do wearable powerful computers due mostly to lack of easy to power, cheap, thin high resolution displays, yet the average person has many of these nearby including phones, ipads, tvs, laptops, tablets, and even new low cost microdevices like miniature and giant screen high resolution display panels.
+
+The persistence within a metaverse space is what matters as floating, moving, self modifying programs of language content that hang around and reform themselves modifying them as we modify synapses of our framing representations of them.
+
+Structures:
+1. Consider a Card.  A Card Has?
+   1. Sides - 2 sides
+      1. Front
+      2. Back
+   2. Frame
+   3. Font, Titles, Labels
+   4. Icon Image
+   5. Effect of Types Positive or Negative to an Ideal
+   6. Maps
+   7. Keys
+      1. Key Label
+      2. Key Image
+   8. Direction Pointers
+      1. Up
+      2. Down
+      3. Left
+      4. Right
+   9. Actions
+      5. Rotate
+      6. Accelerate
+      7. Pickup
+      8. Expansion
+      9. Memory and Self Modifications
+      10. Dataset
+      11. Model
+      12. Shared Space Context
+      
+      
+      
+
+
 # Ten AI and NLP Teaching Examples:
 1. Story Generator AI Pipeline with GPT - https://huggingface.co/spaces/awacke1/Sentence2Paragraph
 2. Voice Clone Using Text and Audio Sample - https://huggingface.co/spaces/awacke1/CloneAnyVoice
