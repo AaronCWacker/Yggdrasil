@@ -6,8 +6,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. BNER - Biomed Named Entity Rescognition
 3. QA - Extractive, Triage, Assessment, Lab, LOINC Panel
 4. Entity Relationship Graphs
-5. Disease, Complex Case, Transitional Case, Dual Special Needs
-6. Consent, Calendar, Question Types, Branches, NCQA
+5. Disease, Complex Case, Transitional Case, Special Needs
+6. Consent, Calendar, Question Types, Branches
+7. NCQA, HEDIS - https://www.ncqa.org/hedis/measures/
 
 
 # Notes on Massive Multiplayer Persistent Open Universe Games
