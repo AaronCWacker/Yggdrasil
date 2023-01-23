@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Clinical Terminology and Structured Data Ontology Composure
+1. AI Assessments - LOINC/SNOMED/ICD10/OMS/CQM/CPT-HCPCS/MedRx-RxNorm
+2. BNER - Biomed Named Entity Rescognition
+3. QA - Extractive, Triage, Assessment, Lab, LOINC Panel
+4. Entity Relationship Graphs
+5. Disease, Complex Case, Transitional Case, Dual Special Needs
+6. Consent, Calendar, Question Types, Branches, NCQA
+
+
 # Notes on Massive Multiplayer Persistent Open Universe Games
 
 The advent of MMORPG's led to large scale real time interactive simulations involving hundreds of people interacting in real time.  The first MMORPG to prove this on a large scale where you could interact with hundreds of other players at the same time was "Dark Age of Camelot - DAOC".  This was a huge innovation and stands til today as a system that proves personalization of content with representation in social chat settings is the way to design massive multiuser spaces.
