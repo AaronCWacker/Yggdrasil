@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Teaching Examples - Spaces From Models for PubMed
+1. PubMed and Text to Text Models:
+   1. https://huggingface.co/spaces/awacke1/google-pegasus-pubmed
+   2. https://huggingface.co/spaces/awacke1/google-bigbird-pegasus-large-pubmed
+   3. https://huggingface.co/spaces/awacke1/tuner007-pegasus_paraphrase
+   4. https://huggingface.co/spaces/awacke1/prithivida-parrot_paraphraser_on_T5
+   5. https://huggingface.co/spaces/awacke1/google-flan-t5-xl
+   6. https://huggingface.co/spaces/awacke1/bigscience-T0_3B
+   7. https://huggingface.co/spaces/awacke1/google-flan-t5-base
+2. Pygraph and Maps, Input Examples for Language Prompting
+   1. https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
+   2. https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+   3. https://huggingface.co/spaces/bigscience-data/corpus-map
+
 # Clinical Terminology and Structured Data Ontology Composure
 1. AI Assessments - LOINC/SNOMED/ICD10/OMS/CQM/CPT-HCPCS/MedRx-RxNorm
 2. BNER - Biomed Named Entity Rescognition
