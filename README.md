@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Prescription Drug Abuse Prevention
+
+1. https://pubmed.ncbi.nlm.nih.gov/?term=prescription+drug+abuse+prevention
+2. https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta?v%3Aproject=medlineplus&v%3Asources=medlineplus-bundle&query=prescription+drug+abuse+prevention
+3. https://catalog.nlm.nih.gov/discovery/search?query=any,contains,prescription%20drug%20abuse%20prevention&tab=LibraryCatalog&search_scope=MyInstitution&vid=01NLM_INST:01NLM_INST&offset=0
+4. https://collections.nlm.nih.gov/?utf8=%E2%9C%93&f%5Bdrep2.format%5D%5B%5D=&search_field=all_fields&q=prescription+drug+abuse+prevention
+
+
 # Teaching Examples - Spaces From Models for PubMed
 1. PubMed and Text to Text Models:
    1. https://huggingface.co/spaces/awacke1/google-pegasus-pubmed
