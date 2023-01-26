@@ -1,6 +1,20 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Github Copilot
+Github copilot is a programming tool that uses the ML model Codex to search and structure code recommendations while in development IDE tools such as VSCode.
+
+__Screenshot off a recommendation in action:__
+![image](https://user-images.githubusercontent.com/30595158/214872264-488b1191-9a78-45aa-baf3-228eff4d31be.png)
+
+__Pros__: Makes writing the next line of code much easier since it structures the arguments, even variable names correctly in context with functions based on prior example
+__Cons__: $100 / year per user, originates https network calls which may fail in a secure environment.  It does this with each change event so can be chatty.
+
+Getting Started:
+1. Add Github Copilot extension
+2. Verify login and copilot subscription with your public external github account
+3. Open a code file and begin typing.  If it works you should see grey text recommendation where you are typing for autocompletion capability.
+
 # Prescription Drug Abuse Prevention
 
 1. https://pubmed.ncbi.nlm.nih.gov/?term=prescription+drug+abuse+prevention
