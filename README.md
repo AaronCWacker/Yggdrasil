@@ -1,36 +1,62 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Data Visualization Spaces
+## Data Visualization - AI UI UX Examples
+
+# What is Data Visualization?
+
+Data visualization is representation of data using graphics, charts, plots, infographics, animations, and even 3D.  These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.  As assistive AI and tools these offer solutions for those swamped by information.  Patterns and tools allow us a better way to see it all and understand it, visually.
+
+With the web and connected programs and tools backed by AI we find visualization helps with seeing and absorbing information with well-designed, colorful and useful displays.  This can make diagrams, maps and charts fun, avoiding dry facts and statistics.  Instead these show the relationships between facts, the context and the connections making information approachable and beautiful.
+
+Three types of visualization:
+1. Live Real Time Visualization
+   1. Gradio Live Mode
+   2. Streamlit Live Mode
+2. 3D Visualization
+   1. 3D and 3D Animation Models
+   2. Interactive Playable Models
+3. Graphical, Animations, and Image Visualization
+   1. Emojis and Animations
+   2. Data Driven AI Visualization
+
+# Live Real Time and Time-Series Visualization
+1. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
+2. https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+3. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+
+# 3D, AR, VR and Gamification
+1. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+2. https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+3. https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
+4. https://huggingface.co/spaces/awacke1/SimPhysics
+5. https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+6. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+7. https://huggingface.co/spaces/awacke1/HTML5-AR-VR
+8. https://huggingface.co/spaces/awacke1/Memory_Attention
+9. https://huggingface.co/spaces/awacke1/TimeSeries
+
+# Graph and Image Data Visualization
 1. https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
 2. https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
 3. https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
-4. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
-5. https://huggingface.co/spaces/awacke1/VisualCluster
-6. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
-7. https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
-8. https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
-9. https://huggingface.co/spaces/awacke1/CPVisGraph
-10. https://huggingface.co/spaces/awacke1/StreamlitTimerTest
-11. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
-12. https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+4. https://huggingface.co/spaces/awacke1/VisualCluster
+5. https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
+6. https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+7. https://huggingface.co/spaces/awacke1/CPVisGraph
+8. https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+9. https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+10. https://huggingface.co/spaces/awacke1/AnimationAI
+11. https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
+
+# Language Visualization
 13. https://huggingface.co/spaces/awacke1/VisualCluster
-14. https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
-15. https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
-16. https://huggingface.co/spaces/awacke1/SimPhysics
-17. https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
-18. https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+12. https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
 19. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
-20. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+26. https://huggingface.co/spaces/awacke1/WordGames
 21. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap?logs=build
 22. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
-23. https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
-24. https://huggingface.co/spaces/awacke1/AnimationAI
-25. https://huggingface.co/spaces/awacke1/HTML5-AR-VR
-26. https://huggingface.co/spaces/awacke1/WordGames
-27. https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
-28. https://huggingface.co/spaces/awacke1/Memory_Attention
-29. https://huggingface.co/spaces/awacke1/TimeSeries
+
 
 # Github Copilot
 Github copilot is a programming tool that uses the ML model Codex to search and structure code recommendations while in development IDE tools such as VSCode.
