@@ -49,17 +49,15 @@ With the web and connected programs and tools backed by AI we find visualization
    1. Visual Annotation
    2. Relationship Mapping 
 	# Language Visualization
-	1. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
-	2. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
-	3. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
-	4. __Words and Letters__ https://huggingface.co/spaces/awacke1/WordGames
-	5. __Heatmap__ https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
-	6. __OCR Document__ https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
-	7. __Plotly__ https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
-
+		1. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+		2. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+		3. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+		4. __Words and Letters__ https://huggingface.co/spaces/awacke1/WordGames
+		5. __Heatmap__ https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+		6. __OCR Document__ https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+		7. __Plotly__ https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
 
 # Techniques and AI Models to Watch
----
 1. __TimeSeries__ https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
 2. __Big Science Search__ https://huggingface.co/spaces/bigscience-data/roots-search
 3. __Bloom__ https://huggingface.co/spaces/bigscience/bloom-book
