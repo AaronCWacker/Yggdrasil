@@ -24,7 +24,6 @@ Three types of visualization:
    2. Relationship Mapping 
 
 # Live Real Time and Time-Series Visualization
-1. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
 2. https://huggingface.co/spaces/awacke1/StreamlitTimerTest
 3. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
 
@@ -38,6 +37,7 @@ Three types of visualization:
 7. https://huggingface.co/spaces/awacke1/HTML5-AR-VR
 8. https://huggingface.co/spaces/awacke1/Memory_Attention
 9. https://huggingface.co/spaces/awacke1/TimeSeries
+10. https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
 
 # Graph and Image Data Visualization
 1. https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
@@ -59,6 +59,11 @@ Three types of visualization:
 4. https://huggingface.co/spaces/awacke1/WordGames
 5. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
 6. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+
+# Review of Techniques:
+---
+1. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
+
 
 
 # Github Copilot
