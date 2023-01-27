@@ -61,10 +61,12 @@ Three types of visualization:
 5. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
 6. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
 
-# Review of Techniques:
+# Review of Techniques and AI Models to Watch
 ---
 1. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
-
+2. https://huggingface.co/spaces/bigscience-data/roots-search
+3. https://huggingface.co/spaces/bigscience/bloom-book
+4. https://huggingface.co/spaces/bigscience-data/corpus-map
 
 
 # Github Copilot
