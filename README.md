@@ -60,6 +60,7 @@ Three types of visualization:
 4. https://huggingface.co/spaces/awacke1/WordGames
 5. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
 6. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+7. https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
 
 # Review of Techniques and AI Models to Watch
 ---
