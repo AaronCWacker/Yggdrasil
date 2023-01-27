@@ -13,7 +13,7 @@ With the web and connected programs and tools backed by AI we find visualization
 1. __Live Real Time Visualization__
    1. Gradio Live Mode
    2. Streamlit Live Mode
-2. __3D Visualization__
+2. __3D Visualization and Simulation__
    1. 3D and 3D Animation Models
    2. Interactive Playable Models
 3. __Graphical, Animations, and Image Visualization__
