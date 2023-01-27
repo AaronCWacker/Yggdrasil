@@ -19,6 +19,9 @@ Three types of visualization:
 3. Graphical, Animations, and Image Visualization
    1. Emojis and Animations
    2. Data Driven AI Visualization
+4. Language Visualization
+   1. Visual Annotation
+   2. Relationship Mapping 
 
 # Live Real Time and Time-Series Visualization
 1. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
