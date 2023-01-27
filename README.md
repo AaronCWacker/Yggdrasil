@@ -1,10 +1,28 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Data Visualization Spaces
+1. https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
+2. https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
+3. https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+4. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+5. https://huggingface.co/spaces/awacke1/VisualCluster
+6. https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
+7. https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
+8. https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+9. https://huggingface.co/spaces/awacke1/CPVisGraph
+10. https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+11. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+12. https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+13. https://huggingface.co/spaces/awacke1/VisualCluster
+14. https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+15. https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
+16. https://huggingface.co/spaces/awacke1/SimPhysics
+
 # Github Copilot
 Github copilot is a programming tool that uses the ML model Codex to search and structure code recommendations while in development IDE tools such as VSCode.
 
-__Screenshot off a recommendation in action:__
+__Screenshot of a recommendation in action:__
 ![image](https://user-images.githubusercontent.com/30595158/214872264-488b1191-9a78-45aa-baf3-228eff4d31be.png)
 
 __Pros__: Makes writing the next line of code much easier since it structures the arguments, even variable names correctly in context with functions based on prior example
