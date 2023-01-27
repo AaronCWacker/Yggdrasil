@@ -33,7 +33,7 @@ With the web and connected programs and tools backed by AI we find visualization
 3. __Graphical, Animations, and Image Visualization__
    1. Emojis and Animations
    2. Data Driven AI Visualization
-	# Graph and Image Data Visualization
+	1. # Graph and Image Data Visualization
 		1. __GraphViz PyDeck__ https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
 		2. __NER__ https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
 		3. __XAI__ https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
@@ -48,7 +48,7 @@ With the web and connected programs and tools backed by AI we find visualization
 4. __Language Visualization__
    1. Visual Annotation
    2. Relationship Mapping 
-	# Language Visualization
+	1. # Language Visualization
 		1. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
 		2. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
 		3. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
