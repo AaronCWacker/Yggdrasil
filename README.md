@@ -1,25 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-## Data Visualization - AI UI UX Examples
+# Data Visualization - AI UI UX Examples
 
-# What is Data Visualization?
+## What is Data Visualization?
 
 Data visualization is representation of data using graphics, charts, plots, infographics, animations, and even 3D.  These visual displays of information communicate complex data relationships and data-driven insights in a way that is easy to understand.  As assistive AI and tools these offer solutions for those swamped by information.  Patterns and tools allow us a better way to see it all and understand it, visually.
 
-With the web and connected programs and tools backed by AI we find visualization helps with seeing and absorbing information with well-designed, colorful and useful displays.  This can make diagrams, maps and charts fun, avoiding dry facts and statistics.  Instead these show the relationships between facts, the context and the connections making information approachable and beautiful.
+With the web and connected programs and tools backed by AI we find visualization helps with seeing and absorbing information with well-designed, colorful and useful displays.  This makes diagrams, maps and charts fun, avoiding hard to consume facts and statistics.  Visualization shows relationships between facts,  context and connections making information understandable and beautiful.
 
-Three types of visualization:
-1. Live Real Time Visualization
+## Visualization Types:
+1. __Live Real Time Visualization__
    1. Gradio Live Mode
    2. Streamlit Live Mode
-2. 3D Visualization
+2. __3D Visualization__
    1. 3D and 3D Animation Models
    2. Interactive Playable Models
-3. Graphical, Animations, and Image Visualization
+3. __Graphical, Animations, and Image Visualization__
    1. Emojis and Animations
    2. Data Driven AI Visualization
-4. Language Visualization
+4. __Language Visualization__
    1. Visual Annotation
    2. Relationship Mapping 
 
