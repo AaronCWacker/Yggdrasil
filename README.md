@@ -18,6 +18,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 14. https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
 15. https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
 16. https://huggingface.co/spaces/awacke1/SimPhysics
+17. https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+18. https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+19. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+20. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+21. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap?logs=build
+22. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+23. https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+24. https://huggingface.co/spaces/awacke1/AnimationAI
 
 # Github Copilot
 Github copilot is a programming tool that uses the ML model Codex to search and structure code recommendations while in development IDE tools such as VSCode.
