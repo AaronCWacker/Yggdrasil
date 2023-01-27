@@ -24,6 +24,7 @@ Three types of visualization:
    2. Relationship Mapping 
 
 # Live Real Time and Time-Series Visualization
+1. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
 2. https://huggingface.co/spaces/awacke1/StreamlitTimerTest
 3. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
 
