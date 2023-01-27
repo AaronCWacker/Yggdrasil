@@ -24,48 +24,48 @@ Three types of visualization:
    2. Relationship Mapping 
 
 # Live Real Time and Time-Series Visualization
-1. ASR https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-2. Dataset https://huggingface.co/spaces/awacke1/StreamlitTimerTest
-3. Webcam https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+1. __ASR__ https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+2. __Dataset__ https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+3. __Webcam__ https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
 
 # 3D, AR, VR and Gamification Visualization
-1. Models https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
-2. Playcanvas https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
-3. Playcanvas https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
-4. Playcanvas https://huggingface.co/spaces/awacke1/SimPhysics
-5. Deep RL https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
-6. Aframe https://huggingface.co/spaces/awacke1/HTML5-AR-VR
-7. Taxonomies https://huggingface.co/spaces/awacke1/Memory_Attention
-8. Timeseries https://huggingface.co/spaces/awacke1/TimeSeries
-9. 3D Compounds https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
+1. __Models__ https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+2. __Playcanvas__ https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+3. __Playcanvas__ https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
+4. __Playcanvas__ https://huggingface.co/spaces/awacke1/SimPhysics
+5. __Deep RL__ https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+6. __Aframe AR VR__ https://huggingface.co/spaces/awacke1/HTML5-AR-VR
+7. __Taxonomies__ https://huggingface.co/spaces/awacke1/Memory_Attention
+8. __Timeseries__ https://huggingface.co/spaces/awacke1/TimeSeries
+9. __3D Compounds__ https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
 
 # Graph and Image Data Visualization
-1. GraphViz PyDeck https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
-2. NER https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
-3. XAI https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
-4. Word Cloud https://huggingface.co/spaces/awacke1/VisualCluster
-5. SPACY https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
-6. Mermaid https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
-7. GraphViz https://huggingface.co/spaces/awacke1/CPVisGraph
-8. NER CT https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
-9. Icons https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
-10. Lottie Animation https://huggingface.co/spaces/awacke1/AnimationAI
-11. Emojis https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
+1. __GraphViz PyDeck__ https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
+2. __NER__ https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
+3. __XAI__ https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+4. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+5. __SPACY__ https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
+6. __Mermaid__ https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+7. __GraphViz__ https://huggingface.co/spaces/awacke1/CPVisGraph
+8. __NER CT__ https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+9. __Icons__ https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+10. __Lottie Animation__ https://huggingface.co/spaces/awacke1/AnimationAI
+11. __Emojis__ https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
 
 # Language Visualization
-1. Word Cloud https://huggingface.co/spaces/awacke1/VisualCluster
-2. Wiki https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
-3. Datasets https://huggingface.co/spaces/awacke1/DatasetAnalyzer
-4. Words and Letters https://huggingface.co/spaces/awacke1/WordGames
-5. Heatmap https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
-6. OCR Document https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
-7. Plotly https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
+1. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+2. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+3. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+4. __Words and Letters__ https://huggingface.co/spaces/awacke1/WordGames
+5. __Heatmap__ https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+6. __OCR Document__ https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+7. __Plotly__ https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
 
-# Review of Techniques and AI Models to Watch
+# Techniques and AI Models to Watch
 ---
-1. TimeSeries https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
-2. Big Science Search https://huggingface.co/spaces/bigscience-data/roots-search
-3. Bloom https://huggingface.co/spaces/bigscience/bloom-book
+1. __TimeSeries__ https://huggingface.co/spaces/datasciencedojo/Twitter-Scraper-with-Time-Series-Visualization
+2. __Big Science Search__ https://huggingface.co/spaces/bigscience-data/roots-search
+3. __Bloom__ https://huggingface.co/spaces/bigscience/bloom-book
 
 
 # Github Copilot
