@@ -50,12 +50,12 @@ Three types of visualization:
 11. https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
 
 # Language Visualization
-13. https://huggingface.co/spaces/awacke1/VisualCluster
-12. https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
-19. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
-26. https://huggingface.co/spaces/awacke1/WordGames
-21. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap?logs=build
-22. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+1. https://huggingface.co/spaces/awacke1/VisualCluster
+2. https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+3. https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+4. https://huggingface.co/spaces/awacke1/WordGames
+5. https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+6. https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
 
 
 # Github Copilot
