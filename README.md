@@ -25,7 +25,7 @@ Three types of visualization:
 2. https://huggingface.co/spaces/awacke1/StreamlitTimerTest
 3. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
 
-# 3D, AR, VR and Gamification
+# 3D, AR, VR and Gamification Visualization
 1. https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
 2. https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
 3. https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
