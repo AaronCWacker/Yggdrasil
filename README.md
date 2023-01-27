@@ -11,55 +11,52 @@ With the web and connected programs and tools backed by AI we find visualization
 
 ## Visualization Types:
 1. __Live Real Time Visualization__
-   1. Gradio Live Mode
-   2. Streamlit Live Mode
+   1. Gradio and Streamlit Live Mode
+	1. # Live Real Time and Time-Series Visualization
+		1. __ASR__ https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+		2. __Dataset__ https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+		3. __Webcam__ https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+   
 2. __3D Visualization and Simulation__
-   1. 3D and 3D Animation Models
-   2. Interactive Playable Models
+   1. 3D, 3D Animation, and Gamification Interactive Playable Models
+	1. # 3D, AR, VR and Gamification Visualization
+		1. __Models__ https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
+		2. __Playcanvas__ https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+		3. __Playcanvas__ https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
+		4. __Playcanvas__ https://huggingface.co/spaces/awacke1/SimPhysics
+		5. __Deep RL__ https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+		6. __Aframe AR VR__ https://huggingface.co/spaces/awacke1/HTML5-AR-VR
+		7. __Taxonomies__ https://huggingface.co/spaces/awacke1/Memory_Attention
+		8. __Timeseries__ https://huggingface.co/spaces/awacke1/TimeSeries
+		9. __3D Compounds__ https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
+
 3. __Graphical, Animations, and Image Visualization__
    1. Emojis and Animations
    2. Data Driven AI Visualization
+	# Graph and Image Data Visualization
+		1. __GraphViz PyDeck__ https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
+		2. __NER__ https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
+		3. __XAI__ https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
+		4. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+		5. __SPACY__ https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
+		6. __Mermaid__ https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+		7. __GraphViz__ https://huggingface.co/spaces/awacke1/CPVisGraph
+		8. __NER CT__ https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+		9. __Icons__ https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
+		10. __Lottie Animation__ https://huggingface.co/spaces/awacke1/AnimationAI
+		11. __Emojis__ https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
 4. __Language Visualization__
    1. Visual Annotation
    2. Relationship Mapping 
+	# Language Visualization
+	1. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
+	2. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+	3. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+	4. __Words and Letters__ https://huggingface.co/spaces/awacke1/WordGames
+	5. __Heatmap__ https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+	6. __OCR Document__ https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+	7. __Plotly__ https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
 
-# Live Real Time and Time-Series Visualization
-1. __ASR__ https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
-2. __Dataset__ https://huggingface.co/spaces/awacke1/StreamlitTimerTest
-3. __Webcam__ https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
-
-# 3D, AR, VR and Gamification Visualization
-1. __Models__ https://huggingface.co/spaces/awacke1/3DModelEditorWithAIV1
-2. __Playcanvas__ https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
-3. __Playcanvas__ https://huggingface.co/spaces/awacke1/FlappyPlaneSimulation
-4. __Playcanvas__ https://huggingface.co/spaces/awacke1/SimPhysics
-5. __Deep RL__ https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
-6. __Aframe AR VR__ https://huggingface.co/spaces/awacke1/HTML5-AR-VR
-7. __Taxonomies__ https://huggingface.co/spaces/awacke1/Memory_Attention
-8. __Timeseries__ https://huggingface.co/spaces/awacke1/TimeSeries
-9. __3D Compounds__ https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler
-
-# Graph and Image Data Visualization
-1. __GraphViz PyDeck__ https://huggingface.co/spaces/AIZ2H/07-GraphViz-PyDeck-Map-AIUIUX-Demo
-2. __NER__ https://huggingface.co/spaces/awacke1/Science-NER-Spacy-Streamlit
-3. __XAI__ https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance
-4. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
-5. __SPACY__ https://huggingface.co/spaces/spacy/gradio_pipeline_visualizer
-6. __Mermaid__ https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
-7. __GraphViz__ https://huggingface.co/spaces/awacke1/CPVisGraph
-8. __NER CT__ https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
-9. __Icons__ https://huggingface.co/spaces/awacke1/Gradio-Gallery-Health-Medical-Icon-Sets
-10. __Lottie Animation__ https://huggingface.co/spaces/awacke1/AnimationAI
-11. __Emojis__ https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
-
-# Language Visualization
-1. __Word Cloud__ https://huggingface.co/spaces/awacke1/VisualCluster
-2. __Wiki__ https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
-3. __Datasets__ https://huggingface.co/spaces/awacke1/DatasetAnalyzer
-4. __Words and Letters__ https://huggingface.co/spaces/awacke1/WordGames
-5. __Heatmap__ https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
-6. __OCR Document__ https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
-7. __Plotly__ https://huggingface.co/spaces/awacke1/Plotly-Graphing-Libraries-Streamlit
 
 # Techniques and AI Models to Watch
 ---
