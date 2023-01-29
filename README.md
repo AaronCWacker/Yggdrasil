@@ -11,6 +11,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 # Answers at https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler ! Go try it now. 
+# Answers top to bottom = DNA, Nicotine, Ethanol
 
 
 
