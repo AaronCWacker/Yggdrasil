@@ -14,6 +14,9 @@ Example 2: Manhattan $20 to $30 per night stays with Manhattan therapists:
 
 ![image](https://user-images.githubusercontent.com/30595158/215364878-dd87d537-3461-4799-9dbd-32a217080094.png)
 
+Example 3: Welcome to NY:
+
+![image](https://user-images.githubusercontent.com/30595158/215365423-453adc26-1612-402a-a429-afc4a4e75601.png)
 
 
 # Guess This Molecule or Compound!
