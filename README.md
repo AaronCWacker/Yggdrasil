@@ -1,6 +1,21 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Map Making and the Human Location Model
+
+Our ability to know where we are and where we are going is a learned skill.  Map and model making is a part of our brain that is not always so different from other creatures on Earth.  When we learn its often a directional advice that educates us in which we inform neurons with synaptic changes depending on what we associate as our remembered goal.
+
+Example 1: Map Interpreted Response:
+
+![image](https://user-images.githubusercontent.com/30595158/215364776-248bc9ab-f75e-4376-9141-dafb92b0365d.png)
+
+
+Example 2: Manhattan $20 to $30 per night stays with Manhattan therapists:
+
+![image](https://user-images.githubusercontent.com/30595158/215364878-dd87d537-3461-4799-9dbd-32a217080094.png)
+
+
+
 # Guess This Molecule or Compound!
 
 ![image](https://user-images.githubusercontent.com/30595158/215225181-8e7868bf-2cb5-45d2-8879-74ee80a833da.png)
