@@ -42,10 +42,30 @@ Considering datasets and models which can be assistive in mental health there ar
 	1. Input: Health, family, AI, ML, mental health, mindfulness
 	2. Output: we present a case of a woman with chronic obstructive pulmonary disease ( copd ) who presented with shortness of breath , fatigue , and altered mood . <n> the patient was treated with inhaled nitric oxide ( no ) therapy , and the symptoms resolved . <n> this case illustrates the use of no in the treatment of chronic obstructive pulmonary disease ( copd ) .
 
+# Pro-Tip - Learn what you can do right now with Python SDK knowledge:
+1. Search PyPi for a term you would like to know more about
+	1. https://pypi.org/search/?q=fhir&o=-created
+2. With about 7 results, open them in new tabs
+3. With each result check out example usage in python
+4. Create a huggingface.co space demonstrating the SDK capabilities
+
+# Pro-Tip - Learn from a ML model which might have the capability you need.
+1. Find a model matching a keyword.
+	1. e.g. Text Generation good first choice which can generate python code:  https://huggingface.co/EleutherAI/gpt-j-6B
+2. Filter on desired task.
+	1. ![image](https://user-images.githubusercontent.com/30595158/216038259-5a5800e9-44c5-4398-b33a-c227261b4b00.png)
+3. On model page use the __Deploy__ feature to create a new space that implements the model in your account:
+	1. ![image](https://user-images.githubusercontent.com/30595158/216038782-524c34ea-0980-4c71-8fdc-75d68281273b.png)
+4. On deployed model demonstrate with a code sample.  Find inputs that work and ones that don't to determine how good the model is.
+	1. https://huggingface.co/spaces/awacke1/EleutherAI-gpt-j-6B
+	2. ![image](https://user-images.githubusercontent.com/30595158/216039747-028fad88-5832-4d9b-89a2-12ae84c86079.png)
+
 
 # Map Making and the Human Location Model
 
 Our ability to know where we are and where we are going is a learned skill.  Map and model making is a part of our brain that is not always so different from other creatures on Earth.  When we learn its often a directional advice that educates us in which we inform neurons with synaptic changes depending on what we associate as our remembered goal.
+
+Pro Tip - Find libraries that can use the 3D building objects on maps https://googlemaps.github.io/js-three/
 
 Example 1: Map Interpreted Response:
 
