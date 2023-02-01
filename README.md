@@ -1,6 +1,48 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Mental Health, Mindfulness, AI/ML and Generative AI
+
+Its proven that focusing positively on what your primary concerns in life can dramatically improve your positivity, your success, and how good you feel.
+
+A short list of necessities of life is good to order your priorities.  Mine for example include in my top ten the following:
+
+1. Health
+2. Family
+3. Work - Surrounding myself with people I admire, learn from and want to be like.
+4. Changing the world
+5. AI and Machine Learning - Specifically AGI
+6. Education, teaching and helping others
+
+As a generalist who is comfortable with unknowns, I feel the world is a puzzle, and when we solve a problem we can immediately share with others spreading mass and agency to higher organizations which circulate the increase of energy to move the world in a positive way.
+
+For an example on generative AI - I have a 60 second daredevil learning exercise that can for example set up a AI space to share that can do generative completion of open ended problems.  For example the problem of finding the right way to use functions to merge information together on a variety of sources to create memory ontologies for us.  As we age and decline in mental faculty there are things we can do to increase the beneficial faculties we have, and using AI as an assistive device to help us get what we need can save us alot of pain as we age.
+
+Studies by Dr Daniel Amen have proven there is a capability for example to improve human memory by over 1000 times after a TBI - traumatic brain injury.  This is done by exercising the brain.
+
+Studies on exercise and ways we frame exercise and nutrition can have up to 85% positive effect on mental health, and healing the human brain.
+
+Considering datasets and models which can be assistive in mental health there are a number of good problems to solve.  The spaces below all approach solving different mental health concern aspects.
+
+1. https://huggingface.co/spaces/owaiskha9654/Multi-Label-Classification-of-Pubmed-Articles
+	1. Input: Health, family, AI, ML, mental health, mindfulness
+	2. Output : Organisms [B]
+		Organisms [B]
+		98%
+		Psychiatry and Psychology [F]
+		98%
+		Health Care [N]
+		81%
+		Anthropology, Education, Sociology, and Social Phenomena [I]
+		75%
+		Named Groups [M]
+		47%
+		Analytical, Diagnostic and Therapeutic Techniques, and Equipment [E]
+2. https://huggingface.co/spaces/awacke1/google-pegasus-pubmed
+	1. Input: Health, family, AI, ML, mental health, mindfulness
+	2. Output: we present a case of a woman with chronic obstructive pulmonary disease ( copd ) who presented with shortness of breath , fatigue , and altered mood . <n> the patient was treated with inhaled nitric oxide ( no ) therapy , and the symptoms resolved . <n> this case illustrates the use of no in the treatment of chronic obstructive pulmonary disease ( copd ) .
+
+
 # Map Making and the Human Location Model
 
 Our ability to know where we are and where we are going is a learned skill.  Map and model making is a part of our brain that is not always so different from other creatures on Earth.  When we learn its often a directional advice that educates us in which we inform neurons with synaptic changes depending on what we associate as our remembered goal.
