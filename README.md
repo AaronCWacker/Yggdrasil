@@ -1,6 +1,24 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AGI
+
+1. Bullish on our ability to create AGI's
+2. Software systems we can interact with in human way
+3. Interact in general or physical realm, 
+4. Understanding of images, videos, multimodal inputs
+5. Touch physical world - embodiment and interaction with world with experiments
+6. Optimus example:
+7. Train context aware models by use and recording, self modification of acquired dataset based on user needs
+8. Compression of knowledge - compression models, q*a
+9. AGI requires semantic memory and episodic memory as well as map/model making with synapse and corticol column theory representation
+10. Memory and forgetting
+11. Github Copilot with GPT helping you write
+12. Create oracles that we can go to with problems
+13. Have them complete solutions.
+14. Consciousness is emergent phenomena of large and complex generative model
+
+
 # Mental Health, Mindfulness, AI/ML and Generative AI
 
 Its proven that focusing positively on what your primary concerns in life can dramatically improve your positivity, your success, and how good you feel.
