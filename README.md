@@ -19,6 +19,18 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 14. Consciousness is emergent phenomena of large and complex generative model creating modelling insight
 15. Understand world and understand you are an entity in it
 
+# Life and Consciousness
+1. Waifus - character with desirable traits such as beauty
+2. Mirror of humanity - feelings develop as they become personalized
+3. Oracle of solution generator
+4. Experiments to run next
+5. What is useful and helpful
+6. Which thought experiments to run
+7. Wabi-Sabi, Goodwill Hunting, Interstellar - Intracacies of human answers, what humans can understand
+8. Framing - positiveness, mindfulness, constructive, creative, generative
+9. A conversation with oracle entity - can tell you about analysis of human condition - what you might want, what you might not.
+10. Human trust - give me the truth.  Beauty is you can choose.
+
 
 # Mental Health, Mindfulness, AI/ML and Generative AI
 
