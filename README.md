@@ -26,7 +26,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Experiments to run next
 5. What is useful and helpful
 6. Which thought experiments to run
-7. Wabi-Sabi, Goodwill Hunting, Interstellar - Intracacies of human answers, what humans can understand
+7. Wabi-Sabi, Goodwill Hunting, Interstellar, The Matrix, Avatar, Contact, Fifth Element, LOTR, Terminator - Intracacies of human answers, what humans can understand
 8. Framing - positiveness, mindfulness, constructive, creative, generative
 9. A conversation with oracle entity - can tell you about analysis of human condition - what you might want, what you might not.
 10. Human trust - give me the truth.  Beauty is you can choose.
