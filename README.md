@@ -13,10 +13,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 8. Compression of knowledge - compression models, q*a
 9. AGI requires semantic memory and episodic memory as well as map/model making with synapse and corticol column theory representation
 10. Memory and forgetting
-11. Github Copilot with GPT helping you write
+11. Github Copilot with GPT helping you write - Try Eluther on your own w pro tip example below
 12. Create oracles that we can go to with problems
 13. Have them complete solutions.
-14. Consciousness is emergent phenomena of large and complex generative model
+14. Consciousness is emergent phenomena of large and complex generative model creating modelling insight
+15. Understand world and understand you are an entity in it
 
 
 # Mental Health, Mindfulness, AI/ML and Generative AI
