@@ -48,6 +48,9 @@ Considering datasets and models which can be assistive in mental health there ar
 2. With about 7 results, open them in new tabs
 3. With each result check out example usage in python
 4. Create a huggingface.co space demonstrating the SDK capabilities
+	1. On reviewing these, close any without code example.
+	2. One you find one with code sample prove you can run it in gradio or stremlit on HF.
+		1. https://pypi.org/project/fhirstarter/
 
 # Pro-Tip - Learn from a ML model which might have the capability you need.
 1. Find a model matching a keyword.
