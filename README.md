@@ -5,17 +5,21 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 1. NER + CT to find the Signs, Symptoms, Diagnostics, and Procedures
 
+Persona Prompt: "During COVID my construction company could not get work.  I subsequently lost my job.  Without income I am very sad because I cannot pay our bills and unfortunately medications and an operation I need are too expensive to afford."
+
 OMS - Income:
 
 ![image](https://user-images.githubusercontent.com/30595158/216600313-3880a0d3-2f27-4828-a0e8-6b0f6192447d.png)
 
 Create short text prompt corpus input.  Assess with questions and possible answer value types to measure.
 
-Looking to afford my medications which are really expensive.  
+Persona Prompt: "Had two injuries, one where I was experiencing brain fog and syncope or dizzy spells.  I took a spill falling down stairs.  I wish someone had warned me one of my meds caused dizziness.  I'm looking to afford my medications which are really expensive.  After the fall I was experiencing alot of pain.  Is there a way to treat my pain and get back to a healthy state?"
 
 OMS - Pain:
 
 ![image](https://user-images.githubusercontent.com/30595158/216601169-08d036a7-6da2-4354-9cb3-612c6622172e.png)
+
+Persona Prompt: "I have been waking up at night around 3am and cant get back to sleep since the accident.  I was taking an anti anxiety medication called Zoloft but am wondering if you can recommend a healthy way to get off the medication and treat my pain and anxiety in a way where I can sleep easily again."
 
 OMS - Sleep and Rest:
 
