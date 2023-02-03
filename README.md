@@ -30,6 +30,11 @@ OMS - Sleep and Rest:
 
 https://huggingface.co/spaces/awacke1/NLPGraphOMSandLOCUS
 
+Persona Prompt: "Great, thanks!  I think I have what I need.  My plan is take grandma over to Vanderbilt to see a therapist maybe a psychiatrist.  I live in Nashville, TN.  Can you provide me with a map and information about what mental health professionals I could see affiliated with that hospital and covered under my plan?"
+
+3D Map of Nashville down to Vanderbilt University Hospital:
+
+
 
 # AGI
 
