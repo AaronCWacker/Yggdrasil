@@ -36,6 +36,7 @@ Persona Prompt: "Great, thanks!  I think I have what I need.  My plan is take gr
 
 
 
+
 # AGI
 
 1. Bullish on our ability to create AGI's
