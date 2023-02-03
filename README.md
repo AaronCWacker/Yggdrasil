@@ -1,6 +1,29 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Standard Clinical Terminology Systems AI - Omaha System (OMS) for Care Needs Determination and LOINC Panel Questions and Answers with LOCUS Review for Mental Health Needs Assessment.
+
+1. NER + CT to find the Signs, Symptoms, Diagnostics, and Procedures
+
+OMS - Income:
+
+![image](https://user-images.githubusercontent.com/30595158/216600313-3880a0d3-2f27-4828-a0e8-6b0f6192447d.png)
+
+Create short text prompt corpus input.  Assess with questions and possible answer value types to measure.
+
+Looking to afford my medications which are really expensive.  
+
+OMS - Pain:
+
+![image](https://user-images.githubusercontent.com/30595158/216601169-08d036a7-6da2-4354-9cb3-612c6622172e.png)
+
+OMS - Sleep and Rest:
+
+![image](https://user-images.githubusercontent.com/30595158/216601382-21a84124-015d-4394-a044-7cf18e6a409f.png)
+
+https://huggingface.co/spaces/awacke1/NLPGraphOMSandLOCUS
+
+
 # AGI
 
 1. Bullish on our ability to create AGI's
