@@ -1,7 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Standard Clinical Terminology Systems AI - Omaha System (OMS) for Care Needs Determination and LOINC Panel Questions and Answers with LOCUS Review for Mental Health Needs Assessment.
+# Clinical Terminology AI using three open CT taxonomies:
+1. __Omaha System (OMS)__ for Care Needs Determination
+2. __LOINC Panels and Forms__ for Assessment Questions and Answers
+3. __LOCUS Review__ for Mental Health Needs Assessment and Level of Care Evaluation.
 
 1. NER + CT to find the Signs, Symptoms, Diagnostics, and Procedures
 
