@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AGI with SOAR and AI Pipelines Using Gradio and Streamlit
+
+Nate Derbinski breaks it down for us here: 
+https://youtu.be/bfO4EkoGh40?list=PLHgX2IExbFotmFeBTpyje1uI22n0GAkXT&t=1970
+
+References:
+1. Nate Derbinski
+2. John Laird
+3. Allen Newell
+4. Paul Rosenbloom
+
+
 # Clinical Terminology AI using three open CT taxonomies:
 1. __Omaha System (OMS)__ for Care Needs Determination
 2. __LOINC Panels and Forms__ for Assessment Questions and Answers
