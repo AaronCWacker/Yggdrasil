@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Peptides
+1. BP157 - https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+2. https://pubchem.ncbi.nlm.nih.gov/compound/Bpc-157
+3. What does BPC 157 do?
+BPC-157 is a peptide that helps alleviate joint pain, improve joint mobility, and boost recovery from injuries. It also increases vascular flow to the tendons and ligaments to increase healing and can also help aid skin burns heal faster and increase blood flow to damaged tissues.
+
 # AGI with SOAR and AI Pipelines Using Gradio and Streamlit
 
 Nate Derbinski breaks it down for us here: 
