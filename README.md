@@ -1,6 +1,76 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Docker Spaces for AI
+
+1. Summary and Docs: https://huggingface.co/docs/hub/spaces-sdks-docker
+2. What are Containers: https://docs.docker.com/get-started/
+3. README.md file’s YAML block. Alternatively, given an existing Space repository, set sdk: docker inside the YAML block at the top of your Spaces README.md file. You can also change the default exposed port 7860 by setting app_port: 7860. Afterwards, you can create a usual Dockerfile
+
+# Code:
+'''
+---
+title: Basic Docker SDK Space
+emoji: 🐳
+colorFrom: purple
+colorTo: gray
+sdk: docker
+app_port: 7860
+---
+'''
+
+4. Internally you could have as many open ports as you want. For instance, you can install Elasticsearch inside your Space and call it internally on its default port 9200.
+5. If you want to expose apps served on multiple ports to the outside world, a workaround is to use a reverse proxy like Nginx to dispatch requests from the broader internet (on a single port) to different internal ports.
+6. if SECRET_EXAMPLE is the name of the secret you created in the Settings tab, you can read it at build time by mounting it to a file, then reading it with $(cat /run/secrets/SECRET_EXAMPLE).
+7. Code Samples:
+
+'''
+# Expose the secret SECRET_EXAMPLE at buildtime and use its value as git remote URL
+RUN --mount=type=secret,id=SECRET_EXAMPLE,mode=0444,required=true \
+ git init && \
+ git remote add origin $(cat /run/secrets/SECRET_EXAMPLE)
+'''
+
+'''
+# Expose the secret SECRET_EXAMPLE at buildtime and use its value as a Bearer token for a curl request
+RUN --mount=type=secret,id=SECRET_EXAMPLE,mode=0444,required=true \
+	curl test -H 'Authorization: Bearer $(cat /run/secrets/SECRET_EXAMPLE)'
+'''
+
+os.environ.get("SECRET_EXAMPLE"). Check out this example of a Docker Space that uses secrets. https://huggingface.co/spaces/DockerTemplates/secret-example
+
+The container runs with user ID 1000. If you face permission issues, you might need to use chmod in your Dockerfile to grant the right permissions. For example, if you want to use the directory /data, you can do:
+
+'''
+RUN mkdir -p /data
+RUN chmod 777 /data
+'''
+
+'''
+# Set up a new user named "user" with user ID 1000
+RUN useradd -m -u 1000 user
+
+# Switch to the "user" user
+USER user
+
+# Set home to the user's home directory
+ENV HOME=/home/user \
+	PATH=/home/user/.local/bin:$PATH
+
+# Set the working directory to the user's home directory
+WORKDIR $HOME/app
+
+# Copy the current directory contents into the container at $HOME/app setting the owner to the user
+COPY --chown=user . $HOME/app
+'''
+
+https://huggingface.co/spaces/julien-c/persistent-data
+
+https://huggingface.co/docs/hub/spaces-sdks-docker-examples
+
+https://huggingface.co/docs/hub/spaces-sdks-docker-first-demo
+
+
 # Peptides
 1. BP157 - https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
 2. https://pubchem.ncbi.nlm.nih.gov/compound/Bpc-157
