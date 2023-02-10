@@ -1,6 +1,103 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Data Science and Engineering - State of the Art AI by Example.  
+
+# Press Release:  
+
+## Pain:
+Life has been painful the last few years with COVID-19.  Since COVID-19 our aging population which will triple the number of Medicare and Retirees by 2030, each day you can see the impact.  
+
+## Joy:
+There is help on the horizon.  Data science and engineering will produce the 'right stuff'.  Science, technology, engineering, and math.
+
+## Superpower:
+You can become a superhero within data science and engineering by the end of this demonstration and working session, when you complete all 7 examples we will do together today.  Today you will see, feel, copy, modify, interpret, and act to move the needle from zero to hero.  Even with no experience you can bring your individual specialties and understanding into the world of AI.
+
+Prompt:
+Write a python streamlit program which explains the seven most challenging aspects of data science in the field of Evaluation on STEM Benchmarks, data science, and engineering.  Create an interface that demonstrates plotly graph objects sunburst and treemap.  Include a upload CSV which automatically updates a data science dashboard with a sidebar, and create 3 search boxes that automatically will filter an uploaded csv dataset.
+
+Output:
+Write a python streamlit program which explains the seven most challenging aspects of data science in the field of Evaluation on STEM Benchmarks, data science, and engineering.  Create an interface that demonstrates plotly graph objects sunburst and treemap.  Include a upload CSV which automatically updates a data science dashboard with a sidebar, and create 3 search boxes that automatically will filter an uploaded csv dataset.
+
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+
+@st.cache
+def get_data():
+    data = pd.read_csv("https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv")
+    return data
+
+# Get the data
+data = get_data()
+
+# Create the sidebar
+st.sidebar.title("Data Science Evaluation on STEM Benchmarks")
+st.sidebar.header("Data Science Challenges")
+
+st.sidebar.markdown("The seven most challenging aspects of data science in the field of Evaluation on STEM Benchmarks, data science, and engineering are:")
+st.sidebar.markdown("1. Gathering and cleaning data")
+st.sidebar.markdown("2. Feature engineering")
+st.sidebar.markdown("3. Developing predictive models")
+st.sidebar.markdown("4. Ensuring accuracy and validity")
+st.sidebar.markdown("5. Incorporating domain knowledge")
+st.sidebar.markdown("6. Visualizing results")
+
+# Prompt 2:
+
+```
+Create a streamlit python program that generates a sunburst and a treemap chart in plotly for any input corpus that is uploaded as a CSV file.  Create a button called "MATH: High school math competition level problems" on left sidebar.  Create a button called "MMLU-STEM: A subset of the Massive Multitask Language Understanding benchmark focused on STEM, covering topics such as engineering, chemistry, math, and physics at high school and college level." on left side bar and create button "GSM8k: Grade school level math problems involving basic arithmetic operations that should all be solvable by a talented middle school student."  When any button is pressed draw a random plotly graph object sunburst chart and a random plotly graph object treemap chart based on generated random data.
+
+Here is an example of how you can implement the program using Streamlit and Plotly:
+
+python
+Copy code
+import streamlit as st
+import plotly.express as px
+import plotly.subplots as sp
+import random
+import pandas as pd
+
+st.title("Sunburst & Treemap Plotly Generator")
+
+# Create buttons for the different test types
+math = st.sidebar.button("MATH: High school math competition level problems")
+mmlu_stem = st.sidebar.button("MMLU-STEM: A subset of the Massive Multitask Language Understanding benchmark focused on STEM, covering topics such as engineering, chemistry, math, and physics at high school and college level.")
+gsm8k = st.sidebar.button("GSM8k: Grade school level math problems involving basic arithmetic operations that should all be solvable by a talented middle school student.")
+
+# File uploader
+uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
+
+# Read data from CSV
+if uploaded_file is not None:
+    data = pd.read_csv(uploaded_file)
+    st.write(data.head())
+
+# Generate random data for sunburst chart
+random_data = [random.randint(1, 100) for i in range(10)]
+
+# Generate sunburst chart
+if math or mmlu_stem or gsm8k:
+    fig = px.sunburst(data, values=random_data)
+    st.plotly_chart(fig)
+
+# Generate random data for treemap chart
+random_data = [random.randint(1, 100) for i in range(20)]
+
+# Generate treemap chart
+if math or mmlu_stem or gsm8k:
+    fig = sp.make_subplots(rows=1, cols=2, specs=[[{'type':'treemap'}, {'type':'treemap'}]])
+    fig.add_trace(px.treemap(data, values=random_data[:10]))
+    fig.add_trace(px.treemap(data, values=random_data[10:]))
+    st.plotly_chart(fig)
+```
+
+
+
+
+
+
 # Big Science - How to get started
 
 Big Science is a 176B parameter new ML model that was trained on a set of datasets for Natural Language processing, and many other tasks that are not yet explored..  Below is the set of the papers, models, links, and datasets around big science which promises to be the best, most recent large model of its kind benefitting all science pursuits.
