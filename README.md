@@ -8,10 +8,10 @@ Big Science is a 176B parameter new ML model that was trained on a set of datase
 # Model: https://huggingface.co/bigscience/bloom
 
 # Papers: 
-1. https://arxiv.org/abs/2211.05100
-2. https://arxiv.org/abs/1909.08053
-3. https://arxiv.org/abs/2110.02861
-4. https://arxiv.org/abs/2108.12409
+1. BLOOM: A 176B-Parameter Open-Access Multilingual Language Model https://arxiv.org/abs/2211.05100
+2. Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism https://arxiv.org/abs/1909.08053
+3. 8-bit Optimizers via Block-wise Quantization https://arxiv.org/abs/2110.02861
+4. Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation https://arxiv.org/abs/2108.12409
 5. https://huggingface.co/models?other=doi:10.57967/hf/0003
 6. 217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
 
