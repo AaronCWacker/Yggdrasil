@@ -36,8 +36,8 @@ Output:
 # 2023's Top 7 Breakthroughs in Medical Technology
 1. __Asynchronous Telemedicine:__ A Solution to Address Provider Shortages by Offering Remote Care Services. ([Wikipedia](https://en.wikipedia.org/wiki/Telemedicine))
 2. __Ambient and Emotion AI:__ Empowering Patients with Artificial Intelligence That Shows Empathy and Compassion. ([Wikipedia](https://en.wikipedia.org/wiki/Ambient_intelligence))
-3. __Skin Patch Technology:__ A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels. ([Wikipedia](https://en.wikipedia.org/wiki/Skin_patch_testing))
-4. __Affordable Vein Scanner:__ A Revolutionary Tool to View Veins Through the Skin. ([Wikipedia](https://en.wikipedia.org/wiki/Vein_scanner))
+3. __Skin Patch Technology:__ A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels. ([Wikipedia](https://en.wikipedia.org/wiki/Skin_patch))
+4. __Affordable Vein Scanner:__ A Revolutionary Tool to View Veins Through the Skin. ([Wikipedia](https://en.wikipedia.org/wiki/Vein_matching))
 5. __Synthetic Medical Records:__ Creating Reliable Medical Records Using Generative Adversarial Networks. ([Wikipedia](https://en.wikipedia.org/wiki/Synthetic_data))
 6. __Blood Draw Devices for Clinical Trials:__ Facilitating Remote Participation in Trials with Innovative Technology. ([Wikipedia](https://en.wikipedia.org/wiki/Blood_sampling))
 7. __Smart TVs for Remote Care:__ Enhancing Remote Care Consultations with Video Chat and Recordings. ([Wikipedia](https://en.wikipedia.org/wiki/Smart_television))
