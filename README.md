@@ -1,6 +1,35 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 2023 Top 7 Medical Innovations in 2023
+1. Asynchronous Telemedicine: Provide remote care services live addressing provider shortages
+2. Ambient and emotion AI - Artificial intelligence showing empathy and compassion, reducing biases making us feel cared for and assist lifestyle
+3. Skin Patch: Allow technology to measure blood pressure, glucose, reducing huge bulky devices
+4. Affordable vein scanner: View veins through skin
+5. Synthetic medical records: Create synthetic medical records using GANS trained to create synthetic data
+6. Blood draw devices used in clinical trials: So you dont have to go to physical location, engagement during trials
+7. Smart TVs being used for remote care: Video chat and recordings for remote care consultations
+
+Cite Reference: The Medical Futurist: https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2
+
+Prompt: rewrite the markdown outline below in markdown but make the text more professional: ...
+
+Output:
+# 2023's Top 7 Breakthroughs in Medical Technology
+
+1. __Asynchronous Telemedicine__: A Solution to Address Provider Shortages by Offering Remote Care Services
+2. __Ambient and Emotion AI__: Empowering Patients with Artificial Intelligence That Shows Empathy and Compassion
+3. __Skin Patch Technology__: A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels
+4. __Affordable Vein Scanner__: A Revolutionary Tool to View Veins Through the Skin
+5. __Synthetic Medical Records__: Creating Reliable Medical Records Using Generative Adversarial Networks
+6. __Blood Draw Devices for Clinical Trials__: Facilitating Remote Participation in Trials with Innovative Technology
+7. __Smart TVs for Remote Care__: Enhancing Remote Care Consultations with Video Chat and Recordings.
+
+Reference: The Medical Futurist: https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2
+
+
+
+
 # Docker Spaces for AI
 
 1. Summary and Docs: https://huggingface.co/docs/hub/spaces-sdks-docker
