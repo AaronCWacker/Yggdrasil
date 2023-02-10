@@ -1,6 +1,8 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Demonstration - ChatGPT for Assistive Improvement in Writing:
+
 # 2023 Top 7 Medical Innovations in 2023
 1. Asynchronous Telemedicine: Provide remote care services live addressing provider shortages
 2. Ambient and emotion AI - Artificial intelligence showing empathy and compassion, reducing biases making us feel cared for and assist lifestyle
@@ -12,7 +14,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 Cite Reference: The Medical Futurist: https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2
 
-Prompt: rewrite the markdown outline below in markdown but make the text more professional: ...
+# Prompt: rewrite the markdown outline in markdown but make the text more professional: ...
 
 Output:
 # 2023's Top 7 Breakthroughs in Medical Technology
@@ -27,7 +29,20 @@ Output:
 
 Reference: The Medical Futurist: https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2
 
+# Prompt: rewrite the markdown above to bold face each of the 7 labels that end in colon (:) and insert a wikipedia link for each with wikipedia search of the first two or three words in the label.
 
+Output:
+
+# 2023's Top 7 Breakthroughs in Medical Technology
+1. __Asynchronous Telemedicine:__ A Solution to Address Provider Shortages by Offering Remote Care Services. ([Wikipedia](https://en.wikipedia.org/wiki/Telemedicine))
+2. __Ambient and Emotion AI:__ Empowering Patients with Artificial Intelligence That Shows Empathy and Compassion. ([Wikipedia](https://en.wikipedia.org/wiki/Ambient_intelligence))
+3. __Skin Patch Technology:__ A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels. ([Wikipedia](https://en.wikipedia.org/wiki/Skin_patch_testing))
+4. __Affordable Vein Scanner:__ A Revolutionary Tool to View Veins Through the Skin. ([Wikipedia](https://en.wikipedia.org/wiki/Vein_scanner))
+5. __Synthetic Medical Records:__ Creating Reliable Medical Records Using Generative Adversarial Networks. ([Wikipedia](https://en.wikipedia.org/wiki/Synthetic_data))
+6. __Blood Draw Devices for Clinical Trials:__ Facilitating Remote Participation in Trials with Innovative Technology. ([Wikipedia](https://en.wikipedia.org/wiki/Blood_sampling))
+7. __Smart TVs for Remote Care:__ Enhancing Remote Care Consultations with Video Chat and Recordings. ([Wikipedia](https://en.wikipedia.org/wiki/Smart_television))
+
+Reference: [The Medical Futurist](https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2)
 
 
 # Docker Spaces for AI
