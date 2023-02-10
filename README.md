@@ -27,9 +27,11 @@ Big Science is a 176B parameter new ML model that was trained on a set of datase
 9. xP3: https://paperswithcode.com/dataset/xp3
 10. DiaBLa: https://paperswithcode.com/dataset/diabla
 
+# Spaces:
+https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
 For Python code generation the model here was very performant compared with Codex and Github Copilot:  EleutherAI/gpt-j-6B
 
-# Getting started with code generation in python:
+# Getting started with code generation in python - Both BigScience and GPT-J-6B were trained on The Pile dataset.
 
 Start with the Full Text Search features in huggingface_hub
 
