@@ -5,11 +5,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 OODAR - Aaron's theory on AI/ML + RL in Force Multiplication
 
-Observe: make use of the best sensors and other intelligence available
-Orient: put the new observations into a context with the old
-Decide: select the next action based on the combined observation and local knowledge
-Act: carry out the selected action, ideally while the opponent is still observing your last action.
-Reinforcement: reward right actions, measure regret of wrong actions, generalize in future to re-use right decisions and avoid regret.
+1. Observe: make use of the best sensors and other intelligence available
+2. Orient: put the new observations into a context with the old
+3. Decide: select the next action based on the combined observation and local knowledge
+4. Act: carry out the selected action, ideally while the opponent is still observing your last action.
+5. Reinforcement: reward right actions, measure regret of wrong actions, generalize in future to re-use right decisions and avoid regret.
 
 # Demonstration - ChatGPT for Assistive Improvement in Writing:
 
