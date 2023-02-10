@@ -44,24 +44,15 @@ With build order nearly all AI/ML starts with Datasets, then Models are built, t
 Code generation then should first start with spinning up tools to curate datasets observing intelligence, then target prompt the tools and technologies you want to use together for orientation putting new observations in context with old.
 
 # Eleuther - How to get started
-
 # Datasets:
 https://huggingface.co/datasets/the_pile
 The Pile: An 800GB Dataset of Diverse Text for Language Modeling  https://arxiv.org/abs/2101.00027
 RoFormer: Enhanced Transformer with Rotary Position Embedding  https://arxiv.org/abs/2104.09864
-
 # Model - https://huggingface.co/EleutherAI/gpt-j-6B
-
 # Sibling Models:
 https://huggingface.co/models?other=gptj
-
 # Papers:
 https://huggingface.co/models?other=causal-lm
-
-
-
-# Datasets:
-
 # Spaces:
 https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
 
