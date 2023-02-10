@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# OODAR - Blending OODA in Boyd Loop plus AI/ML with Reinforcement Learning
+
+OODAR - Aaron's theory on AI/ML + RL in Force Multiplication
+
+Observe: make use of the best sensors and other intelligence available
+Orient: put the new observations into a context with the old
+Decide: select the next action based on the combined observation and local knowledge
+Act: carry out the selected action, ideally while the opponent is still observing your last action.
+Reinforcement: reward right actions, measure regret of wrong actions, generalize in future to re-use right decisions and avoid regret.
+
 # Demonstration - ChatGPT for Assistive Improvement in Writing:
 
 # 2023 Top 7 Medical Innovations in 2023
