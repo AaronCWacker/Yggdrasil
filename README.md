@@ -1,6 +1,51 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Big Science - How to get started
+
+Big Science is a 176B parameter new ML model that was trained on a set of datasets for Natural Language processing, and many other tasks that are not yet explored..  Below is the set of the papers, models, links, and datasets around big science which promises to be the best, most recent large model of its kind benefitting all science pursuits.
+
+# Model: https://huggingface.co/bigscience/bloom
+
+# Papers: 
+1. https://arxiv.org/abs/2211.05100
+2. https://arxiv.org/abs/1909.08053
+3. https://arxiv.org/abs/2110.02861
+4. https://arxiv.org/abs/2108.12409
+5. https://huggingface.co/models?other=doi:10.57967/hf/0003
+6. 217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
+
+# Datasets
+1. Universal Dependencies: https://paperswithcode.com/dataset/universal-dependencies
+2. WMT 2014: https://paperswithcode.com/dataset/wmt-2014
+3. The Pile: https://paperswithcode.com/dataset/the-pile
+4. HumanEval: https://paperswithcode.com/dataset/humaneval
+5. FLORES-101: https://paperswithcode.com/dataset/flores-101
+6. CrowS-Pairs: https://paperswithcode.com/dataset/crows-pairs
+7. WikiLingua: https://paperswithcode.com/dataset/wikilingua
+8. MTEB: https://paperswithcode.com/dataset/mteb
+9. xP3: https://paperswithcode.com/dataset/xp3
+10. DiaBLa: https://paperswithcode.com/dataset/diabla
+
+For Python code generation the model here was very performant compared with Codex and Github Copilot:  EleutherAI/gpt-j-6B
+
+# Getting started with code generation in python:
+
+Start with the Full Text Search features in huggingface_hub
+
+For instance, prompt with keyword "Pubmed" to discover datasets, models, and spaces.
+
+1. Models with PubMed - https://huggingface.co/search/full-text?q=pubmed&type=model
+2. Datasets: https://huggingface.co/search/full-text?q=pubmed&type=dataset
+3. Spaces https://huggingface.co/search/full-text?q=pubmed&type=space
+
+With build order nearly all AI/ML starts with Datasets, then Models are built, then Datasets are added for transfer learning and to add task capabilities.  Last Spaces wrap it all together.  
+
+Code generation then should first start with spinning up tools to curate datasets observing intelligence, then target prompt the tools and technologies you want to use together for orientation putting new observations in context with old.
+
+
+
+
 # OODAR - Blending OODA in Boyd Loop plus AI/ML with Reinforcement Learning
 
 OODAR - Aaron's theory on AI/ML + RL in Force Multiplication
