@@ -1,11 +1,6 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Top Ten Bands
-1. Metric
-2. Karen O and the Yeah Yeah Yeahs
-
-
 
 # Data Science and Engineering - State of the Art AI by Example.  
 
