@@ -1,6 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Pypi process for engineering
+
+1. Go to https://pypi.org/
+2. Pick a category:
+	1. Database :: Database Engines/Servers
+	2. Internet :: WWW/HTTP :: Indexing/Search
+	3. Multimedia :: Video
+	4. Scientific/Engineering
+	5. Scientific/Engineering :: Artificial Intelligence
+	6. Scientific/Engineering :: Image Recognition
+	7. Scientific/Engineering :: Mathematics
+	8. Software Development
+	9. Software Development :: Libraries
+	10. Software Development :: Libraries :: Python Modules
+3. Search by keyword: https://pypi.org/search/?q=visual
+4. Look for examples, open 3 you like in new tabs
+5. For each of the three create a new streamlit space here: https://huggingface.co/spaces/
+6. Share and give it away!
+
 
 # Data Science and Engineering - State of the Art AI by Example.  
 
