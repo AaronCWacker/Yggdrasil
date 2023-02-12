@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# App Development with ChatGPT - 101
+1. Sign up and try ChatGPT with these two URLs: https://chat.openai.com/chat and https://platform.openai.com/playground
+	1. Exercise: Register for a free ChatGPT account today!
+2. ChatGPT was built using Machine Learning models like Transformers, the most downloaded SDK on Github: https://github.com/huggingface/transformers
+	1. Exercise: Register for a free Github account today!
+3. By using ChatGPT and https://Huggingface.co together you can write AI programs very quickly for Streamlit, Gradio, Docker, and HTML5.
+	1. Exercise: Register for a free Huggingface account today!
+
+
 # Pypi process for engineering
 
 1. Go to https://pypi.org/
