@@ -11,7 +11,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 1. Language Model Preparation, Human Augmented with Supervised Fine Tuning
 2. Reward Model Training with Prompts Dataset Multi-Model Generate Data to Rank
 3. Fine Tuning with Reinforcement Reward and Distance Distribution Regret Score
-4. Proximal Policy Optimization Fone Tuning
+4. Proximal Policy Optimization Fine Tuning
 
 # Variations - Preference Model Pretraining
 
