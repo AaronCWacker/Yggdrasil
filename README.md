@@ -1,7 +1,21 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# App Development with ChatGPT and Huggingface - 101
+# Deep RL ML Strategy
+
+1. Language Model Preparation, Human Augmented with Supervised Fine Tuning
+2. Reward Model Training with Prompts Dataset Multi-Model Generate Data to Rank
+3. Fine Tuning with Reinforcement Reward and Distance Distribution Regret Score
+4. Proximal Policy Optimization Fone Tuning
+
+# Variations - Preference Model Pretraining
+
+1. Use Ranking Datasets Sentiment - Thumbs Up/Down, Distribution
+2. Online Version Getting Feedback
+3. OpenAI - InstructGPT - Humans generate LM Training Text
+4. DeepMind - Advantage Actor Critic Sparrow, GopherCite
+
+# DSG/DSE/STEM - App Development with ChatGPT and Huggingface - 101
 1. Sign up and try ChatGPT with these two URLs: https://chat.openai.com/chat and https://platform.openai.com/playground
 	1. Exercise: Register for a free ChatGPT account today!
 2. ChatGPT was built using Machine Learning models like Transformers, the most downloaded SDK on Github: https://github.com/huggingface/transformers
