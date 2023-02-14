@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# ASR and NLP Models working on Voice Inputs / Wavelet Inference
+1. Multilingual ASR (Eng,Spa,Chi,Kor are top four): https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+2. Wav2Vec Pipeline: https://huggingface.co/spaces/awacke1/ASRGenerateStory
+3. 
+
 # Deep RL ML Strategy
 
 1. Language Model Preparation, Human Augmented with Supervised Fine Tuning
