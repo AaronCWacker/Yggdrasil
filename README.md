@@ -18,6 +18,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ![image](https://user-images.githubusercontent.com/30595158/218714966-2fe7d870-58d9-46c7-9a8c-3df1382738fc.png)
 
+![image](https://user-images.githubusercontent.com/30595158/218715526-0787ceec-75e2-44d1-a864-1be8b5fa4e86.png)
+
+![image](https://user-images.githubusercontent.com/30595158/218715663-23620a0c-5547-4d0d-a558-4e5b228a9f63.png)
+
 
 # DSG/DSE/STEM - App Development with ChatGPT and Huggingface - 101
 1. Sign up and try ChatGPT with these two URLs: https://chat.openai.com/chat and https://platform.openai.com/playground
