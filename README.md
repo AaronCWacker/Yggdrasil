@@ -28,6 +28,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ![image](https://user-images.githubusercontent.com/30595158/218722402-d9ec71a8-84ce-4d1d-9f4c-060c4bfed831.png)
 
+
+# Model Optimization
+
+![image](https://user-images.githubusercontent.com/30595158/218725517-32a62883-0884-4d43-aab1-b2bee2c8ec7d.png)
+
+![image](https://user-images.githubusercontent.com/30595158/218723908-49b37f20-9802-4adb-b88b-f71566a86ccb.png)
+
+
 References:
 https://www.youtube.com/watch?v=FKsARHV3ZTI
 https://www.youtube.com/watch?v=EAd4oQtEJOM&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=3&t=2461s
