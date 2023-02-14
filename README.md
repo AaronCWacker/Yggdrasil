@@ -14,6 +14,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. Online Version Getting Feedback
 3. OpenAI - InstructGPT - Humans generate LM Training Text
 4. DeepMind - Advantage Actor Critic Sparrow, GopherCite
+5. Reward Model Human Prefence Feedback
+
+![image](https://user-images.githubusercontent.com/30595158/218714966-2fe7d870-58d9-46c7-9a8c-3df1382738fc.png)
+
 
 # DSG/DSE/STEM - App Development with ChatGPT and Huggingface - 101
 1. Sign up and try ChatGPT with these two URLs: https://chat.openai.com/chat and https://platform.openai.com/playground
