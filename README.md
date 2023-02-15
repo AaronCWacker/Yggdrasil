@@ -1,10 +1,44 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# ASR and NLP Models working on Voice Inputs / Wavelet Inference
-1. Multilingual ASR (Eng,Spa,Chi,Kor are top four): https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
-2. Wav2Vec Pipeline: https://huggingface.co/spaces/awacke1/ASRGenerateStory
-3. 
+# ChatGPT Datasets:
+1. WebText
+2. Common Crawl
+3. BooksCorpus
+4. English Wikipedia
+5. Toronto Books Corpus
+6. OpenWebText
+
+# Comparison to BigScience Model:
+
+# Big Science - How to get started
+
+Big Science is a 176B parameter new ML model that was trained on a set of datasets for Natural Language processing, and many other tasks that are not yet explored..  Below is the set of the papers, models, links, and datasets around big science which promises to be the best, most recent large model of its kind benefitting all science pursuits.
+
+# Model: https://huggingface.co/bigscience/bloom
+
+# Papers: 
+1. BLOOM: A 176B-Parameter Open-Access Multilingual Language Model https://arxiv.org/abs/2211.05100
+2. Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism https://arxiv.org/abs/1909.08053
+3. 8-bit Optimizers via Block-wise Quantization https://arxiv.org/abs/2110.02861
+4. Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation https://arxiv.org/abs/2108.12409
+5. https://huggingface.co/models?other=doi:10.57967/hf/0003
+6. 217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
+
+# Datasets
+1. Universal Dependencies: https://paperswithcode.com/dataset/universal-dependencies
+2. WMT 2014: https://paperswithcode.com/dataset/wmt-2014
+3. The Pile: https://paperswithcode.com/dataset/the-pile
+4. HumanEval: https://paperswithcode.com/dataset/humaneval
+5. FLORES-101: https://paperswithcode.com/dataset/flores-101
+6. CrowS-Pairs: https://paperswithcode.com/dataset/crows-pairs
+7. WikiLingua: https://paperswithcode.com/dataset/wikilingua
+8. MTEB: https://paperswithcode.com/dataset/mteb
+9. xP3: https://paperswithcode.com/dataset/xp3
+10. DiaBLa: https://paperswithcode.com/dataset/diabla
+
+
+
 
 # Deep RL ML Strategy
 
