@@ -1,6 +1,26 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Model Sizes to Date
+
+Model Name	|	Model Size (in Parameters)
+----------------|---------------------------------
+BigScience-tr11-176B|176 billion
+GPT-3|175 billion
+OpenAI's DALL-E 2.0|500 million
+NVIDIA's Megatron|8.3 billion
+Google's BERT|340 million
+GPT-2|1.5 billion
+OpenAI's GPT-1|117 million
+ELMo|90 million
+ULMFiT|100 million
+Transformer-XL|250 million
+XLNet|210 million
+RoBERTa|125 million
+ALBERT|12 million
+DistilBERT|66 million
+
+
 # ChatGPT Datasets:
 1. WebText
 2. Common Crawl
