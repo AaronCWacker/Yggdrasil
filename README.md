@@ -1,6 +1,27 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Clone to Your New Organization - For Portable Asynchronous Real-Time Live Telemedicine System
+
+1. **Microphone and Audio file input Text to Speech program with AI pipeline to second model.**
+https://huggingface.co/spaces/awacke1/GradioVoicetoTexttoSentiment
+
+2. **Map the area for the creation and testing of the system**
+https://huggingface.co/spaces/awacke1/StreamlitPydeckMapVisualViewStateForLatitudeLongitude
+
+3. **Create a real time webcam experience for Telepresence Visits**
+https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+
+4. **Create a general persistence layer for saving any data as CSV or TXT into a shared area which persists to cloud**
+https://huggingface.co/spaces/awacke1/DeepRL-LLM-FeedbackFileOperations
+
+5. **Create a state of art generator which can generate knowledge based on prompts from BigScience**
+https://huggingface.co/spaces/awacke1/BigScienceContinualGenerator
+
+6. **Create a space that allows multilingual ASR with support for major languages -- We can add languages later**
+https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+
+
 # Real Time Live AI For Health
 
 What are the most performant artificial intelligence programs and features which can easily bring instant feedback to the user?  In a health care setting, where EMR and electronic health records are neededworld wide and in remote areas, can we create a series of tools to use together which can provide the basis of operation for a virtual care system using AI?
