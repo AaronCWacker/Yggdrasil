@@ -190,3 +190,32 @@ Substance Abuse and Mental Health Services Administration. (2021). Telebehaviora
 Stay up-to-date on current research and best practices for prescription drug cessation and step-down therapy.
 
 National Institute on Drug Abuse. (2022). Research Advances in Addiction: Principles of Effective Treatment
+
+
+
+Cognitive Behavioral Therapy (CBT) is a broad field with many different techniques that can be used to address a wide range of mental health concerns. Here are some of the common techniques presented in books on CBT:
+
+Identifying and Challenging Automatic Thoughts: This technique involves identifying and challenging negative automatic thoughts (NATs) that arise in response to a situation. The goal is to help clients become aware of the thoughts they have in response to specific situations and learn to challenge them when they are not accurate or helpful. (Leahy, 2003, p. 69-75)
+
+Behavioral Activation: This technique involves increasing engagement in activities that are rewarding or that give a sense of accomplishment. The goal is to help clients overcome feelings of depression or anxiety that may lead to inactivity and isolation. (Jacobson et al., 2001)
+
+Exposure Therapy: This technique involves gradually exposing clients to the situations or stimuli that trigger anxiety or fear. The goal is to help clients overcome their anxiety by learning that they can tolerate these situations and that their anxiety will naturally decrease over time. (Foa & Kozak, 1986)
+
+Relaxation Techniques: This technique involves teaching clients a variety of relaxation techniques, including deep breathing, progressive muscle relaxation, and guided imagery. The goal is to help clients reduce anxiety and stress and learn to calm their body and mind. (Jacobson et al., 2001)
+
+Cognitive Restructuring: This technique involves helping clients identify and change their negative or distorted thoughts. The goal is to help clients become more aware of their thinking patterns and learn to challenge and replace negative thoughts with more positive and accurate ones. (Beck, 1979)
+
+Mindfulness-Based Cognitive Therapy (MBCT): This technique involves integrating mindfulness practices with CBT techniques. The goal is to help clients become more aware of their thoughts and feelings in the present moment, rather than being caught up in rumination or worry. (Segal et al., 2002)
+
+References:
+
+Beck, A. T. (1979). Cognitive therapy and the emotional disorders. Penguin Books.
+
+Foa, E. B., & Kozak, M. J. (1986). Emotional processing of fear: Exposure to corrective information. Psychological Bulletin, 99(1), 20–35.
+
+Jacobson, N. S., Martell, C. R., & Dimidjian, S. (2001). Behavioral activation treatment for depression: Returning to contextual roots. Clinical Psychology: Science and Practice, 8(3), 255-270.
+
+Leahy, R. L. (2003). Cognitive therapy techniques: A practitioner's guide. Guilford Press.
+
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-based cognitive therapy for depression: A new approach to preventing relapse. Guilford Press.
+
