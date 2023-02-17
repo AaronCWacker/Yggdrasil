@@ -1,6 +1,43 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Real Time Live AI For Health
+
+What are the most performant artificial intelligence programs and features which can easily bring instant feedback to the user?  In a health care setting, where EMR and electronic health records are neededworld wide and in remote areas, can we create a series of tools to use together which can provide the basis of operation for a virtual care system using AI?
+
+These examples pursue how to create device agnostic solutions that simplify needs of dictation, chat with memory, quick feedback by webcam and easy access by audio and microphone.
+
+## Building an Asynchronous Real-Time Live Telemedicine System Using AI Pipelines for Smart Communities
+
+1. **Designing the Telemedicine System**
+   - Identify the needs and challenges of smart communities and design a telemedicine system that addresses these challenges.
+   - Choose a platform that allows for asynchronous real-time communication, such as video conferencing or chat-based messaging, to facilitate remote consultations with healthcare providers.
+   - Design the system to incorporate AI pipelines that can analyze patient data and provide decision support for healthcare providers.
+
+2. **Implementing the AI Pipelines**
+   - Identify the relevant AI algorithms and techniques that can be used to analyze patient data, such as machine learning or natural language processing.
+   - Integrate these AI pipelines into the telemedicine system to provide decision support for healthcare providers during consultations.
+   - Ensure that the AI algorithms are accurate and reliable by testing them on a large and diverse set of patient data.
+
+3. **Deploying the Telemedicine System**
+   - Deploy the telemedicine system in smart communities, ensuring that it is easily accessible and user-friendly for patients and healthcare providers.
+   - Train healthcare providers on how to use the system effectively and provide ongoing support and feedback to optimize its use.
+   - Continuously monitor and evaluate the system's performance, making improvements and updates as needed to ensure that it remains effective and efficient in meeting the needs of smart communities.
+
+# 2023's Top 7 Breakthroughs in Medical Technology
+1. __Asynchronous Telemedicine:__ A Solution to Address Provider Shortages by Offering Remote Care Services. ([Wikipedia](https://en.wikipedia.org/wiki/Telemedicine))
+2. __Ambient and Emotion AI:__ Empowering Patients with Artificial Intelligence That Shows Empathy and Compassion. ([Wikipedia](https://en.wikipedia.org/wiki/Ambient_intelligence))
+3. __Skin Patch Technology:__ A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels. ([Wikipedia](https://en.wikipedia.org/wiki/Skin_patch))
+4. __Affordable Vein Scanner:__ A Revolutionary Tool to View Veins Through the Skin. ([Wikipedia](https://en.wikipedia.org/wiki/Vein_matching))
+5. __Synthetic Medical Records:__ Creating Reliable Medical Records Using Generative Adversarial Networks. ([Wikipedia](https://en.wikipedia.org/wiki/Synthetic_data))
+6. __Blood Draw Devices for Clinical Trials:__ Facilitating Remote Participation in Trials with Innovative Technology. ([Wikipedia](https://en.wikipedia.org/wiki/Blood_sampling))
+7. __Smart TVs for Remote Care:__ Enhancing Remote Care Consultations with Video Chat and Recordings. ([Wikipedia](https://en.wikipedia.org/wiki/Smart_television))
+
+Reference: [The Medical Futurist](https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2)
+
+
+
+
 # Model Sizes to Date
 
 Model Name	|	Model Size (in Parameters)
@@ -326,17 +363,6 @@ Reference: The Medical Futurist: https://www.youtube.com/watch?v=_9DpLD4S2AY&lis
 # Prompt: rewrite the markdown above to bold face each of the 7 labels that end in colon (:) and insert a wikipedia link for each with wikipedia search of the first two or three words in the label.
 
 Output:
-
-# 2023's Top 7 Breakthroughs in Medical Technology
-1. __Asynchronous Telemedicine:__ A Solution to Address Provider Shortages by Offering Remote Care Services. ([Wikipedia](https://en.wikipedia.org/wiki/Telemedicine))
-2. __Ambient and Emotion AI:__ Empowering Patients with Artificial Intelligence That Shows Empathy and Compassion. ([Wikipedia](https://en.wikipedia.org/wiki/Ambient_intelligence))
-3. __Skin Patch Technology:__ A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels. ([Wikipedia](https://en.wikipedia.org/wiki/Skin_patch))
-4. __Affordable Vein Scanner:__ A Revolutionary Tool to View Veins Through the Skin. ([Wikipedia](https://en.wikipedia.org/wiki/Vein_matching))
-5. __Synthetic Medical Records:__ Creating Reliable Medical Records Using Generative Adversarial Networks. ([Wikipedia](https://en.wikipedia.org/wiki/Synthetic_data))
-6. __Blood Draw Devices for Clinical Trials:__ Facilitating Remote Participation in Trials with Innovative Technology. ([Wikipedia](https://en.wikipedia.org/wiki/Blood_sampling))
-7. __Smart TVs for Remote Care:__ Enhancing Remote Care Consultations with Video Chat and Recordings. ([Wikipedia](https://en.wikipedia.org/wiki/Smart_television))
-
-Reference: [The Medical Futurist](https://www.youtube.com/watch?v=_9DpLD4S2AY&list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP&index=2)
 
 
 # Docker Spaces for AI
