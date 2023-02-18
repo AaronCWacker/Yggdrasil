@@ -1,6 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Math and Science Games for Learning AI and Python Development Skills
+
+1. [Hexagon Dice Math Game Using Fractals](https://huggingface.co/spaces/awacke1/Hexagon-Dice-Fractal-Math-Game)
+2. [Plant Fractals With Strange Attractors and Julia Set Math Game]()
+
+# Figure 1. Plant Fractal using Strange Attractor Spiral Mathematics
+![image](https://user-images.githubusercontent.com/30595158/219881229-4f66f3bb-46ae-4d33-baf2-16e35175c951.png)
+
+# Figure 2. Dice Roll Game Visual Frequency of Dice Roll
+![image](https://user-images.githubusercontent.com/30595158/219881391-67cb9879-5259-4397-acf9-6d9ca2df275d.png)
+
+# Figure 3. Thought Experiment - Try To Make a Tighter Spiral:
+![image](https://user-images.githubusercontent.com/30595158/219881634-f0182616-bc80-4a2c-9458-6d02979d6ef3.png)
+
+# Figure 4. Hexagon Dice Fractals for Compound Visualization:
+![image](https://user-images.githubusercontent.com/30595158/219881847-59d63173-76f5-4cf8-8792-6ebf5fb63a20.png)
+
+
+
 # Clone to Your New Organization - For Portable Asynchronous Real-Time Live Telemedicine System
 
 1. **Microphone and Audio file input Text to Speech program with AI pipeline to second model.**
