@@ -1,6 +1,37 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Health. Development, STEM, DSE and AI Gamification - Weekend of 2/20/2023
+1. https://huggingface.co/spaces/awacke1/Acting-Game-Mechanics
+2. https://huggingface.co/spaces/awacke1/Engineering-or-Magic-Q-A-IO
+3. https://huggingface.co/spaces/awacke1/Engineering-Magic-Picture-Dice-Vocabulary-Game
+4. https://huggingface.co/spaces/awacke1/AI-RPG-Self-Play-RLML-Health-Battler-Game
+5. https://huggingface.co/spaces/awacke1/AI-RPG-Monster-Deck-Card
+6. https://huggingface.co/spaces/awacke1/AIOutline
+7. https://huggingface.co/spaces/awacke1/BigScienceContinualGenerator
+8. https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+9. https://huggingface.co/spaces/awacke1/DeepRL-LLM-FeedbackFileOperations
+10. https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+11. https://huggingface.co/spaces/awacke1/Hexagon-Dice-Fractal-Math-Game
+12. https://huggingface.co/spaces/awacke1/Sankey-Snacks
+13. https://huggingface.co/spaces/awacke1/Emojitrition-Fun-and-Easy-Nutrition
+14. https://huggingface.co/spaces/awacke1/Dice-Roll-Fractals-STEM-Math
+15. https://huggingface.co/spaces/awacke1/PlantFractalsMathGameWithJuliaSetnStrangeAttractors
+16. https://huggingface.co/spaces/awacke1/Streamlit-Pyplot-Math-Dice-Game
+17. https://huggingface.co/spaces/awacke1/StreamlitChooseYourOwnAdventure
+18. https://huggingface.co/spaces/awacke1/GradioFlanT5BloomAndTaskSource
+19. https://huggingface.co/spaces/awacke1/StreamlitPydeckMapVisualViewStateForLatitudeLongitude
+20. https://huggingface.co/spaces/awacke1/GradioVoicetoTexttoSentiment
+21. https://huggingface.co/spaces/awacke1/GradioUpdateUI
+22. https://huggingface.co/spaces/awacke1/GradioContinualGenerator
+23. https://huggingface.co/spaces/awacke1/bigscience-bloom
+24. https://huggingface.co/spaces/awacke1/BigScienceBloomRootsMemory
+25. https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+26. https://huggingface.co/spaces/awacke1/StreamlitTransformersHFAPI
+27. https://huggingface.co/spaces/awacke1/sileod-deberta-v3-base-tasksource-nli
+28. https://huggingface.co/spaces/awacke1/4-Seq2SeqQAT5
+
+
 # Math and Science Games for Learning AI and Python Development Skills
 
 1. [Hexagon Dice Math Game Using Fractals](https://huggingface.co/spaces/awacke1/Hexagon-Dice-Fractal-Math-Game)
