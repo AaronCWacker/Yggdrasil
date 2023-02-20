@@ -30,6 +30,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 26. https://huggingface.co/spaces/awacke1/StreamlitTransformersHFAPI
 27. https://huggingface.co/spaces/awacke1/sileod-deberta-v3-base-tasksource-nli
 28. https://huggingface.co/spaces/awacke1/4-Seq2SeqQAT5
+29. https://huggingface.co/spaces/RealTimeLiveAIForHealth/README/blob/main/README.md
+30. https://huggingface.co/spaces/awacke1/GradioVoicetoTexttoSentiment
+31. https://huggingface.co/spaces/awacke1/StreamlitPydeckMapVisualViewStateForLatitudeLongitude/blob/main/BackpackAITelemedicineDesign.md
+32. https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+33. https://huggingface.co/spaces/bigscience-data/roots-search
 
 
 # Math and Science Games for Learning AI and Python Development Skills
