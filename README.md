@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Songs I am Playing:
+
+![image](https://user-images.githubusercontent.com/30595158/220100134-86faa95b-1f05-40ca-ad87-f8e3ce710394.png)
+
+https://open.spotify.com/playlist/5PfGK7fqfaBvEvr7n3FzUq
+https://tabs.ultimate-guitar.com/tab/angel-olsen/shut-up-kiss-me-chords-1857146
+
+![image](https://user-images.githubusercontent.com/30595158/220100501-f6602653-cc30-4cdf-a92e-80a0a31fd562.png)
+
+
+
 # Health. Development, STEM, DSE and AI Gamification - Weekend of 2/20/2023
 1. https://huggingface.co/spaces/awacke1/Acting-Game-Mechanics
 2. https://huggingface.co/spaces/awacke1/Engineering-or-Magic-Q-A-IO
