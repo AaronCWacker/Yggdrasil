@@ -1,6 +1,297 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+Outline of large Hospitals in the United states.  
+
+Why that hospital is unique in the area.  
+
+```
+hospital_list = [
+    {
+        'bed_count': 2766,
+        'name': 'New York-Presbyterian Hospital',
+        'city': 'New York',
+        'state': 'NY',
+        'latitude': 40.8404,
+        'longitude': -73.9508,
+        'zip': '10032'
+    },
+    {
+        'bed_count': 2145,
+        'name': 'Florida Hospital Orlando',
+        'city': 'Orlando',
+        'state': 'FL',
+        'latitude': 28.5536,
+        'longitude': -81.3568,
+        'zip': '32803'
+    },
+    {
+        'bed_count': 2020,
+        'name': 'Jackson Memorial Hospital',
+        'city': 'Miami',
+        'state': 'FL',
+        'latitude': 25.7893,
+        'longitude': -80.2124,
+        'zip': '33136'
+    },
+    {
+        'bed_count': 1997,
+        'name': 'Keck Medical Center of USC',
+        'city': 'Los Angeles',
+        'state': 'CA',
+        'latitude': 34.0522,
+        'longitude': -118.2437,
+        'zip': '90033'
+    },
+    {
+        'bed_count': 1956,
+        'name': 'Montefiore Medical Center',
+        'city': 'Bronx',
+        'state': 'NY',
+        'latitude': 40.8471,
+        'longitude': -73.8816,
+        'zip': '10467'
+    },
+    {
+        'bed_count': 1926,
+        'name': 'Rush University Medical Center',
+        'city': 'Chicago',
+        'state': 'IL',
+        'latitude': 41.8745,
+        'longitude': -87.6676,
+        'zip': '60612'
+    },
+    {
+        'bed_count': 1918,
+        'name': 'University of Michigan Hospitals-Michigan Medicine',
+        'city': 'Ann Arbor',
+        'state': 'MI',
+        'latitude': 42.2814,
+        'longitude': -83.7483,
+        'zip': '48109'
+    },
+    {
+        'bed_count': 1863,
+        'name': 'Parkland Health and Hospital System',
+        'city': 'Dallas',
+        'state': 'TX',
+        'latitude': 32.7767,
+        'longitude': -96.7970,
+        'zip': '75235'
+    },
+    {
+        'bed_count': 1858,
+        'name': 'Houston Methodist Hospital',
+        'city': 'Houston',
+        'state': 'TX',
+        'latitude': 29.7181,
+        'longitude': -95.4044,
+        'zip': '77030'
+    },
+    {
+        'bed_count': 1800,
+        'name': 'Brigham and Women\'s Hospital',
+        'city': 'Boston',
+        'state': 'MA',
+        'latitude': 42.3367,
+        'longitude': -71.1075,
+        'zip': '02115'
+    },
+    {
+        'bed_count': 1771,
+        'name': 'Cleveland Clinic',
+        'city': 'Cleveland',
+        'state': 'OH',
+        'latitude': 41.5047,    'longitude': -81.6218,
+    'zip': '44195'
+    },
+    {
+        'bed_count': 1730,
+        'name': 'The Mount Sinai Hospital',
+        'city': 'New York',
+        'state': 'NY',
+        'latitude': 40.7909,
+        'longitude': -73.9524,
+        'zip': '10029'
+    },
+    {
+        'bed_count': 1729,
+        'name': 'Northwestern Memorial Hospital',
+        'city': 'Chicago',
+        'state': 'IL',
+        'latitude': 41.8953,
+        'longitude': -87.6251,
+        'zip': '60611'
+    },
+    {
+        'bed_count': 1660,
+        'name': 'Hospitals of the University of Pennsylvania-Penn Presbyterian',
+        'city': 'Philadelphia',
+        'state': 'PA',
+        'latitude': 39.9526,
+        'longitude': -75.1652,
+        'zip': '19104'
+    },
+    {
+        'bed_count': 1642,
+        'name': 'Johns Hopkins Hospital',
+        'city': 'Baltimore',
+        'state': 'MD',
+        'latitude': 39.2967,
+        'longitude': -76.5913,
+        'zip': '21287'
+    },
+    {
+        'bed_count': 1614,
+        'name': 'Cedars-Sinai Medical Center',
+        'city': 'Los Angeles',
+        'state': 'CA',
+        'latitude': 34.0762,
+        'longitude': -118.3882,
+        'zip': '90048'
+    },
+    {
+        'bed_count': 1577,
+        'name': 'Massachusetts General Hospital',
+        'city': 'Boston',
+        'state': 'MA',
+        'latitude': 42.3639,
+        'longitude': -71.0711,
+        'zip': '02114'
+    },
+    {
+        'bed_count': 1566,
+        'name': 'NYU Langone Hospitals',
+        'city': 'New York',
+        'state': 'NY',
+        'latitude': 40.7429,
+        'longitude': -73.9750,
+        'zip': '10016'
+    },
+    {
+        'bed_count': 1547,
+        'name': 'Mayo Clinic Hospital-Rochester',
+        'city': 'Rochester',
+        'state': 'MN',
+        'latitude': 44.0121,
+        'longitude': -92.4802,
+        'zip': '55902'
+    },
+    {
+        'bed_count': 1537,
+        'name': 'Stanford Health Care-Stanford Hospital',
+        'city': 'Stanford',
+        'state': 'CA',
+        'latitude': 37.4354,
+        'longitude': -122.1777,
+        'zip': '94305'
+    }
+]
+```
+
+Outline of Large Hospitals in the United States: 
+
+# I. New York-Presbyterian Hospital - 2766 beds 
+    A. Located in New York, NY 
+    B. Uniquely provides world-class care for patients from around the world 
+    C. Offers a wide range of services and treatments in multiple specialties 
+
+# II. Florida Hospital Orlando - 2145 beds 
+    A. Located in Orlando, FL 
+    B. Home to the world's first robotic surgery program 
+    C. Provides advanced treatments and technology that are not available at other hospitals in the area 
+
+# III. Jackson Memorial Hospital - 2020 beds 
+    A. Located in Miami, FL 
+    B. Provides specialized care for trauma patients and a state-of-the-art burn center 🔥 
+    C. Offers an extensive range of specialized services, including a dedicated pediatric unit 🐣 
+
+# IV. Keck Medical Center of USC - 1997 beds 
+    A. Located in Los Angeles, CA 
+    B. Offers the highest level of care in a wide range of specialties 
+    C. Home to advanced surgical techniques, including robotic-assisted surgery 🤖 
+
+# V. Montefiore Medical Center - 1956 beds 
+    A. Located in Bronx, NY 
+    B. Home to the largest private pediatric hospital in the United States 🏥 
+    C. Provides advanced treatments, including cancer care and specialized pediatric care 
+
+# VI. Rush University Medical Center - 1926 beds 
+    A. Located in Chicago, IL 
+    B. Features world-class doctors and nurses and the latest technology 🤖 
+    C. Offers a wide range of services, including emergency and trauma care, cardiology, and neurology 
+
+# VII. University of Michigan Hospitals-Michigan Medicine - 1918 beds 
+    A. Located in Ann Arbor, MI 
+    B. Home to one of the most advanced robotic surgery programs in the world 🤖 
+    C. Offers specialized care in more than 20 areas of medicine 
+
+# VIII. Parkland Health and Hospital System - 1863 beds 
+    A. Located in Dallas, TX 
+    B. Features a comprehensive range of treatments, from primary care to advanced medical and surgical treatments 💉 
+    C. Home to the largest Level I trauma center in North Texas 
+
+# IX. Houston Methodist Hospital - 1858 beds 
+    A. Located in Houston, TX 
+    B. Home to a comprehensive range of services, from primary care to advanced medical and surgical treatments 💉 
+    C. Features the latest in medical technology, including robotic-assisted surgery 🤖 
+
+# X. Brigham and Women's Hospital - 1800 beds 
+    A. Located in Boston, MA 
+    B. Offers specialized care in a wide range of areas, including cancer care, heart and vascular care, and women's health 🤰 
+    C. Home to one of the largest transplantation programs in the United States 
+
+# XI. Cleveland Clinic - 1771 beds 
+    A. Located in Cleveland, OH 
+    B. Home to the largest heart program in the United States 💗 
+    C. Provides world-class care in a wide range of specialties 
+
+# XII. The Mount Sinai Hospital - 1730 beds 
+    A. Located in New York, NY 
+    B. Features a comprehensive range of treatments and services in multiple specialties 
+    C. Home to the largest kidney transplant program in the United States 🍊 
+
+# XIII. Northwestern Memorial Hospital - 1729 beds 
+    A. Located in Chicago, IL 
+    B. Offers a wide range of services, including cancer care, heart and vascular care, and women's health 🤰 
+    C. Home to the most advanced robotic surgery technology in the area 🤖 
+
+# XIV. Hospitals of the University of Pennsylvania-Penn Presbyterian - 1660 beds 
+    A. Located in Philadelphia, PA 
+    B. Home to one of the most comprehensive cancer centers in the United States 🎗 
+    C. Offers specialized care in areas such as cardiology, neurology, and orthopedics 
+
+# XV. Johns Hopkins Hospital - 1642 beds 
+    A. Located in Baltimore, MD 
+    B. Home to one of the most advanced robotic surgery programs in the world 🤖 
+    C. Offers specialized care in areas such as cancer care, neurology, and orthopedics 
+
+# XVI. Cedars-Sinai Medical Center - 1614 beds 
+    A. Located in Los Angeles, CA 
+    B. Home to the world's largest adult stem cell transplant program 🧬 
+    C. Offers advanced treatments, including cancer care and specialized pediatric care 
+
+# XVII. Massachusetts General Hospital - 1577 beds 
+    A. Located in Boston, MA 
+    B. Home to one of the largest organ transplant programs in the United States 💗 
+    C. Provides world-class care in a wide range of specialties 
+
+# XVIII. NYU Langone Hospitals - 1566 beds 
+    A. Located in New York, NY 
+    B. Offers specialized care in areas such as cardiology, neurology, and orthopedics 
+    C. Home to the most advanced technology, including robotic-assisted surgery 🤖 
+
+# XIX. Mayo Clinic Hospital-Rochester - 1547 beds 
+    A. Located in Rochester, MN 
+    B. Home to one of the most comprehensive cancer centers in the United States 🎗 
+    C. Offers advanced treatments and technology that are not available at other hospitals in the area 
+
+# XX. Stanford Health Care-Stanford Hospital - 1537 beds 
+    A. Located in Stanford, CA 
+    B. Home to advanced surgical techniques, including robotic-assisted surgery 🤖 
+    C. Offers specialized care in areas such as cancer care, neurology, and orthopedics 
+
+
 # Songs I am Playing:
 
 ![image](https://user-images.githubusercontent.com/30595158/220100134-86faa95b-1f05-40ca-ad87-f8e3ce710394.png)
