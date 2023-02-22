@@ -1,7 +1,30 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-Outline of large Hospitals in the United states.  
+
+# AI STEM Lessons:
+Below are content takeaways for the STEM lessons in AI I am working on.  
+
+For the RL category ChatGPT, Stable Diffusion, and other new AI pipelines like BLOOM/Big Science talk about a new acronym called RLHF which is Reinforcement Learning with Human Feedback.
+
+RLHF means the human has a feedback loop where after the AI runs, the human can like/dislike the result which is then fed back into AI as runtime context or retraining datasets including the inputs, outputs and a reward or remorse score which indicates magnitude of like/dislike or even a penalty to re-decision trying other paths if remorse score is high.  
+
+That I am thinking is the new pattern and possibly norm for super intelligent AGI.  
+Artificial general intelligence that gets better the more you use it.  It is learning the output preferences you are looking for during use due to feedback. 
+
+1.	Card Game Activity--Aaron
+2.	Game Theory – Traditional AI processes --Aaron
+3.	Examples of AI--Aaron
+4.	Image Recognition--Aaron
+5.	Speech Recognition--Aaron
+6.	Generative AI (images and text) --Aaron
+7.	Future of AI--Aaron
+8.	Machine Learning--Aaron
+9.	Natural Language Processing--Aaron
+10.	Reinforcement Learning--Aaron
+
+
+# Outline of large Hospitals in the United states.  
 
 ![image](https://user-images.githubusercontent.com/30595158/220526448-6bc1b919-c745-47da-a95a-74fb1edb8153.png)
 
