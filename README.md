@@ -13,12 +13,18 @@ That I am thinking is the new pattern and possibly norm for super intelligent AG
 Artificial general intelligence that gets better the more you use it.  It is learning the output preferences you are looking for during use due to feedback. 
 
 1.	Card Game Activity--Aaron
+   1. Mechanics: https://huggingface.co/spaces/awacke1/CardGameActivity
+   2. GraphViz: https://huggingface.co/spaces/awacke1/CardGameActivity-GraphViz
+   3. https://huggingface.co/spaces/awacke1/CardGameActivity-TwoPlayerAndAI
 2.	Game Theory – Traditional AI processes --Aaron
+   1. Mechanics: https://huggingface.co/spaces/awacke1/CardGameActivity
 3.	Examples of AI--Aaron
+   1. AI Fiction From Movies: https://huggingface.co/spaces/awacke1/ExamplesOfAI
 4.	Image Recognition--Aaron
 5.	Speech Recognition--Aaron
 6.	Generative AI (images and text) --Aaron
 7.	Future of AI--Aaron
+   1. Future of SuperIntelligence From Movies: https://huggingface.co/spaces/awacke1/ExamplesOfAI
 8.	Machine Learning--Aaron
 9.	Natural Language Processing--Aaron
 10.	Reinforcement Learning--Aaron
