@@ -3,8 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 # Mechanics:
-
-![image](https://user-images.githubusercontent.com/30595158/220815707-46e539ae-cdd6-4cd7-ba79-7b27759b74a5.png)
+![image](https://user-images.githubusercontent.com/30595158/220816137-00311176-5f5a-4ab3-aee3-21cfe081cbaf.png)
 
 
 # AI STEM Lessons:
