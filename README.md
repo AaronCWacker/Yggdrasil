@@ -2,6 +2,11 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Mechanics:
+
+![image](https://user-images.githubusercontent.com/30595158/220815707-46e539ae-cdd6-4cd7-ba79-7b27759b74a5.png)
+
+
 # AI STEM Lessons:
 Below are content takeaways for the STEM lessons in AI I am working on.  
 
