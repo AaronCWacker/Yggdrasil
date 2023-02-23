@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Superpowers:
+
+💻🤝🤖 Utilizing HuggingFace and ChatGPT together can superpower ML development
+👨‍💻 Engineers with knowledge of both platforms are force multipliers
+📈 Transforming our stack to capture both aspects could simplify adoption
+💼 Business value requires ability to communicate pain points and customer joy in a press release
+🏭 Building and demoing in production first creates immediate superpowers for all users
 
 # Mechanics:
 ![image](https://user-images.githubusercontent.com/30595158/220816137-00311176-5f5a-4ab3-aee3-21cfe081cbaf.png)
