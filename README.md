@@ -24,31 +24,42 @@ The two models below represent schemas we can use for Assessment and Planning.  
 
 ## Omaha System - OMS - What Is It? -- 📝 The Omaha System for Nursing Plans of Care
 
-The Omaha System is a special plan that nurses use to help them take care of patients. It has different parts to help nurses understand the patient's health problems and how to make them better.
+The Omaha System is a special plan that nurses use to help them take care of patients. It has different parts to help nurses understand the patient's health problems and how to make them better.  
+
+## The three parts include:
+1. Problem classification which lets you identify a problem area by signs, symptoms or conditions you are facing.  
+2. Next it has an intervention scheme for the problems so we have descriptions of care and potential goals for improvement.  
+3. Last there is a problem outcome scale for measuring improvement and progress of the outcome for value based care.
 
 ## 📋 The Problem Classification Scheme
 
 This part of the plan helps nurses figure out what health problems the patient has. It has different levels to help them understand better.
 
-There are six parts of a care plan according to the OMS standard:
+There are several parts of a care plan:
 1. 🌎 Domain
 2. 🏥 Class
 3. 🎯 Target Problem
-4. 😷 Problem
-5. 🌡️ Signs and Symptoms Classification Scheme
+
+## 😷 Problem
+🌡️ Signs and Symptoms Classification Scheme
+
 	- This part helps nurses know what signs and symptoms the patient has. It has three different levels to help them understand better.
-	- There are three top level classifications of types of health problems:
+	
+	- There are the following environment domain classifications of types of health problems:
 	1. 🌍 Environmental
+	2. 🧠 Health Related Behaviors
 	2. 🧠 Psychosocial
 	3. 🩺 Physiological
-6. 💉 Intervention Scheme
+
+## 💉 Intervention Scheme
 	- This part of the plan tells nurses what they can do to help the patient. It also has different levels to help them understand better.
 
 Evaluating Interventions and Goals uses these aspects:
 1. 🌎 Domain
 2. 🏥 Class
 3. 💊 Intervention
-4. 🎯 Problem Rating Scale for Outcomes
+
+## 🎯 Problem Rating Scale for Outcomes
 	- This part helps nurses see how well the patient is doing. It has three levels to help them understand better.
 	1. 🧠 Knowledge
 	2. 🏃‍♂️ Behavior
