@@ -94,21 +94,45 @@ Here's an outline of the key points for comparing and contrasting the different 
    - Similarities: Similar to other machine learning tasks in that it involves using a dataset to train a model.
    - Differences: Unique in that it is focused on selecting the most useful features for the model, rather than making predictions.
    - Example Models:
-	1. 
+	1. Google VIT: https://huggingface.co/google/vit-base-patch16-224-in21k
+	2. Facebook BART: https://huggingface.co/facebook/bart-large https://huggingface.co/facebook/bart-base
+	3. Facebook DPR: https://huggingface.co/facebook/dpr-question_encoder-single-nq-base
 
 2. Document Question Answering ❓
    - Description: Building a system that can automatically answer questions based on the content of a document.
    - Similarities: Similar to other natural language processing tasks in that it involves processing and understanding text.
    - Differences: Focused specifically on answering questions, rather than general language understanding.
    - Example Models:
-	1. 
+	1. Impira Doc QA: https://huggingface.co/impira/layoutlm-document-qa
+	2. Naver Clova IX Donut DocVQA: https://huggingface.co/naver-clova-ix/donut-base-finetuned-docvqa
+	3. Impira Invoices: https://huggingface.co/impira/layoutlm-invoices
 
 3. Token/Text/Zero Shot Classification 🔍
    - Description: Assigning a label to a piece of text based on its content.
    - Similarities: Similar to other classification tasks in that it involves assigning a label to data.
    - Differences: Unique in that it can be performed without any training data, using pre-trained language models.
    - Example Models:
-	1. 
+	1. Text: https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english
+	2. Tone: https://huggingface.co/yiyanghkust/finbert-tone
+	3. Sentiment: https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
+	4. FinBERT: https://huggingface.co/ProsusAI/finbert
+	5. BERT Base NER: https://huggingface.co/dslim/bert-base-NER
+	6. Camembert NER: https://huggingface.co/Jean-Baptiste/camembert-ner
+	7. Ontonotes NER: https://huggingface.co/flair/ner-english-ontonotes-large
+	8. Roberta: https://huggingface.co/xlm-roberta-large-finetuned-conll03-english
+	9. BERT Large NER: https://huggingface.co/dslim/bert-large-NER
+	10. JB NER: https://huggingface.co/Jean-Baptiste/roberta-large-ner-english
+	11. D4Data Biomedical NER: https://huggingface.co/d4data/biomedical-ner-all
+   - Zero Shot Models
+   	1. Facebook BART MNLI: https://huggingface.co/facebook/bart-large-mnli
+	2. mDeBERT MNLI XNLI: https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli
+	3. XNLI: https://huggingface.co/joeddav/xlm-roberta-large-xnli
+	4. XNLI: https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7
+	5. MNLI: https://huggingface.co/valhalla/distilbart-mnli-12-1
+	6. ANLI MNLI: https://huggingface.co/MoritzLaurer/DeBERTa-v3-large-mnli-fever-anli-ling-wanli
+	7. MNLI: https://huggingface.co/typeform/distilbert-base-uncased-mnli
+	8. NLI: https://huggingface.co/cross-encoder/nli-distilroberta-base
+	9. MNLI XNLI: https://huggingface.co/MoritzLaurer/xlm-v-base-mnli-xnli
 
 4. Sentence Similarity 🧑‍🤝‍🧑
    - Description: Determining how similar two sentences are in meaning.
