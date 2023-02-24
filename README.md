@@ -1,7 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Superpowers:
+# General Assess and Plan AI
+
+Assessment and Planning go hand in hand.  When we build a model in our brain about how the world works, we use assessment skills we were raised with which is the ability to wonder, and ask questions about what we are interested in, and then using the information we learn to move through our environment and plan or predict what will happen next chronologically.  In psychology and social science its been shown that the concept of "mirroring" occurs when we communicate where we learn from eachother what our internal models  are doing then synchronize with eachother by acting or performing movements and gestures that match what we see.  This allows transfer learning to work due to us assessing ourself and our understanding of the world around us, then begin to act and study the outcomes of our actions which is planning behavior.
+
+The two models below represent schemas we can use for Assessment and Planning.  They attempt to split out the knowledge graphs that seperate different parts of knowledge to align to a higher order graph which can be used in AGI - artificial generative intelligence, to choose general patterns which can be used to understand tasks and text to align them to other frames of thought so we can use the gained knowledge generally.
+
+## Assessment
+
+![image](https://user-images.githubusercontent.com/30595158/221297144-8d346e60-d8a3-474f-808f-95739dde95fc.png)
+
+## Plan
+
+![image](https://user-images.githubusercontent.com/30595158/221297192-bf6d3d5f-9137-44df-aeec-2c22861b1731.png)
+
+
+# Superpowers of Using ChatGPT plus HuggingFace for Rapid Development:
 
 💻🤝🤖 Utilizing HuggingFace and ChatGPT together can superpower ML development
 👨‍💻 Engineers with knowledge of both platforms are force multipliers
