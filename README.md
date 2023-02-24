@@ -67,6 +67,46 @@ There are 50 different topics to choose from, and they are grouped into seven di
 
 The Omaha System is a good way for nurses to take care of their patients. It helps them understand the patient's health problems and make a plan to help them get better.
 
+## Outline for Comparing Types of Machine Learning for Assessment and Planning AI
+
+Here's an outline of the key points for comparing and contrasting the different types of machine learning tasks used in Assess and Plan AI:
+
+1. Feature Extraction 🎯
+   - Description: Extracting relevant features from raw data for use in training a model.
+   - Similarities: Similar to other machine learning tasks in that it involves using a dataset to train a model.
+   - Differences: Unique in that it is focused on selecting the most useful features for the model, rather than making predictions.
+   - Example Models:
+	1. 
+
+2. Document Question Answering ❓
+   - Description: Building a system that can automatically answer questions based on the content of a document.
+   - Similarities: Similar to other natural language processing tasks in that it involves processing and understanding text.
+   - Differences: Focused specifically on answering questions, rather than general language understanding.
+   - Example Models:
+	1. 
+
+3. Token/Text/Zero Shot Classification 🔍
+   - Description: Assigning a label to a piece of text based on its content.
+   - Similarities: Similar to other classification tasks in that it involves assigning a label to data.
+   - Differences: Unique in that it can be performed without any training data, using pre-trained language models.
+   - Example Models:
+	1. 
+
+4. Sentence Similarity 🧑‍🤝‍🧑
+   - Description: Determining how similar two sentences are in meaning.
+   - Similarities: Similar to other natural language processing tasks in that it involves processing and understanding text.
+   - Differences: Focused specifically on comparing the meaning of two pieces of text.
+   - Example Models:
+	1. 
+
+5. Tabular Classification 🗃️
+   - Description: Assigning a label to a row of data in a table based on its content.
+   - Similarities: Similar to other classification tasks in that it involves assigning a label to data.
+   - Differences: Unique in that it is performed on structured data in the form of tables, rather than unstructured data like text or images.
+   - Example Models:
+	1. 
+
+
 
 # Superpowers of Using ChatGPT plus HuggingFace for Rapid Development:
 
