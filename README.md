@@ -15,6 +15,51 @@ The two models below represent schemas we can use for Assessment and Planning.  
 
 ![image](https://user-images.githubusercontent.com/30595158/221297192-bf6d3d5f-9137-44df-aeec-2c22861b1731.png)
 
+## Omaha System - OMS - What Is It? -- 📝 The Omaha System for Nursing Plans of Care
+
+The Omaha System is a special plan that nurses use to help them take care of patients. It has different parts to help nurses understand the patient's health problems and how to make them better.
+
+## 📋 The Problem Classification Scheme
+
+This part of the plan helps nurses figure out what health problems the patient has. It has different levels to help them understand better.
+
+There are six parts of a care plan according to the OMS standard:
+1. 🌎 Domain
+2. 🏥 Class
+3. 🎯 Target Problem
+4. 😷 Problem
+5. 🌡️ Signs and Symptoms Classification Scheme
+	- This part helps nurses know what signs and symptoms the patient has. It has three different levels to help them understand better.
+	- There are three top level classifications of types of health problems:
+	1. 🌍 Environmental
+	2. 🧠 Psychosocial
+	3. 🩺 Physiological
+6. 💉 Intervention Scheme
+	- This part of the plan tells nurses what they can do to help the patient. It also has different levels to help them understand better.
+
+Evaluating Interventions and Goals uses these aspects:
+1. 🌎 Domain
+2. 🏥 Class
+3. 💊 Intervention
+4. 🎯 Problem Rating Scale for Outcomes
+	- This part helps nurses see how well the patient is doing. It has three levels to help them understand better.
+	1. 🧠 Knowledge
+	2. 🏃‍♂️ Behavior
+	3. 📈 Status
+
+💪 Problem Topics
+This part helps nurses organize the patient's health problems and make a plan to help them. 
+There are 50 different topics to choose from, and they are grouped into seven different categories.
+	1. 🌍 Environmental
+	2. 🧪 Behavioral
+	3. 🚸 Safety
+	4. 👪 Family
+	5. 🩺 Health-related
+	6. 🧠 Psychosocial
+	7. 🌡️ Physiological
+
+The Omaha System is a good way for nurses to take care of their patients. It helps them understand the patient's health problems and make a plan to help them get better.
+
 
 # Superpowers of Using ChatGPT plus HuggingFace for Rapid Development:
 
