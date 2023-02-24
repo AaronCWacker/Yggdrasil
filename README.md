@@ -10,11 +10,12 @@ In psychology and social science its been shown that the concept of "mirroring" 
 This allows transfer learning to work due to us assessing ourself and our understanding of the world around us, then begin to act and study the outcomes of our actions which is planning behavior.
 
 ## Tasks used in Assess and Plan AI:
-1. Feature Extraction
-2. Document Question Answering
-3. Token/Text/Zero Shot Classification
-4. Sentence Similarity
-5. Tabular Classification
+1. Feature Extraction: [URL](https://huggingface.co/models?pipeline_tag=feature-extraction&sort=likes)
+2. Document Question Answering: [URL](https://huggingface.co/models?pipeline_tag=document-question-answering&sort=likes)
+3. Token/Text/Zero Shot Classification: [URL](https://huggingface.co/models?pipeline_tag=token-classification&sort=likes), [URL](https://huggingface.co/models?pipeline_tag=text-classification&sort=likes), [URL](https://huggingface.co/models?pipeline_tag=zero-shot-classification&sort=likes)
+4. Text to Text Generation:  [URL](https://huggingface.co/models?pipeline_tag=text2text-generation&sort=likes)
+5. Sentence Similarity: [URL](https://huggingface.co/models?pipeline_tag=sentence-similarity&sort=likes)
+6. Tabular Classification: [URL](https://huggingface.co/models?pipeline_tag=tabular-classification&sort=likes)
 
 The two models below represent schemas we can use for Assessment and Planning.  
 
