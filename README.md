@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# General Assess and Plan AI
+# Assess and Plan AI
 
 Assessment and Planning go hand in hand.  When we build a model in our brain about how the world works, we use assessment skills we were raised with which is the ability to wonder, and ask questions about what we are interested in, and then using the information we learn to move through our environment and plan or predict what will happen next chronologically.  
 
