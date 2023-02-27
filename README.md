@@ -9,6 +9,7 @@ In psychology and social science its been shown that the concept of "mirroring" 
 
 This allows transfer learning to work due to us assessing ourself and our understanding of the world around us, then begin to act and study the outcomes of our actions which is planning behavior.
 
+
 ## Tasks used in Assess and Plan AI:
 1. Feature Extraction: [URL](https://huggingface.co/models?pipeline_tag=feature-extraction&sort=likes)
 2. Document Question Answering: [URL](https://huggingface.co/models?pipeline_tag=document-question-answering&sort=likes)
