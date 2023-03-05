@@ -1,6 +1,103 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# GPU and CUDA Install for PyTorch on Windows:
+
+## Install pytorch with cuda enabled:
+[Instructions are here](https://pytorch.org/)
+
+## Install CUDA toolkit for linux or windows:
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
+https://developer.nvidia.com/cuda-zone
+![image](https://user-images.githubusercontent.com/30595158/222963155-acbe70d9-77bf-413a-ac46-c2d226b64ead.png)
+
+
+🚀🔥🐍🔬 PyTorch 2.0 is here!
+
+🎉 Torch.compile: a feature pushing PyTorch performance to new heights
+
+TorchDynamo: captures PyTorch programs safely
+AOTAutograd: overloads PyTorch's autograd engine
+PrimTorch: canonicalizes PyTorch operators
+TorchInductor: generates fast code for multiple accelerators
+💻 Try it now in the nightly binaries
+
+93% success rate on 163 open-source models
+43% faster training on NVIDIA A100 GPU
+21% faster on average at float32 precision
+51% faster on average at AMP precision
+🗺️ Roadmap for PyTorch 2.x
+
+Push compiled mode further for performance and scalability
+In-flight work and future goals
+Community contributions welcomed
+👨‍💻 Testimonials
+
+"Most exciting thing since mixed precision training" - HuggingFace transformers
+"Just works out of the box" - TIMM
+"Embodies the future of deep learning frameworks" - PyTorch Lightning
+🔬 Motivation
+
+High-performance eager execution
+Pythonic internals
+Good abstractions for distributed, autodiff, etc.
+Moved parts of PyTorch into C++ for performance
+Started compiler project in 2017 for preserving flexibility
+
+🧑‍💻🌟👨‍💻 PyTorch Compiler Projects
+
+📈 Graph acquisition, graph lowering, and graph compilation
+
+💻 TorchDynamo: Acquiring Graphs reliably and fast
+
+Uses Frame Evaluation API to acquire graph
+Validated with 7,000+ Github projects
+Acquired graph 99% of the time with negligible overhead
+🚀 TorchInductor: Fast codegen using a define-by-run IR
+
+Uses Triton language for performance
+General purpose to support PyTorch features
+Pythonic IR for hackability and extensibility
+🎓 AOTAutograd: Reusing Autograd for ahead-of-time graphs
+
+Traces through Autograd engine for backpropagation
+Accelerates both forwards and backwards pass
+🧰 PrimTorch: Stable Primitive operators
+
+Defines smaller and stable operator sets
+Prim ops for compilers, ATen ops for exporting
+Reduces barrier for writing a backend
+📊 Breakdown of the 2000+ PyTorch operators
+
+Prim ops with ~250 operators
+ATen ops with ~750 canonical operators
+💻 Developer/Vendor Experience
+
+Discussing operator sets for backends
+Lowering the barrier for contribution
+
+👤👩‍💻👨‍💻 User Experience
+
+🚀 Simple function torch.compile
+
+Wraps model and returns compiled model
+🎚️ Knobs to adjust compilation
+
+Mode: default, reduce-overhead, max-autotune
+Dynamic: dynamic or static shapes
+Fullgraph: compile entire program into a single graph
+Backend: default is TorchInductor
+💡 Mental model of compilation modes
+
+Default: most benefits and flexibility
+Reduce-overhead: low overhead, some extra memory
+Max-autotune: slow, but fastest code
+Dynamic: programs with dynamic shapes
+Fullgraph: for very performance conscious users
+
+
+
+
 # Assess and Plan AI
 
 Assessment and Planning go hand in hand.  When we build a model in our brain about how the world works, we use assessment skills we were raised with which is the ability to wonder, and ask questions about what we are interested in, and then using the information we learn to move through our environment and plan or predict what will happen next chronologically.  
