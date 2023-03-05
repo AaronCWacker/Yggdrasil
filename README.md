@@ -3,19 +3,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # GPU and CUDA Install for PyTorch on Windows:
 
-## Install pytorch with cuda enabled:
-[Instructions are here](https://pytorch.org/)
-
-## Install CUDA toolkit for linux or windows:
-conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
-https://developer.nvidia.com/cuda-zone
-![image](https://user-images.githubusercontent.com/30595158/222963155-acbe70d9-77bf-413a-ac46-c2d226b64ead.png)
-
-
-1. # Install __CUDA__ toolkit for linux or windows - Server is 3 GB download:
+1. # Confirm your GPU on OS.  Install __NVIDIA CUDA 12__ toolkit for linux or windows 
 conda install 
 https://developer.nvidia.com/cuda-zone
-cuda_12.1.0_531.14_windows.exe
+- Server is 3 GB download:
+- cuda_12.1.0_531.14_windows.exe
 
 2. # Get the __studio drivers__ for your laptop with RTX 3070 card - 815MB download:
 https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=%2FWindows%2F528.49%2F528.49-notebook-win10-win11-64bit-international-nsd-dch-whql.exe&lang=us&type=geforcem&aliId=eyJpIjoiVFFuNGNwSWxKVjhvTHhOcSIsInQiOiJsYnYxaTlDUys5NU1pVkh6VjAwN2pRPT0ifQ%253D%253D
@@ -23,6 +15,10 @@ https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=%2FWindows%2
             
 3. # Install __pytorch with cuda__ enabled:
 [Instructions are here](https://pytorch.org/)
+
+## Get cuDNN from here:  [Download](https://developer.nvidia.com/rdp/cudnn-download)
+C:\Users\aaron\Desktop\cudnn-windows-x86_64-8.8.0.121_cuda12-archive\cudnn-windows-x86_64-8.8.0.121_cuda12-archive
+Extract and install.
 pip install:
 torch 
 torchvision 
@@ -135,6 +131,7 @@ Reduce-overhead: low overhead, some extra memory
 Max-autotune: slow, but fastest code
 Dynamic: programs with dynamic shapes
 Fullgraph: for very performance conscious users
+
 
 
 
