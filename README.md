@@ -12,6 +12,47 @@ https://developer.nvidia.com/cuda-zone
 ![image](https://user-images.githubusercontent.com/30595158/222963155-acbe70d9-77bf-413a-ac46-c2d226b64ead.png)
 
 
+1. # Install __CUDA__ toolkit for linux or windows - Server is 3 GB download:
+conda install 
+https://developer.nvidia.com/cuda-zone
+cuda_12.1.0_531.14_windows.exe
+
+2. # Get the __studio drivers__ for your laptop with RTX 3070 card - 815MB download:
+https://www.nvidia.com/content/DriverDownloads/confirmation.php?url=%2FWindows%2F528.49%2F528.49-notebook-win10-win11-64bit-international-nsd-dch-whql.exe&lang=us&type=geforcem&aliId=eyJpIjoiVFFuNGNwSWxKVjhvTHhOcSIsInQiOiJsYnYxaTlDUys5NU1pVkh6VjAwN2pRPT0ifQ%253D%253D
+528.49-notebook-win10-win11-64bit-international-nsd-dch-whql.exe
+            
+3. # Install __pytorch with cuda__ enabled:
+[Instructions are here](https://pytorch.org/)
+pip install:
+torch 
+torchvision 
+torchaudio 
+torch-cuda=11.6 -c pytorch -c nvidia
+
+4. # Test Torch with CUDA for GPU
+The program below should show the GPU type and memory you haave locally
+
+```
+import torch
+import streamlit as st
+
+def main():
+    # Check if GPU is available
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    # Get RAM size
+    total_ram = round(torch.cuda.get_device_properties(device).total_memory / 1024**3, 1)
+
+    # Display device and RAM info
+    st.write(f"Device: {device}")
+    st.write(f"Total available RAM: {total_ram} GB")
+
+if __name__ == "__main__":
+    main()
+```
+
+
+
 🚀🔥🐍🔬 PyTorch 2.0 is here!
 
 🎉 Torch.compile: a feature pushing PyTorch performance to new heights
