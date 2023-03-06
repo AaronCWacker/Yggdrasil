@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Michael Abramoff - Autonomous AI in Health Care
+# Notes on Michael Abramoff Innovator of Autonomous AI in Health Care for Opthamology
 1. Disparities in Healthcare
 2. Assistive
 	1. Medical decision by clinician
@@ -35,8 +35,21 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	8. Minimal training for operator
 	9. Only need outlet
 	10. Platform integrated to workflow, EHR, FHIR & C
-
-
+6. Concerns about Healthcare AI
+	1. Will it benefit me as a patient?
+	2. Will it exacerbate health disparities?
+	3. What happens to my data?
+	4. Is there racial, ethnic bias?
+	5. Who is liable for errors?
+	6. Who pays for this?
+7. Healthcare AI Stakeholders
+	1. AI Creators
+	2. Patients and patient organizations
+	3. US Congress and GAO
+	4. Regulators - Federal Agencies HHS, FDA, CMMI, FTC
+	5. Physician and Provider organizations
+	6. Payors: HHS-CMS, private payors
+8. Fear of Backlash, Techlash
 
 # GPU and CUDA Install for PyTorch on Windows:
 
