@@ -50,6 +50,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	5. Physician and Provider organizations
 	6. Payors: HHS-CMS, private payors
 8. Fear of Backlash, Techlash
+9. Starting with Ethical Framework
+	1. Regulatory and Payment
+	2. FDA, Standards of Medical Care
+	3. NCQA, AMA, CMS
+	4. Improve health disparities AMA, Responsibility
 
 # GPU and CUDA Install for PyTorch on Windows:
 
