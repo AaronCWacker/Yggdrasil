@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Innovator of Autonomous AI in Health Care for Opthamology
+# Innovation of Autonomous AI in Health Care
 1. Notes on Michael Abramoff, Disparities in Healthcare, Payment: https://www.nature.com/articles/s41746-022-00621-w
 2. Assistive
 	1. Medical decision by clinician
@@ -49,6 +49,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	4. Regulators - Federal Agencies HHS, FDA, CMMI, FTC
 	5. Physician and Provider organizations
 	6. Payors: HHS-CMS, private payors
+	7. Medical Liability Insurance:  https://youtu.be/fNnk3XdVVDw?t=2293
 8. Fear of Backlash, Techlash
 9. Starting with Ethical Framework
 	1. Regulatory and Payment
