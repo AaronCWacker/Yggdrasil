@@ -2,7 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Notes on Michael Abramoff Innovator of Autonomous AI in Health Care for Opthamology
-1. Disparities in Healthcare
+1. Disparities in Healthcare, Payment: https://www.nature.com/articles/s41746-022-00621-w
 2. Assistive
 	1. Medical decision by clinician
 	2. Liability for clinician
