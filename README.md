@@ -1,6 +1,31 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Michael Abramoff - Autonomous AI in Health Care
+1. Disparities in Healthcare
+2. Assistive
+	1. Medical decision by clinician
+	2. Liability for clinician
+	3. Patient already in care workflow
+	4. Real world value
+	5. outcome improvement for patients
+3. Autonomous
+	1. Medical decision by computer
+	2. Liability for AI creator
+	3. Point of Care and Immediate
+	4. Added wherever patient is
+	5. Real world value
+	6. outcome improvement for patients and populations
+	7. address disparity solutions
+4. Diabetes - Inequities:
+	1. Higher risk for getting diabetes
+	2. More sever diabetic retinopathy
+	3. Higher risk retinopathy
+	4. Lower access issues to care
+	5. 34M have diabetes, 60k go blind, 85% diabetes with no eye exam
+	6. Visual loss almost entirely preventable if caught before symptoms.
+
+
 # GPU and CUDA Install for PyTorch on Windows:
 
 1. # Confirm your GPU on OS.  Install __NVIDIA CUDA 12__ toolkit for linux or windows 
