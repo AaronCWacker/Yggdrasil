@@ -24,6 +24,18 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	4. Lower access issues to care
 	5. 34M have diabetes, 60k go blind, 85% diabetes with no eye exam
 	6. Visual loss almost entirely preventable if caught before symptoms.
+5. Autonomous AI for diabetic eye exams
+	1. FDA De Novo approved
+	2. Autonomous Diagnosis
+	3. Point of Care Dx in minutes
+	4. No human oversight
+	5. More accurate than retinal specialist
+	6. Predicts visual outcome if patient not treated
+	7. Primary care and retail
+	8. Minimal training for operator
+	9. Only need outlet
+	10. Platform integrated to workflow, EHR, FHIR & C
+
 
 
 # GPU and CUDA Install for PyTorch on Windows:
