@@ -10,12 +10,12 @@ Breast Cancer Screening| % of women with mammogram in past 2 yrs |🩺🎀 | Cli
 Colorectal Cancer Screening| % of adults screened for colorectal cancer| 🩺💩 | Clinical Code| CPT| 82274
 Comprehensive Diabetes Care| % of diabetic patients who had all recommended tests| 🩺🩹 | Clinical Code| LOINC| 4548-4
 Controlling High Blood Pressure| % of patients with controlled blood pressure| 🩺💊 | Clinical Code| ICD10|I10
-Medication Management for Asthma| % of asthma patients with proper meds| 💊🌬️ | Clinical Code| SNOMED 195967001
-Follow-up After Mental Illness Hospitalization| % of patients with follow-up care| 🩺🏥 | Clinical Code| HCPCS G0181
-Prenatal & Postpartum Care| % of pregnant women with proper care |🤰🩺 | Clinical Code| ICD10 Z34
+Medication Management for Asthma| % of asthma patients with proper meds| 💊🌬️ | Clinical Code| SNOMED|195967001
+Follow-up After Mental Illness Hospitalization| % of patients with follow-up care| 🩺🏥 | Clinical Code| HCPCS|G0181
+Prenatal & Postpartum Care| % of pregnant women with proper care |🤰🩺 | Clinical Code| ICD10|Z34
 Comprehensive Eye Exam| % of diabetic patients with eye exam |🩺👀 | Clinical Code| CPT| 92014
 Childhood Weight Assessment| % of children with BMI assessment |🧒📏 | Clinical Code| ICD10| Z00.121
-Chlamydia Screening in Women| % of sexually active women screened| 🩺👩 | Clinical Code| CPT 87491
+Chlamydia Screening in Women| % of sexually active women screened| 🩺👩 | Clinical Code| CPT|87491
 Avoidance of Antibiotic Treatment for Acute Bronchitis| % of patients without antibiotics |🩺💊 | Clinical Code| ICD10|J20.9
 Osteoporosis Management in Women|% of women with bone density test |🩺💪 | Clinical Code| CPT|77080
 Use of High-Risk Medications in the Elderly| % of elderly with safe meds |💊👴👵 | Clinical Code| HCPCS |G9612
