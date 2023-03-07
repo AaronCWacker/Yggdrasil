@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Question and Answer Models and Datasets:
+
+Tasks:
+1. Visual Question Answering
+2. Document Question Answering
+3. Table Question Answering
+4. Zero Shot Classification
+5. Translation
+6. Conversational / Chat
+7. Text2Text Generation
+8. ASR / TTS
+
 # Top 50 Assessments in Physical and Mental Health
 
 Below are the top 50 mental and physical health assessments.
