@@ -3,6 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Mermaid Model for Core NLP Tasks:
 
+```mermaid
 graph LR;
     A[Reader]-->B[Classifier];
     A-->C[Retriever];
@@ -26,6 +27,7 @@ graph LR;
     Q[Retraining]-->B;
     Q-->E;
     R[Annotation]-->B;
+```
 
 # Core NLP Task Model for QA
 
