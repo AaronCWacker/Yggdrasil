@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Graphs Survey-Assess-Plan-Goals
+
+These top 5 graph examples introduce visual ideas to use to survey, assess, plan and reach goals.
+
+1. Graph OMS and LOCUS Standards and Quality Metrics: https://huggingface.co/spaces/awacke1/NLPGraphOMSandLOCUS
+2. Graph Pain and High Medium Low Confidence: https://huggingface.co/spaces/awacke1/VISNLP-Graph
+3. Graph Action Mechanics: https://huggingface.co/spaces/awacke1/CardGameActivity-GraphViz
+4. Graph - OMS, MH, Charts, Maps, DOT lang for Pyvis VisJS: https://huggingface.co/spaces/awacke1/CPVisGraph
+5. Graph - Plan and Assess: https://huggingface.co/spaces/awacke1/Git-GPG-Git-Actions-01-GraphViz
+
 # ICD10, CPT, LOINC, SNOMED, HCPCS, OMS Codes for Top Health Conditions and Treatment Preferences Assessment
 
 Assess Topic| Assess Metric | Code Emoji | Code Topic | Code Type  |  Code	
