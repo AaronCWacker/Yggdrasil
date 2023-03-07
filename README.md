@@ -1,17 +1,33 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Question and Answer Models and Datasets:
+# 🤖 QA Models and Datasets:
 
-Tasks:
-1. Visual Question Answering
-2. Document Question Answering
-3. Table Question Answering
-4. Zero Shot Classification
-5. Translation
-6. Conversational / Chat
-7. Text2Text Generation
-8. ASR / TTS
+- Reader model extracts answers from text using QA pairs. SQuAD is the primary dataset.
+- Transformers (huggingface) has research momentum and solves real business problems.
+
+## 💻 Process:
+
+1. Best practices for QA systems: https://www.youtube.com/playlist?list=PLHgX2IExbFotW6WgDZ-cMzpDBUNKCMBbF
+2. Optimize Question/Answer Heads for SQuAD.
+3. QA search to ask questions to textual kb.
+4. Return text sections as answers.
+5. Organize text collection.
+6. Find similar documents to given input.
+7. Perform semantic and comprehensive word matching.
+8. Match incoming questions to FAQ KB dataset.
+
+## 📋 Tasks:
+
+1. Visual, 
+2. Document, and 
+3. Table QA.
+4. Zero Shot Classification.
+5. Translation.
+6. Conversational/Chat.
+7. Text2Text Generation.
+8. ASR/TTS.
+
 
 # Top 50 Assessments in Physical and Mental Health
 
