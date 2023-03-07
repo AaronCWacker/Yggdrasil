@@ -2,6 +2,9 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # QA Model Spaces:
+
+QA use cases include QA, Semantic Document and FAQ Search.
+
 1. Streamlit Question Answering w Hugging Face: https://huggingface.co/spaces/awacke1/Question-answering
 2. Seq2Seq:
 	- https://huggingface.co/spaces/awacke1/4-Seq2SeqQAT5
