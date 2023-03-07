@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# QA Model Spaces:
+1. Streamlit Question Answering w Hugging Face: https://huggingface.co/spaces/awacke1/Question-answering
+2. Seq2Seq:
+	- https://huggingface.co/spaces/awacke1/4-Seq2SeqQAT5
+	- https://huggingface.co/spaces/awacke1/AW-04-GR-Seq-2-Seq-QA-Auto-Gen
+	- 
+3. BioGPT: https://huggingface.co/spaces/awacke1/microsoft-BioGPT-Large-PubMedQA
+4. NLP QA Context: https://huggingface.co/spaces/awacke1/NLPContextQATransformersRobertaBaseSquad2
+	- https://huggingface.co/spaces/awacke1/SOTA-Plan
+5.  https://huggingface.co/spaces/awacke1/Question-answering
+6.  QA MLM: https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+
 # 🤖 QA Models and Datasets:
 
 - Reader model extracts answers from text using QA pairs. SQuAD is the primary dataset.
