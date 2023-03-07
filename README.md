@@ -1,6 +1,62 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top 50 Assessments in Physical and Mental Health
+
+Below are the top 50 mental and physical health assessments.
+
+1. **Patient Health Questionnaire (PHQ-9)** 🧠 - [Depression assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/)
+2. **Generalized Anxiety Disorder 7-item Scale (GAD-7)** 😰 - [Anxiety assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840870/)
+3. **Hamilton Rating Scale for Depression (HRSD)** 🧠 - [Depression assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2598532/)
+4. **World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0)** 🧠💪 - [Physical and mental health assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249030/)
+5. **Short Form-36 Health Survey (SF-36)** 💪🧠 - [Physical and mental health assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/)
+6. **Health Assessment Questionnaire (HAQ)** 💪 - [Physical health assessment](https://ard.bmj.com/content/48/8/664.short)
+7. **EuroQol-5D (EQ-5D)** 💪🧠 - [Physical and mental health assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1070773/)
+8. **Geriatric Depression Scale (GDS)** 🧑‍🦳🧠 - [Depression assessment for older adults](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/613566)
+9. **Mini-Mental State Examination (MMSE)** 🧑‍🦳💭 - [Cognitive assessment for older adults](https://jamanetwork.com/journals/jama/article-abstract/381357)
+10. **Pain Catastrophizing Scale (PCS)** 💔 - [Pain assessment](https://pubmed.ncbi.nlm.nih.gov/10954836/)
+11. **Oswestry Disability Index (ODI)** 💪💔 - [Back pain assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652150/)
+12. **Fibromyalgia Impact Questionnaire (FIQ)** 💔😩 - [Fibromyalgia assessment](https://pubmed.ncbi.nlm.nih.gov/10344108/)
+13. **Beck Depression Inventory (BDI)** 🧠 - [Depression assessment](https://psycnet.apa.org/record/1979-29733-001)
+14. **Posttraumatic Stress Disorder Checklist (PCL)** 😰😞 - [Posttraumatic stress disorder assessment](https://pubmed.ncbi.nlm.nih.gov/10471875/)
+15. **Alcohol Use Disorders Identification Test (AUDIT)** 🍻 - [Alcohol use assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6552322/)
+16. **Drug Abuse Screening Test (DAST)** 💊 - [Drug use assessment](https://jamanetwork.com/journals/jama/article-abstract/378161)
+17. **Eating Attitudes Test (EAT)** 🍴 - [Eating disorder assessment](https://pubmed.ncbi.nlm.nih.gov/6752589/)
+18. **Adolescent Eating Disorder Examination (ADE)** 🍴👩‍🦰 - [Eating disorder assessment for adolescents](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2792684/)
+19. **Child Behavior Checklist (CBCL)** 👧🧒 - [Child behavior assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5403973/)
+20. **Autism Spectrum Quotient (AQ)** 🧑‍🦱 - [Autism assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4075476/)
+21. **Columbia-Suicide Severity Rating Scale (C-SSRS)** 🩸 - [Suicide risk assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3196356/)
+22. **Perceived Stress Scale (PSS)** 😩 - [Stress assessment](https://journals.sagepub.com/doi/abs/10.1177/0146167296228004)
+23. **Satisfaction with Life Scale (SWLS)** 😊 - [Life satisfaction assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293070/)
+24. **Health Belief Model Scale (HBM)** 💊💉 - [Health belief assessment](https://pubmed.ncbi.nlm.nih.gov/7614248/)
+25. **Multidimensional Health Locus of Control Scale (MHLC)** 💊💉 - [Locus of control assessment](https://www.sciencedirect.com/science/article/pii/S0165032706002641)
+26. **Life Orientation Test-Revised (LOT-R)** 😃 - [Optimism assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3080282/)
+27. **State-Trait Anxiety Inventory (STAI)** 😰 - [Anxiety assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3075639/)
+28. **Multidimensional Scale of Perceived Social Support (MSPSS)** 👥 - [Social support assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724290/)
+29. **Job Content Questionnaire (JCQ)** 💼 - [Job satisfaction assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5557517/)
+30. **Burnout Measure (BO)** 🔥 - [Burnout assessment](https://pubmed.ncbi.nlm.nih.gov/19005933/)
+31. **Family Assessment Device (FAD)** 👨‍👩‍👧 - [Family functioning assessment](https://psycnet.apa.org/record/1984-29702-001)
+32. **Perceived Control Scale (PCS)** 💪 - [Perceived control assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3729686/)
+33. **General Self-Efficacy Scale (GSES)** 💪 - [Self-efficacy assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2894461/)
+34. **Coping Strategies Inventory (CSI)** 😓 - [Coping strategies assessment](https://journals.sagepub.com/doi/abs/10.2466/pr0.1991.68.3.847)
+35. **Acceptance and Action Questionnaire (AAQ-II)** 🧘 - [Acceptance and commitment therapy assessment](https://psycnet.apa.org/record/2012-30832-002)
+36. **Attention Deficit Hyperactivity Disorder Self-Report Scale (ASRS)** 👧🧒 - [ADHD assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3270044/)
+37. **Impact of Event Scale-Revised (IES-R)** 😔😞 - [Trauma assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2267438/)
+38. **Insomnia Severity Index (ISI)** 💤 - [Insomnia assessment](https://pubmed.ncbi.nlm.nih.gov/12074132/)
+39. **Social Phobia Inventory (SPIN)** 😰 - [Social anxiety assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3185294/)
+40. **Panic Disorder Severity Scale (PDSS)** 😰 - [Panic disorder assessment](https://pubmed.ncbi.nlm.nih.gov/11202191/)
+41. **Yale-Brown Obsessive Compulsive Scale (Y-BOCS)** 🤔 - [Obsessive-compulsive disorder assessment](https://pubmed.ncbi.nlm.nih.gov/3797936/)
+42. **Social Interaction Anxiety Scale (SIAS)** 😰 - [Social anxiety assessment](https://journals.sagepub.com/doi/10.1177/0145445503255489)
+43. **Generalized Anxiety Disorder Scale (GADS)** 😰 - [Anxiety assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5042272/)
+44. **Postpartum Depression Screening Scale (PDSS)** 🤱🧠 - [Postpartum depression assessment](https://pubmed.ncbi.nlm.nih.gov/18637668/)
+45. **Child and Adolescent Symptom Inventory (CASI)** 👧🧒🧠 - [Child and adolescent mental health assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3820973/)
+46. **Strengths and Difficulties Questionnaire (SDQ)** 👧🧒🧠 - [Child and adolescent mental health assessment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/)
+47. **Kessler Psychological Distress Scale (K10)** 🧠 - [Psychological distress assessment](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0064416)
+48. **World Health Organization Quality of Life Scale (WHOQOL)** 💪🧠 - [Quality of life assessment](https://www.who.int/mental_health/media/en/76.pdf)
+49. **Multidimensional Pain Inventory (MPI)** 💔 - [Chronic pain assessment](https://pubmed.ncbi.nlm.nih.gov/8089338/)
+50. **Cornell Scale for Depression in Dementia (CSDD)** 👴👵🧠 - [Depression assessment for dementia patients](https://pubmed.ncbi.nlm.nih.gov/10160369/)
+
+
 # SMART/FHIR/SDC Survey-Assess-Plan
 
 These SMART/FHIR/SDC compatible Surveys demonstrate how to build and conducct surveys with EMR/EHR Compliance Standards
