@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Mermaid Model for Core NLP Tasks:
+
+graph LR;
+    A[Reader]-->B[Classifier];
+    A-->C[Retriever];
+    A-->D[Summarizer];
+    B-->E[Ranker];
+    B-->F[Query Classifier];
+    D-->G[Generator];
+    F-->H[Question Generator];
+    H-->G;
+    I[File Converter]-->J[Preprocessor];
+    J-->A;
+    I-->C;
+    K[Snowflake]-->B;
+    L[Oracle]-->B;
+    M[Pandas CSV]-->A;
+    N[Index]-->C;
+    N-->E;
+    O[Query with Filters]-->F;
+    P[Evaluation]-->E;
+    P-->F;
+    Q[Retraining]-->B;
+    Q-->E;
+    R[Annotation]-->B;
+
 # Core NLP Task Model for QA
 
 Tasks:
