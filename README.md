@@ -1,6 +1,29 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# ICD10, CPT, LOINC, SNOMED, HCPCS, OMS Codes for Top Health Conditions and Treatment Preferences Assessment
+
+Childhood Immunization: % of children immunized by age two 🧒💉 | Clinical Code: ICD10 Z28.2
+Breast Cancer Screening: % of women with mammogram in past 2 yrs 🩺🎀 | Clinical Code: CPT 77067
+Colorectal Cancer Screening: % of adults screened for colorectal cancer 🩺💩 | Clinical Code: CPT 82274
+Comprehensive Diabetes Care: % of diabetic patients who had all recommended tests 🩺🩹 | Clinical Code: LOINC 4548-4
+Controlling High Blood Pressure: % of patients with controlled blood pressure 🩺💊 | Clinical Code: ICD10 I10
+Medication Management for Asthma: % of asthma patients with proper meds 💊🌬️ | Clinical Code: SNOMED 195967001
+Follow-up After Mental Illness Hospitalization: % of patients with follow-up care 🩺🏥 | Clinical Code: HCPCS G0181
+Prenatal & Postpartum Care: % of pregnant women with proper care 🤰🩺 | Clinical Code: ICD10 Z34
+Comprehensive Eye Exam: % of diabetic patients with eye exam 🩺👀 | Clinical Code: CPT 92014
+Childhood Weight Assessment: % of children with BMI assessment 🧒📏 | Clinical Code: ICD10 Z00.121
+Chlamydia Screening in Women: % of sexually active women screened 🩺👩 | Clinical Code: CPT 87491
+Avoidance of Antibiotic Treatment for Acute Bronchitis: % of patients without antibiotics 🩺💊 | Clinical Code: ICD10 J20.9
+Osteoporosis Management in Women: % of women with bone density test 🩺💪 | Clinical Code: CPT 77080
+Use of High-Risk Medications in the Elderly: % of elderly with safe meds 💊👴👵 | Clinical Code: HCPCS G9612
+Diabetes Screening for Schizophrenia or Bipolar Disorder: % of patients with mental illness screened 🧠🩺 | Clinical Code: SNOMED 169609005
+All-Cause Readmissions: % of patients readmitted within 30 days 🩺🏥 | Clinical Code: ICD10 Z51.5
+Antidepressant Medication Management: % of depressed patients with proper meds & follow-up 🩺🧠 | Clinical Code: CPT 96127
+Follow-up Care for Children Prescribed ADHD Medication: % of children with follow-up care 🩺🧒 | Clinical Code: ICD10 F90
+Imaging Studies for Low Back Pain: % of patients without imaging studies 🩺📊 | Clinical Code: ICD10 M54.5
+Spirometry Testing for COPD: % of COPD patients with spirometry testing 🩺🫁 | Clinical Code: CPT 94010
+
 # Innovation of Autonomous AI in Health Care
 1. Notes on Michael Abramoff, Disparities in Healthcare, Payment: https://www.nature.com/articles/s41746-022-00621-w
 2. Assistive
