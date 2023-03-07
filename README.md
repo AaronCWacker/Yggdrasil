@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Core NLP Task Model for QA
+
+Tasks:
+1. Reader
+2. Summarizer
+3. Classifier
+4. Retriever
+5. Ranker
+6. Query Classifier
+7. Question Generator
+8. Generator
+
+Connectors:
+1. File Converter
+2. Preprocessor
+3. Snowflake
+4. Oracle
+5. Pandas CSV
+
+Supported Workflow:
+1. Index
+2. Query with Filters
+3. Evaluation
+4. Retraining
+5. Annotation
+
 # QA Model Spaces:
 
 QA use cases include QA, Semantic Document and FAQ Search.
