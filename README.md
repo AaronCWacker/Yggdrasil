@@ -3,7 +3,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Supervised Learning (SL) for ML and Reinforcement Learning with Human Feedback (RLHF):
 
-For human imitation we use reinforcement learning for fine tuning since feedback based on rewards shapes the quality of output where an agent completes a task and then observes a result.  SL works on ranks not responses so is good for modifying elements at the token level however RLHF is trained to estimate the quality of the response with cumulative rewards for coherent conversation.  RLHF considers context and coherence of entire conversation.  Supervised learning is used to teach the model initially where the model learns basic structure and content.  In the RLHF stage the model is refined with responses that respresent improved accuracy.
+For human imitation we use reinforcement learning for fine tuning since feedback based on rewards shapes the quality of output where an agent completes a task and then observes a result.  SL works on ranks not responses so is good for modifying elements at the token level however RLHF is trained to estimate the quality of the response with cumulative rewards for coherent conversation.  RLHF considers context and coherence of entire conversation.  Supervised learning is used to teach the model initially where the model learns basic structure and content.  In the RLHF stage the model is refined with responses that represent improved accuracy.
+
+
 
 
 
