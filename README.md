@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# SMART/FHIR/SDC Survey-Assess-Plan
+
+These SMART/FHIR/SDC compatible Surveys demonstrate how to build and conducct surveys with EMR/EHR Compliance Standards
+
+1. Smart FHIR Connect and Test BMI Calculator: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-BMI
+2. Smart FHIR Kits SDC HL7: https://huggingface.co/spaces/awacke1/SMART-FHIR-Kits-SDC-HL7
+3. Smart FHIR Assessment Exercise: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Exercise
+4. Smart FHIR Assessment Blood Pressure: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
+5. Smart FHIR - Observations-Assessments-Rules-Referrals-Providers-Programs-Fulfillment-Alerrts-Notes-SDOH: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Observation-SDKs
+
+
 # Graphs Survey-Assess-Plan-Goals
 
 These top 5 graph examples introduce visual ideas to use to survey, assess, plan and reach goals.
