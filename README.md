@@ -97,6 +97,28 @@ QA use cases include QA, Semantic Document and FAQ Search.
 7. Text2Text Generation.
 8. ASR/TTS.
 
+# Mermaid model
+
+```mermaid
+graph LR;
+    A[Reader model]-->B[SQuAD];
+    C[Transformers (huggingface)]-->D[Real Business Problems];
+    E[Best practices for QA systems]-->F[Optimize Question/Answer Heads for SQuAD];
+    G[QA search]-->H[Textual KB];
+    H-->I[Return text sections as answers];
+    J[Organize text collection]-->K[Find similar documents to given input];
+    K-->I;
+    L[Perform semantic and comprehensive word matching]-->I;
+    M[Match incoming questions to FAQ KB dataset]-->I;
+    N[Visual QA]-->O[Document QA];
+    N-->P[Table QA];
+    Q[Zero Shot Classification]-->I;
+    R[Translation]-->I;
+    S[Conversational/Chat]-->I;
+    T[Text2Text Generation]-->I;
+    U[ASR/TTS]-->I;
+
+```
 
 # Top 50 Assessments in Physical and Mental Health
 
