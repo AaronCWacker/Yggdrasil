@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Supervised Learning (SL) for ML and Reinforcement Learning with Human Feedback (RLHF):
+
+For human imitation we use reinforcement learning for fine tuning since feedback based on rewards shapes the quality of output where an agent completes a task and then observes a result.  SL works on ranks not responses so is good for modifying elements at the token level however RLHF is trained to estimate the quality of the response with cumulative rewards for coherent conversation.  RLHF considers context and coherence of entire conversation.  Supervised learning is used to teach the model initially where the model learns basic structure and content.  In the RLHF stage the model is refined with responses that respresent improved accuracy.
+
+
+
 # Mermaid Model for Core NLP Tasks:
 
 ```mermaid
@@ -102,7 +108,7 @@ QA use cases include QA, Semantic Document and FAQ Search.
 ```mermaid
 graph LR;
     A[Reader model]-->B[SQuAD];
-    C[Transformers (huggingface)]-->D[Real Business Problems];
+    C[Transformers from Huggingface]-->D[Real Business Problems];
     E[Best practices for QA systems]-->F[Optimize Question/Answer Heads for SQuAD];
     G[QA search]-->H[Textual KB];
     H-->I[Return text sections as answers];
