@@ -1,7 +1,7 @@
 
 # AI Zero to Hero - 3/9/2023
 
-# How to multiply your productivity by 100 times using AI:
+# Multiply your productivity by 100 times today using AI:
   - Lets prove it with  HuggingFace, Gradio, Streamlit, ChatGPT,and HTML/Javascript
   - My Progression:
     1. 2021 - With AI Coding From Scratch **10 AI programs per year** = 1 AI Program per 36.5 days.
