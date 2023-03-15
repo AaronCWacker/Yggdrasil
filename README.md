@@ -1,6 +1,42 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# ASR Voice and Virtual Assistants With Avatars
+1. https://huggingface.co/spaces/awacke1/ASR-openai-whisper-large
+2. https://huggingface.co/spaces/awacke1/ASR-voidful-wav2vec2-xlsr-multilingual-56
+3. https://huggingface.co/spaces/awacke1/ASR-nvidia-stt_en_conformer_ctc_large
+4. https://huggingface.co/spaces/awacke1/ASR-facebook-hubert-large-ls960-ft
+5. https://huggingface.co/spaces/awacke1/ASR-openai-whisper-tiny.en
+6. https://huggingface.co/spaces/awacke1/ASR-openai-whisper-tiny
+7. https://huggingface.co/spaces/awacke1/ASR-openai-whisper-medium
+8. https://huggingface.co/spaces/awacke1/ASR-nvidia-stt_en_conformer_transducer_xlarge
+9. https://huggingface.co/spaces/awacke1/ASR-openai-whisper-base
+10. https://huggingface.co/spaces/awacke1/ASR-facebook-wav2vec2-large-960h-lv60-self
+11. https://huggingface.co/spaces/awacke1/ASR-facebook-wav2vec2-base-960h
+12. https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+13. https://huggingface.co/spaces/awacke1/ASRGenerateStory
+14. https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+15. https://huggingface.co/spaces/awacke1/2-LiveASR
+16. https://huggingface.co/spaces/awacke1/CloneAnyVoice
+17. https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+18. https://huggingface.co/spaces/awacke1/ASRSpeechRecognition1
+19. https://huggingface.co/spaces/awacke1/1110-ASRLiveExample
+20. https://huggingface.co/spaces/awacke1/Z1-ASRLiveSpeechRecognition-GR
+21. https://huggingface.co/spaces/awacke1/PrivateASRWithMemory
+22. https://huggingface.co/spaces/awacke1/TimerASRLive
+
+# Best Voice Apps - HF:
+1. https://huggingface.co/spaces/BilalSardar/Voice-Cloning
+2. https://huggingface.co/spaces/RamAnanth1/chatGPT_voice
+3. https://huggingface.co/spaces/Voicemod/speech-synthesis-demo
+4. https://huggingface.co/spaces/ysharma/Voice-to-Youtube
+5. https://huggingface.co/spaces/ramkamal2000/voice-conversion-yourtts
+6. https://huggingface.co/spaces/RamAnanth1/co_chat_voice
+7. https://huggingface.co/spaces/ysharma/Voice-to-jokes
+8. https://huggingface.co/spaces/jayesh95/Voice-QA
+
+
+
 # Supervised Learning (SL) for ML and Reinforcement Learning with Human Feedback (RLHF):
 
 For human imitation we use reinforcement learning for fine tuning since feedback based on rewards shapes the quality of output where an agent completes a task and then observes a result.  SL works on ranks not responses so is good for modifying elements at the token level however RLHF is trained to estimate the quality of the response with cumulative rewards for coherent conversation.  RLHF considers context and coherence of entire conversation.  Supervised learning is used to teach the model initially where the model learns basic structure and content.  In the RLHF stage the model is refined with responses that represent improved accuracy.
