@@ -1,6 +1,57 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# MediaPipe
+### A cross language SDK for AI that is real time, 3d, camera responsive, and on any device for nearly any language
+#### Vision
+#### Natural Language
+#### Audio
+
+Mediapipe has fast and flexible AI/ML pipelines.
+Examples with Javascript Links!
+
+1. Image Classifier: https://mediapipe-studio.webapps.google.com/demo/image_classifier
+2. Object Detector: https://mediapipe-studio.webapps.google.com/demo/object_detector
+3. Text Classification: https://mediapipe-studio.webapps.google.com/demo/text_classifier
+4. Gesture Recognizer: https://mediapipe-studio.webapps.google.com/demo/gesture_recognizer
+5. Hand Landmark Detection: https://mediapipe-studio.webapps.google.com/demo/hand_landmarker
+6. Audio Classifier: https://mediapipe-studio.webapps.google.com/demo/audio_classifier
+
+
+Get started with just Javascript!!
+Getting Started: https://google.github.io/mediapipe/getting_started/javascript.html
+
+Javascript Solutions - Ready to Demo:
+1. Face Mesh: https://codepen.io/mediapipe/full/KKgVaPJ
+2. Face Detection: https://codepen.io/mediapipe/full/dyOzvZM
+3. Hands: https://codepen.io/mediapipe/full/RwGWYJw
+4. Face, Hands, Body: https://codepen.io/mediapipe/full/LYRRYEw
+5. Objectron: https://codepen.io/mediapipe/full/BaWvzdY
+6. Full Skeletal Pose: https://codepen.io/mediapipe/full/jOMbvxw
+7. Self Segmentation From Background: https://codepen.io/mediapipe/full/wvJyQpq
+
+Demonstration in Action with Screenshots:
+
+Self Segmentation From Background:
+![image](https://user-images.githubusercontent.com/30595158/225767564-786928a3-7c91-4df1-babb-0cc4c2b71460.png)
+
+Full Skeletal Pose:
+![image](https://user-images.githubusercontent.com/30595158/225767721-6f088349-3f56-41b3-85d4-98f2456dc165.png)
+
+Hands - Both in 3D Projection even hidden surface vertices - Mahalo:
+![image](https://user-images.githubusercontent.com/30595158/225767970-0e1000e8-72a8-4276-a6f0-ccfcd3ac6d72.png)
+
+Holistic - Face, Hands, Body:
+![image](https://user-images.githubusercontent.com/30595158/225768092-2cb4a144-7033-46b1-a476-3e0ec376eb36.png)
+
+Face Detection:
+![image](https://user-images.githubusercontent.com/30595158/225768256-c97c0f62-6ef9-4c7e-aa41-8eaf4f344a3d.png)
+
+Face Mesh Real Time - 30 Frames per second!
+![image](https://user-images.githubusercontent.com/30595158/225768360-c64197ff-919f-47a9-8cc0-c6d5e73e5853.png)
+
+
+
 # ASR Voice and Virtual Assistants With Avatars
 1. https://huggingface.co/spaces/awacke1/ASR-openai-whisper-large
 2. https://huggingface.co/spaces/awacke1/ASR-voidful-wav2vec2-xlsr-multilingual-56
