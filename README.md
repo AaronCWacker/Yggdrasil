@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Instagram RIP 88 weeks ago today
+I was a huge fan of instagram until marketing and visibility cross groups changed their alignment to what is popular.
+Since 88 weeks ago it hasnt been 1/6th the platform mathematically that regards the individual.
+Last Vestige of ffree open source, equality on Instagram seems to have changed to one tenth as good on July 7, 2021
+Sorry we miss you, RIP platform for artists as of July 21, 2021.
+Instagram original you are missed.
+
+https://www.instagram.com/p/CRDLyCzr39Y/
+
+
+
 # MediaPipe
 ### A cross language SDK for AI that is real time, 3d, camera responsive, and on any device for nearly any language
 #### Vision
