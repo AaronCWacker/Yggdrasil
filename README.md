@@ -15,6 +15,11 @@ awacke1/Visualization-Plotly-Sunbursts-Treemaps-and-WebGL	|	https://huggingface.
 awacke1/HTML5-Aframe-3D-Maps	|	https://huggingface.co/spaces/awacke1/HTML5-Aframe-3D-Maps
 awacke1/HTML5-Aframe-3dMap-Flight	|	https://huggingface.co/spaces/awacke1/HTML5-Aframe-3dMap-Flight
 
+Figures:
+![image](https://user-images.githubusercontent.com/30595158/226116055-25b8c900-bc10-472d-8b5f-61c7b8b5452b.png)
+
+
+
 # Top Ten Board Games
 ## Map-Making-Strategy
 https://huggingface.co/spaces/awacke1/Top-Ten-Board-Games-Map-Making-Strategy
