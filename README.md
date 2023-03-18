@@ -1,6 +1,24 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Saturday
+write a streamlit python program that uses functions and user interface elements of a textbox, a dial, a four direction button array for up down left right and display a folium map with the data in python list dictionaries with these values: Aurora Spottings, Notifications on Nerthern Lights, Northern lights map location cities and countries for Iceland on a map written with folium for latitude and longitude of top ten places to view Northern Lights.  Cite References as urls.
+
+# Maps
+
+Space							|				URL
+-------------------------------------------------------------------------------------------------------------------------------------------
+awacke1/VizLib-TopLargeHospitalsNewJersey-03-09-2023 | https://huggingface.co/spaces/awacke1/VizLib-TopLargeHospitalsNewJersey-03-09-2023
+awacke1/Bird-Species-Migration-Month-Map	|	https://huggingface.co/spaces/awacke1/Bird-Species-Migration-Month-Map
+⚗️🧠🔬🧬 Clinical Terminology Auto Mapper AI 👩‍⚕️🩺⚕️🙋	|	https://huggingface.co/spaces/awacke1/SNOMED-LOINC-eCQM	
+awacke1/Visualization-Plotly-Sunbursts-Treemaps-and-WebGL	|	https://huggingface.co/spaces/awacke1/Visualization-Plotly-Sunbursts-Treemaps-and-WebGL
+awacke1/HTML5-Aframe-3D-Maps	|	https://huggingface.co/spaces/awacke1/HTML5-Aframe-3D-Maps
+awacke1/HTML5-Aframe-3dMap-Flight	|	https://huggingface.co/spaces/awacke1/HTML5-Aframe-3dMap-Flight
+
+# Top Ten Board Games
+## Map-Making-Strategy
+https://huggingface.co/spaces/awacke1/Top-Ten-Board-Games-Map-Making-Strategy
+
 
 
 # MediaPipe
