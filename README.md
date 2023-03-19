@@ -9,6 +9,9 @@ https://huggingface.co/spaces/awacke1/MN.Map.Hospitals.Top.Five
 # Iceland Myths - Places to See - https://huggingface.co/spaces/awacke1/Maps.Markers.Honor.Iceland
 ![image](https://user-images.githubusercontent.com/30595158/226151615-71d82400-b849-419e-833c-e8632676bc49.png)
 
+Ásbyrgi: Thor, trying to prove his strength, challenged Sleipnir to a race. Odin agreed, but secretly fed Sleipnir his favorite snack, lightning bolts. With each step, Sleipnir left a massive print, and thus, Ásbyrgi was formed.
+
+![image](https://user-images.githubusercontent.com/30595158/226151903-2298f479-f829-48bb-83e5-546677da85ac.png)
 
 
 
