@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Saturday Evening:
+https://huggingface.co/spaces/awacke1/MN.Map.Hospitals.Top.Five
+![image](https://user-images.githubusercontent.com/30595158/226150906-65fcdb27-b234-4500-8cd8-c6b88d1afa05.png)
+
+
+
+
 # Saturday
 write a streamlit python program that uses functions and user interface elements of a textbox, a dial, a four direction button array for up down left right and display a folium map with the data in python list dictionaries with these values: Aurora Spottings, Notifications on Nerthern Lights, Northern lights map location cities and countries for Iceland on a map written with folium for latitude and longitude of top ten places to view Northern Lights.  Cite References as urls.
 
