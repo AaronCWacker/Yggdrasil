@@ -1,6 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Clinical Terminology:
+# FHIR:
+https://huggingface.co/spaces/awacke1/Clinical-Terminology-FHIR-Assessment
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Observation-SDKs
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Kits-SDC-HL7
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Exercise
+
+
+# Clinical Terminology:
+https://huggingface.co/spaces/awacke1/Ontology-Gradio
+https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+https://huggingface.co/spaces/awacke1/ClinicalTerminologyNER-Refactored
+https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
+https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch1215
+
+
+
+# Graph, Clinical Terminology, FHIR Apps and Services:
+
+https://huggingface.co/spaces/awacke1/Git-GPG-Git-Actions-01-GraphViz
+https://huggingface.co/spaces/awacke1/Dice-Roll-Treemap-Plotly
+https://huggingface.co/spaces/awacke1/GraphVis3
+https://huggingface.co/spaces/awacke1/GraphViz-Demo
+https://huggingface.co/spaces/awacke1/StreamlitGraphViz
+https://huggingface.co/spaces/awacke1/CardGameActivity-GraphViz
+
+
+CP Matplotlib, NetworkX, Streamlit, PyVis, st-click0detector, graphviz:
+https://huggingface.co/spaces/awacke1/CPVisGraph
+
+OMS and LOCUS:
+https://huggingface.co/spaces/awacke1/NLPGraphOMSandLOCUS
+
+Technical Architecture, Data Examples:
+
+NetworkX: https://networkx.org/
+
+
 # Saturday Evening:
 https://huggingface.co/spaces/awacke1/MN.Map.Hospitals.Top.Five
 ![image](https://user-images.githubusercontent.com/30595158/226150906-65fcdb27-b234-4500-8cd8-c6b88d1afa05.png)
