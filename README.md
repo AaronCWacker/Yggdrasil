@@ -21,6 +21,12 @@ https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch1215
 
 # Graph, Clinical Terminology, FHIR Apps and Services:
 
+CP Matplotlib, NetworkX, Streamlit, PyVis, st-click0detector, graphviz:
+https://huggingface.co/spaces/awacke1/CPVisGraph
+
+OMS and LOCUS:
+https://huggingface.co/spaces/awacke1/NLPGraphOMSandLOCUS
+
 https://huggingface.co/spaces/awacke1/Git-GPG-Git-Actions-01-GraphViz
 https://huggingface.co/spaces/awacke1/Dice-Roll-Treemap-Plotly
 https://huggingface.co/spaces/awacke1/GraphVis3
@@ -28,16 +34,16 @@ https://huggingface.co/spaces/awacke1/GraphViz-Demo
 https://huggingface.co/spaces/awacke1/StreamlitGraphViz
 https://huggingface.co/spaces/awacke1/CardGameActivity-GraphViz
 
-
-CP Matplotlib, NetworkX, Streamlit, PyVis, st-click0detector, graphviz:
-https://huggingface.co/spaces/awacke1/CPVisGraph
-
-OMS and LOCUS:
-https://huggingface.co/spaces/awacke1/NLPGraphOMSandLOCUS
-
-Technical Architecture, Data Examples:
+Technical Architecture - Open Source Graph ML Libraries:
 
 NetworkX: https://networkx.org/
+PyTorch GNN: https://github.com/microsoft/ptgnn
+Jraph: https://github.com/deepmind/jraph
+Spektral: https://graphneural.network/
+Graph Nets: https://github.com/deepmind/graph_nets
+Deep Graph Library (DGL): https://github.com/dmlc
+PyTorch Geometric: https://github.com/pyg-team/pytorch_geometric
+
 
 
 # Saturday Evening:
