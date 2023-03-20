@@ -1,22 +1,6 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Clinical Terminology:
-# FHIR:
-https://huggingface.co/spaces/awacke1/Clinical-Terminology-FHIR-Assessment
-https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Observation-SDKs
-https://huggingface.co/spaces/awacke1/SMART-FHIR-Kits-SDC-HL7
-https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
-https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Exercise
-
-
-# Clinical Terminology:
-https://huggingface.co/spaces/awacke1/Ontology-Gradio
-https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
-https://huggingface.co/spaces/awacke1/ClinicalTerminologyNER-Refactored
-https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
-https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch1215
-
 
 
 # Graph, Clinical Terminology, FHIR Apps and Services:
@@ -43,6 +27,25 @@ Spektral: https://graphneural.network/
 Graph Nets: https://github.com/deepmind/graph_nets
 Deep Graph Library (DGL): https://github.com/dmlc
 PyTorch Geometric: https://github.com/pyg-team/pytorch_geometric
+
+
+
+# Clinical Terminology:
+# FHIR:
+https://huggingface.co/spaces/awacke1/Clinical-Terminology-FHIR-Assessment
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Observation-SDKs
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Kits-SDC-HL7
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Exercise
+
+
+# Clinical Terminology:
+https://huggingface.co/spaces/awacke1/Ontology-Gradio
+https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+https://huggingface.co/spaces/awacke1/ClinicalTerminologyNER-Refactored
+https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch
+https://huggingface.co/spaces/awacke1/ClinicalTerminologyAISearch1215
+
 
 
 
