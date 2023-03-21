@@ -11,7 +11,7 @@ flowchart TB
 		classDef green fill:#93ff75,stroke:#000,stroke-width:2px,color:#000
 	
 	%% Databases %%
-		DOCS("<img src='https://super.so/icon/dark/file-minus.svg'; width='40' />"):::white
+		DOCS("<img src='https://raw.githubusercontent.com/AaronCWacker/Yggdrasil/main/images/20-Books.jpg'; width='40' />"):::white
 		NOTES("<img src='https://super.so/icon/dark/book.svg'; width='40' />"):::white
 		TASKS("<img src='https://super.so/icon/dark/check-square.svg'; width='40' />"):::white
 
