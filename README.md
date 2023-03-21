@@ -2,6 +2,18 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Topic Modeling:
+https://huggingface.co/spaces/AI-Dashboards/Topic-Modeling-Clusters-Free-Text
+
+# Transformers pipelines with streamlit, torch, transformers:
+
+https://www.youtube.com/watch?v=QEaBAZQCtwE
+Resources:
+Website: https://huggingface.co
+Course: https://huggingface.co/course
+https://huggingface.co/docs/transformers/training
+
+
 
 # Graph, Clinical Terminology, FHIR Apps and Services:
 
