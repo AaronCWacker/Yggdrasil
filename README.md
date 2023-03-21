@@ -1,11 +1,179 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Diagrams as Code:
+1. Mermaid: https://lukemerrett.com/building-c4-diagrams-in-mermaid/
+2. Mermaid: https://lukemerrett.com/using-mermaid-flowchart-syntax-in-notion/
+3. Mermaid: https://lukemerrett.com/c4-diagrams-as-code-architectural-joy/
+4. PyGraphViz: https://huggingface.co/spaces/AI-Dashboards/CP.Matplotlib.NetworkX.Streamlit.PyVis.Graphviz
+5. PyGraphViz: https://huggingface.co/spaces/awacke1/GraphViz-Demo
+6. YTU: https://huggingface.co/spaces/awacke1/AIZTH-03-09-2023
+7. https://huggingface.co/spaces/awacke1/VizLib-GraphViz-SwimLanes-Digraph-ForMLLifecycle
+8. https://huggingface.co/spaces/awacke1/AI.Dashboard.Mermaid.Model.HTML5
+
+
+# Mermaid model
+
+```mermaid
+graph LR;
+    A[Reader model]-->B[SQuAD];
+    C[Transformers from Huggingface]-->D[Real Business Problems];
+    E[Best practices for QA systems]-->F[Optimize Question/Answer Heads for SQuAD];
+    G[QA search]-->H[Textual KB];
+    H-->I[Return text sections as answers];
+    J[Organize text collection]-->K[Find similar documents to given input];
+    K-->I;
+    L[Perform semantic and comprehensive word matching]-->I;
+    M[Match incoming questions to FAQ KB dataset]-->I;
+    N[Visual QA]-->O[Document QA];
+    N-->P[Table QA];
+    Q[Zero Shot Classification]-->I;
+    R[Translation]-->I;
+    S[Conversational/Chat]-->I;
+    T[Text2Text Generation]-->I;
+    U[ASR/TTS]-->I;
+
+```
+
+
+# Mermaid Model for Core NLP Tasks:
+
+```mermaid
+graph LR;
+    A[Reader]-->B[Classifier];
+    A-->C[Retriever];
+    A-->D[Summarizer];
+    B-->E[Ranker];
+    B-->F[Query Classifier];
+    D-->G[Generator];
+    F-->H[Question Generator];
+    H-->G;
+    I[File Converter]-->J[Preprocessor];
+    J-->A;
+    I-->C;
+    K[Snowflake]-->B;
+    L[Oracle]-->B;
+    M[Pandas CSV]-->A;
+    N[Index]-->C;
+    N-->E;
+    O[Query with Filters]-->F;
+    P[Evaluation]-->E;
+    P-->F;
+    Q[Retraining]-->B;
+    Q-->E;
+    R[Annotation]-->B;
+```
+
+
+# Machine Learning State of the Art - AI Architecture: Mermaid-> https://github.com/mermaid-js/mermaid
+
+```mermaid
+journey
+    title Create AI
+    section Training
+      Format DataSet Inputs Files, Data Splits: 5: Teacher
+      Model Build w/ SKLearn, TF, Pytorch: 3: Student
+      Determine Model Performance: 1: Teacher, Student
+    section Deploy
+      Web Deploy Local and Cloud: 5: Teacher
+      Architecture Spaces Gradio Streamlit Heroku AWS Azure and GCCP: 5: Teacher
+    section Testing
+      Test Model with Input Datasets: 5: Teacher
+      Examples. Inputs that Work, Inputs That Break Model: 5: Teacher
+      Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs: 5: Teacher
+```
+   
+```mermaid
+flowchart TB
+    c1-->a2
+    subgraph one[Training]
+    a1[Select a Data Set]-->a2[Perform Data Splitting]
+    a2-->a3[Model Building]
+    a3-->a4[Select SKLearn, TensorFlow or Pytorch]
+    a4-->a5[Determine if Model Performs Well]
+    end
+    subgraph two[Deploy]
+    b1[Model Deploy]-->b2[Web Deploy Local, Cloud]
+    b2-->b3[Architecture - Spaces, Gradio, Streamlit, Heroku, AWS, Azure, GCP]
+    end
+    subgraph three[Testing]
+    c1[Test Model with Input Data]-->c2[Analyze Tasks and Inputs]
+    c2-->c3[Examples. Inputs that Work, Inputs That Break Model]
+    c3-->c4[Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs]
+    end
+    one --> two
+    three --> two
+    two --> c2
+```
+
+
+# Mermaid Graph in Markdown
+
+Here is a simple flow chart:
+```mermaid
+flowchart TB
+    c1-->a2
+    subgraph one[Training]
+    a1[Select a Data Set]-->a2[Perform Data Splitting]
+    a2-->a3[Model Building]
+    a3-->a4[Select SKLearn, TensorFlow or Pytorch]
+    a4-->a5[Determine if Model Performs Well]
+    end
+    subgraph two[Deploy]
+    b1[Model Deploy]-->b2[Web App Deploy]
+    b2-->b3[Choose Local or Cloud]
+    b3-->b4[Cloud Options are HF Spaces, Gradio Hosted, Heroku, AWS, Azure, GCP]
+    end
+    subgraph three[Testing]
+    c1[Test Model with Input Data]-->c2[Figure Out What Works]
+    c2-->c3[Examples of Inputs that Work, Examples That Break Model]
+    c3-->c4[Governance - Analyze and Publish Implicit Fairness, Equity, Bias in Datasets and Outputs]
+    end
+    one --> two
+    three --> two
+    two --> c2
+```
+
+```mermaid
+graph TD;
+    Assessment-->Score;
+    Assessment-->QuestionAsked;
+    Assessment-->ProgressChange;
+    Assessment-->Programs;
+    Assessment-->Product;
+    Assessment-->Program;
+    Program-->Population;
+    Assessment-->Plan;
+    Plan-->Question;
+    Plan-->Problem;
+    Assessment-->Response;
+    Response-->Choice;
+    Response-->Populator;
+    Assessment-->Section;
+    Section-->Score;
+    Assessment-->Template;
+    Template-->Script;
+    Template-->Question;
+    Question-->SubQuestion;
+    Question-->Table;
+    Table-->SubTable;
+    Table-->Column;
+    Column-->Choice;
+    Question-->Response;
+    Response-->ResponseTable;
+    Response-->ResponseText;
+    Template-->Section;
+    Assessment-->Document;
+    Assessment-->Service;
+    Service-->History;
+    Service-->Request;
+```
+
 
 # Topic Modeling:
 https://huggingface.co/spaces/AI-Dashboards/Topic-Modeling-Clusters-Free-Text
 
-# Transformers pipelines with streamlit, torch, transformers:
+# Transfohttps://lukemerrett.com/building-c4-diagrams-in-mermaid/rmers pipelines with streamlit, torch, transformers:
 
 https://www.youtube.com/watch?v=QEaBAZQCtwE
 Resources:
@@ -194,35 +362,6 @@ For human imitation we use reinforcement learning for fine tuning since feedback
 
 
 
-
-# Mermaid Model for Core NLP Tasks:
-
-```mermaid
-graph LR;
-    A[Reader]-->B[Classifier];
-    A-->C[Retriever];
-    A-->D[Summarizer];
-    B-->E[Ranker];
-    B-->F[Query Classifier];
-    D-->G[Generator];
-    F-->H[Question Generator];
-    H-->G;
-    I[File Converter]-->J[Preprocessor];
-    J-->A;
-    I-->C;
-    K[Snowflake]-->B;
-    L[Oracle]-->B;
-    M[Pandas CSV]-->A;
-    N[Index]-->C;
-    N-->E;
-    O[Query with Filters]-->F;
-    P[Evaluation]-->E;
-    P-->F;
-    Q[Retraining]-->B;
-    Q-->E;
-    R[Annotation]-->B;
-```
-
 # Core NLP Task Model for QA
 
 Tasks:
@@ -291,28 +430,7 @@ QA use cases include QA, Semantic Document and FAQ Search.
 7. Text2Text Generation.
 8. ASR/TTS.
 
-# Mermaid model
 
-```mermaid
-graph LR;
-    A[Reader model]-->B[SQuAD];
-    C[Transformers from Huggingface]-->D[Real Business Problems];
-    E[Best practices for QA systems]-->F[Optimize Question/Answer Heads for SQuAD];
-    G[QA search]-->H[Textual KB];
-    H-->I[Return text sections as answers];
-    J[Organize text collection]-->K[Find similar documents to given input];
-    K-->I;
-    L[Perform semantic and comprehensive word matching]-->I;
-    M[Match incoming questions to FAQ KB dataset]-->I;
-    N[Visual QA]-->O[Document QA];
-    N-->P[Table QA];
-    Q[Zero Shot Classification]-->I;
-    R[Translation]-->I;
-    S[Conversational/Chat]-->I;
-    T[Text2Text Generation]-->I;
-    U[ASR/TTS]-->I;
-
-```
 
 # Top 50 Assessments in Physical and Mental Health
 
@@ -2378,47 +2496,6 @@ Trained with AutoTrain: 695 Models: https://huggingface.co/models?other=autotrai
 	4. Notebooks - moved to dev driven apps like gradio and streamlit, give it an AI UI/UX.
 
 
-# Machine Learning State of the Art - AI Architecture: Mermaid-> https://github.com/mermaid-js/mermaid
-
-```mermaid
-journey
-    title Create AI
-    section Training
-      Format DataSet Inputs Files, Data Splits: 5: Teacher
-      Model Build w/ SKLearn, TF, Pytorch: 3: Student
-      Determine Model Performance: 1: Teacher, Student
-    section Deploy
-      Web Deploy Local and Cloud: 5: Teacher
-      Architecture Spaces Gradio Streamlit Heroku AWS Azure and GCCP: 5: Teacher
-    section Testing
-      Test Model with Input Datasets: 5: Teacher
-      Examples. Inputs that Work, Inputs That Break Model: 5: Teacher
-      Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs: 5: Teacher
-```
-   
-```mermaid
-flowchart TB
-    c1-->a2
-    subgraph one[Training]
-    a1[Select a Data Set]-->a2[Perform Data Splitting]
-    a2-->a3[Model Building]
-    a3-->a4[Select SKLearn, TensorFlow or Pytorch]
-    a4-->a5[Determine if Model Performs Well]
-    end
-    subgraph two[Deploy]
-    b1[Model Deploy]-->b2[Web Deploy Local, Cloud]
-    b2-->b3[Architecture - Spaces, Gradio, Streamlit, Heroku, AWS, Azure, GCP]
-    end
-    subgraph three[Testing]
-    c1[Test Model with Input Data]-->c2[Analyze Tasks and Inputs]
-    c2-->c3[Examples. Inputs that Work, Inputs That Break Model]
-    c3-->c4[Governance - Analyze, Publish Fairness, Equity, Bias for Datasets and Outputs]
-    end
-    one --> two
-    three --> two
-    two --> c2
-```
-
 
 # Docker and Huggingface - Docker AI/ML Spaces
 
@@ -2687,69 +2764,6 @@ Samples for AI to observe as ground truth:
    - https://youtu.be/X5cu7pPmv44
    - https://www.youtube.com/watch?v=Pk4nKhpzex0
    - https://www.youtube.com/watch?v=nYN2SDjnNW8
-
-
-# Mermaid Graph in Markdown
-
-Here is a simple flow chart:
-```mermaid
-flowchart TB
-    c1-->a2
-    subgraph one[Training]
-    a1[Select a Data Set]-->a2[Perform Data Splitting]
-    a2-->a3[Model Building]
-    a3-->a4[Select SKLearn, TensorFlow or Pytorch]
-    a4-->a5[Determine if Model Performs Well]
-    end
-    subgraph two[Deploy]
-    b1[Model Deploy]-->b2[Web App Deploy]
-    b2-->b3[Choose Local or Cloud]
-    b3-->b4[Cloud Options are HF Spaces, Gradio Hosted, Heroku, AWS, Azure, GCP]
-    end
-    subgraph three[Testing]
-    c1[Test Model with Input Data]-->c2[Figure Out What Works]
-    c2-->c3[Examples of Inputs that Work, Examples That Break Model]
-    c3-->c4[Governance - Analyze and Publish Implicit Fairness, Equity, Bias in Datasets and Outputs]
-    end
-    one --> two
-    three --> two
-    two --> c2
-```
-
-```mermaid
-graph TD;
-    Assessment-->Score;
-    Assessment-->QuestionAsked;
-    Assessment-->ProgressChange;
-    Assessment-->Programs;
-    Assessment-->Product;
-    Assessment-->Program;
-    Program-->Population;
-    Assessment-->Plan;
-    Plan-->Question;
-    Plan-->Problem;
-    Assessment-->Response;
-    Response-->Choice;
-    Response-->Populator;
-    Assessment-->Section;
-    Section-->Score;
-    Assessment-->Template;
-    Template-->Script;
-    Template-->Question;
-    Question-->SubQuestion;
-    Question-->Table;
-    Table-->SubTable;
-    Table-->Column;
-    Column-->Choice;
-    Question-->Response;
-    Response-->ResponseTable;
-    Response-->ResponseText;
-    Template-->Section;
-    Assessment-->Document;
-    Assessment-->Service;
-    Service-->History;
-    Service-->Request;
-```
 
 # LOINC Assessment Example
 1. Panels https://loinc.org/panels/
