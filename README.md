@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Dynamic Graph Showdown
+
+Technologies:
+1. Mermaid - Works in Github Markdown, HTML5 with Javascript and Div, No compilation.  PantUML, Hackerdraw
+2. GraphViz, Pygraphviz - Works as installable and as a pip install package.  Usable in python code.  Advantages: programmatic.
+3. Diagrams - Advantages - Magical style icon buttons for architects.  Disadvantages - errors in streamlit and gradio.
+4. Matplotlib, Vega, Altair, st.chart, React component
+5. Animation - Sankey, Time Series, Simulation
+
+
 ```mermaid
 flowchart TB
 
