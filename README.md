@@ -3,6 +3,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Dynamic Graph Showdown
 
+Spaces:
+https://huggingface.co/spaces/awacke1/Streamlit.GraphViz.Dynamic.Architecture.Diagram
+
 Technologies:
 1. Streamlit, GraphViz, Pygraphviz - Works as installable and as a pip install package.  Usable in python code.  Advantages: programmatic.
    1. https://docs.streamlit.io/library/api-reference/charts/st.graphviz_chart
@@ -10,6 +13,20 @@ Technologies:
 3. Matplotlib, Vega, Altair, st.chart, React component
 4. Animation - Sankey, Time Series, Simulation
 5. Diagrams - Advantages - Magical style icon buttons for architects.  Disadvantages - errors in streamlit and gradio.
+
+Playlists:
+1. Azure Architecture : https://www.youtube.com/playlist?list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg
+2. Azure ML: https://www.youtube.com/playlist?list=PLHgX2IExbFouSEg7cL9HtDimrpvAPn0kt
+3. Diagrams: https://www.youtube.com/playlist?list=PLHgX2IExbFoslgRp4B1XgldDduy7Vmrcz
+4. Bloom: https://www.youtube.com/playlist?list=PLHgX2IExbFouqnsIqziThlPCX_miiDq14
+5. ICL: https://www.youtube.com/playlist?list=PLHgX2IExbFoukiZqU898HKJvmVAYbjQ1i
+6. ChatGPT: https://www.youtube.com/playlist?list=PLHgX2IExbFouOEnppexiKZVdz_k5b0pvI
+7. RLHF: https://www.youtube.com/playlist?list=PLHgX2IExbFotoMt32SrT3Xynt5BXTGnEP
+8. QAGI: https://www.youtube.com/playlist?list=PLHgX2IExbFovrkkx8HMTLNgYdjCMNYmX_
+9. QA: https://www.youtube.com/playlist?list=PLHgX2IExbFotW6WgDZ-cMzpDBUNKCMBbF
+10. GPU: https://www.youtube.com/playlist?list=PLHgX2IExbFou7qtLdf3oPB9WywaVN5-yF
+11. SOTA: https://www.youtube.com/playlist?list=PLHgX2IExbFotPcPu6pauNHOoZTTbnAQ2F
+12. SL: https://www.youtube.com/playlist?list=PLHgX2IExbFou3cP19hHO9Xb-cN8uwr5RM
 
 
 ```mermaid
