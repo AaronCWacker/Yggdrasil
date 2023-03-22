@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Image Tests for Interoperability Architecture - Machine Readbility in markdown
+https://diagrams.mingrammer.com/docs/nodes/programming
+![image](https://user-images.githubusercontent.com/30595158/227054838-5ad1ff38-9feb-4434-b815-24304e79b454.png)
+![image](https://user-images.githubusercontent.com/30595158/227054910-388346e7-a0ce-4c51-bc2c-3a29f54fee32.png)
+![image](https://user-images.githubusercontent.com/30595158/227054953-43acc7d8-0d48-4d41-83b8-b7704540cd8e.png)
+
+
+
 # Azure Architecture for Cognitive AI Streamlit Apps, Datasets, and API
 
 1. VS Code Extensions
