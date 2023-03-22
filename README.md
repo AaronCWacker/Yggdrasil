@@ -37,7 +37,7 @@ App Service Plan:
 ![image](https://user-images.githubusercontent.com/30595158/226908711-587737ca-82ef-4822-a055-ac978a316fd6.png)
 
 Deploy to Container Registry:
-![image](https://user-images.githubusercontent.com/30595158/226909033-c354e61c-186b-4607-bd38-eb3e01d2e179.png)
+![image](https://user-images.githubusercontent.com/30595158/226909906-4a78f079-b6a1-4905-a0ed-650b09116e88.png)
 
 4. Azure App Service
 
@@ -47,8 +47,26 @@ Deploy to Container Registry:
 
 Review with Team
 
+5. Web App
 
+![image](https://user-images.githubusercontent.com/30595158/226910380-86c137d3-1a28-4aa5-9e98-6640e7f27cab.png)
 
+6. Azure App Service:
+
+![image](https://user-images.githubusercontent.com/30595158/226910776-c8b20bcb-fe58-44e3-8c5b-2f08e8b7c9c7.png)
+
+Scale Up - App Service Plan - 
+Scale Out - Manual (instance count manual) or Custom Auto Scale
+	Define metric number of instances - net traffic, CPU and Memory
+	Properties:
+		Outbound IP Addresses
+		Critical for Securing Firewall based on IP
+	
+App Service Plan:
+
+![image](https://user-images.githubusercontent.com/30595158/226911791-bbb869b9-3c25-4961-9906-46e6a07fbd5e.png)
+
+https://youtu.be/4BwyqmRTrx8?list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg&t=1101
 
 # Dynamic Graph Showdown
 
