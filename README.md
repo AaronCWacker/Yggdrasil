@@ -1,6 +1,37 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 2
+
+![image](https://user-images.githubusercontent.com/30595158/227055215-2b2eac8f-c3e5-4b3f-a50b-6a712400d810.png)
+![image](https://user-images.githubusercontent.com/30595158/227055266-2ecbfc51-28ae-44a8-8af4-e4d9f4e66216.png)
+![image](https://user-images.githubusercontent.com/30595158/227055304-bc32aa7a-33ec-450a-9e80-83ea82afa7f3.png)
+![image](https://user-images.githubusercontent.com/30595158/227055342-4ff3c8a2-1cb9-4445-96db-a6adbd732743.png)
+![image](https://user-images.githubusercontent.com/30595158/227055360-a4ee3c07-47ad-45ce-955a-04cb62a7eba2.png)
+![image](https://user-images.githubusercontent.com/30595158/227055470-06b51025-26a4-485e-9b19-bc90aa7f43ab.png)
+![image](https://user-images.githubusercontent.com/30595158/227055508-3b081633-abb1-4689-9f13-e46a9672fe4f.png)
+![image](https://user-images.githubusercontent.com/30595158/227055528-e3c74afb-0f20-4e90-b1b0-2616bdbbbc9b.png)
+![image](https://user-images.githubusercontent.com/30595158/227055705-6bdf4418-19de-4629-8e42-72c29dffbf31.png)
+
+![image](https://user-images.githubusercontent.com/30595158/227055815-966afe4d-ac9e-4cd3-b12c-4963355b1ca1.png)
+![image](https://user-images.githubusercontent.com/30595158/227055840-08eb4745-393a-48a7-9532-46018adbcd46.png)
+![image](https://user-images.githubusercontent.com/30595158/227056066-6dacb515-4473-4c4e-b1ab-acb7c838e741.png)
+![image](https://user-images.githubusercontent.com/30595158/227056131-a15af1db-6c2d-45d8-b3f7-a9dca551f440.png)
+![image](https://user-images.githubusercontent.com/30595158/227056160-64b86ab7-c0e3-4f3b-9b36-a646945c6211.png)
+![image](https://user-images.githubusercontent.com/30595158/227056187-6e6c6e0f-d97d-44c6-8416-d9b2da84297b.png)
+![image](https://user-images.githubusercontent.com/30595158/227056218-79bcce4f-4fa1-4449-9f80-d67fe7455a2f.png)
+![image](https://user-images.githubusercontent.com/30595158/227056317-d5c68091-a8f9-4edd-ba27-f0334a087629.png)
+![image](https://user-images.githubusercontent.com/30595158/227056348-b2973092-aad1-494e-afb6-0b9492e2e425.png)
+
+![image](https://user-images.githubusercontent.com/30595158/227056478-6601c2ec-93b2-4eb5-ad2e-b9e0cfce6b36.png)
+![image](https://user-images.githubusercontent.com/30595158/227056563-efeb2574-5fa8-4681-8ea2-c3e85bf42473.png)
+![image](https://user-images.githubusercontent.com/30595158/227056774-6151bf64-5050-43ff-b65c-da4a1d0e7058.png)
+
+
+
+![image](https://user-images.githubusercontent.com/30595158/227055419-d5b96b89-a153-4100-ba0c-e1255235a0d5.png)
+
+
 # Image Tests for Interoperability Architecture - Machine Readbility in markdown
 https://diagrams.mingrammer.com/docs/nodes/programming
 ![image](https://user-images.githubusercontent.com/30595158/227054838-5ad1ff38-9feb-4434-b815-24304e79b454.png)
