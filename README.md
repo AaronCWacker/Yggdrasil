@@ -66,6 +66,11 @@ App Service Plan:
 
 ![image](https://user-images.githubusercontent.com/30595158/226911791-bbb869b9-3c25-4961-9906-46e6a07fbd5e.png)
 
+7. Azure SDK - Identity- Storage - AI Cognitive Services - Azure Messaging Libraries:
+https://youtu.be/4xoJLCFP4_4?list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg&t=11
+Azure.COM SDK
+Python Design Guidelines,
+
 https://youtu.be/4BwyqmRTrx8?list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg&t=1101
 
 # Dynamic Graph Showdown
