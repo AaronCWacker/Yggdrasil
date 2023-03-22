@@ -1,6 +1,55 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Azure Architecture for Cognitive AI Streamlit Apps, Datasets, and API
+
+1. VS Code Extensions
+
+- Azure CLI Tools
+- Azure Tools
+- Docker
+
+2. Github Files
+
+requirements.txt
+	streamlit
+	
+3. Create Dockerfile
+4. Docker Compose
+5. Azure Container Registry
+![image](https://user-images.githubusercontent.com/30595158/226907931-c9a3183d-57a2-4588-9cbd-65d9343b72ca.png)
+
+Pricing Tier, ACU, Memory, Zone Redundancy:
+![image](https://user-images.githubusercontent.com/30595158/226908442-658ed703-a7ce-42da-a82b-d3fe0d6c7066.png)
+
+docker-compose.yml
+	ports:
+	- "8081:8501" (URL)[https://youtu.be/kHz6sz0jVSU?list=PLHgX2IExbFos22f_v4pAsYHhZtoWjyPHg&t=198]
+	docker compose up:  streamlit_streamlit
+
+
+3. Azure Container Registry
+
+App Service Plan:
+
+![image](https://user-images.githubusercontent.com/30595158/226908207-39ddd0f4-4ab0-4f2c-8938-f617f45c2d05.png)
+
+![image](https://user-images.githubusercontent.com/30595158/226908711-587737ca-82ef-4822-a055-ac978a316fd6.png)
+
+Deploy to Container Registry:
+![image](https://user-images.githubusercontent.com/30595158/226909033-c354e61c-186b-4607-bd38-eb3e01d2e179.png)
+
+4. Azure App Service
+
+![image](https://user-images.githubusercontent.com/30595158/226909254-d6cd0099-eada-44c9-a21e-0b7acbb592a3.png)
+
+> Plan - Check on Memory - Cost Per Month
+
+Review with Team
+
+
+
+
 # Dynamic Graph Showdown
 
 Spaces:
