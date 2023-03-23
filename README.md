@@ -1,6 +1,19 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 03-23-2023 Code Examples:
+1. Classroom: https://huggingface.co/AI-ZTH-03-23
+2. Dynamic Architecture Modeling: https://huggingface.co/spaces/awacke1/Streamlit.GraphViz.Dynamic.Architecture.Diagram
+3. Aframe VR IOT Motion Sensor WASD: https://huggingface.co/spaces/awacke1/HTML5-Aframe-3dMap-Flight
+4. MediaPipe: https://huggingface.co/spaces/awacke1/RealTime-MediaPipe-AI-From-Video-On-Any-Device
+5. Wikipedia Fact Check Chat: https://huggingface.co/spaces/awacke1/StreamlitWikipediaChat
+6. Dashboard - Tweet, Wiki, Memory: https://huggingface.co/spaces/awacke1/AI.Dashboard.Wiki.Chat.Cognitive.HTML5
+7. Dashboard - Chat, Download, Image Search, OCR, StoryGen, Q, Mermaid HTML5
+8. Datasets - Biomed NER:  https://huggingface.co/spaces/DataScienceEngineering/7-NER-Biomed-ClinicalTerms
+9. MN Hospitals Comparative Maps: https://huggingface.co/spaces/awacke1/MN.Map.Hospitals.Top.Five
+10. Find Mental Health Providers, Maps, Location: https://huggingface.co/spaces/awacke1/Gradio-Maps-Latitude-Longitude
+
+
 # 2
 
 ![image](https://user-images.githubusercontent.com/30595158/227055215-2b2eac8f-c3e5-4b3f-a50b-6a712400d810.png)
