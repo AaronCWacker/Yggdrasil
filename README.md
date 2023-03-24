@@ -3,6 +3,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # SOTA - 03/24/2023:
 
+**LAION**
+Crowd sourced RLHF datasets:
+https://github.com/LAION-AI/Open-Assistant
+
 **Felix**
 https://github.com/felix-zaslavskiy/large-language-model-chats
 
