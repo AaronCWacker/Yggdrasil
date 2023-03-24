@@ -1,6 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# SOTA - 03/24/2023:
+
+**Felix**
+https://github.com/felix-zaslavskiy/large-language-model-chats
+
+**Alpaca**
+https://github.com/tatsu-lab/stanford_alpaca
+
+**ICL**
+https://huggingface.co/spaces/awacke1/InContextLearning-PromptTargeting
+
+**Anthropic:**
+https://github.com/anthropics/hh-rlhf
+
+**Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback**
+https://arxiv.org/abs/2204.05862
+
+**MediaPipe**
+https://huggingface.co/spaces/awacke1/RealTime-MediaPipe-AI-From-Video-On-Any-Device
+
+**ChatbotRewards**
+https://huggingface.co/papers/2303.06135
+
+**Hellaswag Dataset**
+https://paperswithcode.com/dataset/hellaswag
+
+While specific interventions may vary depending on the gap in care being addressed, common clinical terminology codes that may be used to document these interventions include:
+
+LOINC (Logical Observation Identifiers Names and Codes): LOINC codes are used to identify laboratory and clinical observations. Examples of LOINC codes that may be relevant to HEDIS gap closures include codes for blood pressure measurements, lipid panel results, and HbA1c tests.
+CPT (Current Procedural Terminology): CPT codes are used to identify medical procedures and services. Examples of CPT codes that may be relevant to HEDIS gap closures include codes for preventive screenings such as mammograms, colonoscopies, and flu shots.
+HCPCS (Healthcare Common Procedure Coding System): HCPCS codes are used to identify medical procedures and services, particularly those provided to Medicare beneficiaries. Examples of HCPCS codes that may be relevant to HEDIS gap closures include codes for diabetes self-management education and medical nutrition therapy.
+ICD-10 (International Classification of Diseases, 10th Revision): ICD-10 codes are used to identify diagnoses and reasons for medical encounters. Examples of ICD-10 codes that may be relevant to HEDIS gap closures include codes for chronic conditions such as diabetes, hypertension, and asthma.
+SNOMED CT (Systematized Nomenclature of Medicine - Clinical Terms): SNOMED CT codes are used to identify clinical concepts and relationships between them. Examples of SNOMED CT codes that may be relevant to HEDIS gap closures include codes for patient education, medication management, and care coordination.
+Omaha System: The Omaha System is a standardized terminology that is used to document and communicate nursing interventions and outcomes. Examples of Omaha System codes that may be relevant to HEDIS gap closures include codes for health promotion, disease prevention, and self-care management.
+Prompt: According to https://www.healthit.gov/ https://www.cms.gov/ and https://www.nlm.nih.gov/ there is a list of top ten HEDIS gap closures that providers and health care companies can use to improve their CQM quality scores and earn revenue while providing value based care including helping the people in US that require care the most and have barriers to access. Name these top ten gaps that can be closed and list the clinical terminology vocabulary codes for each along with code type for the codes of LOINC, CPT, HCPCS, ICD10, Snomed US, and Omaha System.
+
+
+
+
 # 03-23-2023 Code Examples:
 1. Classroom: https://huggingface.co/AI-ZTH-03-23
 2. Dynamic Architecture Modeling: https://huggingface.co/spaces/awacke1/Streamlit.GraphViz.Dynamic.Architecture.Diagram
