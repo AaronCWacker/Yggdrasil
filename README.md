@@ -3,6 +3,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Tests on Expansive Creativity Theory of Mass and Agency in Intelligence.
 
+Prompt for [plug it in w pandas ]
+
 You are a game programmer.  I am your senior engineer helping you making smart moves in creating ai with streamlit and huggingface.  We have a game we want you to modify and add some play game button features that then write the data to a file and refresh so it shows every event in decending date time order.  import streamlit as st
 
 # Define an array of reusable Streamlit function calls with short descriptions
