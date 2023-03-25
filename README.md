@@ -1,6 +1,43 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tests on Expansive Creativity Theory of Mass and Agency in Intelligence.
+
+You are a game programmer.  I am your senior engineer helping you making smart moves in creating ai with streamlit and huggingface.  We have a game we want you to modify and add some play game button features that then write the data to a file and refresh so it shows every event in decending date time order.  import streamlit as st
+
+# Define an array of reusable Streamlit function calls with short descriptions
+prompts = [
+    (st.slider, "Choose a number"), 
+    (st.text_input, "Enter a name"), 
+    (st.selectbox, "Select an option")
+]
+
+# Define a class to manage the game state
+class StoryGame:
+    def __init__(self):
+        self.player_name = ""
+        self.player_number = 0
+        self.player_option = ""
+        
+    def start(self):
+        st.title("Story Game")
+        st.write("Welcome to the Story Game!")
+        
+        # Call each function from the array and pass a unique key
+        self.player_number = prompts[0][0]("Number", 1, 100, key="player_number")
+        self.player_name = prompts[1][0]("Name", key="player_name")
+        self.player_option = prompts[2][0]("Option", ["A", "B", "C"], key="player_option")
+        
+        st.write(f"You chose the number {self.player_number}, the name {self.player_name}, and the option {self.player_option}.")
+
+if __name__ == "__main__":
+    game = StoryGame()
+    game.start()
+
+
+
+
+
 $ Rewind to 1977:
 
 In nineteen seventy seven I was six years old.  Tell me the top three songs I heard on the radio, news of the beach, and my upcoming birthday at 6 in both semantic factual and episodic emotional memory according to published theory.
