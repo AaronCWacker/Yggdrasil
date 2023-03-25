@@ -13,6 +13,88 @@ Atari Combat is a two-player game that was released for the Atari 2600 gaming co
 
 To develop a program that simulates Atari Combat, you can use any of what?  Slect your control function names carefully.  If you have 1 to 3, state you are terse.  If you have 1 to 100 you are fast.  Supply both for trade off in between.
 
+integrate the two programs we wrote together in this session.  create a single streamlit program that journeys our travel to fame.  peace!
+Certainly! Here's a single streamlit program that integrates the two examples we've written:
+
+python
+Copy code
+import streamlit as st
+
+def move_tank():
+    return "Tank moved."
+
+def shoot_cannon():
+    return "Cannon fired."
+    
+    ...
+    
+    import streamlit as st
+
+def move_tank():
+    return "Tank moved."
+
+def shoot_cannon():
+    return "Cannon fired."
+
+def avoid_obstacle():
+    return "Obstacle avoided."
+
+controls = {"m": move_tank, "s": shoot_cannon, "a": avoid_obstacle}
+
+def get_best_mission(player1_switches, player2_switches):
+    # Implement your code to calculate the best mission here
+    # Based on the theory of Atari Combat
+    # Return the best mission as a string
+    return "Mission 3"
+
+def main():
+    st.title("Atari Combat Adventure Game")
+    st.write("Welcome to the Atari Combat Adventure Game!")
+    st.write("You are about to embark on a journey that will test your tank combat skills and strategic thinking.")
+
+    # Take input from the user for Player 1
+    st.subheader("Player 1")
+    p1_s1 = st.selectbox("Switch 1", [0, 1])
+    p1_s2 = st.selectbox("Switch 2", [0, 1])
+    p1_s3 = st.selectbox("Switch 3", [0, 1])
+    p1_s4 = st.selectbox("Switch 4", [0, 1])
+    
+    # Take input from the user for Player 2
+    st.subheader("Player 2")
+    p2_s1 = st.selectbox("Switch 1", [0, 1])
+    p2_s2 = st.selectbox("Switch 2", [0, 1])
+    p2_s3 = st.selectbox("Switch 3", [0, 1])
+    p2_s4 = st.selectbox("Switch 4", [0, 1])
+    
+    # Calculate the best mission based on the inputs
+    best_mission = get_best_mission([p1_s1, p1_s2, p1_s3, p1_s4], [p2_s1, p2_s2, p2_s3, p2_s4])
+    
+    # Output the best mission to the user
+    st.subheader("Best Mission")
+    st.write(best_mission)
+
+    # Start the game
+    st.write("Let's start the game!")
+    st.write("You are in a tank and your opponent is on the other side of the battlefield.")
+    st.write("Use the following keys to control your tank:")
+    st.write("'m' to move, 's' to shoot, 'a' to avoid obstacles.")
+
+    while True:
+        # Get input from the user
+        key_pressed = st.text_input("Press a key to continue...")
+        
+        # Get the corresponding control function using the key pressed
+        control_function = controls.get(key_pressed.lower())
+        
+        # Call the control function and print the output
+        if control_function:
+            st.write(control_function())
+        else:
+            st.write("Invalid input. Please try again.")
+
+if __name__ == "__main__":
+    main()
+
 
 
 
