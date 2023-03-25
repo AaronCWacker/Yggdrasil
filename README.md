@@ -1,6 +1,44 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+$ Rewind to 1977:
+
+In nineteen seventy seven I was six years old.  Tell me the top three songs I heard on the radio, news of the beach, and my upcoming birthday at 6 in both semantic factual and episodic emotional memory according to published theory.
+
+In 1977, you were likely to have heard these top three songs on the radio:
+
+"Dancing Queen" by ABBA
+"Don't Stop" by Fleetwood Mac
+"Hotel California" by The Eagles
+Semantic factual memory involves recalling general knowledge and facts about the world. From this perspective, you can remember that in 1977, the Beach Boys released their 23rd studio album, "Love You," which received mixed reviews. Additionally, in beach-related news, the first artificial reef was created in Florida to promote marine life.
+
+Episodic emotional memory is more personal, involving the recollection of specific events and emotions. For your upcoming 6th birthday, you might remember the excitement of receiving your favorite toy or the joy of celebrating with your friends and family. You could also recall the anticipation of listening to your favorite songs on the radio, dancing, and singing along. The emotions and memories associated with your 6th birthday would be unique to you and your experiences.
+
+Keep in mind that this is a general interpretation of semantic factual and episodic emotional memory, and your personal experiences and memories may differ.
+
+Now sing the first few lyrics of Dancing Queen, then rhyme it to the chorus of Don't Stop by Fleetwood Mac, and last end with a cool outro to Hotel California by the eagles picking the last verse of the song as a perfectly concentric story
+
+You can dance, you can jive,
+Having the time of your life
+Ooh, see that girl, watch that scene,
+Digging the Dancing Queen
+
+Don't stop thinking about tomorrow,
+Don't stop, it'll soon be here
+It'll be better than before,
+Yesterday's gone, yesterday's gone
+
+Last thing I remember, I was
+Running for the door
+I had to find the passage back
+To the place I was before
+"Relax," said the night man,
+"We are programmed to receive.
+You can check out any time you like,
+But you can never leave!"
+
+Enjoy this musical journey through some of the most iconic songs of 1977!
+
 # Mentions!
 
 Felix - awesome sites and analysis
