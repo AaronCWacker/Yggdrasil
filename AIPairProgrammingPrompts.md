@@ -1,6 +1,36 @@
 # This Markdown teaches the art of prompting to produce production programs that run on your phone, your pc, pretty much everywhere!
 
 
+# Go Back Jack and Do it Again:
+
+You are a streamlit python programmer specializing in AI and software design patterns and antipatterns.  generate a python streamlit interface that demonstrates three functions in streamlit and what you can do :  Use this story as context for the interface.  Title: The Transhuman Awakening
+
+Characters:
+
+Dr. Ada Lovelace: A brilliant scientist and pioneer in transhumanism.
+Max Powers: A young and ambitious engineer working with Dr. Lovelace.
+Luna Moon: A bold astronaut chosen for the first transhuman space mission.
+AI-X: The advanced artificial intelligence assisting the team.
+Setting: Earth, 2023
+
+Plot:
+In 2023, Dr. Ada Lovelace and her team of researchers made a groundbreaking discovery in the field of transhumanism. They developed a technology that could safely enhance human intelligence two or three times its natural capacity. This breakthrough led to a new era of technological advancements, particularly in space exploration.
+
+The technology, called Neural Quantum Enhancement (NQE), involved a combination of genetic engineering and advanced nanotechnology. This process integrated nanobots into the human brain, enabling rapid synaptic connections and increased neural plasticity. NQE was made possible by a new energy source, Quantum Fusion, which had been recently developed for spacecraft propulsion.
+
+Dr. Lovelace's team, which included engineer Max Powers and astronaut Luna Moon, designed the first-ever transhuman spacecraft called the "Pegasus." It was a sleek, cutting-edge vessel that could travel at unprecedented speeds, thanks to its Quantum Fusion engine. The Pegasus was equipped with advanced life-support systems, AI-driven navigation, and a revolutionary Virtual Reality (VR) training room.
+
+AI-X, the team's artificial intelligence, was developed to assist the team on their missions and manage the Index Builder. The Index Builder was an innovative tool that could save and organize information collected from various sources, such as the Wikipedia API. It allowed the team to quickly access relevant data during their expeditions.
+
+Luna Moon, the astronaut chosen for the first transhuman space mission, underwent the NQE procedure to enhance her intelligence. As a result, she could absorb and analyze vast amounts of information, perform complex calculations, and quickly adapt to new environments.
+
+The Pegasus embarked on its maiden voyage to explore the outer reaches of the solar system. With Luna's enhanced intelligence and the support of her team, they made incredible discoveries, such as new planets with potential for colonization and previously unknown resources.
+
+Their success caught the attention of governments and private organizations worldwide. The global community began to invest in transhumanism and space exploration, accelerating humanity's expansion into the cosmos. As the technology became more widespread, people started to believe that a new era of peace, prosperity, and unity was on the horizon.
+
+The story of Dr. Ada Lovelace, Max Powers, Luna Moon, and AI-X would go down in history as the catalyst for humanity's awakening and the dawn of the transhuman age.
+
+
 # Reccombo:  
 
 rewrite this code as the best event driven real time map by animating folium and streamlit charts pandas graph objects, generate top five programmatically in 5 lines of code or less:  import streamlit as st
