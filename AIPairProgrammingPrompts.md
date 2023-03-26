@@ -1,5 +1,51 @@
 # This Markdown teaches the art of prompting to produce production programs that run on your phone, your pc, pretty much everywhere!
 
+# Sidebar:
+
+Rewrite this to have a game-like interface with clickable emoji based buttons that are larrge and clear with single word labels.  Create a named keyed user interface input appropriate for each sidebar.markdown call in list below.  Make each a button with an emoji:  import streamlit as st
+import base64
+
+# Define the sidebar menu with icons
+def show_menu():
+    st.sidebar.title("Menu")
+    st.sidebar.markdown(":memo: Title")
+    st.sidebar.markdown(":briefcase: Case")
+    st.sidebar.markdown(":chart_with_upwards_trend: Values")
+    st.sidebar.markdown(":newspaper: Product Press Release")
+    st.sidebar.markdown(":running: Customer Journey and Experience")
+
+# Define the chat input and send button
+def show_chat_input():
+    message = st.text_input("Enter your message:")
+    if st.button("Send"):
+        save_message(message)
+
+# Define the function to save the message to the log file
+def save_message(message):
+    with open("chat_log.txt", "a") as f:
+        f.write(message + "\n")
+
+# Define the function to generate the download link for the log file
+def download_log_file():
+    with open("chat_log.txt", "r") as f:
+        log_data = f.read()
+    b64 = base64.b64encode(log_data.encode()).decode()
+    href = f'<a href="data:file/txt;base64,{b64}" download="chat_log.txt">Download chat log</a>'
+    st.markdown(href, unsafe_allow_html=True)
+
+# Define the main function to run the Streamlit app
+def main():
+    show_menu()
+    show_chat_input()
+    download_log_file()
+
+if __name__ == '__main__':
+    main()
+
+
+
+
+
 Write a streamlit python program that receives a pasted textbox of large text, then runs it through transformers and huggingface hub api to compare three models.  Create User Interface controls on the sidebar which Tells me the top three songs of each year for last 30 years in both semantic factual and episodic emotional memory according to published theory.
 
 # GPT 4:
