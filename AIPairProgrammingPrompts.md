@@ -1,5 +1,11 @@
 # This Markdown teaches the art of prompting to produce production programs that run on your phone, your pc, pretty much everywhere!
 
+
+# Words of Power
+
+show streamlit full code list as app.py
+
+
 # Sidebar:
 
 Rewrite this to have a game-like interface with clickable emoji based buttons that are larrge and clear with single word labels.  Create a named keyed user interface input appropriate for each sidebar.markdown call in list below.  Make each a button with an emoji:  import streamlit as st
