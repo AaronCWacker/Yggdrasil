@@ -1,6 +1,55 @@
 # This Markdown teaches the art of prompting to produce production programs that run on your phone, your pc, pretty much everywhere!
 
 
+# Reccombo:  
+
+rewrite this code as the best event driven real time map by animating folium and streamlit charts pandas graph objects, generate top five programmatically in 5 lines of code or less:  import streamlit as st
+import folium
+
+def add_marker(folium_map, name, coords, website, wikipedia):
+    popup_text = f"<b>{name}</b><br><a href='{website}' target='_blank'>Website</a><br><a href='{wikipedia}' target='_blank'>Wikipedia</a>"
+    folium.Marker(location=coords, popup=popup_text).add_to(folium_map)
+
+def main():
+    mn_coords = [46.729553, -94.685899]
+    hospital_systems = [
+        ("Allina Health", [44.924180, -93.418003], "https://www.allinahealth.org/", "https://en.wikipedia.org/wiki/Allina_Health"),
+        ("Alomere Health", [45.878719, -95.392539], "https://www.alomerehealth.com/", "https://en.wikipedia.org/wiki/Alomere_Health"),
+        ("Altru Health System", [47.917304, -97.059748], "https://www.altru.org/", "https://en.wikipedia.org/wiki/Altru_Health_System"),
+        ("Avera Health", [44.311833, -96.797603], "https://www.avera.org/", "https://en.wikipedia.org/wiki/Avera_Health"),
+        ("Catholic Health Initiatives (CHI)", [44.957214, -93.269583], "https://www.catholichealthinitiatives.org/", "https://en.wikipedia.org/wiki/Catholic_Health_Initiatives"),
+        ("CentraCare Health", [45.547782, -94.220109], "https://www.centracare.com/", "https://en.wikipedia.org/wiki/CentraCare_Health"),
+        ("Children's Minnesota", [44.944186, -93.252723], "https://www.childrensmn.org/", "https://en.wikipedia.org/wiki/Children%27s_Minnesota"),
+        ("Essentia Health", [46.807764, -92.175521], "https://www.essentiahealth.org/", "https://en.wikipedia.org/wiki/Essentia_Health"),
+        ("Gillette Children's Specialty Healthcare", [44.959775, -93.186368], "https://www.gillettechildrens.org/", "https://en.wikipedia.org/wiki/Gillette_Children%27s_Specialty_Healthcare"),
+        ("Gundersen Health System", [43.815935, -91.255947], "https://www.gundersenhealth.org/", "https://en.wikipedia.org/wiki/Gundersen_Health_System"),
+        ("HealthPartners", [44.925221, -93.218017], "https://www.healthpartners.com/", "https://en.wikipedia.org/wiki/HealthPartners"),
+        ("HealthEast Care System", [44.979166, -93.013702], "https://www.healtheast.org/", "https://en.wikipedia.org/wiki/HealthEast_Care_System"),
+        ("Hennepin Healthcare", [44.972239, -93.259884], "https://www.hennepinhealthcare.org/", "https://en.wikipedia.org/wiki/Hennepin_Healthcare"),
+        ("Indian Health Services", [47.504131, -92.538468], "https://www.ihs.gov/", "https://en.wikipedia.org/wiki/Indian_Health_Service"),
+        ("Lakewood Health System", [46.712105, -95.947868], "https://www.lakewoodhealthsystem.com/", "https://en.wikipedia.org/wiki/Lakewood_Health_System"),
+        ("Mayo Clinic Health System", [44.023977, -92.466410], "https://www.mayoclinichealthsystem.org/", "https://en.wikipedia.org/wiki/Mayo_Clinic_Health_System"),
+        ("M Health Fairview", [44.954393, -93.168900], "https://www.mhealth.org/", "https://en.wikipedia.org/wiki/University_of_Minnesota_Medical_Center,_Fairview"),
+        ("North Memorial Health", [45.040743, -93.365262], "https://www.northmemorial.com/", "https://en.wikipedia.org/wiki/North_Memorial_Health"),
+        ("Riverwood Healthcare Center", [46.166916, -93.855874], "https://riverwoodhealthcare.org/", "https://en.wikipedia.org/wiki/Riverwood_Healthcare_Center"),
+        ("Sanford Health", [46.854886, -96.847764], "https://www.sanfordhealth.org/", "https://en.wikipedia.org/wiki/Sanford_Health"),
+        ("Shriners Children's", [44.943741, -93.237200], "https://www.shrinerschildrens.org/locations/twin-cities/", "https://en.wikipedia.org/wiki/Shriners_Hospitals_for_Children"),
+        ("St. Francis Regional Medical Center", [44.802400, -93.527410], "https://www.allinahealth.org/st-francis-regional-medical-center", "https://en.wikipedia.org/wiki/St._Francis_Regional_Medical_Center"),
+        ("Wilderness Health", [47.500629, -92.274697], "https://www.wildernesshealth.org/", "https://en.wikipedia.org/wiki/Wilderness_Health")
+    ]
+
+folium_map = folium.Map(location=mn_coords, zoom_start=7)
+
+for system in hospital_systems:
+    add_marker(folium_map, *system)
+
+folium_static(folium_map)
+
+if name == 'main':
+    main()
+    
+    
+
 # Words of Power
 
 show streamlit full code list as app.py
