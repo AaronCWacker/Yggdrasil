@@ -24,161 +24,161 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ![image](https://user-images.githubusercontent.com/30595158/227985205-4863472e-c15a-4d35-a1ec-aae880af9530.png)
 
-# CM in Mental and Physical Health - Top 10 Activities
 
+# CM in Mental and Physical Health - Top 10 Activities
 
 # Overview of Care Management Activities for Mental Health
 
 1. Comprehensive __Assessment__ - Conduct a thorough evaluation of the patient's __mental__ health __condition__:
 	- Consider __medical history__, __social situation__, and potential __risk factors__. 
-	- Clinical Terminology Code System: SNOMED CT 
-	- Code Range for Findings: 38605008 - 386055007 Individualized Care Planning
+	- Clinical Terminology Code System: __SNOMED CT__ 
+	- Code Range for Findings: __38605008 - 386055007 Individualized Care Planning__
 
-2. Develop personalized care plan.
-	- Based on the patient's needs
-	- patient's preferences, 
-	- patient's assessment results
-	- for the appropriate level of care and support. 
-	1. Clinical Terminology Code System: ICD-10 
-	2. Code Range for Findings: Z51.5 - Z51.89 Care Coordination
+2. Develop __personalized__ __care plan__.
+	- Based on the __patient's__ __needs__
+	- patient's __preferences__, 
+	- patient's __assessment results__
+	- for the appropriate __level of care__ and __support__. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __Z51.5 - Z51.89 Care Coordination__
 
 3. Coordinate care among:
-	- different healthcare providers
-	- social services, 
-	- and community-based organizations involved in the patient's treatment
-	- ensure seamless communication and collaboration. 
-	1. Clinical Terminology Code System: HL7 FHIR 
-	Code Range for Findings: 1832388 - 1832389 Medication Management
+	- different healthcare __providers__
+	- __social services__, 
+	- and __community-based organizations__ involved in the patient's treatment
+	- ensure seamless __communication and collaboration__. 
+	1. Clinical Terminology Code System: __HL7 FHIR__
+	Code Range for Findings: __1832388 - 1832389 Medication Management__
 
-4. Oversee and monitor the use of medications 
-	- prescribed to treat mental health conditions
-	- ensuring proper dosing, adherence to the regimen,
-	- and managing side effects. 
-	1. Clinical Terminology Code System: RxNorm 
-	2. Code Range for Findings: 236723 - 4058100 Behavioral Health Integration
+4. Oversee and monitor the use of __medications__
+	- prescribed to treat mental health __conditions__
+	- ensuring proper __dosing__, __adherence to the regimen__,
+	- and managing __side effects__. 
+	1. Clinical Terminology Code System: __RxNorm__
+	2. Code Range for Findings: __236723 - 4058100 Behavioral Health Integration__
 
-5. Integrate mental health care with primary care and other services 
-	- facilitate a comprehensive approach to overall health and well-being. 
-	1. Clinical Terminology Code System: LOINC 
-	2. Code Range for Findings: 18681-5 - 18681-8 Crisis Intervention and Management
+5. Integrate mental health care with __primary care__ and __other services__
+	- facilitate a __comprehensive approach to overall health__ and well-being. 
+	1. Clinical Terminology Code System: __LOINC__
+	2. Code Range for Findings: __18681-5 - 18681-8 Crisis Intervention and Management__
 
-6. Provide support and assistance during mental health crisis, 
-	- helping patients access the appropriate services and resources they need. 
-	1. Clinical Terminology Code System: ICD-10 
-	2. Code Range for Findings: F43.0 - F43.2 Psychoeducation and Support
+6. Provide __support and assistance__ during mental health __crisis__, 
+	- helping patients access the appropriate __services and resources they need__. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __F43.0 - F43.2 Psychoeducation and Support__
 
-7. Educate patients and their families about:
-	- mental health conditions, 
-	- treatment options, 
-	- and coping strategies, 
-	- providing emotional support and guidance. 
-	1. Clinical Terminology Code System: SNOMED CT 
-	2. Code Range for Findings: 722461007 - 722461002 Monitoring and Follow-up
+7. __Educate patients and their families__ about:
+	- mental health __conditions__, 
+	- __treatment options__, 
+	- and __coping strategies__, 
+	- providing __emotional support and guidance__. 
+	1. Clinical Terminology Code System: __SNOMED CT__
+	2. Code Range for Findings: __722461007 - 722461002 Monitoring and Follow-up__
 
-8. Regularly track patient progress
-	- evaluate the effectiveness of the care plan
-	- and make necessary adjustments to treatment strategies. 
-	1. Clinical Terminology Code System: ICD-10 
-	2. Code Range for Findings: Z71.89 - Z76.89 Prevention and Early Intervention
+8. Regularly __track patient progress__
+	- __evaluate the effectiveness__ of the care plan
+	- and make necessary __adjustments to treatment strategies__. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __Z71.89 - Z76.89 Prevention and Early Intervention__
 
-9. Identify individuals at risk for mental health issues
-	- provide appropriate screening,
-	- and implement evidence-based interventions 
-	- to prevent the onset or worsening of mental health conditions. 
-	1. Clinical Terminology Code System: ICD-10
-	2. Code Range for Findings: Z00.00 - Z13.9 Quality Measurement and Improvement
+9. Identify __individuals at risk__ for mental health __issues__
+	- provide appropriate __screening__,
+	- and implement __evidence-based interventions__
+	- to __prevent the onset or worsening__ of mental health conditions. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __Z00.00 - Z13.9 Quality Measurement and Improvement__
 
-10. Monitor and evaluate the quality of mental health care provided
-	- using performance metrics 
-	- and evidence-based practices to continually improve patient outcomes. 
-	1. Clinical Terminology Code System: CPT 
-	2. Code Range for Findings: 90832 - 90839, 96150 - 96155
+10. __Monitor and evaluate the quality__ of mental health care provided
+	- using __performance metrics__
+	- and __evidence-based practices__ to continually __improve patient outcomes__. 
+	1. Clinical Terminology Code System: __CPT__
+	2. Code Range for Findings: __90832 - 90839, 96150 - 96155__
 
 
 # Overview of Care Management Activities for Physical Health
 
 Here are ten potential care management activities that may be relevant for insurance companies and healthcare providers in the context of physical health care.
 
-1. Preventive Care
-	- Provide preventive care services to patients, 
-	- including immunizations, 
-	- health screenings, 
-	- and health education 
-	- to prevent and detect early signs of illness. 
-	1. Clinical Terminology Code System: ICD-10 
-	2. Code Range for Findings: Z00.00 - Z13.9 Chronic Disease Management
+1. __Preventive Care__
+	- Provide __preventive care services__ to patients, 
+	- including __immunizations__, 
+	- __health screenings__, 
+	- and __health education__
+	- to prevent and detect early __signs of illness__. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __Z00.00 - Z13.9 Chronic Disease Management__
 
-2. Manage chronic conditions:
-	- such as diabetes, 
-	- hypertension, 
-	- and heart disease 
-	- through ongoing monitoring, 
-	- medication management, 
-	- and lifestyle interventions. 
-	1. Clinical Terminology Code System: SNOMED CT 
-	2. Code Range for Findings: 312824007 - 312824009, 38341003 - 38342003 Medication Management
+2. Manage __chronic conditions__:
+	- such as __diabetes__, 
+	- __hypertension__, 
+	- and __heart disease__ 
+	- through ongoing __monitoring__, 
+	- __medication management__, 
+	- and __lifestyle interventions__. 
+	1. Clinical Terminology Code System: __SNOMED CT__
+	2. Code Range for Findings: __312824007 - 312824009, 38341003 - 38342003 Medication Management__
 
-3. Oversee and monitor the use of medications:
-	- prescribed to treat physical health conditions, 
-	- ensuring proper dosing, 
-	- adherence to the regimen, 
-	- and managing side effects. 
-	1. Clinical Terminology Code System: RxNorm 
-	2. Code Range for Findings: 236723 - 4058100 Care Coordination
+3. Oversee and monitor the use of __medications__:
+	- prescribed to treat __physical health conditions__, 
+	- ensuring proper __dosing__, 
+	- __adherence to the regimen__, 
+	- and __managing side effects__. 
+	1. Clinical Terminology Code System: __RxNorm__
+	2. Code Range for Findings: __236723 - 4058100 Care Coordination__
 
-4. Coordinate care among:
-	- different healthcare providers, 
-	- social services, 
-	- and community-based organizations involved in the patient's treatment, 
-	- ensuring seamless communication and collaboration. 
-	1. Clinical Terminology Code System: HL7 FHIR 
-	2. Code Range for Findings: 1832388 - 1832389 Rehabilitation and Therapy
+4. __Coordinate care__ among:
+	- different healthcare __providers__, 
+	- __social services__, 
+	- and __community-based organizations__ involved in the patient's treatment, 
+	- ensuring seamless __communication and collaboration__. 
+	1. Clinical Terminology Code System: __HL7 FHIR__
+	2. Code Range for Findings: __1832388 - 1832389 Rehabilitation and Therapy__
 
-5. Provide rehabilitation and therapy services to patients
-	- recovering from injuries or surgeries, 
-	- helping them regain strength, mobility, and function. 
-	1. Clinical Terminology Code System: CPT 
-	2. Code Range for Findings: 97110 - 97542, 97750 - 97762 Pain Management
+5. Provide __rehabilitation__ and __therapy services__ to patients
+	- __recovering from injuries or surgeries__, 
+	- helping them __regain strength, mobility, and function__. 
+	1. Clinical Terminology Code System: __CPT__
+	2. Code Range for Findings: __97110 - 97542, 97750 - 97762 Pain Management__
 
-6. Manage pain in patients with chronic conditions or acute injuries
-	- through a combination of medication, 
-	- physical therapy, 
-	- and other interventions. 
-	1. Clinical Terminology Code System: ICD-10
-	2. Code Range for Findings: G89.0 - G89.4 Nutrition Counseling
+6. __Manage pain__ in patients with __chronic conditions__ or __acute injuries__
+	- through a combination of __medication__, 
+	- __physical therapy__, 
+	- and other __interventions__. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __G89.0 - G89.4 Nutrition Counseling__
 
-7. Provide nutrition counseling and education to patients
-	- helping them adopt healthy eating habits 
-	- and manage conditions such as obesity, diabetes, and heart disease. 
-	1. Clinical Terminology Code System: CPT 
-	2. Code Range for Findings: 97802 - 97804, 97805 - 97807 Screening and Diagnosis
+7. Provide __nutrition counseling and education__ to patients
+	- helping them adopt __healthy eating habits__ 
+	- and __manage conditions__ such as __obesity__, __diabetes__, and __heart disease__. 
+	1. Clinical Terminology Code System: __CPT__
+	2. Code Range for Findings: __97802 - 97804, 97805 - 97807 Screening and Diagnosis__
 
-8. Screen patients for common conditions such as:
-	- cancer, 
-	- heart disease, 
-	- and diabetes, 
-	- and diagnose these conditions through a combination of:
-		1. physical exams, 
-		2. lab tests, 
-		3. and imaging studies. 
-	1. Clinical Terminology Code System: ICD-10
-	2. Code Range for Findings: C00.0 - C97.9, I20.0 - I25.119, E08.00 - E13.9 Surgical Services
+8. __Screen patients for common conditions__ such as:
+	- __cancer__, 
+	- __heart disease__, 
+	- and __diabetes__, 
+	- and __diagnose__ these conditions through a combination of:
+		1. __physical exams__, 
+		2. __lab tests__, 
+		3. and __imaging studies__. 
+	1. Clinical Terminology Code System: __ICD-10__
+	2. Code Range for Findings: __C00.0 - C97.9, I20.0 - I25.119, E08.00 - E13.9 Surgical Services__
 
-9. Provide surgical services to patients, 
-	- including both elective 
-	- and emergency surgeries for conditions such as:
-		1. cancer, 
-		2. injuries, 
-		3. and chronic diseases. 
-	1. Clinical Terminology Code System: CPT 
-	2. Code Range for Findings: 10021 - 69990 Quality Measurement and Improvement
+9. Provide __surgical services__ to patients, 
+	- including both __elective__ 
+	- and __emergency surgeries__ for __conditions__ such as:
+		1. __cancer__, 
+		2. __injuries__, 
+		3. and __chronic diseases__. 
+	1. Clinical Terminology Code System: __CPT__ 
+	2. Code Range for Findings: __10021 - 69990 Quality Measurement and Improvement__
 
-10. Monitor and evaluate the quality of physical health care provided, 
-	- using performance metrics 
-	- and evidence-based practices 
-	- to continually improve patient outcomes. 
-	1. Clinical Terminology Code System: CPT
-	2. Code Range for Findings: 99024 - 99091
+10. Monitor and evaluate the __quality of physical health care__ provided, 
+	- using __performance metrics__ 
+	- and __evidence-based practices__
+	- to __continually improve patient outcomes__. 
+	1. Clinical Terminology Code System: __CPT__
+	2. Code Range for Findings: __99024 - 99091__
 
 
 # Streamlit Standards and Architecture:
