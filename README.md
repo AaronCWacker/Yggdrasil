@@ -1,6 +1,53 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Clinical Terminology
+1. https://huggingface.co/spaces/awacke1/SNOMED-LOINC-eCQM
+
+
+# In Context Learning By Prompt Outline and Real Time Reward and Penalty From Human Personalization Feedback (ICLPO and RTRP from HPF)
+1. https://huggingface.co/spaces/awacke1/InContextLearning-PromptTargeting
+2. Physical - 3D - Video : https://huggingface.co/spaces/awacke1/HTML5-Dashboard  https://huggingface.co/spaces/awacke1/4.RealTime-MediaPipe-AI-From-Video-On-Any-Device https://huggingface.co/spaces/awacke1/3.HTML5-Aframe-3dMap-Flight
+3. RLHF Original ChatGPT as Service: https://huggingface.co/spaces/awacke1/1.ChatGPT-HuggingFace-Spaces-NLP-Transformers-Pipeline
+4. Live Input NLP - README.md: https://huggingface.co/spaces/awacke1/Markdown-Analyzer
+5. Click Button Streamlit Advanced UI: https://huggingface.co/spaces/awacke1/StreamlitDotEdgeGraphViz-Images-SVG
+6. ChatGPT: https://huggingface.co/spaces/awacke1/ChatGPT-API-Gradio
+7. Streamlit Data Editor - Upload and Wrangle CSV and Images: https://huggingface.co/spaces/awacke1/Streamlit.Data.Editor
+8. Topic Wizard Downloader SKLearn: https://huggingface.co/spaces/awacke1/Topic-Wizard-SKlearn
+9. Topic Modeler: https://huggingface.co/spaces/awacke1/BERTopic-Topic-Modeler-NLP-ML
+10. Belle Rebel - Knowledge Graphs and UI Generator: https://huggingface.co/spaces/awacke1/Knowledge-graphs
+
+
+
+
+## General Problem Solvers Using LLM:
+1. https://huggingface.co/spaces/awacke1/StreamlitSolution-To-Your-Problem-Generator
+2. https://huggingface.co/spaces/awacke1/TopTenAIGeneratedSolutionsAnyoneCouldUse
+
+## Multiplayer Feedback
+1. https://huggingface.co/spaces/awacke1/Wikipedia.Chat.Multiplayer
+2. https://huggingface.co/spaces/awacke1/Word.Search.Experiments
+3. https://huggingface.co/spaces/awacke1/Streamlit.ChatWikiwriter.Multiplayer
+4. https://huggingface.co/spaces/awacke1/7.AI.Dashboard.Gradio.Streamlit.HTML5
+
+## Maps
+1. https://huggingface.co/spaces/awacke1/MN.Map.Hospitals.Top.Five
+2. https://huggingface.co/spaces/awacke1/Spending-Simulation
+
+# 3D GLB:
+1. https://huggingface.co/spaces/awacke1/GLB.Loader.HTML5
+2. https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+3. https://huggingface.co/spaces/awacke1/NVidia.Raytrace.Mirror.HTML5.ThreeJS
+
+# Graphs
+1. Dynamic Graph Builder: https://huggingface.co/spaces/awacke1/Streamlit.GraphViz.Dynamic.Architecture.Diagram
+2. https://huggingface.co/spaces/awacke1/Streamlit-Azure-IDR-Diagram
+
+# Docker
+1. https://huggingface.co/spaces/awacke1/DockerDiagrams
+
+
+
 # Tests on Expansive Creativity Theory of Mass and Agency in Intelligence.
 
 Prompt for [plug it in w pandas ]
