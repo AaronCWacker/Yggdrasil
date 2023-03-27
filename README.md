@@ -29,8 +29,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Overview of Care Management Activities for Mental Health
 
-1. Comprehensive Assessment - Conduct a thorough evaluation of the patient's mental health condition:
-	- Consider medical history, social situation, and potential risk factors. 
+1. Comprehensive __Assessment__ - Conduct a thorough evaluation of the patient's __mental__ health __condition__:
+	- Consider __medical history__, __social situation__, and potential __risk factors__. 
 	- Clinical Terminology Code System: SNOMED CT 
 	- Code Range for Findings: 38605008 - 386055007 Individualized Care Planning
 
