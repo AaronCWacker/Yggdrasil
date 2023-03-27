@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+## News Article Outline
+
+### Wind Power Industry Growth Projection
+- The Global Wind Energy Council projects rapid growth in 2023
+- Incentives and policy changes in key nations help overcome slowdown factors
+
+### Factors Leading to Slowdown in 2022
+- Government policies encouraged "race to the bottom" pricing
+- Inflation and higher logistics costs
+- Inefficient permitting and licensing rules
+
+### Global Wind Energy Council Report
+- Annual Global Wind Report released in Brussels
+- Climate change and secure energy supplies concerns cited
+- 680 gigawatts of new wind capacity projected by 2027
+- Enough to power 657 million homes annually
+
+### 2022 Wind Power Market Status
+- Industry added 78 gigawatts of wind capacity globally
+- Down 17% from 2021, but still the third-best year for new capacity
+
+
+![image](https://user-images.githubusercontent.com/30595158/227978132-55441493-2f51-498a-a1b2-7f3b4c9b9b4d.png)
+
+
+
 # Clinical Terminology
 1. https://huggingface.co/spaces/awacke1/SNOMED-LOINC-eCQM
 
