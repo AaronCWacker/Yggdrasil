@@ -25,6 +25,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 ![image](https://user-images.githubusercontent.com/30595158/227985205-4863472e-c15a-4d35-a1ec-aae880af9530.png)
 
 
+
+
+
+
 # CM in Mental and Physical Health - Top 10 Activities
 
 # Overview of Care Management Activities for Mental Health
@@ -179,6 +183,64 @@ Here are ten potential care management activities that may be relevant for insur
 	- to __continually improve patient outcomes__. 
 	1. Clinical Terminology Code System: __CPT__
 	2. Code Range for Findings: __99024 - 99091__
+
+
+# Streamlit and Components:
+
+🔹 UI components:
+Use ipywidgets 🐼, Bokeh 🌈 or Dash 🏃 to create interactive UI components and integrate them with Streamlit's reactive components.
+- ipywidgets: https://ipywidgets.readthedocs.io/en/stable/
+- Bokeh: https://docs.bokeh.org/en/latest/
+- Dash: https://dash.plotly.com/introduction
+
+🔹 Real-time feedback:
+Monitor changes to code using watchdog 🐕, autoreload 🔁 or Livereload 🔄, and automatically refresh your Streamlit application for real-time feedback.
+- watchdog: https://pythonhosted.org/watchdog/
+- autoreload: https://docs.python.org/3/library/autoreload.html
+- Livereload: https://github.com/lepture/python-livereload
+
+🔹 Multi-language support:
+Integrate R code using reticulate 🤝, Julia code using PyCall 🦄, or C++ code using pybind11 🐍, with your Streamlit application.
+- reticulate: https://rstudio.github.io/reticulate/
+- PyCall: https://github.com/JuliaPy/PyCall.jl
+- pybind11: https://pybind11.readthedocs.io/en/stable/
+
+🔹 Data handling:
+Manipulate data in Python using pandas 🐼, numpy 🔢 or dask 🚀, and load it into your Streamlit application.
+- pandas: https://pandas.pydata.org/docs/
+- numpy: https://numpy.org/doc/
+- dask: https://docs.dask.org/en/latest/
+
+🔹 Data persistence:
+Persist data between runs of your Streamlit application using pickle 🥒, joblib 🛡️ or h5py 🗄️.
+- pickle: https://docs.python.org/3/library/pickle.html
+- joblib: https://joblib.readthedocs.io/en/latest/
+- h5py: https://docs.h5py.org/en/stable/
+
+🔹 Interactive visualizations:
+Create visualizations using plotly 📈, matplotlib 📊 or altair 🌟, and display them in your Streamlit application.
+- plotly: https://plotly.com/python/
+- matplotlib: https://matplotlib.org/
+- altair: https://altair-viz.github.io/
+
+🔹 API generation:
+Build APIs using FastAPI 🚀, Flask 🍶 or Django 🎸, and use Streamlit to display and interact with your API.
+- FastAPI: https://fastapi.tiangolo.com/
+- Flask: https://flask.palletsprojects.com/en/2.1.x/
+- Django: https://www.djangoproject.com/
+
+🔹 Collaboration and sharing:
+Share and collaborate on Streamlit projects using GitHub 🐙, Google Colab 🌐 or Jupyter Notebook 📓.
+- GitHub: https://docs.github.com/en
+- Google Colab: https://colab.research.google.com/notebooks/intro.ipynb
+- Jupyter Notebook: https://jupyter.org/documentation
+
+🔹 Integration with popular libraries:
+Leverage TensorFlow 🤖, PyTorch 🔥 or Scikit-learn 🧠 in your Streamlit application.
+- TensorFlow: https://www.tensorflow.org/api_docs
+- PyTorch: https://pytorch.org/docs/stable/index.html
+- Scikit-learn: https://scikit-learn.org/stable/
+
 
 
 # Streamlit Standards and Architecture:
