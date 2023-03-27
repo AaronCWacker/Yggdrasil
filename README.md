@@ -25,7 +25,127 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 ![image](https://user-images.githubusercontent.com/30595158/227985205-4863472e-c15a-4d35-a1ec-aae880af9530.png)
 
 
+# Prompt on GPT4 - In Context Learning, and RLHF
 
+Validate this news article.  Create an outline in streamlit markdown format citing places and people.  The wind power industry on Monday projected growth to rapidly accelerate this year, with incentives and policy changes in key nations helping to overcome factors that led to a slowdown in 2022.
+
+The Global Wind Energy Council in Brussels also cited concern about climate change, as well as secure energy supplies following Russia’s invasion of Ukraine, for a fast-growth outlook in its annual Global Wind Report. The international trade association projected 680 gigawatts of new onshore and offshore wind will be installed by 2027 – enough to power about 657 million homes annually.
+
+“The twin challenges of secure energy supplies and climate targets will propel wind power into a new phase of extraordinary growth,” the council said in its report.
+
+The wind power market stalled in 2022 because of government policies that encouraged “race to the bottom” pricing, and because of inflation, higher logistics costs and inefficient permitting and licensing rules, the council said. The industry added about 78 gigawatts of wind capacity globally in 2022 — down 17% from 2021, but still the third-best year ever for new capacity.
+markdown
+Copy code
+## News Article Outline
+
+### Wind Power Industry Growth Projection
+- The Global Wind Energy Council projects rapid growth in 2023
+- Incentives and policy changes in key nations help overcome slowdown factors
+
+### Factors Leading to Slowdown in 2022
+- Government policies encouraged "race to the bottom" pricing
+- Inflation and higher logistics costs
+- Inefficient permitting and licensing rules
+
+### Global Wind Energy Council Report
+- Annual Global Wind Report released in Brussels
+- Climate change and secure energy supplies concerns cited
+- 680 gigawatts of new wind capacity projected by 2027
+- Enough to power 657 million homes annually
+
+### 2022 Wind Power Market Status
+- Industry added 78 gigawatts of wind capacity globally
+- Down 17% from 2021, but still the third-best year for new capacity
+
+
+
+Aaron Wacker
+With the  Global Wind Energy Council in Brussels - what nations participate iin the Global Wind Energy Council?  
+The Global Wind Energy Council (GWEC) is a member-based organization that represents the global wind industry. While the council itself is based in Brussels, Belgium, its members include companies, associations, and institutions from many countries across the world. The membership comprises various stakeholders such as wind turbine manufacturers, component suppliers, research institutes, national wind and renewable energy associations, developers, contractors, electricity providers, and finance and insurance companies.
+
+Some of the countries with significant representation in the GWEC include the United States, China, India, Germany, Spain, Denmark, the United Kingdom, Canada, Brazil, and Australia, among others. However, it's important to note that the GWEC's scope is global, so many other countries also participate either directly or indirectly through their national associations or companies in the wind energy sector.
+
+
+
+
+Aaron Wacker
+Create a streamlit python program that uses folium maps to map the python list dictionary of the countries participating in the Global Wind Energy Council.
+Here's a simple Streamlit Python program that uses Folium maps to display markers for the countries participating in the Global Wind Energy Council (GWEC). Please note that you need to install the required libraries first, using pip install streamlit folium geopy.
+
+python
+Copy code
+# Import required libraries
+import streamlit as st
+import folium
+from folium import Map, Marker
+from geopy.geocoders import Nominatim
+
+# Define countries participating in the Global Wind Energy Council
+gwec_countries = [
+    "United States",
+    "China",
+    "India",
+    "Germany",
+    "Spain",
+    "Denmark",
+    "United Kingdom",
+    "Canada",
+    "Brazil",
+    "Australia",
+]
+
+# Geolocate countries using geopy
+geolocator = Nominatim(user_agent="gwec_app")
+locations = {}
+
+for country in gwec_countries:
+    location = geolocator.geocode(country)
+    locations[country] = (location.latitude, location.longitude)
+
+# Create a folium map with markers for each country
+m = Map(location=[20, 0], zoom_start=2)
+
+for country, coords in locations.items():
+    Marker(location=coords, popup=country).add_to(m)
+
+# Display the folium map in Streamlit
+st.title("Countries Participating in the Global Wind Energy Council")
+st.write("This map shows the countries participating in the Global Wind Energy Council (GWEC).")
+st.write("Click on a marker to see the country name.")
+st.write(m._repr_html_(), unsafe_allow_html=True)
+
+# To run the Streamlit app, save this code to a file named "gwec_map.py"
+# and run `streamlit run gwec_map.py` in the terminal.
+To run the Streamlit app, save the above code to a file named "gwec_map.py" and run streamlit run gwec_map.py in the terminal. This will create a Streamlit web application that displays a map with markers for each country participating in the GWEC.
+
+
+
+
+Aaron Wacker
+Rewrite the markdown outline.  Reduce the reading level to grade school english.  Create bullet points with emojis to represent key terms.  Bold face key terms like the Council.
+
+markdown
+Copy code
+## 📰 News Article Outline
+
+### 🌬️ Wind Power Industry Growth Projection
+- The **Global Wind Energy Council** says wind power will grow fast in 2023
+- Changes in rules and help from important countries make it grow faster
+
+### ⏬ Factors for Slow Growth in 2022
+- **Governments** made rules that made prices very low
+- Things cost more and moving stuff was expensive
+- Rules for giving permission to build were not good
+
+### 🌍 Global Wind Energy Council Report
+- The report is from a big meeting in **Brussels**
+- People are worried about the **climate** and having enough energy
+- They think there will be 680 big wind machines by 2027
+- These machines can make power for 657 million homes every year
+
+### 📊 2022 Wind Power Numbers
+- They built 78 big wind machines all over the world
+- This is 17% less than in 2021, but it's still the third-best year for building them
 
 
 
