@@ -22,8 +22,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 - Industry added 78 gigawatts of wind capacity globally
 - Down 17% from 2021, but still the third-best year for new capacity
 
-
-![image](https://user-images.githubusercontent.com/30595158/227978132-55441493-2f51-498a-a1b2-7f3b4c9b9b4d.png)
+![image](https://user-images.githubusercontent.com/30595158/227978427-d186bbc3-4573-49ac-8e74-9358ee4295e8.png)
 
 
 
