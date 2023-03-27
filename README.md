@@ -29,6 +29,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 
+# NVIDIA GPU Testing - 4k x 2k, 3840 x 2160(native) 60Hz
+
+![image](https://user-images.githubusercontent.com/30595158/228078088-c05314af-460b-41a8-b8d7-fef3582725cf.png)
+
+
+
 # CM in Mental and Physical Health - Top 10 Activities
 
 # Overview of Care Management Activities for Mental Health
