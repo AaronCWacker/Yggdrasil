@@ -27,8 +27,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 # Top 10 Activities in CM:
-
-Overview of Care Management Activities for Mental Health
+## Overview of Care Management Activities for Mental Health
 Here are ten potential care management activities that may be relevant for insurance companies and healthcare providers in the context of mental health care.
 
 Comprehensive Assessment
@@ -81,6 +80,63 @@ Quality Measurement and Improvement
 Monitor and evaluate the quality of mental health care provided, using performance metrics and evidence-based practices to continually improve patient outcomes.
 Clinical Terminology Code System: CPT
 Ccode Range for Findings: 90832 - 90839, 96150 - 96155
+
+## Overview of Care Management Activities for Physical Health
+Here are ten potential care management activities that may be relevant for insurance companies and healthcare providers in the context of physical health care.
+
+Preventive Care
+
+Provide preventive care services to patients, including immunizations, health screenings, and health education to prevent and detect early signs of illness.
+Clinical Terminology Code System: ICD-10
+Ccode Range for Findings: Z00.00 - Z13.9
+Chronic Disease Management
+
+Manage chronic conditions such as diabetes, hypertension, and heart disease through ongoing monitoring, medication management, and lifestyle interventions.
+Clinical Terminology Code System: SNOMED CT
+Ccode Range for Findings: 312824007 - 312824009, 38341003 - 38342003
+Medication Management
+
+Oversee and monitor the use of medications prescribed to treat physical health conditions, ensuring proper dosing, adherence to the regimen, and managing side effects.
+Clinical Terminology Code System: RxNorm
+Ccode Range for Findings: 236723 - 4058100
+Care Coordination
+
+Coordinate care among different healthcare providers, social services, and community-based organizations involved in the patient's treatment, ensuring seamless communication and collaboration.
+Clinical Terminology Code System: HL7 FHIR
+Ccode Range for Findings: 1832388 - 1832389
+Rehabilitation and Therapy
+
+Provide rehabilitation and therapy services to patients recovering from injuries or surgeries, helping them regain strength, mobility, and function.
+Clinical Terminology Code System: CPT
+Ccode Range for Findings: 97110 - 97542, 97750 - 97762
+Pain Management
+
+Manage pain in patients with chronic conditions or acute injuries through a combination of medication, physical therapy, and other interventions.
+Clinical Terminology Code System: ICD-10
+Ccode Range for Findings: G89.0 - G89.4
+Nutrition Counseling
+
+Provide nutrition counseling and education to patients, helping them adopt healthy eating habits and manage conditions such as obesity, diabetes, and heart disease.
+Clinical Terminology Code System: CPT
+Ccode Range for Findings: 97802 - 97804, 97805 - 97807
+Screening and Diagnosis
+
+Screen patients for common conditions such as cancer, heart disease, and diabetes, and diagnose these conditions through a combination of physical exams, lab tests, and imaging studies.
+Clinical Terminology Code System: ICD-10
+Ccode Range for Findings: C00.0 - C97.9, I20.0 - I25.119, E08.00 - E13.9
+Surgical Services
+
+Provide surgical services to patients, including both elective and emergency surgeries for conditions such as cancer, injuries, and chronic diseases.
+Clinical Terminology Code System: CPT
+Ccode Range for Findings: 10021 - 69990
+Quality Measurement and Improvement
+
+Monitor and evaluate the quality of physical health care provided, using performance metrics and evidence-based practices to continually improve patient outcomes.
+Clinical Terminology Code System: CPT
+Ccode Range for Findings: 99024 - 99091
+
+
+
 
 # Clinical Terminology
 1. https://huggingface.co/spaces/awacke1/SNOMED-LOINC-eCQM
