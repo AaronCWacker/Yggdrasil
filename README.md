@@ -3,18 +3,18 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # AGI
 
-| Rank | Project/Initiative          | Organization/Company      | Brief Description                                                                                   |
-|------|-----------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
-| 1    | OpenAI                      | OpenAI                    | A research lab dedicated to advancing AGI, promoting AI that benefits all of humanity.              |
-| 2    | DeepMind                    | Alphabet Inc.             | A research lab focused on AGI development, responsible for breakthroughs like AlphaGo and AlphaZero.|
-| 3    | Human-Compatible AI         | UC Berkeley               | A research group working on the development of AGI that is safe and beneficial for humans.          |
-| 4    | Neuro-Symbolic AI           | MIT-IBM Watson AI Lab     | A collaboration seeking to combine neural and symbolic approaches to create human-like AI systems.  |
-| 5    | Artificial Brain Project    | Neuromorphic.ai           | A project focused on creating AGI by emulating the human brain and its functionality.               |
-| 6    | Project AGI                 | Project AGI               | A research initiative aimed at developing AGI through biologically inspired learning principles.    |
-| 7    | Numenta                     | Numenta                   | A company working on AGI research inspired by the principles of the neocortex in the human brain.   |
-| 8    | Vicarious                   | Vicarious                 | A research lab developing AGI through Recursive Cortical Network (RCN) technology.                  |
-| 9    | Allen Institute for AI (AI2)| Paul G. Allen             | A research institute working on various AI projects, some of which have AGI implications.           |
-| 10   | SingularityNET              | SingularityNET            | A decentralized AI platform working on creating AGI through a network of AI agents.                 |
+| Rank | Project/Initiative          | Organization/Company      | Brief Description                                                                                   | Wikipedia URL                                         |
+|------|-----------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| 1    | OpenAI                      | OpenAI                    | A research lab dedicated to advancing AGI, promoting AI that benefits all of humanity.              | https://en.wikipedia.org/wiki/OpenAI                 |
+| 2    | DeepMind                    | Alphabet Inc.             | A research lab focused on AGI development, responsible for breakthroughs like AlphaGo and AlphaZero.| https://en.wikipedia.org/wiki/DeepMind               |
+| 3    | Human-Compatible AI         | UC Berkeley               | A research group working on the development of AGI that is safe and beneficial for humans.          | https://en.wikipedia.org/wiki/Artificial_general_intelligence#Approaches |
+| 4    | Neuro-Symbolic AI           | MIT-IBM Watson AI Lab     | A collaboration seeking to combine neural and symbolic approaches to create human-like AI systems.  | https://en.wikipedia.org/wiki/MIT-IBM_Watson_AI_Lab  |
+| 5    | Artificial Brain Project    | Neuromorphic.ai           | A project focused on creating AGI by emulating the human brain and its functionality.               | https://en.wikipedia.org/wiki/Neuromorphic_engineering |
+| 6    | Project AGI                 | Project AGI               | A research initiative aimed at developing AGI through biologically inspired learning principles.    | https://en.wikipedia.org/wiki/Artificial_general_intelligence#Approaches |
+| 7    | Numenta                     | Numenta                   | A company working on AGI research inspired by the principles of the neocortex in the human brain.   | https://en.wikipedia.org/wiki/Numenta                 |
+| 8    | Vicarious                   | Vicarious                 | A research lab developing AGI through Recursive Cortical Network (RCN) technology.                  | https://en.wikipedia.org/wiki/Vicarious_(company)    |
+| 9    | Allen Institute for AI (AI2)| Paul G. Allen             | A research institute working on various AI projects, some of which have AGI implications.           | https://en.wikipedia.org/wiki/Allen_Institute_for_AI |
+| 10   | SingularityNET              | SingularityNET            | A decentralized AI platform working on creating AGI through a network of AI agents.                 | https://en.wikipedia.org/wiki/SingularityNET         |
 
 
 # Prompts - 03/30/2023
