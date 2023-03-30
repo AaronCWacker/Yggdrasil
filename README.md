@@ -1,7 +1,23 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# AGI
+# Top Ten QA LLM AI per 2021
+| Rank | Library Name | Description | Wikipedia URL | Library Reference URL |
+|------|--------------|-------------|---------------|-----------------------|
+| 1 | OpenAI GPT-4 | Advanced AI LLM with semantic and episodic memory. | [Wikipedia](https://en.wikipedia.org/wiki/OpenAI#Models) | [OpenAI](https://beta.openai.com/docs/models/gpt) |
+| 2 | Hugging Face Transformers | A library of pre-trained NLP models, including GPT-3, BERT, RoBERTa, and more. | [Wikipedia](https://en.wikipedia.org/wiki/Hugging_Face) | [Hugging Face](https://huggingface.co/transformers/) |
+| 3 | AllenNLP | An open-source NLP research library by Allen Institute for AI. | [Wikipedia](https://en.wikipedia.org/wiki/Allen_Institute_for_Artificial_Intelligence) | [AllenNLP](https://allennlp.org/) |
+| 4 | DeepPavlov | An open-source conversational AI framework. | [Wikipedia](https://en.wikipedia.org/wiki/DeepPavlov) | [DeepPavlov](https://deeppavlov.ai/) |
+| 5 | Rasa | An open-source machine learning framework for building contextual AI assistants. | [Wikipedia](https://en.wikipedia.org/wiki/Rasa_(software)) | [Rasa](https://rasa.com/) |
+| 6 | ParlAI | A research platform by Facebook AI for dialogue models. | [Wikipedia](https://en.wikipedia.org/wiki/Facebook_Artificial_Intelligence_Research) | [ParlAI](https://parl.ai/) |
+| 7 | spaCy | A library for advanced natural language processing. | [Wikipedia](https://en.wikipedia.org/wiki/SpaCy) | [spaCy](https://spacy.io/) |
+| 8 | TensorFlow Text | A TensorFlow library for NLP tasks. | [Wikipedia](https://en.wikipedia.org/wiki/TensorFlow#TensorFlow_Text) | [TensorFlow Text](https://www.tensorflow.org/tutorials/tensorflow_text/intro) |
+| 9 | Stanza | A Python NLP library for many human languages, developed by the Stanford NLP Group. | [Wikipedia](https://en.wikipedia.org/wiki/Stanford_Natural_Language_Processing_Group) | [Stanza](https://stanfordnlp.github.io/stanza/) |
+| 10 | NLTK | A leading platform for building Python programs to work with human language data. | [Wikipedia](https://en.wikipedia.org/wiki/Natural_Language_Toolkit) | [NLTK](https://www.nltk.org/) |
+
+
+
+# AGI Top Ten with Wikipedia Reference Links
 
 | Rank | Project/Initiative          | Organization/Company      | Brief Description                                                                                   | Wikipedia URL                                         |
 |------|-----------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -18,6 +34,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 # Prompts - 03/30/2023
+
+List the top ten forms of AI LLM Prompting libraries and libraries that demonstrate QA or more specifically themed problem and solution areas structured as question and answer large language model ai pipelines with semantic and episodic memory and include cite reference URLS.  Write this as markdown code as a table
+modify the table and add wikipedia.org URL
+
+List the top ten forms of AGI and include cite reference URLS.  Write this as markdown code as a table
+modify the table and add wikipedia.org URL
+
+
 create a summary of the top twenty clinical and mental health standardized terminology sets that are open source and freely available without a paid license.  Create this as a streamlit markdown table with emojis and descriptions as well as URL to the download page for the vocabulary or terminology data files.
 
 Crea streamlit python tuple program that rruns scenarios of upvotes and downvotes within a period of time from zero to 100 seconds.  Use this as tuples: 
