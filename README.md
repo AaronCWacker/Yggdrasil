@@ -1,6 +1,35 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Prompts - 03/30/2023
+create a summary of the top twenty clinical and mental health standardized terminology sets that are open source and freely available without a paid license.  Create this as a streamlit markdown table with emojis and descriptions as well as URL to the download page for the vocabulary or terminology data files.
+
+Crea streamlit python tuple program that rruns scenarios of upvotes and downvotes within a period of time from zero to 100 seconds.  Use this as tuples: 
+...
+
+
+
+
+Create a streamlit program that provides a user interface for calling this service:  import requests
+
+response = requests.post("https://blinkdl-chatrwkv-gradio.hf.space/run/predict", json={
+	"data": [
+		"Here's a short cyberpunk sci-fi adventure story. The story's main character is an artificial human created by a company called OpenBot.
+
+The Story:
+",
+		150,
+		1,
+		0.7,
+		0.2,
+		0.2,
+	]
+}).json()
+
+data = response["data"]
+
+
+
 ## News Article Outline
 
 ### Wind Power Industry Growth Projection
