@@ -1,6 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AGI
+
+| Rank | Project/Initiative          | Organization/Company      | Brief Description                                                                                   |
+|------|-----------------------------|---------------------------|-----------------------------------------------------------------------------------------------------|
+| 1    | OpenAI                      | OpenAI                    | A research lab dedicated to advancing AGI, promoting AI that benefits all of humanity.              |
+| 2    | DeepMind                    | Alphabet Inc.             | A research lab focused on AGI development, responsible for breakthroughs like AlphaGo and AlphaZero.|
+| 3    | Human-Compatible AI         | UC Berkeley               | A research group working on the development of AGI that is safe and beneficial for humans.          |
+| 4    | Neuro-Symbolic AI           | MIT-IBM Watson AI Lab     | A collaboration seeking to combine neural and symbolic approaches to create human-like AI systems.  |
+| 5    | Artificial Brain Project    | Neuromorphic.ai           | A project focused on creating AGI by emulating the human brain and its functionality.               |
+| 6    | Project AGI                 | Project AGI               | A research initiative aimed at developing AGI through biologically inspired learning principles.    |
+| 7    | Numenta                     | Numenta                   | A company working on AGI research inspired by the principles of the neocortex in the human brain.   |
+| 8    | Vicarious                   | Vicarious                 | A research lab developing AGI through Recursive Cortical Network (RCN) technology.                  |
+| 9    | Allen Institute for AI (AI2)| Paul G. Allen             | A research institute working on various AI projects, some of which have AGI implications.           |
+| 10   | SingularityNET              | SingularityNET            | A decentralized AI platform working on creating AGI through a network of AI agents.                 |
+
+
 # Prompts - 03/30/2023
 create a summary of the top twenty clinical and mental health standardized terminology sets that are open source and freely available without a paid license.  Create this as a streamlit markdown table with emojis and descriptions as well as URL to the download page for the vocabulary or terminology data files.
 
