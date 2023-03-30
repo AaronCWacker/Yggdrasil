@@ -2,12 +2,17 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # LLM CQA Pattern:
-1. ID
-2. Title
-3. Context
-4. Question
-5. Answers.Text
-6. Answers.Answers_Start
+In Large Language Models (LLMs) like ChatGPT, the fields below are used to train and evaluate the model on various tasks, such as question-answering, context understanding, and more. The table below describes the purpose of each field and provides URL links to the state-of-the-art approaches for comparison and evaluation of generated output:
+
+| Field                | Purpose                                                                                                                                                                                                                              | URL links to state-of-the-art approaches                                                                                                                                       |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. ID                | Unique identifier for each data entry in a dataset. Used to reference, sort, or filter the entries.                                                                                                                                 | N/A (Standard practice)                                                                                                                                                         |
+| 2. Title             | A brief description or summary of the context provided. Helpful in identifying the topic or theme of the context.                                                                                                                   | N/A (Standard practice)                                                                                                                                                         |
+| 3. Context           | The background information, typically a passage or paragraph, which helps the model to understand the scope and details necessary to answer questions or perform tasks.                                                              | [SQuAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) <br/> [MS MARCO](https://microsoft.github.io/msmarco/)                                                                                       |
+| 4. Question          | The query that the model needs to answer based on the given context. The model is trained to understand and generate appropriate answers.                                                                                            | [SQuAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) <br/> [MS MARCO](https://microsoft.github.io/msmarco/)                                                                                       |
+| 5. Answers.Text      | The correct or acceptable answers to the given question, which the model should aim to produce. Used for training and evaluation.                                                                                                    | [SQuAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) <br/> [MS MARCO](https://microsoft.github.io/msmarco/)                                                                                       |
+| 6. Answers.Answers_Start | The position of the answer within the context (usually in terms of character index). Useful for tasks that require the model to provide the location of the answer in the text.                                                     | [SQuAD (Stanford Question Answering Dataset)](https://rajpurkar.github.io/SQuAD-explorer/) <br/> [MS MARCO](https://microsoft.github.io/msmarco/)                                                                                       |
+
 
 
 ![image](https://user-images.githubusercontent.com/30595158/228821840-b2808df8-b102-46c2-bdd2-431f7f7bf656.png)
