@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# LLM CQA Pattern:
+1. ID
+2. Title
+3. Context
+4. Question
+5. Answers.Text
+6. Answers.Answers_Start
+
+
+![image](https://user-images.githubusercontent.com/30595158/228821840-b2808df8-b102-46c2-bdd2-431f7f7bf656.png)
+
+
 # Top Ten QA LLM AI per 2021
 | Rank | Library Name | Description | Wikipedia URL | Library Reference URL |
 |------|--------------|-------------|---------------|-----------------------|
