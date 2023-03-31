@@ -4,14 +4,11 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # 2023 Bloom Spaces
 
-1. https://huggingface.co/spaces/awacke1/Write-Stories-Using-Bloom
-2. https://huggingface.co/spaces/awacke1/Bloom.QA.Translation.LLM.AI
-3. https://huggingface.co/spaces/awacke1/Bloom.Human.Feedback.File.Ops
-4. D https://huggingface.co/spaces/awacke1/BigScienceBloomRootsMemory
-5. https://huggingface.co/spaces/awacke1/Bloom.Generative.Writer
-6. https://huggingface.co/spaces/awacke1/04-AW-StorywriterwMem
-7. https://huggingface.co/spaces/awacke1/Bloom.Big.Science.Continual.Generator
-8. Search Topics https://discuss.huggingface.co/search?q=bloom
+1. Model: https://huggingface.co/bigscience/bloom
+2. Bloom Theme Generator: https://huggingface.co/spaces/awacke1/Write-Stories-Using-Bloom
+3. Bloom Ghotwriter : https://huggingface.co/spaces/awacke1/Bloom.Generative.Writer
+4. https://huggingface.co/spaces/awacke1/Bloom.Human.Feedback.File.Ops
+5. https://huggingface.co/spaces/awacke1/04-AW-StorywriterwMem
 
 🌸 🔎 Bloom Searcher 🔍 🌸 
 
