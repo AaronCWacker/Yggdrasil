@@ -36,7 +36,8 @@ Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parall
 Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation https://arxiv.org/abs/2108.12409
 https://huggingface.co/models?other=doi:10.57967/hf/0003
 217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
-Datasets
+
+Datasets:
 Universal Dependencies: https://paperswithcode.com/dataset/universal-dependencies
 WMT 2014: https://paperswithcode.com/dataset/wmt-2014
 The Pile: https://paperswithcode.com/dataset/the-pile
@@ -48,7 +49,105 @@ MTEB: https://paperswithcode.com/dataset/mteb
 xP3: https://paperswithcode.com/dataset/xp3
 DiaBLa: https://paperswithcode.com/dataset/diabla
 
+Evals:
+https://github.com/AaronCWacker/evals
 
+## Language Models 🗣️
+🏆 Bloom sets new record for most performant and efficient AI model in science! 🌸
+### Comparison of Large Language Models
+| Model Name        | Model Size (in Parameters) |
+| ----------------- | -------------------------- |
+| BigScience-tr11-176B | 176 billion |
+| GPT-3             | 175 billion               |
+| OpenAI's DALL-E 2.0 | 500 million               |
+| NVIDIA's Megatron | 8.3 billion               |
+| Transformer-XL    | 250 million               |
+| XLNet             | 210 million               |
+
+## ChatGPT Datasets 📚
+- WebText
+- Common Crawl
+- BooksCorpus
+- English Wikipedia
+- Toronto Books Corpus
+- OpenWebText
+
+## ChatGPT Datasets - Details 📚
+- **WebText:** A dataset of web pages crawled from domains on the Alexa top 5,000 list. This dataset was used to pretrain GPT-2.
+  - [WebText: A Large-Scale Unsupervised Text Corpus by Radford et al.](https://paperswithcode.com/dataset/webtext)
+- **Common Crawl:** A dataset of web pages from a variety of domains, which is updated regularly. This dataset was used to pretrain GPT-3.
+  - [Language Models are Few-Shot Learners](https://paperswithcode.com/dataset/common-crawl) by Brown et al.
+- **BooksCorpus:** A dataset of over 11,000 books from a variety of genres.
+  - [Scalable Methods for 8 Billion Token Language Modeling](https://paperswithcode.com/dataset/bookcorpus) by Zhu et al.
+- **English Wikipedia:** A dump of the English-language Wikipedia as of 2018, with articles from 2001-2017.
+  - [Improving Language Understanding by Generative Pre-Training](https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch?logs=build) Space for Wikipedia Search
+- **Toronto Books Corpus:** A dataset of over 7,000 books from a variety of genres, collected by the University of Toronto.
+  - [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://paperswithcode.com/dataset/bookcorpus) by Schwenk and Douze.
+- **OpenWebText:** A dataset of web pages that were filtered to remove content that was likely to be low-quality or spammy. This dataset was used to pretrain GPT-3.
+  - [Language Models are Few-Shot Learners](https://paperswithcode.com/dataset/openwebtext) by Brown et al.
+  
+## Big Science Model 🚀
+- 📜 Papers:
+  1. BLOOM: A 176B-Parameter Open-Access Multilingual Language Model [Paper](https://arxiv.org/abs/2211.05100)
+  2. Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism [Paper](https://arxiv.org/abs/1909.08053)
+  3. 8-bit Optimizers via Block-wise Quantization [Paper](https://arxiv.org/abs/2110.02861)
+  4. Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation [Paper](https://arxiv.org/abs/2108.12409)
+  5. [Other papers related to Big Science](https://huggingface.co/models?other=doi:10.57967/hf/0003)
+  6. [217 other models optimized for use with Bloom](https://huggingface.co/models?other=bloom)
+  
+- 📚 Datasets:
+**Datasets:**
+1. - **Universal Dependencies:** A collection of annotated corpora for natural language processing in a range of languages, with a focus on dependency parsing.
+  - [Universal Dependencies official website.](https://universaldependencies.org/)
+2. - **WMT 2014:** The fourth edition of the Workshop on Statistical Machine Translation, featuring shared tasks on translating between English and various other languages.
+  - [WMT14 website.](http://www.statmt.org/wmt14/)
+3. - **The Pile:** An English language corpus of diverse text, sourced from various places on the internet.
+  - [The Pile official website.](https://pile.eleuther.ai/)
+4. - **HumanEval:** A dataset of English sentences, annotated with human judgments on a range of linguistic qualities.
+  - [HumanEval: An Evaluation Benchmark for Language Understanding](https://github.com/google-research-datasets/humaneval) by Gabriel Ilharco, Daniel Loureiro, Pedro Rodriguez, and Afonso Mendes.
+5. - **FLORES-101:** A dataset of parallel sentences in 101 languages, designed for multilingual machine translation.
+  - [FLORES-101: A Massively Multilingual Parallel Corpus for Language Understanding](https://flores101.opennmt.net/) by Aman Madaan, Shruti Rijhwani, Raghav Gupta, and Mitesh M. Khapra.
+6. - **CrowS-Pairs:** A dataset of sentence pairs, designed for evaluating the plausibility of generated text.
+  - [CrowS-Pairs: A Challenge Dataset for Plausible Plausibility Judgments](https://github.com/stanford-cogsci/crows-pairs) by Andrea Madotto, Zhaojiang Lin, Chien-Sheng Wu, Pascale Fung, and Caiming Xiong.
+7. - **WikiLingua:** A dataset of parallel sentences in 75 languages, sourced from Wikipedia.
+  - [WikiLingua: A New Benchmark Dataset for Cross-Lingual Wikification](https://arxiv.org/abs/2105.08031) by Jiarui Yao, Yanqiao Zhu, Ruihan Bao, Guosheng Lin, Lidong Bing, and Bei Shi.
+8. - **MTEB:** A dataset of English sentences, annotated with their entailment relationships with respect to other sentences.
+  - [Multi-Task Evaluation Benchmark for Natural Language Inference](https://github.com/google-research-datasets/mteb) by Michał Lukasik, Marcin Junczys-Dowmunt, and Houda Bouamor.
+9. - **xP3:** A dataset of English sentences, annotated with their paraphrase relationships with respect to other sentences.
+  - [xP3: A Large-Scale Evaluation Benchmark for Paraphrase Identification in Context](https://github.com/nyu-dl/xp3) by Aniket Didolkar, James Mayfield, Markus Saers, and Jason Baldridge.
+10. - **DiaBLa:** A dataset of English dialogue, annotated with dialogue acts.
+  - [A Large-Scale Corpus for Conversation Disentanglement](https://github.com/HLTCHKUST/DiaBLA) by Samuel Broscheit, António Branco, and André F. T. Martins.
+  
+- 📚 Dataset Papers with Code
+  1. [Universal Dependencies](https://paperswithcode.com/dataset/universal-dependencies)
+  2. [WMT 2014](https://paperswithcode.com/dataset/wmt-2014)
+  3. [The Pile](https://paperswithcode.com/dataset/the-pile)
+  4. [HumanEval](https://paperswithcode.com/dataset/humaneval)
+  5. [FLORES-101](https://paperswithcode.com/dataset/flores-101)
+  6. [CrowS-Pairs](https://paperswithcode.com/dataset/crows-pairs)
+  7. [WikiLingua](https://paperswithcode.com/dataset/wikilingua)
+  8. [MTEB](https://paperswithcode.com/dataset/mteb)
+  9. [xP3](https://paperswithcode.com/dataset/xp3)
+  10. [DiaBLa](https://paperswithcode.com/dataset/diabla)
+  
+# Deep RL ML Strategy 🧠
+The AI strategies are:
+- Language Model Preparation using Human Augmented with Supervised Fine Tuning 🤖
+- Reward Model Training with Prompts Dataset Multi-Model Generate Data to Rank 🎁
+- Fine Tuning with Reinforcement Reward and Distance Distribution Regret Score 🎯
+- Proximal Policy Optimization Fine Tuning 🤝
+- Variations - Preference Model Pretraining 🤔
+- Use Ranking Datasets Sentiment - Thumbs Up/Down, Distribution 📊
+- Online Version Getting Feedback 💬
+- OpenAI - InstructGPT - Humans generate LM Training Text 🔍
+- DeepMind - Advantage Actor Critic Sparrow, GopherCite 🦜
+- Reward Model Human Prefence Feedback 🏆
+For more information on specific techniques and implementations, check out the following resources:
+- OpenAI's paper on [GPT-3](https://arxiv.org/abs/2005.14165) which details their Language Model Preparation approach
+- DeepMind's paper on [SAC](https://arxiv.org/abs/1801.01290) which describes the Advantage Actor Critic algorithm
+- OpenAI's paper on [Reward Learning](https://arxiv.org/abs/1810.06580) which explains their approach to training Reward Models
+- OpenAI's blog post on [GPT-3's fine-tuning process](https://openai.com/blog/fine-tuning-gpt-3/)
+        """)
 
 
 
