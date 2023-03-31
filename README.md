@@ -1,6 +1,57 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# 2023 Bloom Spaces
+
+1. https://huggingface.co/spaces/awacke1/Write-Stories-Using-Bloom
+2. https://huggingface.co/spaces/awacke1/Bloom.QA.Translation.LLM.AI
+3. https://huggingface.co/spaces/awacke1/Bloom.Human.Feedback.File.Ops
+4. D https://huggingface.co/spaces/awacke1/BigScienceBloomRootsMemory
+5. https://huggingface.co/spaces/awacke1/Bloom.Generative.Writer
+6. https://huggingface.co/spaces/awacke1/04-AW-StorywriterwMem
+7. https://huggingface.co/spaces/awacke1/Bloom.Big.Science.Continual.Generator
+8. Search Topics https://discuss.huggingface.co/search?q=bloom
+
+🌸 🔎 Bloom Searcher 🔍 🌸 
+
+Tool design for Roots: [URL](https://huggingface.co/spaces/bigscience-data/scisearch/blob/main/roots_search_tool_specs.pdf).
+
+Bloom on Wikipedia: [URL](https://en.wikipedia.org/wiki/BLOOM_(language_model)).
+
+Bloom Video Playlist: [URL](https://www.youtube.com/playlist?list=PLHgX2IExbFouqnsIqziThlPCX_miiDq14).
+
+Access full corpus check [URL](https://forms.gle/qyYswbEL5kA23Wu99).
+
+Big Science - How to get started
+
+Big Science is a 176B parameter new ML model that was trained on a set of datasets for Natural Language processing, and many other tasks that are not yet explored.. Below is the set of the papers, models, links, and datasets around big science which promises to be the best, most recent large model of its kind benefitting all science pursuits.
+
+Model: https://huggingface.co/bigscience/bloom
+
+Papers:
+BLOOM: A 176B-Parameter Open-Access Multilingual Language Model https://arxiv.org/abs/2211.05100
+Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism https://arxiv.org/abs/1909.08053
+8-bit Optimizers via Block-wise Quantization https://arxiv.org/abs/2110.02861
+Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation https://arxiv.org/abs/2108.12409
+https://huggingface.co/models?other=doi:10.57967/hf/0003
+217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
+Datasets
+Universal Dependencies: https://paperswithcode.com/dataset/universal-dependencies
+WMT 2014: https://paperswithcode.com/dataset/wmt-2014
+The Pile: https://paperswithcode.com/dataset/the-pile
+HumanEval: https://paperswithcode.com/dataset/humaneval
+FLORES-101: https://paperswithcode.com/dataset/flores-101
+CrowS-Pairs: https://paperswithcode.com/dataset/crows-pairs
+WikiLingua: https://paperswithcode.com/dataset/wikilingua
+MTEB: https://paperswithcode.com/dataset/mteb
+xP3: https://paperswithcode.com/dataset/xp3
+DiaBLa: https://paperswithcode.com/dataset/diabla
+
+
+
+
+
 # LLM CQA Pattern:
 In Large Language Models (LLMs) like ChatGPT, the fields below are used to train and evaluate the model on various tasks, such as question-answering, context understanding, and more. The table below describes the purpose of each field and provides URL links to the state-of-the-art approaches for comparison and evaluation of generated output:
 
