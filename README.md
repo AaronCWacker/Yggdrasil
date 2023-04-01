@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Paella Text to Image Model
+# Paella Text to Image Model : https://huggingface.co/spaces/pcuenq/paella
 ![image](https://user-images.githubusercontent.com/30595158/229261449-c3b2f072-66a8-44d1-a31f-e294469f3476.png)
 
 
