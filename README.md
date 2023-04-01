@@ -1,6 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 3D Octopus Generation
+Image to 3D: https://huggingface.co/spaces/cvlab/zero123-live
+![image](https://user-images.githubusercontent.com/30595158/229261787-022f577f-3f14-4fd8-9084-bf9edd0dc3f3.png)
+
+![image](https://user-images.githubusercontent.com/30595158/229261812-3b1d2be8-6749-429c-8f49-c2b309cdaa85.png)
+
+![image](https://user-images.githubusercontent.com/30595158/229261886-4792a0a0-697d-46bf-a1a2-7cf863be72f5.png)
+
+
 # Paella Text to Image Model : https://huggingface.co/spaces/pcuenq/paella
 ![image](https://user-images.githubusercontent.com/30595158/229261449-c3b2f072-66a8-44d1-a31f-e294469f3476.png)
 
