@@ -1,6 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Paella Text to Image Model
+![image](https://user-images.githubusercontent.com/30595158/229261449-c3b2f072-66a8-44d1-a31f-e294469f3476.png)
+
+
 # Uncanny Faces : https://huggingface.co/spaces/pcuenq/uncanny-faces
 ![image](https://user-images.githubusercontent.com/30595158/229259677-b87a6920-23c0-4f0c-80a4-36d1481f3fb8.png)
 
