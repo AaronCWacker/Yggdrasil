@@ -1,6 +1,44 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# MeSH Tree Structures and Graph
+
+https://www.nlm.nih.gov/mesh/intro_trees.html
+
+🌳 **MeSH Tree Structures Outline** 🌳
+
+1. 📚 **MeSH Descriptors**
+    - Organized in 16 categories (A to Z)
+
+2. 🅰️ **Category A**
+    - Anatomic terms
+
+3. 🅱️ **Category B**
+    - Organisms
+
+4. 🆑 **Category C**
+    - Diseases
+
+5. 🅳️ **Category D**
+    - Drugs and chemicals
+
+6. 🌲 **Hierarchical Levels**
+    - Up to 13 levels, from most general to most specific
+
+7. 🔄 **Multiple Appearances in Trees**
+    - Descriptors may appear in multiple locations if appropriate
+
+8. 🔍 **Finding Most Specific Descriptor**
+    - Example: Streptococcus pneumoniae under Streptococcus Pneumoniae, not broader term Streptococcus
+
+9. 🌐 **MeSH Browser**
+    - Descriptors followed by tree location number
+    - Additional numbers indicate other tree locations, truncated at the third level
+
+10. ⚠️ **No Intrinsic Significance in Numbers**
+    - Numbers subject to change with vocabulary updates or
+
+
 # LOINC Code Assessments:
 1. https://loinc.org/55409-7
 2. ITCQAA IO Pattern JSONL: https://huggingface.co/spaces/awacke1/Streamlit.Assess.to.Plan.Question.Set.Trainer.and.Repository
