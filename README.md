@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# LOINC Code Assessments:
+1. https://loinc.org/55409-7
+2. ITCQAA IO Pattern JSONL: https://huggingface.co/spaces/awacke1/Streamlit.Assess.to.Plan.Question.Set.Trainer.and.Repository
+3. LOINC Filter:  https://loinc.org/search/?s=breath+&t=1&o=SYSTEM+asc
+4. Data Column Mapper : ![image](https://user-images.githubusercontent.com/30595158/229480651-788f7265-fc52-4c0d-a035-d29e28e96347.png)
+5. Upvote, Downvote: https://huggingface.co/spaces/awacke1/Streamlit.Funny.Feedback.Upvote.Downvote
+6. File IO, Download: https://huggingface.co/spaces/awacke1/DeepRL-LLM-FeedbackFileOperations
+7. Vertical Graph Hi Contrast:  https://huggingface.co/spaces/awacke1/Amygdala.Hijacking.Using.Graph.Model
+8. Graph Vote, Buttons: https://huggingface.co/spaces/awacke1/Graph.Model.Feedback
+9. Positive Reframing: https://huggingface.co/spaces/awacke1/Positive.Reframing.Organization.Culture
+10. Readme:  https://huggingface.co/spaces/AI-Dashboards/Readme.Markdown
+
 # 3D Octopus Generation
 Image to 3D: https://huggingface.co/spaces/cvlab/zero123-live
 ![image](https://user-images.githubusercontent.com/30595158/229261787-022f577f-3f14-4fd8-9084-bf9edd0dc3f3.png)
