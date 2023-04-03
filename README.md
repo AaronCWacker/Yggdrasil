@@ -1,7 +1,28 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Assess
+# Assess Demonstration:
+1. NLP Clinical Ontology Biomedical NER: https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+![image](https://user-images.githubusercontent.com/30595158/229495359-1ce022c0-d388-4300-8bfa-fe1f60d968ca.png)
+2. LOINC Panel Question Splitter:  https://huggingface.co/spaces/awacke1/Assess.LOINC.Panel.Extractor
+![image](https://user-images.githubusercontent.com/30595158/229495589-3a735532-4461-44b1-a276-991bed8f9d6f.png)
+3. SMART FHIR Assessment - Exercise: https://huggingface.co/spaces/awacke1/Assessment.SMART.FHIR.Exercise.Panel
+![image](https://user-images.githubusercontent.com/30595158/229495951-e14f2df4-b783-41cc-8bea-757f7ff3af31.png)
+4. FHIR Demo FHIR Observations: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Observation-SDKs 
+![image](https://user-images.githubusercontent.com/30595158/229496312-21bd821d-7146-4a1e-914e-085a16e0dfbd.png)
+5. SMART FHIR Assessment:  https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
+6. SMART FHIR SDC Output for UI and data export as JSONL: https://huggingface.co/spaces/awacke1/SMART-FHIR-Assessment-Blood-Pressure
+![image](https://user-images.githubusercontent.com/30595158/229496873-f9014257-4eef-4835-b202-27bc02982c66.png)
+
+
+
+Other URLS (better demo from new spaces)
+https://huggingface.co/spaces/awacke1/Clinical-Terminology-FHIR-Assessment
+https://huggingface.co/spaces/awacke1/SMART-FHIR-Kits-SDC-HL7
+https://huggingface.co/spaces/AI-Dashboards/Readme.Markdown
+
+
+
 
 1. LOINC Split https://huggingface.co/spaces/awacke1/Assess.LOINC.Panel.Extractor
 2. Readme: https://huggingface.co/spaces/AI-Dashboards/Readme.Markdown
