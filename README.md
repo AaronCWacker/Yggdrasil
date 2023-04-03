@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# LOINC Split
+
+https://huggingface.co/spaces/awacke1/Assess.LOINC.Panel.Extractor
+
+
 # MeSH Tree Structures and Graph
 
 https://www.nlm.nih.gov/mesh/intro_trees.html
