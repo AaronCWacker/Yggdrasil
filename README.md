@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 04/04/2023 - Prepare for Ice
+
+In Minnesota we have cold winters and warm summers.  Fall and spring are a wild and different thing,
+
+and it is fun to change our seasons.
+
+
+
 # Assess Demonstration:
 1. NLP Clinical Ontology Biomedical NER: https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
 ![image](https://user-images.githubusercontent.com/30595158/229495359-1ce022c0-d388-4300-8bfa-fe1f60d968ca.png)
