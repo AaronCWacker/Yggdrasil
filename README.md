@@ -10,6 +10,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
       ImagePush-->AzureContainerRegistry;
       AzureContainerRegistry-->ImagePullAzureWebApp;
 ```
+Azure TF Portal Start: https://youtu.be/B74kR4VFOfw?list=PLHgX2IExbFovn26XVkW4MyYjbbgv5RcCE&t=296
 
 
 # Assess Demonstration:
