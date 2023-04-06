@@ -1,5 +1,5 @@
 
-# Terraform Lesson for Azure
+# Terraform Azure DevOps/MLOps
 
 Pre-Reqs:
 1. Terraform installed
