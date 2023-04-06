@@ -1,12 +1,15 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# 04/04/2023 - Prepare for Ice
+# Azure TF ACR App Docker GH Actions Deploy
 
-In Minnesota we have cold winters and warm summers.  Fall and spring are a wild and different thing,
-
-and it is fun to change our seasons.
-
+```mermaid
+  graph TD;
+      CodeCommit-->InvokeGHActions;
+      InvokeGHActions-->ImagePush;
+      ImagePush-->AzureContainerRegistry;
+      AzureContainerRegistry-->ImagePullAzureWebApp;
+```
 
 
 # Assess Demonstration:
