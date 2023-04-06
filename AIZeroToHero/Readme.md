@@ -21,3 +21,11 @@ In VS Code use the following steps to start TF
 3. terraform plan out tfplan
 4. terraform show -json tfplan >> tfplan.json
 5. cat tfplan.json | more
+
+Powershell:
+1. Change dir to location you landed TF files
+2. terraform init
+3. terraform validate
+4. terraform apply
+
+![image](https://user-images.githubusercontent.com/30595158/230362828-beba9230-24fb-45bd-a5a9-6f904eb09812.png)
