@@ -1,3 +1,28 @@
+Emoji Evals:
+
+# 🤖🧪🌐
+
+## 🔬🧠💡: RLHF & LAFAND-MT ➡️ Efficient, accurate & flexible AI/ML systems
+#### 📚💬🏆: Lambada benchmark ➡️ Advanced NLP & NLU understanding
+#### 🔍📖🔊: MNLI (Text Inference) vs MMLU (Multimodal Understanding)
+#### 🏋️🌍🤔: AGI challenges ➡️ Generalization, computation, ethics
+#### 🕵️🔎🧡: Interpretability, transparency & ethics in AI
+#### 🎓🎮🤖: Reinforcement learning ➡️ Evolution & role in complex AI
+#### 🚧🔜🌌: Limitations & future research for AGI
+#### 🧩🤝🚀: Integrating AI architectures ➡️ Holistic & robust AI/ML systems
+#### 🌟🌍💼: Promising applications & positive societal impact
+#### 👩‍💻📚🔧: Evolving role of AI/ML engineer & Chief Scientist
+
+
+
+
+
+
+
+CV Evals:
+
+
+
 Interview Test for Chief Scientist AI/ML:
 
 1. How have recent advancements in complex AI architectures, such as RLHF and LAFAND-MT, influenced the way you approach designing AI/ML systems for real-world applications?
