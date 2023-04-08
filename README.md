@@ -22,14 +22,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 | The Neverending Odyssey 🚀🌠🌀 | 🌌 A group of adventurers is brought together by fate, embarking on a journey through countless realms and dimensions. | 🚶 As the group explores new realms, they encounter both friends and foes, facing challenges that test their resolve and resourcefulness. | 🌠 The adventurers ultimately confront the force behind the realms and their challenges. |
 
 
-Table 4: The Labyrinth of Dreams
+# Table 4: The Labyrinth of Dreams
 
 | Story | Beginning | Middle | End |
 |-------|-----------|--------|-----|
 | The Labyrinth of Dreams 💭🌀🌙 | 👧 A young girl's sibling is kidnapped by a malevolent force, drawing her into a surreal world of dreams and nightmares. | 🌌 The girl uncovers the true nature of the dream world, learning that it is a manifestation of her own fears and desires. | 🌟 The girl faces the malevolent force in a final confrontation, using her newfound strength and understanding to defeat it. |
 
 
-Table 5: The Mage's Ascension
+# Table 5: The Mage's Ascension
 
 | Story | Beginning | Middle | End |
 |-------|-----------|--------|-----|
