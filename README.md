@@ -1,6 +1,193 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Today for Easter Weekend
+
+In the story of Paul, Apostle of Christ 
+
+There was a fire.  Luke visits Paul to learn any wisdom he can.  Difficult times in Rome.  Lets explore the books!
+
+ There are 73 books in the Catholic Bible.
+ There are 66 books in the New International Version.
+
+# Outline for the first 20 books of the Catholic Bible:
+
+Book & Verse Count	Summary
+Genesis (50) 😇🌍	1. Creation of the world 2. Adam and Eve 3. Noah's Ark
+Exodus (40) 🚶‍♂️🌊	1. Moses frees Israelites 2. Red Sea parting 3. Ten Commandments
+Leviticus (27) ⛪️📜	1. Laws for priests 2. Worship rules 3. Holy days
+Numbers (36) 🏕️🌵	1. Census of Israelites 2. Wandering in the desert 3. Laws & rebellion
+Deuteronomy (34) 📖🏞️	1. Moses' speeches 2. Restating the law 3. Moses' death
+Joshua (24) 🌆⚔️	1. Conquest of Canaan 2. Jericho's fall 3. Land division
+Judges (21) 🦸⚖️	1. Israel's cycle of sin 2. Judges saving Israel 3. Samson's story
+Ruth (4) 🌾❤️	1. Ruth's loyalty 2. Boaz's kindness 3. Ancestor of King David
+1 Samuel (31) 👑🔮	1. Samuel the prophet 2. Saul becomes king 3. David & Goliath
+2 Samuel (24) 🏰🎶	1. David's reign 2. David & Bathsheba 3. Absalom's rebellion
+1 Kings (22) 🌟🙏	1. Solomon's wisdom 2. Building the temple 3. Kingdom divides
+2 Kings (25) ⚔️🔥	1. Israel & Judah's history 2. Prophets & miracles 3. Exile begins
+1 Chronicles (29) 📜🌳	1. Genealogies 2. David's reign 3. Solomon's temple plans
+2 Chronicles (36) 🏛️💔	1. Solomon's temple 2. Kings of Judah 3. Exile & return
+Ezra (10) 🏗️📚	1. Rebuilding the temple 2. Ezra's leadership 3. Torah reading & reforms
+Nehemiah (13) 🌆💪	1. Rebuilding Jerusalem's walls 2. Nehemiah's leadership 3. Spiritual renewal
+Tobit (14) 😇👁️	1. Tobit's piety 2. Tobias & Sarah 3. Archangel Raphael's help
+Judith (16) 🗡️👩	1. Judith's courage 2. Beheading Holofernes 3. Israelites' victory
+Esther (16) 👑🎉	1. Queen Esther 2. Saving the Jews 3. Purim's origin
+Job (42) 🤔🌩️	1. Job's suffering 2. Friends' advice 3. God's response & restoration
+overview of each book's main themes and events.
+
+
+Book & Verse Count	Summary
+Psalms (150) 🎵🙌	1. Songs of praise 2. Prayers for help 3. Thankfulness to God
+Proverbs (31) 💡🦉	1. Wisdom of Solomon 2. Practical advice 3. Righteous living
+Ecclesiastes (12) 🍃🕰️	1. Life's meaning 2. Pursuit of happiness 3. Fear God & obey
+Song of Songs (8) ❤️🌹	1. Love & marriage 2. Beauty of love 3. Deep affection
+Wisdom (19) ✨🧠	1. Pursuit of wisdom 2. Righteous living 3. Divine justice
+Sirach (51) 📚🌟	1. Wisdom teachings 2. Moral guidance 3. Praise of ancestors
+Isaiah (66) 🌱✨	1. Judgement & salvation 2. Suffering servant 3. Future hope
+Jeremiah (52) 💔🔥	1. Warning of exile 2. Jeremiah's struggle 3. New covenant promise
+Lamentations (5) 😢🌑	1. Sorrow over Jerusalem 2. God's faithfulness 3. Hope for restoration
+Baruch (6) 🙏🕊️	1. Confession of sins 2. Call to repentance 3. Hope for future
+
+
+Outline for books 31-50 of the 73 books of the Catholic Bible:
+
+Book & Verse Count	Summary
+Ezekiel (48) 👁️🔮	1. Visions & warnings 2. Dry bones & restoration 3. New Jerusalem
+Daniel (14) 🦁🔥	1. Daniel's faithfulness 2. Nebuchadnezzar's dream 3. Lions' den & fiery furnace
+Hosea (14) 💔❤️	1. Hosea's marriage 2. Israel's unfaithfulness 3. God's love & forgiveness
+Joel (4) 🦗🌈	1. Locust plague 2. Day of the Lord 3. Promise of restoration
+Amos (9) ⚖️⚡	1. Justice for the oppressed 2. Israel's corruption 3. God's judgment & hope
+Obadiah (1) ⛰️🔥	1. Judgment on Edom 2. God's sovereignty 3. Israel's restoration
+Jonah (4) 🐳🌊	1. Jonah's disobedience 2. Swallowed by a fish 3. Nineveh's repentance
+Micah (7) ⚔️✌️	1. Judgment & hope 2. Micah's warning 3. Future peace
+Nahum (3) ⚡🏰	1. Judgment on Nineveh 2. God's wrath & mercy 3. Nineveh's fall
+Habakkuk (3) 🌪️🌄	1. Habakkuk's questions 2. God's response 3. Trust in God's plan
+Zephaniah (3) 🌪️🌞	1. Day of the Lord 2. Judgment & purification 3. Promise of restoration
+Haggai (2) 🏗️💪	1. Rebuild the temple 2. God's promise of blessing 3. Future glory
+Zechariah (14) 🌟🐎	1. Visions & prophecies 2. Messiah's coming 3. Future hope
+Malachi (4) 💌🔥	1. God's love for Israel 2. Call to repentance 3. Elijah's coming
+1 Maccabees (16) ⚔️🛡️	1. Maccabean revolt 2. Jewish independence 3. Hasmonean dynasty
+2 Maccabees (15) 🏺🔥	1. Martyr stories 2. Miracles & victories 3. Dedication of the temple
+Matthew (28) ✝️🙏	1. Jesus' birth 2. Jesus' teachings 3. Jesus' crucifixion & resurrection
+Mark (16) 🐟🍞	1. Jesus' baptism 2. Jesus' miracles 3. Jesus' death & resurrection
+Luke (24) 👼🕊️	1. Jesus' birth & childhood 2. Parables & miracles 3. Crucifixion & resurrection
+John (21) 🍷🌊	1. Jesus as the Word 2. Jesus' signs & teachings 3. Jesus' death & resurrection
+These summaries cover books 31-50 of the Catholic Bible.
+
+Outline for books 51-73 of the 73 books of the Catholic Bible:
+
+Book & Verse Count	Summary
+Acts (28) 🕊️🌍	1. Holy Spirit's arrival 2. Early church growth 3. Paul's missionary journeys
+Romans (16) 💌🛣️	1. Righteousness by faith 2. Grace through Jesus 3. Living as Christians
+1 Corinthians (16) 💒🤝	1. Unity in Christ 2. Spiritual gifts 3. Love & resurrection
+2 Corinthians (13) 🌱🏆	1. Paul's defense 2. Generosity & grace 3. Strength in weakness
+Galatians (6) 🌟🔗	1. Salvation by faith 2. Freedom in Christ 3. Fruit of the Spirit
+Ephesians (6) ⚔️✝️	1. Unity in Christ 2. Spiritual blessings 3. Armor of God
+Philippians (4) 🌞🙌	1. Joy in Christ 2. Humility & love 3. Contentment in all circumstances
+Colossians (4) 🎨👑	1. Jesus' supremacy 2. New life in Christ 3. Christian living
+1 Thessalonians (5) 🎺🌌	1. Faith, love, hope 2. Encouragement 3. Jesus' return
+2 Thessalonians (3) 🔥⏰	1. Encouragement 2. Warning against idleness 3. Jesus' return
+1 Timothy (6) 👨‍🏫📚	1. Church leadership 2. False teachings 3. Godly living
+2 Timothy (4) 🏁👊	1. Faithfulness 2. Endurance 3. Paul's final words
+Titus (3) 🌴💼	1. Church leadership 2. Sound doctrine 3. Good works
+Philemon (1) 🏡💞	1. Forgiveness & reconciliation 2. Paul's appeal 3. Onesimus' freedom
+Hebrews (13) ⚓🌉	1. Jesus as High Priest 2. Faithfulness 3. Enduring faith
+James (5) 🧭🔥	1. Faith & works 2. Taming the tongue 3. Wisdom & humility
+1 Peter (5) 💎🔨	1. Living hope 2. Suffering for Christ 3. Spiritual growth
+2 Peter (3) 🚀📖	1. Spiritual growth 2. False teachers 3. Jesus' return
+1 John (5) 💡❤️	1. God is love 2. Obedience & faith 3. Assurance of salvation
+2 John (1) 🏠🚶‍♂️	1. Love & truth 2. Warning against false teachers 3. Christian fellowship
+3 John (1) 🌻💌	1. Hospitality 2. Encouragement 3. Dealing with conflict
+Jude (1) ⚠️🛡️	1. Contending for the faith 2. Warning against false teachers 3.
+
+# Outline for books 1-22 of the 66 books of the New International Version:
+
+Book & Verse Count	Summary
+Genesis (50) 😇🌍	1. Creation of the world 2. Adam and Eve 3. Noah's Ark
+Exodus (40) 🚶‍♂️🌊	1. Moses frees Israelites 2. Red Sea parting 3. Ten Commandments
+Leviticus (27) ⛪️📜	1. Laws for priests 2. Worship rules 3. Holy days
+Numbers (36) 🏕️🌵	1. Census of Israelites 2. Wandering in the desert 3. Laws & rebellion
+Deuteronomy (34) 📖🏞️	1. Moses' speeches 2. Restating the law 3. Moses' death
+Joshua (24) 🌆⚔️	1. Conquest of Canaan 2. Jericho's fall 3. Land division
+Judges (21) 🦸⚖️	1. Israel's cycle of sin 2. Judges saving Israel 3. Samson's story
+Ruth (4) 🌾❤️	1. Ruth's loyalty 2. Boaz's kindness 3. Ancestor of King David
+1 Samuel (31) 👑🔮	1. Samuel the prophet 2. Saul becomes king 3. David & Goliath
+2 Samuel (24) 🏰🎶	1. David's reign 2. David & Bathsheba 3. Absalom's rebellion
+1 Kings (22) 🌟🙏	1. Solomon's wisdom 2. Building the temple 3. Kingdom divides
+2 Kings (25) ⚔️🔥	1. Israel & Judah's history 2. Prophets & miracles 3. Exile begins
+1 Chronicles (29) 📜🌳	1. Genealogies 2. David's reign 3. Solomon's temple plans
+2 Chronicles (36) 🏛️💔	1. Solomon's temple 2. Kings of Judah 3. Exile & return
+Ezra (10) 🏗️📚	1. Rebuilding the temple 2. Ezra's leadership 3. Torah reading & reforms
+Nehemiah (13) 🌆💪	1. Rebuilding Jerusalem's walls 2. Nehemiah's leadership 3. Spiritual renewal
+Esther (10) 👑🎉	1. Queen Esther 2. Saving the Jews 3. Purim's origin
+Job (42) 🤔🌩️	1. Job's suffering 2. Friends' advice 3. God's response & restoration
+Psalms (150) 🎵🙌	1. Songs of praise 2. Prayers for help 3. Thankfulness to God
+Proverbs (31) 💡🦉	1. Wisdom of Solomon 2. Practical advice 3. Righteous living
+Ecclesiastes (12) 🍃🕰️	1. Life's meaning 2. Pursuit of happiness 3. Fear God & obey
+Song of Songs (8) ❤️🌹	1.
+
+# Outline for books 23-39 of the 66 books of the New International Version:
+
+Book & Verse Count	Summary
+Isaiah (66) 🌱✨	1. Judgment & salvation 2. Suffering servant 3. Future hope
+Jeremiah (52) 💔🔥	1. Warning of exile 2. Jeremiah's struggle 3. New covenant promise
+Lamentations (5) 😢🌑	1. Sorrow over Jerusalem 2. God's faithfulness 3. Hope for restoration
+Ezekiel (48) 👁️🔮	1. Visions & warnings 2. Dry bones & restoration 3. New Jerusalem
+Daniel (14) 🦁🔥	1. Daniel's faithfulness 2. Nebuchadnezzar's dream 3. Lions' den & fiery furnace
+Hosea (14) 💔❤️	1. Hosea's marriage 2. Israel's unfaithfulness 3. God's love & forgiveness
+Joel (4) 🦗🌈	1. Locust plague 2. Day of the Lord 3. Promise of restoration
+Amos (9) ⚖️⚡	1. Justice for the oppressed 2. Israel's corruption 3. God's judgment & hope
+Obadiah (1) ⛰️🔥	1. Judgment on Edom 2. God's sovereignty 3. Israel's restoration
+Jonah (4) 🐳🌊	1. Jonah's disobedience 2. Swallowed by a fish 3. Nineveh's repentance
+Micah (7) ⚔️✌️	1. Judgment & hope 2. Micah's warning 3. Future peace
+Nahum (3) ⚡🏰	1. Judgment on Nineveh 2. God's wrath & mercy 3. Nineveh's fall
+Habakkuk (3) 🌪️🌄	1. Habakkuk's questions 2. God's response 3. Trust in God's plan
+Zephaniah (3) 🌪️🌞	1. Day of the Lord 2. Judgment & purification 3. Promise of restoration
+Haggai (2) 🏗️💪	1. Rebuild the temple 2. God's promise of blessing 3. Future glory
+Zechariah (14) 🌟🐎	1. Visions & prophecies 2. Messiah's coming 3. Future hope
+Malachi (4) 💌🔥	1. God's love for Israel 2. Call to repentance 3. Elijah's coming
+These summaries cover books 23-39 of the New International Version Bible
+
+# Outline for books 40-66 of the 66 books of the New International Version:
+
+Book & Verse Count	Summary
+Matthew (28) ✝️🙏	1. Jesus' birth 2. Jesus' teachings 3. Jesus' crucifixion & resurrection
+Mark (16) 🐟🍞	1. Jesus' baptism 2. Jesus' miracles 3. Jesus' death & resurrection
+Luke (24) 👼🕊️	1. Jesus' birth & childhood 2. Parables & miracles 3. Crucifixion & resurrection
+John (21) 🍷🌊	1. Jesus as the Word 2. Jesus' signs & teachings 3. Jesus' death & resurrection
+Acts (28) 🕊️🌍	1. Holy Spirit's arrival 2. Early church growth 3. Paul's missionary journeys
+Romans (16) 💌🛣️	1. Righteousness by faith 2. Grace through Jesus 3. Living as Christians
+1 Corinthians (16) 💒🤝	1. Unity in Christ 2. Spiritual gifts 3. Love & resurrection
+2 Corinthians (13) 🌱🏆	1. Paul's defense 2. Generosity & grace 3. Strength in weakness
+Galatians (6) 🌟🔗	1. Salvation by faith 2. Freedom in Christ 3. Fruit of the Spirit
+Ephesians (6) ⚔️✝️	1. Unity in Christ 2. Spiritual blessings 3. Armor of God
+Philippians (4) 🌞🙌	1. Joy in Christ 2. Humility & love 3. Contentment in all circumstances
+Colossians (4) 🎨👑	1. Jesus' supremacy 2. New life in Christ 3. Christian living
+1 Thessalonians (5) 🎺🌌	1. Faith, love, hope 2. Encouragement 3. Jesus' return
+2 Thessalonians (3) 🔥⏰	1. Encouragement 2. Warning against idleness 3. Jesus' return
+1 Timothy (6) 👨‍🏫📚	1. Church leadership 2. False teachings 3. Godly living
+2 Timothy (4) 🏁👊	1. Faithfulness 2. Endurance 3. Paul's final words
+Titus (3) 🌴💼	1. Church leadership 2. Sound doctrine 3. Good works
+Philemon (1) 🏡💞	1. Forgiveness & reconciliation 2. Paul's appeal 3. Onesimus' freedom
+Hebrews (13) ⚓🌉	1. Jesus as High Priest 2. Faithfulness 3. Enduring faith
+James (5) 🧭🔥	1. Faith & works 2. Taming the tongue 3. Wisdom & humility
+1 Peter (5) 💎🔨	1. Living hope 2. Suffering for Christ 3. Spiritual growth
+
+# Remaining books of the 66 books of the New International Version:
+
+Book & Verse Count	Summary
+2 Peter (3) 🚀📖	1. Spiritual growth 2. False teachers 3. Jesus' return
+1 John (5) 💡❤️	1. God is love 2. Obedience & faith 3. Assurance of salvation
+2 John (1) 🏠🚶‍♂️	1. Love & truth 2. Warning against false teachers 3. Christian fellowship
+3 John (1) 🌻💌	1. Hospitality 2. Encouragement 3. Dealing with conflict
+Jude (1) ⚠️🛡️	1. Contending for the faith 2. Warning against false teachers 3. Encouragement in faith
+Revelation (22) 👑🔥	1. Visions & prophecy 2. Judgment & redemption 3. New heaven & earth
+These summaries cover the remaining books of the New International Version Bible, providing a brief overview of each book's main themes and events.
+
+
+
+ 
+
 # Azure TF ACR App Docker GH Actions Deploy
 
 ```mermaid
