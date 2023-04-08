@@ -1,6 +1,34 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+| Book & Verse Count | Summary |
+|--------------------|---------|
+| Genesis (50) 😇🌍   | 1. Creation of the world 2. Adam and Eve 3. Noah's Ark |
+| Exodus (40) 🚶‍♂️🌊 | 1. Moses frees Israelites 2. Red Sea parting 3. Ten Commandments |
+| Leviticus (27) ⛪️📜 | 1. Laws for priests 2. Worship rules 3. Holy days |
+| Numbers (36) 🏕️🌵 | 1. Census of Israelites 2. Wandering in the desert 3. Laws & rebellion |
+| Deuteronomy (34) 📖🏞️ | 1. Moses' speeches 2. Restating the law 3. Moses' death |
+| Joshua (24) 🌆⚔️ | 1. Conquest of Canaan 2. Jericho's fall 3. Land division |
+| Judges (21) 🦸⚖️ | 1. Israel's cycle of sin 2. Judges saving Israel 3. Samson's story |
+| Ruth (4) 🌾❤️ | 1. Ruth's loyalty 2. Boaz's kindness 3. Ancestor of King David |
+| 1 Samuel (31) 👑🔮 | 1. Samuel the prophet 2. Saul becomes king 3. David & Goliath |
+| 2 Samuel (24) 🏰🎶 | 1. David's reign 2. David & Bathsheba 3. Absalom's rebellion |
+| 1 Kings (22) 🌟🙏 | 1. Solomon's wisdom 2. Building the temple 3. Kingdom divides |
+| 2 Kings (25) ⚔️🔥 | 1. Israel & Judah's history 2. Prophets & miracles 3. Exile begins |
+| 1 Chronicles (29) 📜🌳 | 1. Genealogies 2. David's reign 3. Solomon's temple plans |
+| 2 Chronicles (36) 🏛️💔 | 1. Solomon's temple 2. Kings of Judah 3. Exile & return |
+| Ezra (10) 🏗️📚 | 1. Rebuilding the temple 2. Ezra's leadership 3. Torah reading & reforms |
+| Nehemiah (13) 🌆💪 | 1. Rebuilding Jerusalem's walls 2. Nehemiah's leadership 3. Spiritual renewal |
+| Esther (10) 👑🎉 | 1. Queen Esther 2. Saving the Jews 3. Purim's origin |
+| Job (42) 🤔🌩️ | 1. Job's suffering 2. Friends' advice 3. God's response & restoration |
+| Psalms (150) 🎵🙌 | 1. Songs of praise 2. Prayers for help 3. Thankfulness to God |
+| Proverbs (31) 💡🦉 | 1. Wisdom of Solomon 2. Practical advice 3. Righteous living |
+| Ecclesiastes (12) 🍃🕰️ | 1. Life's meaning 2. Pursuit of happiness 3. Fear God & obey |
+| Song of Songs (8) ❤️🌹 | 1. Love & marriage 2. Beauty of love 3. Deep affection |
+
+
 ## 📚 Icelandic Creation and Myths
 
 Icelandic myths are part of Norse mythology, filled with gods, giants, and heroes. Let's explore some fun stories!
