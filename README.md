@@ -1,9 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Teaching the JSONL Format:
+# Teaching the JSONL Format - 3 URLS to Win:
 
-https://huggingface.co/spaces/awacke1/Streamlit.Graphviz.Stories.JSONL
+1. Learn to write in story JSONL format used in ML and QA - https://huggingface.co/spaces/awacke1/Streamlit.Graphviz.Stories.JSONL
+2. Create and curate art for the story:  https://discord.com/channels/@me/997514686608191558
+3. Use generative text to alternate between streamlit, markdown, JSONL, data, and code.  https://chat.openai.com/chat
 
 # Stories!
 
