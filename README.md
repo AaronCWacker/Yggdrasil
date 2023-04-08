@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Teaching the JSONL Format:
+
+https://huggingface.co/spaces/awacke1/Streamlit.Graphviz.Stories.JSONL
+
+# Stories!
+
 # The Last Samurai of Kyoto 🗡️🌸🏯
 
 ## 🏯 In feudal Japan, a samurai named Takeshi seeks to avenge his fallen master and restore honor to his clan.
