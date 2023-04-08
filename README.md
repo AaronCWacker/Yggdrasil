@@ -1,6 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# The Last Samurai of Kyoto 🗡️🌸🏯
+
+## 🏯 In feudal Japan, a samurai named Takeshi seeks to avenge his fallen master and restore honor to his clan.
+
+![image](https://user-images.githubusercontent.com/30595158/230738891-29f0a3fb-1a85-424b-b3b3-54aafa5f4131.png)
+
+
+## 🗡️🌸 Takeshi faces off against rival samurai and corrupt officials, employing his mastery of the sword and deep understanding of bushido.
+
+![image](https://user-images.githubusercontent.com/30595158/230738911-ee0c21d4-14ee-44c1-9eec-188f4ef5a8fe.png)
+
+
+## 🔥👹 Takeshi confronts the demonic forces behind his master's death, culminating in an epic showdown against the demon king himself.
+
+![image](https://user-images.githubusercontent.com/30595158/230738916-2f78e922-4e91-4a6f-8549-a651ad96089c.png)
+
+
+
+
 | Story | Outline |
 |-------|---------|
 | The Celestial Gatekeepers ☄️🌟🛡️ | <ul><li>Beginning: 🌌 Stella, the starry-eyed guardian, and her celestial companions are tasked with protecting the universe from cosmic threats.</li><li>Middle: 😇👿 As the team battles otherworldly foes, they must also confront their own inner demons and navigate the complex relationships within their ranks.</li><li>End: ⚔️🌑 The Gatekeepers face a powerful and ancient force of darkness, ultimately triumphing and strengthening their bonds as a team.</li></ul> |
