@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Gums with Liquid Inside
+🔴 Bubble Tape
+🔴 Fruit Gushers
+🔴 Hubba Bubba Squeeze Pop
+🔴 Juicy Drop Gummies
+🔴 Mentos Squeeze Gum
+
 # Teaching the JSONL Format - 3 URLS to Win:
 
 1. Learn to write in story JSONL format used in ML and QA - https://huggingface.co/spaces/awacke1/Streamlit.Graphviz.Stories.JSONL
