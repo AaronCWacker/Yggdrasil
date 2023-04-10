@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Github Actions YAML:
+
+1. Azure Build Docker Image, Push ACR
+2. Azure Container App Deploy
+3. Dockerfile (Image Push)
+
 # Git -> Actions -> ACR Push -> ACR Pull to Web App -> URL Test
 
 ```mermaid
