@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Azure Container Registry
+
+Name and Resource Group
+Location (Central) - 
+
 # Github Actions YAML:
 
 1. Azure Build Docker Image, Push ACR
