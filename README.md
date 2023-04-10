@@ -1,12 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Git Commit -> Github Actions -> ACR Image Push -> ACR Image Pull to Web App -> URL tot Test
-
-Create a Mermaid diagram for Github, describing the architectural model below:   Git Commit -> Github Actions -> ACR Image Push -> ACR Image Pull to Web App -> URL tot Test  Show markdown code containing the Mermaid diagram.
+# Git -> Actions -> ACR Push -> ACR Pull to Web App -> URL Test
 
 ```mermaid
-graph LR
+graph TD
     A[Git Commit] --> B[Github Actions]
     B --> C[ACR Image Push]
     C --> D[ACR Image Pull to Web App]
