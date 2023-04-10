@@ -7,7 +7,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. Azure Container App Deploy
 3. Dockerfile (Image Push)
 
-# Git -> Actions -> ACR Push -> ACR Pull to Web App -> URL Test
+# Github Actions Azure Container Registry Deploy Web App
 
 ```mermaid
 graph TD
