@@ -2,6 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Azure Container Registry
+Admin user - enable to access via CLI
 
 Name and Resource Group
 Location (Central) - 
