@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Terraform Import:
+
+![image](https://user-images.githubusercontent.com/30595158/231140616-a6089091-e195-451a-95e5-54ea3c94fe80.png)
+
+Usage: terraform import ADDR ID
+
+
+
 # Azure Container Registry
 Admin user - enable to access via CLI
 
