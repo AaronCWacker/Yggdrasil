@@ -21,7 +21,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Load Balancing Options
 
 # Azure Container Apps - Model
-```
+```mermaid
 graph LR
 A[Azure Container Apps]
 A1[1. Container Apps Overview]
