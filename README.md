@@ -1,6 +1,57 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Positive Reframing Strategies for Self Care
+
+## 🌱 Emotional - How we feel
+1. Practice gratitude
+2. Focus on the present moment
+3. Use positive affirmations
+4. Surround yourself with positivity
+
+## 🙏 Spiritual - Our beliefs
+1. Engage in regular meditation or prayer
+2. Connect with nature
+3. Practice forgiveness and self-compassion
+4. Attend spiritual gatherings or join a spiritual community
+
+## 💰 Financial - How we manage money
+1. Create a realistic budget
+2. Set achievable financial goals
+3. Prioritize paying off debts
+4. Invest in your future
+
+## 💡 Cognitive - How we think
+1. Challenge negative thoughts
+2. Practice mindfulness
+3. Set achievable personal goals
+4. Engage in lifelong learning
+
+## 🎯 Aptitudinal - Our abilities
+1. Identify and develop your strengths
+2. Set realistic expectations
+3. Embrace failure as a learning opportunity
+4. Seek out opportunities for personal growth
+
+## 🤝 Relational - Our connections
+1. Nurture positive relationships
+2. Communicate openly and honestly
+3. Practice empathy and active listening
+4. Set healthy boundaries
+
+## 🌍 Environmental - Our surroundings
+1. Create a calming and organized living space
+2. Spend time in nature
+3. Reduce exposure to environmental stressors
+4. Practice sustainable living
+
+## 🏃‍♂️ Physical - Our bodies
+1. Engage in regular physical activity
+2. Prioritize sleep and relaxation
+3. Maintain a balanced and nutritious diet
+4. Limit alcohol and drug consumption
+
+
 # 🌐 Azure Bicep vs 🏗️ HashiCorp Terraform
 
 ## Overview
