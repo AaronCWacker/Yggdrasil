@@ -1,7 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 📥 Ingress vs Egress
+
+1. 📥 Ingress
+   - 🌐 External Traffic
+      - Incoming traffic from users, clients, or other services outside the network
+      - Accessing resources within the network or system (e.g., API, web services)
+   - 🔒 Internal Traffic
+      - Communication between components within the network or system (e.g., microservices)
+      - Typically restricted access for improved security
+
+2. 📤 Egress
+   - 🌐 External Traffic
+      - Outgoing traffic from the network or system to users, clients, or other services
+      - Sending responses or data to external entities
+   - 🔒 Internal Traffic
+      - Communication between components within the network or system (e.g., microservices)
+      - Typically restricted access for improved security
+
+
 # Azure Container Apps
+1. 👥 Users
+   - 📥 Inbound Traffic
+
+2. 🌐 Load Balancer w Public IP
+   - 🕸️ Virtual Network
+   - 🔒 Private Endpoints
+   - 📦 External Container App env w Ingress IP restrictions
+
+3. 🔒 Private Endpoints
+   - 🗝️ Key Vault
+   - 🛢️ Container Registry
+   - 🚀 Cache for REDIS
+   - 💾 Storage
+   - 🚍 Service Bus
+
+4. 📤 Outbound Traffic
+   - 🔥 Firewall
+   - 🗺️ Route Table
+
 
 ## 🌐 Azure Container Apps - Outline
 1. 📦 Container Apps Overview
