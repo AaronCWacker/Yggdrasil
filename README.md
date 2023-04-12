@@ -18,6 +18,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
    - 🔒 Internal Traffic
       - Communication between components within the network or system (e.g., microservices)
       - Typically restricted access for improved security
+    
+For Ingress: Azure Container Apps supports HTTPS and TCP types of ingress.
+
+With HTTPS ingress enabled container apps support TLS, HTTP/1.1 and 2, Websocket, gRPC.  TLS1.2 is used for HTTPS.  Endpoints expose port 80, 443.  80 is redirected to 443.  App accessed on FQDN.  Request timeout is 240 seconds.
+
+FrontDoor app delivery net provides global load balanceand site acceleration similar to L7.  Available in Std and Premium.
 
 
 # Azure Container Apps
