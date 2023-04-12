@@ -1,6 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Azure Container Apps
+1. Container Apps Overview
+	- ACA is serverless microservices mashup of Open Source:
+		1. Kubernetes
+		2. Dapr
+		3. KEDA
+		4. Envoy
+	- Service Discovery
+	- Traffic Splitting
+	- Event driven scaling based on traffic
+	- Event source queues
+	- Scales down to zero
+	- Long running processes and background tasks
+2. Environment Internal vs External
+3. Infrastructure w/ Azure Bicep
+4. Load Balancing Options
+
+
+
 # Terraform Import:
 
 ![image](https://user-images.githubusercontent.com/30595158/231140616-a6089091-e195-451a-95e5-54ea3c94fe80.png)
