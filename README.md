@@ -4,10 +4,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Azure Container Apps
 1. Container Apps Overview
 	- ACA is serverless microservices mashup of Open Source:
-		1. Kubernetes
-		2. Dapr
-		3. KEDA
-		4. Envoy
+		1. Kubernetes: Container
+		2. Dapr: Runtime and API
+		3. KEDA: Kube based autoscaler
+		4. Envoy: Proxy w Endpoint SSL
 	- Service Discovery
 	- Traffic Splitting
 	- Event driven scaling based on traffic
