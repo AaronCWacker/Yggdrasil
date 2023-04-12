@@ -23,50 +23,6 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. ⚖️ Load Balancing Options
 
 
-# 🌐 Azure Container Apps - Model
-```mermaid
-graph LR
-A(🌐 Azure Container Apps)
-A1(1. 📦 Container Apps Overview)
-A2(2. 🌍 Environment Internal vs External)
-A3(3. 🏗️ Infrastructure w/ Azure Bicep)
-A4(4. ⚖️ Load Balancing Options)
-A --> A1
-A --> A2
-A --> A3
-A --> A4
-
-A1a(🌟 ACA is serverless microservices mashup of Open Source:)
-A1b(🔍 Service Discovery)
-A1c(🚦 Traffic Splitting)
-A1d(📊 Event driven scaling based on traffic)
-A1e(📮 Event source queues)
-A1f(⬇️ Scales down to zero)
-A1g(🔄 Long running processes and background tasks)
-A1 --> A1a
-A1 --> A1b
-A1 --> A1c
-A1 --> A1d
-A1 --> A1e
-A1 --> A1f
-A1 --> A1g
-
-A1a1(1. 🐳 Kubernetes: Container)
-A1a2(2. 🚀 Dapr: Runtime and API)
-A1a3(3. 📈 KEDA: Kube based autoscaler)
-A1a4(4. 🛡️ Envoy: Proxy w Endpoint SSL)
-A1a --> A1a1
-A1a --> A1a2
-A1a --> A1a3
-A1a --> A1a4
-
-A2a(🌐 External: Public VIP)
-A2b(🔒 Internal: VIP and ILB)
-A2 --> A2a
-A2 --> A2b
-```
-
-
 # Azure Container Apps - Model
 ```mermaid
 graph LR
