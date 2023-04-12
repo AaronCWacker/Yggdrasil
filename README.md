@@ -15,6 +15,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 	- Scales down to zero
 	- Long running processes and background tasks
 2. Environment Internal vs External
+	- External: Public VIP
+	- Internal: VIP and ILB
 3. Infrastructure w/ Azure Bicep
 4. Load Balancing Options
 
