@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Thursday April 13th, 2023
+1. Culture - Self Care and Positive Reframing:  https://huggingface.co/spaces/awacke1/SelfCareDimensionsPositiveReframing
+2. The Future - 176B param model Big Science BLOOM: https://huggingface.co/spaces/awacke1/Memory-Chat-Story-Generator-Bloom
+3. The Now - ChatGPT OPENAI customization using AI Pair Programming: https://huggingface.co/spaces/awacke1/Memory-Chat-Story-Generator-ChatGPT
+
+1. Self Care - ![image](https://user-images.githubusercontent.com/30595158/231752464-fd21189e-3eb6-43e4-b196-1b01be3e6da6.png)
+2. Bloom - ![image](https://user-images.githubusercontent.com/30595158/231752769-6226890d-dcbc-417c-b4ff-7b9a82171344.png)
+3. ChatGPT OPENAI API - ![image](https://user-images.githubusercontent.com/30595158/231752924-4df4f8a5-a686-4c0a-9eca-af3459d2c51c.png)
+
+
+
 # Positive Reframing Strategies for Self Care
 
 ## 🌱 Emotional - How we feel
