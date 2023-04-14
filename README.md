@@ -11,7 +11,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. Deploy Python w ACA: https://www.youtube.com/watch?v=8JwyQ6hb2Xc
 3. az containerapp up
 4. ACA Python
-	1. https://github.com/Azure-Samples/azure-django-postgres-aca
+	1. https://github.com/Azure-Samples/azure-django-postgres-aca  DJANGO Python with ACA, AZ keyvault, PostgreSQL
 	
 
 # Thursday April 13th, 2023
