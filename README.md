@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Friday April 14th, 2023
+1. Azure Container Apps Update: https://youtu.be/VkA-TOTjO-Q?list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&t=429
+2. Deploy Python w ACA: https://www.youtube.com/watch?v=8JwyQ6hb2Xc
+3. az containerapp up
+4. 
+
 # Thursday April 13th, 2023
 1. Culture - Self Care and Positive Reframing:  https://huggingface.co/spaces/awacke1/SelfCareDimensionsPositiveReframing
 2. The Future - 176B param model Big Science BLOOM: https://huggingface.co/spaces/awacke1/Memory-Chat-Story-Generator-Bloom
