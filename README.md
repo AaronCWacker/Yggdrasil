@@ -3,6 +3,10 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Friday April 14th, 2023
 
+## AZ ACA Creation Process
+### https://youtu.be/VkA-TOTjO-Q?list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&t=1342
+
+
 ## Awesome AZD Templates
 ### Python
 #### https://azure.github.io/awesome-azd/?tags=python
