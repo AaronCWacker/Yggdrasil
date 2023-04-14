@@ -2,10 +2,17 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Friday April 14th, 2023
+
+## Awesome AZD Templates
+### Python
+#### https://azure.github.io/awesome-azd/?tags=python
+
 1. Azure Container Apps Update: https://youtu.be/VkA-TOTjO-Q?list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&t=429
 2. Deploy Python w ACA: https://www.youtube.com/watch?v=8JwyQ6hb2Xc
 3. az containerapp up
-4. 
+4. ACA Python
+	1. https://github.com/Azure-Samples/azure-django-postgres-aca
+	
 
 # Thursday April 13th, 2023
 1. Culture - Self Care and Positive Reframing:  https://huggingface.co/spaces/awacke1/SelfCareDimensionsPositiveReframing
