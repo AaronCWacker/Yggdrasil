@@ -3,6 +3,50 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Friday April 14th, 2023
 
+# Word Games with Chatbots
+
+1. [Hangman](#hangman)
+2. [Word Association](#word-association)
+3. [20 Questions](#20-questions)
+4. [Taboo](#taboo)
+5. [Anagrams](#anagrams)
+6. [Word Ladder](#word-ladder)
+7. [Palindrome Challenge](#palindrome-challenge)
+8. [Synonym Challenge](#synonym-challenge)
+9. [Rhyme Time](#rhyme-time)
+10. [Scrabble Solver](#scrabble-solver)
+
+## Hangman
+[Rules](https://en.wikipedia.org/wiki/Hangman_(game))
+
+## Word Association
+[Rules](https://www.wordassociations.net/en/how-to-play)
+
+## 20 Questions
+[Rules](https://en.wikipedia.org/wiki/Twenty_Questions)
+
+## Taboo
+[Rules](https://en.wikipedia.org/wiki/Taboo_(game))
+
+## Anagrams
+[Rules](https://www.thegamegal.com/word-generator/)
+
+## Word Ladder
+[Rules](https://en.wikipedia.org/wiki/Word_ladder)
+
+## Palindrome Challenge
+[Rules](https://www.word-buff.com/palindrome-games.html)
+
+## Synonym Challenge
+[Rules](https://www.word-buff.com/synonym-games.html)
+
+## Rhyme Time
+[Rules](https://www.word-buff.com/rhyme-games.html)
+
+## Scrabble Solver
+[Rules](https://www.scrabblepages.com/scrabble/rules/)
+
+
 ## Instruct GPT 
 
 1. 📚 Introduction to InstructGPT
