@@ -1,6 +1,31 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Sunday April 16th, 2023
+
+1. ChatGPT with memory and file IO: Two spaces below have a file interface for saving and sharing GPT IO
+	- https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
+	- https://huggingface.co/spaces/AI-Dashboards/Memory-Chat-Story-Generator-ChatGPT
+2. Azure Container Registry and Docker:
+	1. Install Docker
+	2. get running container off Docker Hub: docker run -it hello-world  more at https://hub.docker.com/_/hello-world/
+	3. log into container registry from login URI and credentials from Access Keys: docker login evolvable.azurecr.io
+	4. Push: 
+		1. Tag image for upload to registry: docker tag hello-world evolvable.azurecr.io/hello-world
+		2. docker push evolvable.azurecr.io/hello-world
+	5. Pull: 
+		1. docker pull evolvable.azurecr.io/hello-world
+	6. More at: https://docs.microsoft.com/azure/container-registry/
+3. Azure Container Apps:
+	1. Home, Create resource, Container App
+	2. Features:
+		1. Manage your app with revisions - Use revisions for immutable snapshots of your app to manage versions, split and direct traffic, support blue-green deployments, and more.
+			- https://learn.microsoft.com/en-us/azure/container-apps/revisions
+		2. Set up continuous deployment - Set up GitHub Actions for automatic deployment of the container image and the application code
+			- https://go.microsoft.com/fwlink/?linkid=2191413
+		3. Create secrets - Protect data by adding secrets to your app. Once you create a secret you can reference it in your app’s environment variables.
+			- https://go.microsoft.com/fwlink/?linkid=2191507
+
 # Friday April 14th, 2023
 
 # Word Games with Chatbots
