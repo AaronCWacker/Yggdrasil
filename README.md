@@ -3,6 +3,64 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Monday April 17th, 2023
 
+# ChatGPT RLHF Memory Looper
+
+Chatlog:  https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
+
+Tell me about the company UnitedHealth and the company Optum including what is their core profitable business and how do they help the world?
+UnitedHealth Group is a diversified healthcare company headquartered in Minnetonka, Minnesota, United States. It is one of the largest and most diversified publicly-traded health insurers in the world, providing health benefits and services to over 125 million people in more than 130 countries. UnitedHealth Group operates through two main business segments: UnitedHealthcare and Optum.
+
+UnitedHealthcare provides health insurance and critical health-related services directly to individuals and employers, as well as to Medicare and Medicaid recipients. The company’s primary objective is to improve healthcare outcomes, reduce medical costs, and create healthier communities.
+
+On the other hand, Optum is a separate division of UnitedHealth Group, which focuses on providing health information and technology-enabled health services to healthcare providers and other clients. Optum aims to simplify and enhance the healthcare experience for patients, providers, and payers through innovative healthcare solutions. Optum includes several businesses, including OptumHealth, OptumInsight, and OptumRx.
+
+OptumHealth provides clinical care management services that help individuals manage chronic conditions and navigate complex healthcare decisions. It also operates wellness programs aimed at improving employee productivity and reducing medical costs. OptumInsight provides data management, analytics, and consulting services to healthcare organizations to identify clinical and financial opportunities to improve care quality and reduce costs. Finally, OptumRx is a pharmacy benefits management company that manages prescription drug costs for patients, insurers, and employers.
+
+UnitedHealth and its Optum division help the world by providing accessible, affordable, and high-quality healthcare services, which are necessary for maintaining and improving human health. They work towards making healthcare more efficient and effective, enabling people to lead better lives. Their core profitable business includes providing health insurance, healthcare technology, and wellness programs that help their customers manage healthcare expenses, improve patient outcomes, and reduce healthcare costs.
+Rewrite the answer and include clinical terminologies by type including ICD10, CPT, HCPCS, SNOMED, LOINC and other health terminologies. Summarize this into a numbered outline. For the outline include top twenty statements. For each statement start with an emoji to make it easy to read.
+👉 UnitedHealth Group is a diversified healthcare company with headquarters in Minnetonka, Minnesota, United States.
+
+👉 The company is one of the largest and most diversified publicly-traded health insurers in the world, providing health benefits and services to over 125 million people in more than 130 countries.
+
+👉 UnitedHealth Group operates through two main business segments: UnitedHealthcare and Optum.
+
+👉 UnitedHealthcare provides health insurance and critical health-related services to individuals, employers, as well as Medicare and Medicaid recipients.
+
+👉 ICD-10 codes are used to identify diagnoses, and CPT codes are used to identify services provided in medical care by UnitedHealthcare.
+
+👉 Optum is a separate division of UnitedHealth Group, which focuses on providing health information and technology-enabled health services to healthcare providers and other clients.
+
+👉 Optum includes several businesses, including OptumHealth, OptumInsight, and OptumRx.
+
+👉 OptumHealth provides clinical care management services that help individuals manage chronic conditions and navigate complex healthcare decisions.
+
+👉 SNOMED is a standardized vocabulary that is used by OptumHealth to improve communication between healthcare providers across the country.
+
+👉 OptumInsight provides data management, analytics, and consulting services to healthcare organizations to identify clinical and financial opportunities to improve care quality and reduce costs.
+
+👉 LOINC is used by OptumInsight to ensure all health data is seamlessly interpreted and transferred between different systems.
+
+👉 Finally, OptumRx is a pharmacy benefits management company that manages prescription drug costs for patients, insurers, and employers.
+
+👉 UnitedHealth and its Optum division aim to make healthcare more efficient and effective, enabling people to lead better lives.
+
+👉 They provide accessible, affordable, and high-quality healthcare services, which are necessary for maintaining and improving human health.
+
+👉 Healthcare professionals and payers use HCPCS codes to identify and report medical services, and their associated costs.
+
+👉 UnitedHealthcare and Optum employ these terminologies to ensure proper communication and reduce errors in medical billing and record-keeping.
+
+👉 Using these terminologies, UnitedHealth and Optum can diagnose, treat and manage various illnesses and health conditions more effectively.
+
+👉 The data collected through these healthcare terminologies help researchers worldwide to develop new treatments and cures for a variety of diseases such as COVID-19.
+
+👉 Their core profitable business includes providing health insurance, healthcare technology, and wellness programs that help their customers manage healthcare expenses, improve patient outcomes, and reduce healthcare costs.
+
+👉 UnitedHealth and Optum are dedicated to advancing healthcare practices around the world by providing cutting-edge solutions that improve patient outcomes and reduce healthcare costs.
+
+
+# Transfer Learning from Transcript
+
 1. Ilya Sutskever on Scaling : https://youtu.be/SjhIlw3Iffs?list=PLHgX2IExbFotmFeBTpyje1uI22n0GAkXT&t=668
 2. Quote: the takeaway that people have taken from it overstated's case the takeaway that people have is it doesn't matter what you do to scale but that's not exactly true you gotta scale something specific you gotta have something that will be able to benefit from the scale it's a great breakthrough of deep learning is that it provides us with the first ever way of productively using scale and getting something out of it in return
 3. https://huggingface.co/spaces/awacke1/AI-Generating-AI-From-Transcript
