@@ -101,6 +101,158 @@ git clone https://github.com/$GITHUB_USERNAME/containerapps-albumui.git code-to-
 
 
 
+
+...
+
+
+
+
+
+Prepare the GitHub repository
+In a new browser tab, navigate to the repository for the UI application and select the Fork button at the top of the page to fork the repo to your account.
+
+Follow the prompts from GitHub to fork the repository and return here once the operation is complete.
+
+Navigate to the parent of the code-to-cloud folder. If you're still in the code-to-cloud/src directory, you can use the below command to return to the parent folder.
+
+Console
+
+Copy
+cd ../..
+Use the following git command to clone your forked repo into the code-to-cloud-ui folder:
+
+git
+
+Copy
+git clone https://github.com/$GITHUB_USERNAME/containerapps-albumui.git code-to-cloud-ui
+ Note
+
+If the clone command fails, check that you have successfully forked the repository.
+
+Next, change the directory into the src folder of the cloned repo.
+
+Console
+
+Copy
+cd code-to-cloud-ui/src
+Build the front end application
+Bash
+Azure PowerShell
+Azure PowerShell
+
+Copy
+az acr build --registry $ACRName --image albumapp-ui .
+Output from the az acr build command shows the upload progress of the source code to Azure and the details of the docker build operation.
+
+Communicate between container apps
+In the previous quickstart, the album API was deployed by creating a container app and enabling external ingress. Setting the container app's ingress to external made its HTTP endpoint URL publicly available.
+
+Now you can configure the front end application to call the API endpoint by going through the following steps:
+
+Query the API application for its fully qualified domain name (FQDN).
+Pass the API FQDN to az containerapp create as an environment variable so the UI app can set the base URL for the album API call within the code.
+The UI application uses the endpoint provided to invoke the album API. The following code is an excerpt from the code used in the routes > index.js file.
+
+JavaScript
+
+Copy
+const api = axios.create({
+  baseURL: process.env.API_BASE_URL,
+  params: {},
+  timeout: process.env.TIMEOUT || 5000,
+});
+Notice how the baseURL property gets its value from the API_BASE_URL environment variable.
+
+Run the following command to query for the API endpoint address.
+
+Bash
+Azure PowerShell
+Azure PowerShell
+
+Copy
+$APIBaseURL = (Get-AzContainerApp -Name $APIName -ResourceGroupName $ResourceGroup).IngressFqdn
+
+Now that you have set the API_BASE_URL variable with the FQDN of the album API, you can provide it as an environment variable to the frontend container app.
+
+Deploy front end application
+Create and deploy your container app with the following command.
+
+Bash
+Azure PowerShell
+To create the container app, create template objects that you'll pass in as arguments to the New-AzContainerApp command.
+
+Create a template object to define your container image parameters. The environment variable named API_BASE_URL is set to the API's FQDN.
+
+Azure PowerShell
+
+Copy
+
+$EnvVars = New-AzContainerAppEnvironmentVarObject -Name API_BASE_URL -Value https://$APIBaseURL
+
+$ContainerArgs = @{
+  Name = $FrontendName
+  Image = $ACRName + '.azurecr.io/albumapp-ui'
+  Env = $EnvVars
+}
+$ContainerObj = New-AzContainerAppTemplateObject @ContainerArgs
+You'll need run the following command to get your registry credentials.
+
+Azure PowerShell
+
+Copy
+$RegistryCredentials = Get-AzContainerRegistryCredential -Name $ACRName -ResourceGroupName $ResourceGroup
+Create a registry credential object to define your registry information, and a secret object to define your registry password. The PasswordSecretRef in $RegistryObj refers to the Name in $SecretObj.
+
+Azure PowerShell
+
+Copy
+$RegistryArgs = @{
+    Server = $ACRName + '.azurecr.io'
+    PasswordSecretRef = 'registrysecret'
+    Username = $RegistryCredentials.Username
+}
+$RegistryObj = New-AzContainerAppRegistryCredentialObject @RegistryArgs
+
+$SecretObj = New-AzContainerAppSecretObject -Name 'registrysecret' -Value $RegistryCredentials.Password
+Get your environment ID.
+
+Azure PowerShell
+
+Copy
+$EnvId = (Get-AzContainerAppManagedEnv -EnvName $Environment -ResourceGroup $ResourceGroup).Id
+Create the container app.
+
+Azure PowerShell
+
+Copy
+$AppArgs = @{
+    Name = $FrontendName
+    Location = $Location
+    ResourceGroupName = $ResourceGroup
+    ManagedEnvironmentId = $EnvId
+    TemplateContainer = $ContainerObj
+    ConfigurationRegistry = $RegistryObj
+    ConfigurationSecret = $SecretObj
+    IngressTargetPort = 3000
+    IngressExternal = $true
+}
+$FrontEndApp = New-AzContainerApp @AppArgs
+
+# show the app's FQDN
+
+$FrontEndApp.IngressFqdn
+View website
+Use the container app's FQDN to view the website. The page will resemble the following screenshot.
+
+
+.....
+
+
+
+
+
+
+
 # Friday April 14th, 2023
 
 # Word Games with Chatbots
