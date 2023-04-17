@@ -77,8 +77,27 @@ PS C:\Users\aaron>
 
 
 If you're not going to continue to use this application, run the following command to delete the resource group along with all the resources created in this quickstart
+	az group delete --name my-container-apps
 
-az group delete --name my-container-apps
+# Services between two ACAs:  https://learn.microsoft.com/en-us/azure/container-apps/communicate-between-microservices?tabs=azure-powershell&pivots=acr-remote
+
+1. Azure CLI Powershell:
+$ResourceGroup = "album-containerapps"
+$Location = "canadacentral"
+$Environment = "env-album-containerapps"
+$APIName="album-api"
+$FrontendName="album-ui"
+$GITHUB_USERNAME = "AaronCWacker"
+$ACRName = "acaalbums"+$GITHUB_USERNAME
+2. Sign in:
+3. Connect-AzAccount
+PS C:\Users\aaron> mkdir GithubRepoACA
+    Directory: C:\Users\aaron
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         4/16/2023   7:47 PM                GithubRepoACA
+
+git clone https://github.com/$GITHUB_USERNAME/containerapps-albumui.git code-to-cloud-ui
 
 
 
