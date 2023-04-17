@@ -25,6 +25,62 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 			- https://go.microsoft.com/fwlink/?linkid=2191413
 		3. Create secrets - Protect data by adding secrets to your app. Once you create a secret you can reference it in your app’s environment variables.
 			- https://go.microsoft.com/fwlink/?linkid=2191507
+4. Deploy to ACA:https://learn.microsoft.com/en-us/azure/container-apps/get-started?tabs=azure-powershell
+	1. Get AZ CLI: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli  https://learn.microsoft.com/en-us/cli/azure/install-azure-cli-windows?tabs=azure-cli
+	2. az login
+	3. Use 'az login --tenant TENANT_ID' to explicitly login to a tenant. e.g.  az login --tenant cee08091-4be7-465a-bd53-25d5764273fe
+	4. Ensure latest CLI: az upgrade
+	5. Add the ACA extension for CLI: az extension add --name containerapp --upgrade
+	6. Register the Microsoft.App and Microsoft.OperationalInsights namespaces if you haven't already registered them in your Azure subscription.
+	7. az provider register --namespace Microsoft.App
+	8. az provider register --namespace Microsoft.OperationalInsights
+	9. Create using below:
+
+az containerapp up `
+  --name my-container-app `
+  --resource-group my-container-apps `
+  --location centralus `
+  --environment  my-container-apps `
+  --image mcr.microsoft.com/azuredocs/containerapps-helloworld:latest `
+  --target-port 80 `
+  --ingress external `
+  --query properties.configuration.ingress.fqdn
+  
+Output:
+PS C:\Users\aaron> az containerapp up `
+>>   --name my-container-app `
+>>   --resource-group my-container-apps `
+>>   --location centralus `
+>>   --environment  my-container-apps `
+>>   --image mcr.microsoft.com/azuredocs/containerapps-helloworld:latest `
+>>   --target-port 80 `
+>>   --ingress external `
+>>   --query properties.configuration.ingress.fqdn
+Creating resource group 'my-container-apps'
+Creating ContainerAppEnvironment 'my-container-apps' in resource group my-container-apps
+No Log Analytics workspace provided.
+Generating a Log Analytics workspace with name "workspace-mycontainerappsJUfZ"
+Creating Containerapp my-container-app in resource group my-container-apps
+
+Container app created. Access your app at https://my-container-app.salmonground-a8f39f59.centralus.azurecontainerapps.io/
+
+
+Your container app my-container-app has been created and deployed! Congrats!
+
+Browse to your container app at: http://my-container-app.salmonground-a8f39f59.centralus.azurecontainerapps.io
+
+Stream logs for your container with: az containerapp logs show -n my-container-app -g my-container-apps
+
+See full output using: az containerapp show -n my-container-app -g my-container-apps
+
+PS C:\Users\aaron>
+
+
+If you're not going to continue to use this application, run the following command to delete the resource group along with all the resources created in this quickstart
+
+az group delete --name my-container-apps
+
+
 
 # Friday April 14th, 2023
 
