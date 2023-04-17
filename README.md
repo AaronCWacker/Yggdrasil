@@ -6,6 +6,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 1. Ilya Sutskever on Scaling : https://youtu.be/SjhIlw3Iffs?list=PLHgX2IExbFotmFeBTpyje1uI22n0GAkXT&t=668
 2. Quote: the takeaway that people have taken from it overstated's case the takeaway that people have is it doesn't matter what you do to scale but that's not exactly true you gotta scale something specific you gotta have something that will be able to benefit from the scale it's a great breakthrough of deep learning is that it provides us with the first ever way of productively using scale and getting something out of it in return
 3. https://huggingface.co/spaces/awacke1/AI-Generating-AI-From-Transcript
+4. prediction is compression prediction is also a statistical phenomenon yet to predict you eventually need to understand the true underlying process that produce the data to predict the data well to compress it well you need to understand more and more about the world that produce the data as our generative models become extraordinarily good they will have I claim a shocking degree of understanding a shocking degree of understanding of the world and many of its subtleties but it's not just the world it is the world as seen through the lens of text it tries to learn more and more about the world through a projection of the world on the space of text as expressed by human beings on the internet but still this text already expresses
+5. Transfer Learning
 
 
 
