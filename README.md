@@ -1,6 +1,14 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Monday April 17th, 2023
+
+1. Ilya Sutskever on Scaling : https://youtu.be/SjhIlw3Iffs?list=PLHgX2IExbFotmFeBTpyje1uI22n0GAkXT&t=668
+2. Quote: the takeaway that people have taken from it overstated's case the takeaway that people have is it doesn't matter what you do to scale but that's not exactly true you gotta scale something specific you gotta have something that will be able to benefit from the scale it's a great breakthrough of deep learning is that it provides us with the first ever way of productively using scale and getting something out of it in return
+3. https://huggingface.co/spaces/awacke1/AI-Generating-AI-From-Transcript
+
+
+
 # Sunday April 16th, 2023
 
 1. ChatGPT with memory and file IO: Two spaces below have a file interface for saving and sharing GPT IO
