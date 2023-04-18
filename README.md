@@ -1,6 +1,31 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tuesday April 18th, 2023
+
+| # | Body Part | Organ/Part | Description |
+| — | -------------|----------------| --------------------------- |
+| 1 | 🧠 Head | Brain | Controls mental processes |
+| 2 | 👀 Eyes | Optic Nerve | Vision |
+| 3 | 👂 Ears | Cochlea | Hearing |
+| 4 | 👃 Nose | Olfactory Bulb | Smell |
+| 5 | 👄 Mouth | Tongue | Taste |
+| 6 | 🫁 Neck | Thyroid | Metabolism |
+| 7 | 💪 Upper Body | Heart | Circulation |
+| 8 | 💪 | Lungs | Respiration |
+| 9 | 💪 | Stomach | Digestion |
+| 10 | 💪 | Liver | Detoxification |
+| 11 | 💪 | Kidneys | Filteration |
+| 12 | 💪 | Adrenal Gland | Hormone regulation |
+| 13 | 💪 | Pancreas | Insulin secretion |
+| 14 | 💪 | Spleen | Immune functions |
+| 15 | 🦵 Lower Body | Intestines | Absorption of nutrients |
+| 16 | 🦵 | Bladder | Urine excretion |
+| 17 | 🦵 | Reproductive Organs | Sex hormone secretion |
+| 18 | 🦶 Feet | Nerve endings | Balance and movement |
+| 19 | 🦶 | Skin | Temperature regulation |
+| 20 | 🦶 | Muscles | Movement and strength |
+
 # Monday April 17th, 2023
 
 # ChatGPT RLHF Memory Looper
