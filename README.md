@@ -5,6 +5,30 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ## Anatomy 101 with Health Care Costs:
 
+| Table Num | Body Part        | Organ/Part           | Description               | 📈 Costly Condition         | 💰 Spending (billions) |
+|-----------|------------------|----------------------|---------------------------|-----------------------------|------------------------|
+| 1         | 🧠 Head          | 🧠 Brain             | Controls mental processes | 😨 Anxiety & Depression     | 210                    |
+| 2         | 👀 Eyes          | 👁️ Optic Nerve      | Vision                    | 👓 Cataracts                | 10.7                   |
+| 3         | 👂 Ears          | 🐚 Cochlea           | Hearing                   | 📢 Hearing Loss             | 7.1                    |
+| 4         | 👃 Nose          | 👃 Olfactory Bulb    | Smell                     | 🤧 Allergies                | 25                     |
+| 5         | 👄 Mouth         | 👅 Tongue            | Taste                     | 🦷 Dental Issues            | 130                    |
+| 6         | 🫁 Neck          | 🦋 Thyroid           | Metabolism                | 🦠 Hypothyroidism           | 3.1                    |
+| 7         | 💪 Upper Body    | ❤️ Heart             | Circulation               | 💔 Heart Disease            | 230                    |
+| 8         | 💪 Upper Body    | 🫁 Lungs             | Respiration               | 😷 Chronic Obstructive Pulmonary Disease | 70   |
+| 9         | 💪 Upper Body    | 🍽️ Stomach           | Digestion                 | 🔥 Gastroesophageal Reflux Disease | 17          |
+| 10        | 💪 Upper Body    | 🍷 Liver             | Detoxification            | 🍺 Liver Disease            | 40                     |
+| 11        | 💪 Upper Body    | 🍹 Kidneys           | Filtration                | 🌊 Chronic Kidney Disease   | 110                    |
+| 12        | 💪 Upper Body    | 🌰 Adrenal Gland     | Hormone regulation        | 😰 Adrenal Disorders        | 1                      |
+| 13        | 💪 Upper Body    | 💉 Pancreas          | Insulin secretion         | 🍬 Diabetes                 | 327                    |
+| 14        | 💪 Upper Body    | 🛡️ Spleen            | Immune functions          | 🩸 Anemia                   | 5.6                    |
+| 15        | 🦵 Lower Body    | 🍝 Intestines        | Absorption of nutrients   | 🚽 Inflammatory Bowel Disease | 14.6                |
+| 16        | 🦵 Lower Body    | 🚽 Bladder           | Urine excretion           | 💧 Urinary Incontinence     | 8                      |
+| 17        | 🦵 Lower Body    | 💞 Reproductive Organs| Sex hormone secretion     | 🎗️ Endometriosis           | 22                     |
+| 18        | 🦶 Feet          | 🎯 Nerve endings     | Balance and movement      | 🤕 Peripheral Neuropathy    | 19                     |
+| 19        | 🦶 Feet          | 🌡️ Skin              | Temperature regulation    | 🌞 Skin Cancer              | 8.1                    |
+| 20        | 🦶 Feet          | 💪 Muscles           | Movement and strength     | 🏋️‍♂️ Musculoskeletal Disorders | 176              |
+
+
 | Table Num | Body Part        | Organ/Part           | Description               | 📈 Costly Condition         |
 |-----------|------------------|----------------------|---------------------------|-----------------------------|
 | 1         | 🧠 Head          | 🧠 Brain             | Controls mental processes | 😨 Anxiety & Depression     |
