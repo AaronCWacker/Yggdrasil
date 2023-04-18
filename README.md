@@ -2,6 +2,36 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Tuesday April 18th, 2023
+
+## Anatomy 101 with Health Care Costs:
+
+| Table Num | Body Part        | Organ/Part           | Description               | 📈 Costly Condition         |
+|-----------|------------------|----------------------|---------------------------|-----------------------------|
+| 1         | 🧠 Head          | 🧠 Brain             | Controls mental processes | 😨 Anxiety & Depression     |
+| 2         | 👀 Eyes          | 👁️ Optic Nerve      | Vision                    | 👓 Cataracts                |
+| 3         | 👂 Ears          | 🐚 Cochlea           | Hearing                   | 📢 Hearing Loss             |
+| 4         | 👃 Nose          | 👃 Olfactory Bulb    | Smell                     | 🤧 Allergies                |
+| 5         | 👄 Mouth         | 👅 Tongue            | Taste                     | 🦷 Dental Issues            |
+| 6         | 🫁 Neck          | 🦋 Thyroid           | Metabolism                | 🦠 Hypothyroidism           |
+| 7         | 💪 Upper Body    | ❤️ Heart             | Circulation               | 💔 Heart Disease            |
+| 8         | 💪 Upper Body    | 🫁 Lungs             | Respiration               | 😷 Chronic Obstructive Pulmonary Disease |
+| 9         | 💪 Upper Body    | 🍽️ Stomach           | Digestion                 | 🔥 Gastroesophageal Reflux Disease |
+| 10        | 💪 Upper Body    | 🍷 Liver             | Detoxification            | 🍺 Liver Disease            |
+| 11        | 💪 Upper Body    | 🍹 Kidneys           | Filtration                | 🌊 Chronic Kidney Disease   |
+| 12        | 💪 Upper Body    | 🌰 Adrenal Gland     | Hormone regulation        | 😰 Adrenal Disorders        |
+| 13        | 💪 Upper Body    | 💉 Pancreas          | Insulin secretion         | 🍬 Diabetes                 |
+| 14        | 💪 Upper Body    | 🛡️ Spleen            | Immune functions          | 🩸 Anemia                   |
+| 15        | 🦵 Lower Body    | 🍝 Intestines        | Absorption of nutrients   | 🚽 Inflammatory Bowel Disease |
+| 16        | 🦵 Lower Body    | 🚽 Bladder           | Urine excretion           | 💧 Urinary Incontinence     |
+| 17        | 🦵 Lower Body    | 💞 Reproductive Organs| Sex hormone secretion     | 🎗️ Endometriosis           |
+| 18        | 🦶 Feet          | 🎯 Nerve endings     | Balance and movement      | 🤕 Peripheral Neuropathy    |
+| 19        | 🦶 Feet          | 🌡️ Skin              | Temperature regulation    | 🌞 Skin Cancer              |
+| 20        | 🦶 Feet          | 💪 Muscles           | Movement and strength     | 🏋️‍♂️ Musculoskeletal Disorders |
+
+
+
+## The Body:
+
 | Table Num | Body Part        | Organ/Part           | Description               |
 |-----------|------------------|----------------------|---------------------------|
 | 1         | 🧠 Head          | 🧠 Brain             | Controls mental processes |
