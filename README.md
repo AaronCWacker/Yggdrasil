@@ -3,7 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Tuesday April 18th, 2023
 
-| # | Body Part | Organ/Part | Description |
+| Num | Body Part | Organ/Part | Description |
 | — | -------------|----------------| --------------------------- |
 | 1 | 🧠 Head | Brain | Controls mental processes |
 | 2 | 👀 Eyes | Optic Nerve | Vision |
