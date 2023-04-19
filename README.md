@@ -22,37 +22,34 @@ The table below shows descriptions for these resources.
 | 4 | Log Analytics workspace | Provides centralized logging of your machine learning operations | 📈 |
 | 5 | Storage account | Stores large amounts of data, such as training datasets and inference results | 💾 |
 
+## Managing Information Overload with AI/ML 🤖🧠
 
-## Managing Information Overload with AI/ML
+Coping with daily information from emails, mail, letters, bills, notices, web, notes, and preferences is challenging for individuals and organizations.
 
-Enhancing reading, writing, communication and understanding of our daily large information such as email, mail, letters, bills, notices, web, notes, and preferences is difficult to manage for world communications at organization and individual levels.  
+Below is a 20-point outline of communication inputs/outputs and information management strategies to help prioritize, relate, combine, summarize, and reduce anxiety caused by too much information. Brainstorm ideas to improve communication in the age of AI and large language models. 🌐💡
 
-Below is a twenty point outline of communications inputs and outputs and describe information management strategies that can be used to simplify, relate, combine, summarize, reduce and predict what communications are most important to respond to and how we can alleviate anxiety caused by being overwhelmed by too much information we need to respond to to help our customers.  
-
-Together we can solve this with a Brainstorm of ideas on how to make it easier to communicate and master information in the age of AI and large language models.
-
-| No. | Communication Input/Output           | Information Management Strategy                                                                                                              |
-|-----|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| 1   | Email                                | Prioritize emails with AI-based filters, flagging high-priority messages and sorting them into relevant folders.                            |
-| 2   | Mail                                 | Digitize physical mail and use OCR to extract keywords for categorization and prioritization.                                               |
-| 3   | Letters                              | Use AI-based summarization tools to create condensed versions for quick understanding.                                                      |
-| 4   | Bills                                | Automate bill payments and notifications, creating summaries of monthly expenses.                                                           |
-| 5   | Notices                              | Utilize natural language processing to identify critical notices and deadlines, pushing reminders to a calendar.                            |
-| 6   | Web                                  | Employ AI-powered browser extensions to highlight relevant content and summarize articles for efficient browsing.                          |
-| 7   | Notes                                | Use AI tools to analyze and categorize notes, combining similar topics and creating summaries for easy reference.                           |
-| 8   | Preferences                          | Create a personal profile with AI algorithms to suggest tailored content, reducing irrelevant information.                                   |
-| 9   | Social Media                         | Use AI filters to curate feeds and limit exposure to overwhelming or irrelevant content.                                                     |
-| 10  | Project Management                   | Implement AI-based project management tools to prioritize tasks, streamline communication, and track progress.                              |
-| 11  | Instant Messaging                    | Integrate AI assistants to suggest appropriate responses, summarize conversations, and manage notifications.                                |
-| 12  | Phone Calls                          | Employ AI transcription services to convert calls into searchable text, making them easier to review and reference.                         |
-| 13  | Video Conferences                    | Use AI-powered tools to summarize and transcribe video content, providing visual cues and highlights.                                       |
-| 14  | Document Collaboration               | Utilize AI-enhanced platforms for real-time collaboration, simplifying version control and reducing miscommunication.                       |
-| 15  | Surveys and Feedback                 | Leverage AI to analyze and summarize survey responses, highlighting key insights and actionable feedback.                                   |
-| 16  | File Management                      | Implement AI-driven file organization tools to categorize, tag, and search for documents efficiently.                                       |
-| 17  | Customer Service                     | Integrate AI chatbots to handle routine inquiries, freeing up time to focus on higher-priority communications.                               |
-| 18  | Knowledge Bases and Documentation    | Use AI-powered search engines and summarization tools to quickly locate and digest relevant information.                                    |
-| 19  | Training and Onboarding              | Leverage AI-driven personalized learning plans to streamline training, reducing information overload for new team members.                  |
-| 20  | Meeting Agendas and Minutes          | Employ AI to generate meeting agendas and minutes, summarizing key discussion points and action items for easy follow-up.                   |
+| No. | Communication Input/Output 📨       | Information Management Strategy 📚                                                                                                          |
+|-----|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Email ✉️                          | Prioritize emails with AI filters, flagging high-priority messages and sorting them into folders.                                          |
+| 2   | Mail 📬                            | Digitize mail, use OCR to extract keywords for categorization and prioritization.                                                           |
+| 3   | Letters 📃                        | Use AI summarization tools for condensed versions and quick understanding.                                                                 |
+| 4   | Bills 💵                          | Automate bill payments and notifications, create summaries of monthly expenses.                                                             |
+| 5   | Notices 📌                        | Use NLP to identify critical notices and deadlines, push reminders to a calendar.                                                           |
+| 6   | Web 🌐                            | Use AI-powered extensions to highlight content and summarize articles for efficient browsing.                                              |
+| 7   | Notes 📝                          | Use AI tools to analyze and categorize notes, combine topics and create summaries for reference.                                            |
+| 8   | Preferences ⚙️                    | Use AI algorithms for personal profiles to suggest tailored content, reducing irrelevant info.                                              |
+| 9   | Social Media 📱                   | Use AI filters to curate feeds and limit exposure to overwhelming or irrelevant content.                                                    |
+| 10  | Project Management 📊             | Implement AI-based tools to prioritize tasks, streamline communication, and track progress.                                                |
+| 11  | Instant Messaging 💬              | Integrate AI assistants to suggest responses, summarize conversations, and manage notifications.                                            |
+| 12  | Phone Calls 📞                    | Use AI transcription services to convert calls into searchable text for easy review and reference.                                          |
+| 13  | Video Conferences 📹              | Use AI-powered tools to summarize and transcribe video content, providing visual cues and highlights.                                       |
+| 14  | Document Collaboration 📄         | Use AI-enhanced platforms for real-time collaboration, simplifying version control and reducing miscommunication.                           |
+| 15  | Surveys and Feedback 📈           | Leverage AI to analyze and summarize responses, highlighting key insights and actionable feedback.                                          |
+| 16  | File Management 🗂️                | Use AI-driven tools to categorize, tag, and search for documents efficiently.                                                              |
+| 17  | Customer Service 🎧               | Integrate AI chatbots for routine inquiries, focusing on higher-priority communications.                                                    |
+| 18  | Knowledge Bases and Documentation 📚 | Use AI-powered search engines and summarization tools to locate and digest information.                                                     |
+| 19  | Training and Onboarding 🎓         | Use AI-driven personalized learning plans to streamline training and reduce information overload for new team members.                      |
+| 20  | Meeting Agendas and Minutes 📅    | Use AI to generate meeting agendas and minutes, summarizing key points and action items for easy follow-up.                                 |
 
 
 
