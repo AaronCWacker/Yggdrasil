@@ -1,6 +1,39 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Wednesday April 19th, 2023
+
+Enhancing reading, writing, communication and understanding of our daily large information such as email, mail, letters, bills, notices, web, notes, and preferences is difficult to manage for world communications at organization and individual levels.  
+
+Below is a twenty point outline of communications inputs and outputs and describe information management strategies that can be used to simplify, relate, combine, summarize, reduce and predict what communications are most important to respond to and how we can alleviate anxiety caused by being overwhelmed by too much information we need to respond to to help our customers.  
+
+Together we can solve this with a Brainstorm of ideas on how to make it easier to communicate and master information in the age of AI and large language models.
+
+| No. | Communication Input/Output           | Information Management Strategy                                                                                                              |
+|-----|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Email                                | Prioritize emails with AI-based filters, flagging high-priority messages and sorting them into relevant folders.                            |
+| 2   | Mail                                 | Digitize physical mail and use OCR to extract keywords for categorization and prioritization.                                               |
+| 3   | Letters                              | Use AI-based summarization tools to create condensed versions for quick understanding.                                                      |
+| 4   | Bills                                | Automate bill payments and notifications, creating summaries of monthly expenses.                                                           |
+| 5   | Notices                              | Utilize natural language processing to identify critical notices and deadlines, pushing reminders to a calendar.                            |
+| 6   | Web                                  | Employ AI-powered browser extensions to highlight relevant content and summarize articles for efficient browsing.                          |
+| 7   | Notes                                | Use AI tools to analyze and categorize notes, combining similar topics and creating summaries for easy reference.                           |
+| 8   | Preferences                          | Create a personal profile with AI algorithms to suggest tailored content, reducing irrelevant information.                                   |
+| 9   | Social Media                         | Use AI filters to curate feeds and limit exposure to overwhelming or irrelevant content.                                                     |
+| 10  | Project Management                   | Implement AI-based project management tools to prioritize tasks, streamline communication, and track progress.                              |
+| 11  | Instant Messaging                    | Integrate AI assistants to suggest appropriate responses, summarize conversations, and manage notifications.                                |
+| 12  | Phone Calls                          | Employ AI transcription services to convert calls into searchable text, making them easier to review and reference.                         |
+| 13  | Video Conferences                    | Use AI-powered tools to summarize and transcribe video content, providing visual cues and highlights.                                       |
+| 14  | Document Collaboration               | Utilize AI-enhanced platforms for real-time collaboration, simplifying version control and reducing miscommunication.                       |
+| 15  | Surveys and Feedback                 | Leverage AI to analyze and summarize survey responses, highlighting key insights and actionable feedback.                                   |
+| 16  | File Management                      | Implement AI-driven file organization tools to categorize, tag, and search for documents efficiently.                                       |
+| 17  | Customer Service                     | Integrate AI chatbots to handle routine inquiries, freeing up time to focus on higher-priority communications.                               |
+| 18  | Knowledge Bases and Documentation    | Use AI-powered search engines and summarization tools to quickly locate and digest relevant information.                                    |
+| 19  | Training and Onboarding              | Leverage AI-driven personalized learning plans to streamline training, reducing information overload for new team members.                  |
+| 20  | Meeting Agendas and Minutes          | Employ AI to generate meeting agendas and minutes, summarizing key discussion points and action items for easy follow-up.                   |
+
+
+
 # Tuesday April 18th, 2023
 
 ## Dungeons and Dragons Top Five Features and Physical Assets of Game
