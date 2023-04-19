@@ -3,6 +3,28 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Wednesday April 19th, 2023
 
+## Azure Resources Top 5 For AI/ML
+
+The top 5 resources in Azure which are used for setting up Machine Learning endpoints which use pretrained models with enterprise privacy and security are below:  
+1. Application Insights
+2. Azure Machine Learning workspace
+3. Key vault
+4. Log Analytics workspace
+5. Storage account.
+
+The table below shows descriptions for these resources.
+
+| Number | Resource | Description | Emoji |
+| ------ | -------- | ----------- | ----- |
+| 1 | Application Insights | Monitors the performance and usage of your machine learning endpoints | 🔍 |
+| 2 | Azure Machine Learning workspace | Hosts your machine learning models and experiments | 💻 |
+| 3 | Key vault | Securely stores your secrets, such as keys and credentials | 🔒 |
+| 4 | Log Analytics workspace | Provides centralized logging of your machine learning operations | 📈 |
+| 5 | Storage account | Stores large amounts of data, such as training datasets and inference results | 💾 |
+
+
+## Managing Information Overload with AI/ML
+
 Enhancing reading, writing, communication and understanding of our daily large information such as email, mail, letters, bills, notices, web, notes, and preferences is difficult to manage for world communications at organization and individual levels.  
 
 Below is a twenty point outline of communications inputs and outputs and describe information management strategies that can be used to simplify, relate, combine, summarize, reduce and predict what communications are most important to respond to and how we can alleviate anxiety caused by being overwhelmed by too much information we need to respond to to help our customers.  
