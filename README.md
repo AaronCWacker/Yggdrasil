@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Thursday April 20th, 2023
+
+The hot topics for this week are as follows:
+1. Azure Container Apps - Ready for PyCon2023:  https://www.youtube.com/watch?v=8JwyQ6hb2Xc
+2. Deploy Pre-Trained Hugging Face ML Models on Azure:  https://www.youtube.com/watch?v=TGHvBlT9YqI&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&index=2
+3. Python with VS Code and Azure:  https://www.youtube.com/watch?v=fvFBnulY_M0
+4. Connecting ChatGPT to Internet using Azure Cognitive Services:  https://www.youtube.com/watch?v=u943E5PeDJU&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&index=3
+5. Deploying Python with Azure Container Apps:  https://www.youtube.com/watch?v=8JwyQ6hb2Xc
+6. Announcements for Azure Container Apps:  https://www.youtube.com/watch?v=VkA-TOTjO-Q
+7. Azure Open Source Development:  https://www.youtube.com/watch?v=hcCFcXwuiz4
+
+
 # Wednesday April 19th, 2023
 
 ## Azure Resources Top 5 For AI/ML
