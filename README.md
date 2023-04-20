@@ -13,6 +13,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 | 4.1 | Python and Azure      | Python with VS Code and Azure                                | [Video](https://www.youtube.com/watch?v=fvFBnulY_M0)                                            | 🛠️    |
 | 5.1 | Azure Open Source Dev | Azure Open Source Development                                | [Video](https://www.youtube.com/watch?v=hcCFcXwuiz4)                                            | 🔓    |
 
+
+### 🌐🧠💼 In Azure templates AZD: Best Practice Architectures for Enterprise AI/ML in 2023 🔍🔮🤖
+
 | Emoji | Category                | Link                                                     |
 |-------|-------------------------|----------------------------------------------------------|
 | 😃    | Azure OpenAI Service    | https://azure.github.io/awesome-azd/?tags=openai        |
