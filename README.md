@@ -3,14 +3,16 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Thursday April 20th, 2023
 
-The hot topics for this week are as follows:
-1. Azure Container Apps - Ready for PyCon2023:  https://www.youtube.com/watch?v=8JwyQ6hb2Xc
-2. Deploy Pre-Trained Hugging Face ML Models on Azure:  https://www.youtube.com/watch?v=TGHvBlT9YqI&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&index=2
-3. Python with VS Code and Azure:  https://www.youtube.com/watch?v=fvFBnulY_M0
-4. Connecting ChatGPT to Internet using Azure Cognitive Services:  https://www.youtube.com/watch?v=u943E5PeDJU&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&index=3
-5. Deploying Python with Azure Container Apps:  https://www.youtube.com/watch?v=8JwyQ6hb2Xc
-6. Announcements for Azure Container Apps:  https://www.youtube.com/watch?v=VkA-TOTjO-Q
-7. Azure Open Source Development:  https://www.youtube.com/watch?v=hcCFcXwuiz4
+| No. | Topic                 | Title                                                         | Link                                                                                             | Emoji  |
+|-----|-----------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------|
+| 1.1 | Azure Container Apps  | Azure Container Apps - Ready for PyCon2023                   | [Video](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)                                            | 🚀    |
+| 1.2 | Azure Container Apps  | Deploying Python with Azure Container Apps                   | [Video](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)                                            | 🐍    |
+| 1.3 | Azure Container Apps  | Announcements for Azure Container Apps                       | [Video](https://www.youtube.com/watch?v=VkA-TOTjO-Q)                                            | 📢    |
+| 2.1 | Azure and ML          | Deploy Pre-Trained Hugging Face ML Models on Azure           | [Video](https://www.youtube.com/watch?v=TGHvBlT9YqI&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&index=2) | 🤖    |
+| 3.1 | Azure and ChatGPT     | Connecting ChatGPT to Internet using Azure Cognitive Services| [Video](https://www.youtube.com/watch?v=u943E5PeDJU&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&index=3) | 💬    |
+| 4.1 | Python and Azure      | Python with VS Code and Azure                                | [Video](https://www.youtube.com/watch?v=fvFBnulY_M0)                                            | 🛠️    |
+| 5.1 | Azure Open Source Dev | Azure Open Source Development                                | [Video](https://www.youtube.com/watch?v=hcCFcXwuiz4)                                            | 🔓    |
+
 
 
 # Wednesday April 19th, 2023
