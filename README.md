@@ -3,6 +3,31 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Thursday April 20th, 2023
 
+## Electric boat and electric motor options for low cost electric powered boats
+
+| 🚤 Boat or Motor | 📚 Type | 💰 Price Range | 🔗 URL |
+|------------------------|------------------------|----------------|-----------------------------------|
+| 🌊 Small Electric Boats | | | |
+| Pelican Monaco DLX | Small electric boat | $1,000 - $2,000 | https://www.pelicansport.com/ |
+| Pelican Rainbow E | Small electric boat | $1,500 - $3,000 | |
+| Newport Vessels Baja | Small electric boat | $2,000 - $4,000 | https://www.newportvessels.com/ |
+| Electric Dolphin boat | Small electric boat | $2,500 - $5,000 | |
+| Gheenoe electric boat | Small electric boat | $3,500 - $7,000 | https://www.gheenoe.net/ |
+| Aquawatt electric boat | Small electric boat | $2,000 - $5,000 | https://www.aquawatt.at/ |
+| Saltwater electric boat 🦐 | Small electric boat | $2,500 - $7,000 | |
+| 🛥️ Midsize and Large Electric Boats | | | |
+| Electric pontoon boat | Large electric boat | $10,000 - $30,000 | |
+| Electric family boat 🔌 | Midsize electric boat | $5,000 - $10,000 | |
+| Moss Bay electric boat 🌳 | Eco-friendly electric boat | $15,000 - $20,000 | https://www.mossbay.co.uk/electric-boats/ |
+| ⚓ Luxury Electric Boats | | | |
+| Duffy electric boat | Luxury electric boat | $10,000 - $70,000 | https://en.wikipedia.org/wiki/Duffy_Boats |
+| Elco electric boat 💪 | Luxury electric boat | $30,000 - $80,000 | https://elcomotoryachts.com/ |
+| 🚀 High-Performance Electric Boats | | | |
+| Scarab 255ID electric boat | High-performance electric
+
+
+## Azure Container Apps, ML, ChatGPT, Python, and Open Source
+
 | No. | Topic                 | Title                                                         | Link                                                                                             | Emoji  |
 |-----|-----------------------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------|
 | 1.1 | Azure Container Apps  | Azure Container Apps - Ready for PyCon2023                   | [Video](https://www.youtube.com/watch?v=8JwyQ6hb2Xc)                                            | 🚀    |
