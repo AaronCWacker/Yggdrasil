@@ -23,7 +23,15 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 | Duffy electric boat | Luxury electric boat | $10,000 - $70,000 | https://en.wikipedia.org/wiki/Duffy_Boats |
 | Elco electric boat 💪 | Luxury electric boat | $30,000 - $80,000 | https://elcomotoryachts.com/ |
 | 🚀 High-Performance Electric Boats | | | |
-| Scarab 255ID electric boat | High-performance electric
+| Scarab 255ID electric boat | High-performance electric boat | $100,000 - $120,000 | https://www.scarabjetboats.com/ |
+| Zinboats electric boat 🏎️ | High-speed electric boat | $50,000 - $100,000 | https://www.zinboats.com/en/ |
+| 🔋 Electric Motors | | | |
+| Newport Vessels | Outboard electric motor | $200 - $1,000 | https://www.newportvessels.com/ |
+| Minn Kota | Trolling electric motor | $200 - $1,500 | https://www.minnkotamotors.com/ |
+| Watersnake | Trolling electric motor | $200 - $1,000 | https://www.watersnake.com.au/ |
+| Torqeedo | Outboard electric motor | $1,500 - $5,000 | https://www.torqeedo.com/us/en-us/ |
+| Oceanvolt electric motor 🌊 | Inboard electric motor | $4,000 - $10,000 | https://oceanvolt.com/ |
+| Torqeedo Travel electric motor | Portable electric motor | $1,500 - $3,000 | https://www.torqeedo.com/us/en-us/ |
 
 
 ## Azure Container Apps, ML, ChatGPT, Python, and Open Source
