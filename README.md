@@ -1,6 +1,113 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Friday April 21st, flight to Iceland
+
+Wikipedia Twitter ChatGPT Memory Chat
+Question 
+Search Web Live
+Error
+Entity
+Value
+Type an input and press Enter 
+
+Chatbot
+tell me about the history of iceland in 20 point markdown outline with emojis.
+1. 🌋 Formation of Iceland began around 20 million years ago due to volcanic activity.
+2. 🖋 Vikings from Norway settled in Iceland in 874 AD, establishing the first permanent settlement.
+3. 📜 The Icelandic Commonwealth was established in 930 AD, which lasted until the Icelandic sagas were written around 1262-1281.
+4. 🎊 Christianity became the official religion of Iceland in 1000 AD.
+5. 🗣️ Icelandic language is derived from Old Norse and has remained relatively unchanged since the Settlement period.
+6. 🛡️ Iceland was ruled by Norway and later Denmark in the 14th-19th centuries, but maintained a degree of autonomy.
+7. 🐑 The economy was based on sheep farming and fishing throughout most of Iceland’s history.
+8. 🌊 Iceland gained independence from Denmark in 1944 and became a republic.
+9. 🚢 Iceland was a strategically important location during World War II, with British and American troops stationed there.
+10. 🇺🇸 The United States built a military base in Keflavik in 1951, which remained operational until 2006.
+11. 🌍 Iceland was a founding member of the United Nations in 1945 and NATO in 1949.
+12. 💰 Iceland’s economy experienced rapid growth in the late 20th century due to financial deregulation, but suffered a major collapse in 2008.
+13. 🌋 Volcanic eruptions have been a significant part of Iceland’s history, with eruptions in 2010 and 2021 causing international disruptions.
+14. 🎵 Icelandic music, including traditional folk songs and modern pop and rock, has gained international acclaim in recent years.
+15. 📖 Icelandic literature, including the sagas and the works of Halldór Laxness, has also had a significant impact on world culture.
+16. 🏊‍♀️ The Blue Lagoon geothermal spa is one of Iceland’s most popular tourist attractions.
+17. 🧊 Vatnajökull, the largest glacier in Europe, covers a significant portion of Iceland’s landmass.
+18. 🌞 In the summer, Iceland experiences the midnight sun, with 24 hours of daylight in some regions.
+19. ❄️ During the winter, Iceland experiences the Northern Lights, or aurora borealis, due to its location near the Arctic Circle.
+20. 🌳 Iceland is known for its unique natural landscape, with hot springs, geysers, lava fields, and black sand beaches.
+Name twenty things you can find in only iceland stores.
+1. Icelandic wool sweaters (Lopapeysa)
+2. Skyr, a traditional Icelandic yogurt
+3. Brennivin, a traditional Icelandic schnapps
+4. Icelandic licorice candy (Lakkrís)
+5. Seafood jerky (Harðfiskur)
+6. Icelandic smoked salmon (Lax)
+7. Reyka vodka, a premium Icelandic vodka
+8. Licorice-flavored chocolate (Síríus Ramlögun)
+9. Icelandic mineral water (Ölgerðin)
+10. Traditional Icelandic rye bread (Rúgbrauð)
+11. Icelandic salt (Saltverk)
+12. Volcanic salt (Islenskt eldsalt)
+13. Handmade ceramics, pottery, and glassware from Icelandic artists
+14. Sheepskin rugs and woolen blankets
+15. Icelandic herbal teas (Te Og Kaffi)
+16. Hand-knit Nordic sweaters and mittens
+17. Icelandic lava rock jewelry
+18. Dried seaweed (Söl)
+19. Icelandic cosmetics made with natural ingredients
+20. Icelandic literature and books on Icelandic folklore and culture.
+where in iceland can you find the top ten animal species. create a markdown outline with each line containing an emoji
+Here’s a markdown outline for you:
+
+1. 🦌 Reindeer are mostly found in the Eastfjords and the Westfjords.
+2. 🦆 Harlequin Ducks can be found in the Westfjords, as well as along the coastline.
+3. 🐴 Icelandic Horses are bred all over Iceland, with breeding farms and riding tour companies available.
+4. 🦅 White-tailed Eagles are found in the Westfjords, as well as in other areas such as Drangey island.
+5. 🦢 Whooper Swans can be found all over Iceland, with wetland areas being the best place to spot them.
+6. 🕊️ Atlantic Puffins can be found in large colonies in various parts of Iceland, such as the Westman Islands, the Westfjords, Skálfandi Bay, and more.
+7. 🦨 Arctic Foxes can be seen in the Westfjords, Eastfjords, and the highland regions.
+8. 🦉 Snowy Owls are relatively rare and can be found in winter months in areas such as the Westfjords.
+9. 🐋 Whales can be seen during whale watching tours, which are available in several regions such as Reykjavik and Húsavík.
+10. 🦦 Sea Otters are rare, but can sometimes be spotted in the Westfjords and other coastal areas.
+
+I hope this helps you!
+Run
+Parameters
+▼
+Filename 
+File Content 
+Completed 
+
+Label
+
+📄 List File(s)
+📖 Read File
+💾 Save File
+🗑️ Delete File
+➕ Append File
+ChatGPT Datasets 📚
+WebText
+Common Crawl
+BooksCorpus
+English Wikipedia
+Toronto Books Corpus
+OpenWebText
+ChatGPT Datasets - Details 📚
+WebText: A dataset of web pages crawled from domains on the Alexa top 5,000 list. This dataset was used to pretrain GPT-2.
+WebText: A Large-Scale Unsupervised Text Corpus by Radford et al.
+Common Crawl: A dataset of web pages from a variety of domains, which is updated regularly. This dataset was used to pretrain GPT-3.
+Language Models are Few-Shot Learners by Brown et al.
+BooksCorpus: A dataset of over 11,000 books from a variety of genres.
+Scalable Methods for 8 Billion Token Language Modeling by Zhu et al.
+English Wikipedia: A dump of the English-language Wikipedia as of 2018, with articles from 2001-2017.
+Improving Language Understanding by Generative Pre-Training Space for Wikipedia Search
+Toronto Books Corpus: A dataset of over 7,000 books from a variety of genres, collected by the University of Toronto.
+Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond by Schwenk and Douze.
+OpenWebText: A dataset of web pages that were filtered to remove content that was likely to be low-quality or spammy. This dataset was used to pretrain GPT-3.
+Language Models are Few-Shot Learners by Brown et al.
+Use via API 
+·
+Built with Gradio logo
+
+
 # Thursday April 20th, 2023
 
 ## Electric boat and electric motor options for low cost electric powered boats
