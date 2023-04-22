@@ -3,6 +3,16 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Friday April 21st, flight to Iceland
 
+1. The Bryggjan Brugghús serves craft beers and has live music performances.
+2. Kaffibarinn is a cozy bar in Reykjavik with various drink options.
+3. The Loft Hostel features stunning views of Reykjavik and a friendly atmosphere.
+4. Prikið offers live music, poetry slam events, and cocktail bar.
+5. Húrra Reykjavik is a nightclub with live performers, including DJs and concerts.
+6. Mikkeller & Friends Reykjavik is one of the best beer bars in the city featuring various beer options.
+7. Harlem Reykjavik is a stylish cocktail bar with live DJs and a dance floor.
+8. The Secret Cellar offers live music, comedy shows, and an underground atmosphere.
+9. KEX Hostel is a trendy nightspot that features DJs, concerts, and a craft beer bar.
+10. The Lebowski Bar is inspired by the film The Big Lebowski and is a cozy spot for enjoying a good cocktail.
 Wikipedia Twitter ChatGPT Memory Chat
 Question 
 Search Web Live
