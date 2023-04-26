@@ -1,6 +1,1728 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Wednesday 4/26 2023 - Generative AI
+
+## 📚 WebText Common Crawl Books
+Corpus English Wikipedia Toronto Books Corpus OpenWebText ChatGPT Datasets - Details 📚 WebText: A dataset of web pages crawled from domains on the Alexa top 5,000 list. This dataset was used to pretrain GPT-2. WebText: A Large-Scale Unsupervised Text Corpus by Radford et al. Common Crawl: A dataset of web pages from a variety of domains, which is updated regularly. This dataset was used to pretrain GPT-3. Language Models are Few-Shot Learners by Brown et al. BooksCorpus: A dataset of over 11,000 books from a variety of genres. Scalable Methods for 8 Billion Token Language Modeling by Zhu et al. English Wikipedia: A dump of the English-language Wikipedia as of 2018, with articles from 2001-2017. Improving Language Understanding by Generative Pre-Training Space for Wikipedia Search Toronto Books Corpus: A dataset of over 7,000 books from a variety of genres, collected by the University of Toronto. Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond by Schwenk and Douze. OpenWebText: A dataset of web pages that were filtered to remove content that was likely to be low-quality or spammy. This dataset was used to pretrain GPT-3. Language Models are Few-Shot Learners by Brown et al. Use via API · Built with Gradio logo
+
+## Outline of communication inputs/outputs 
+### information management strategies 
+to help prioritize, relate, combine, summarize, and reduce anxiety caused by too much information. Brainstorm ideas to improve communication in the age of AI and large language models. 🌐💡
+
+No.	Communication Input/Output 📨	Information Management Strategy 📚
+1.	Email ✉️	Prioritize emails with AI filters, flagging high-priority messages and sorting them into folders.
+2.	Mail 📬	Digitize mail, use OCR to extract keywords for categorization and prioritization.
+3.	Letters 📃	Use AI summarization tools for condensed versions and quick understanding.
+4.	Bills 💵	Automate bill payments and notifications, create summaries of monthly expenses.
+5.	Notices 📌	Use NLP to identify critical notices and deadlines, push reminders to a calendar.
+6.	Web 🌐	Use AI-powered extensions to highlight content and summarize articles for efficient browsing.
+7.	Notes 📝	Use AI tools to analyze and categorize notes, combine topics and create summaries for reference.
+8.	Preferences ⚙️	Use AI algorithms for personal profiles to suggest tailored content, reducing irrelevant info.
+9.	Social Media 📱	Use AI filters to curate feeds and limit exposure to overwhelming or irrelevant content.
+10.	Project Management 📊	Implement AI-based tools to prioritize tasks, streamline communication, and track progress.
+11.	Instant Messaging 💬	Integrate AI assistants to suggest responses, summarize conversations, and manage notifications.
+12.	Phone Calls 📞	Use AI transcription services to convert calls into searchable text for easy review and reference.
+13.	Video Conferences 📹	Use AI-powered tools to summarize and transcribe video content, providing visual cues and highlights.
+14.	Document Collaboration 📄	Use AI-enhanced platforms for real-time collaboration, simplifying version control and reducing miscommunication.
+15.	Surveys and Feedback 📈	Leverage AI to analyze and summarize responses, highlighting key insights and actionable feedback.
+16.	File Management 🗂️	Use AI-driven tools to categorize, tag, and search for documents efficiently.
+17.	Customer Service 🎧	Integrate AI chatbots for routine inquiries, focusing on higher-priority communications.
+18.	Knowledge Bases and Documentation 📚	Use AI-powered search engines and summarization tools to locate and digest information.
+19.	Training and Onboarding 🎓	Use AI-driven personalized learning plans to streamline training and reduce information overload for new team members.
+20.	Meeting Agendas and Minutes 📅	Use AI to generate meeting agendas and minutes, summarizing key points and action items for easy follow-up.
+
+## ChatGPT RLHF Memory Looper
+Chatlog: https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
+
+## Tell me about the company UnitedHealth and the company Optum 
+including what is their core profitable business and how do they help the world? UnitedHealth Group is a diversified healthcare company headquartered in Minnetonka, Minnesota, United States. It is one of the largest and most diversified publicly-traded health insurers in the world, providing health benefits and services to over 125 million people in more than 130 countries. UnitedHealth Group operates through two main business segments: UnitedHealthcare and Optum.
+
+UnitedHealthcare provides health insurance and critical health-related services directly to individuals and employers, as well as to Medicare and Medicaid recipients. The company’s primary objective is to improve healthcare outcomes, reduce medical costs, and create healthier communities.
+
+On the other hand, Optum is a separate division of UnitedHealth Group, which focuses on providing health information and technology-enabled health services to healthcare providers and other clients. Optum aims to simplify and enhance the healthcare experience for patients, providers, and payers through innovative healthcare solutions. Optum includes several businesses, including OptumHealth, OptumInsight, and OptumRx.
+
+OptumHealth provides clinical care management services that help individuals manage chronic conditions and navigate complex healthcare decisions. It also operates wellness programs aimed at improving employee productivity and reducing medical costs. OptumInsight provides data management, analytics, and consulting services to healthcare organizations to identify clinical and financial opportunities to improve care quality and reduce costs. Finally, OptumRx is a pharmacy benefits management company that manages prescription drug costs for patients, insurers, and employers.
+
+UnitedHealth and its Optum division help the world by providing accessible, affordable, and high-quality healthcare services, which are necessary for maintaining and improving human health. They work towards making healthcare more efficient and effective, enabling people to lead better lives. Their core profitable business includes providing health insurance, healthcare technology, and wellness programs that help their customers manage healthcare expenses, improve patient outcomes, and reduce healthcare costs. Rewrite the answer and include clinical terminologies by type including ICD10, CPT, HCPCS, SNOMED, LOINC and other health terminologies. Summarize this into a numbered outline. For the outline include top twenty statements. For each statement start with an emoji to make it easy to read. 👉 UnitedHealth Group is a diversified healthcare company with headquarters in Minnetonka, Minnesota, United States.
+
+👉 The company is one of the largest and most diversified publicly-traded health insurers in the world, providing health benefits and services to over 125 million people in more than 130 countries.
+
+👉 UnitedHealth Group operates through two main business segments: UnitedHealthcare and Optum.
+
+👉 UnitedHealthcare provides health insurance and critical health-related services to individuals, employers, as well as Medicare and Medicaid recipients.
+
+👉 ICD-10 codes are used to identify diagnoses, and CPT codes are used to identify services provided in medical care by UnitedHealthcare.
+
+👉 Optum is a separate division of UnitedHealth Group, which focuses on providing health information and technology-enabled health services to healthcare providers and other clients.
+
+👉 Optum includes several businesses, including OptumHealth, OptumInsight, and OptumRx.
+
+👉 OptumHealth provides clinical care management services that help individuals manage chronic conditions and navigate complex healthcare decisions.
+
+👉 SNOMED is a standardized vocabulary that is used by OptumHealth to improve communication between healthcare providers across the country.
+
+👉 OptumInsight provides data management, analytics, and consulting services to healthcare organizations to identify clinical and financial opportunities to improve care quality and reduce costs.
+
+👉 LOINC is used by OptumInsight to ensure all health data is seamlessly interpreted and transferred between different systems.
+
+👉 Finally, OptumRx is a pharmacy benefits management company that manages prescription drug costs for patients, insurers, and employers.
+
+👉 UnitedHealth and its Optum division aim to make healthcare more efficient and effective, enabling people to lead better lives.
+
+👉 They provide accessible, affordable, and high-quality healthcare services, which are necessary for maintaining and improving human health.
+
+👉 Healthcare professionals and payers use HCPCS codes to identify and report medical services, and their associated costs.
+
+👉 UnitedHealthcare and Optum employ these terminologies to ensure proper communication and reduce errors in medical billing and record-keeping.
+
+👉 Using these terminologies, UnitedHealth and Optum can diagnose, treat and manage various illnesses and health conditions more effectively.
+
+👉 The data collected through these healthcare terminologies help researchers worldwide to develop new treatments and cures for a variety of diseases such as COVID-19.
+
+👉 Their core profitable business includes providing health insurance, healthcare technology, and wellness programs that help their customers manage healthcare expenses, improve patient outcomes, and reduce healthcare costs.
+
+👉 UnitedHealth and Optum are dedicated to advancing healthcare practices around the world by providing cutting-edge solutions that improve patient outcomes and reduce healthcare costs.
+
+
+
+## Transfer Learning from Transcript
+Ilya Sutskever on Scaling : https://youtu.be/SjhIlw3Iffs?list=PLHgX2IExbFotmFeBTpyje1uI22n0GAkXT&t=668
+Quote: the takeaway that people have taken from it overstated's case the takeaway that people have is it doesn't matter what you do to scale but that's not exactly true you gotta scale something specific you gotta have something that will be able to benefit from the scale it's a great breakthrough of deep learning is that it provides us with the first ever way of productively using scale and getting something out of it in return
+https://huggingface.co/spaces/awacke1/AI-Generating-AI-From-Transcript
+prediction is compression prediction is also a statistical phenomenon yet to predict you eventually need to understand the true underlying process that produce the data to predict the data well to compress it well you need to understand more and more about the world that produce the data as our generative models become extraordinarily good they will have I claim a shocking degree of understanding a shocking degree of understanding of the world and many of its subtleties but it's not just the world it is the world as seen through the lens of text it tries to learn more and more about the world through a projection of the world on the space of text as expressed by human beings on the internet but still this text already expresses
+Transfer Learning
+Hallucinations and Learning: Right now these neural networks even charge ability makes things up from time to time and that's something that also greatly limits their usefulness but I'm quite hopeful that by simply improving this subsequent reinforcement learning from Human feedback step we could just teach it to not hallucinate now you could say is it really going to learn my answer is let's find out Feedback loop and that feedback loop is coming from the public chat GPT interface that if it tells me that I want a Pulitzer which unfortunately I I didn't I can tell it that it's wrong and will that train it or create some punishment or reward so that the next time I ask it'll be more accurate the way we do things today is that if we hire people to teach our neural net to behave to teach GPT to behave and right now the manner the precise manner in which they specify the desired behavior is a little bit different but indeed what you described is the way in which teaching is going through like basically be that's the correct way to teach you just interact with it and it sees from your reaction it infers oh that's not what you wanted you are not happy with its output therefore the output was not good and it should do something differently next time so in particular hallucinations come up as one of the bigger issues and we'll see but I think there is a quite a high chance that this approach will be able to address them completely.
+
+## ChatGPT with memory and file IO: 
+Two spaces below have a file interface for saving and sharing GPT IO
+
+https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
+https://huggingface.co/spaces/AI-Dashboards/Memory-Chat-Story-Generator-ChatGPT
+
+
+Instruct GPT
+📚 Introduction to InstructGPT a. 🎯 Overview of InstructGPT's purpose and goals b. ⚠️ Importance of reducing non-helpful text and hallucinations in LLM
+
+🎓 Improved guidance in content generation a. 💡 InstructGPT's ability to generate more relevant and context-aware responses b. ❌ Reduction in off-topic or irrelevant content generation
+
+🔍 Enhanced understanding of user intent a. 🧠 InstructGPT's ability to better comprehend complex instructions b. 🗣️ Improved communication between users and AI models
+
+🛡️ Reduction of harmful or biased content a. 🚫 InstructGPT's focus on mitigating risks associated with biased or harmful content b. 🌟 Development of ethical AI systems through reduced hallucinations
+
+👥 Human feedback as a vital component a. 🧩 Role of human reviewers in refining model outputs b. 🏆 Importance of human feedback in addressing AI's limitations
+
+🔄 Fine-tuning through human feedback loops a. ⏲️ Iterative process of model improvement using feedback from human reviewers b. 🔧 Continuous enhancement of AI capabilities and safety measures
+
+📖 In-context learning in GPT-4 a. 🎬 Utilization of context to generate relevant responses b. 🎭 Adapting to different user inputs and providing coherent answers
+
+💼 Customization and user experience a. 🎁 InstructGPT's ability to cater to specific user needs b. 😃 Enhanced user satisfaction through reduced non-helpful text and hallucinations
+
+🚀 Scalability and practical applications a. 🌐 The potential for InstructGPT to be used in various industries and applications b. 🛠️ Demonstrating the value of GPT-4 as a powerful tool for solving real-world problems
+
+🎬 Conclusion a. 📝 Summarizing the merits of using InstructGPT in reducing non-helpful text and hallucinations b. 💪 Emphasizing the importance of human feedback and in-context learning in GPT-4
+
+The Future - 176B param model Big Science BLOOM: https://huggingface.co/spaces/awacke1/Memory-Chat-Story-Generator-Bloom
+
+The Now - ChatGPT OPENAI customization using AI Pair Programming: https://huggingface.co/spaces/awacke1/Memory-Chat-Story-Generator-ChatGPT
+
+## Teaching the JSONL Format - 3 URLS to Win:
+Learn to write in story JSONL format used in ML and QA - https://huggingface.co/spaces/awacke1/Streamlit.Graphviz.Stories.JSONL
+Create and curate art for the story: https://discord.com/channels/@me/997514686608191558
+Use generative text to alternate between streamlit, markdown, JSONL, data, and code. https://chat.openai.com/chat
+
+MeSH Tree Structures and Graph
+https://www.nlm.nih.gov/mesh/intro_trees.html
+
+🌳 MeSH Tree Structures Outline 🌳
+
+📚 MeSH Descriptors
+
+Organized in 16 categories (A to Z)
+🅰️ Category A
+
+Anatomic terms
+🅱️ Category B
+
+Organisms
+🆑 Category C
+
+Diseases
+🅳️ Category D
+
+Drugs and chemicals
+🌲 Hierarchical Levels
+
+Up to 13 levels, from most general to most specific
+🔄 Multiple Appearances in Trees
+
+Descriptors may appear in multiple locations if appropriate
+🔍 Finding Most Specific Descriptor
+
+Example: Streptococcus pneumoniae under Streptococcus Pneumoniae, not broader term Streptococcus
+🌐 MeSH Browser
+
+Descriptors followed by tree location number
+Additional numbers indicate other tree locations, truncated at the third level
+⚠️ No Intrinsic Significance in Numbers
+
+Numbers subject to change with vocabulary updates
+
+3D Octopus Generation
+Image to 3D: https://huggingface.co/spaces/cvlab/zero123-live
+
+## Generative Images and 3D State of the Art:
+
+Paella Text to Image Model : https://huggingface.co/spaces/pcuenq/paella
+
+Uncanny Faces : https://huggingface.co/spaces/pcuenq/uncanny-faces
+
+2023 Bloom Spaces
+Model: https://huggingface.co/bigscience/bloom
+Bloom Theme Generator: https://huggingface.co/spaces/awacke1/Write-Stories-Using-Bloom
+Bloom Ghotwriter : https://huggingface.co/spaces/awacke1/Bloom.Generative.Writer
+https://huggingface.co/spaces/awacke1/Bloom.Human.Feedback.File.Ops
+https://huggingface.co/spaces/awacke1/04-AW-StorywriterwMem
+🌸 🔎 Bloom Searcher 🔍 🌸
+
+Tool design for Roots: URL.
+
+Bloom on Wikipedia: URL.
+
+Bloom Video Playlist: URL.
+
+Access full corpus check URL.
+
+Big Science - How to get started
+
+Big Science is a 176B parameter new ML model that was trained on a set of datasets for Natural Language processing, and many other tasks that are not yet explored.. Below is the set of the papers, models, links, and datasets around big science which promises to be the best, most recent large model of its kind benefitting all science pursuits.
+
+Model: https://huggingface.co/bigscience/bloom
+
+Papers: BLOOM: A 176B-Parameter Open-Access Multilingual Language Model https://arxiv.org/abs/2211.05100 Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism https://arxiv.org/abs/1909.08053 8-bit Optimizers via Block-wise Quantization https://arxiv.org/abs/2110.02861 Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation https://arxiv.org/abs/2108.12409 https://huggingface.co/models?other=doi:10.57967/hf/0003 217 Other Models optimizing use of bloom via specialization: https://huggingface.co/models?other=bloom
+
+Datasets: Universal Dependencies: https://paperswithcode.com/dataset/universal-dependencies WMT 2014: https://paperswithcode.com/dataset/wmt-2014 The Pile: https://paperswithcode.com/dataset/the-pile HumanEval: https://paperswithcode.com/dataset/humaneval FLORES-101: https://paperswithcode.com/dataset/flores-101 CrowS-Pairs: https://paperswithcode.com/dataset/crows-pairs WikiLingua: https://paperswithcode.com/dataset/wikilingua MTEB: https://paperswithcode.com/dataset/mteb xP3: https://paperswithcode.com/dataset/xp3 DiaBLa: https://paperswithcode.com/dataset/diabla
+
+Evals: https://github.com/AaronCWacker/evals
+
+Language Models 🗣️
+🏆 Bloom sets new record for most performant and efficient AI model in science! 🌸
+
+Comparison of Large Language Models
+Model Name	Model Size (in Parameters)
+BigScience-tr11-176B	176 billion
+GPT-3	175 billion
+OpenAI's DALL-E 2.0	500 million
+NVIDIA's Megatron	8.3 billion
+Transformer-XL	250 million
+XLNet	210 million
+ChatGPT Datasets 📚
+WebText
+Common Crawl
+BooksCorpus
+English Wikipedia
+Toronto Books Corpus
+OpenWebText
+ChatGPT Datasets - Details 📚
+WebText: A dataset of web pages crawled from domains on the Alexa top 5,000 list. This dataset was used to pretrain GPT-2.
+WebText: A Large-Scale Unsupervised Text Corpus by Radford et al.
+Common Crawl: A dataset of web pages from a variety of domains, which is updated regularly. This dataset was used to pretrain GPT-3.
+Language Models are Few-Shot Learners by Brown et al.
+BooksCorpus: A dataset of over 11,000 books from a variety of genres.
+Scalable Methods for 8 Billion Token Language Modeling by Zhu et al.
+English Wikipedia: A dump of the English-language Wikipedia as of 2018, with articles from 2001-2017.
+Improving Language Understanding by Generative Pre-Training Space for Wikipedia Search
+Toronto Books Corpus: A dataset of over 7,000 books from a variety of genres, collected by the University of Toronto.
+Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond by Schwenk and Douze.
+OpenWebText: A dataset of web pages that were filtered to remove content that was likely to be low-quality or spammy. This dataset was used to pretrain GPT-3.
+Language Models are Few-Shot Learners by Brown et al.
+Big Science Model 🚀
+📜 Papers:
+
+BLOOM: A 176B-Parameter Open-Access Multilingual Language Model Paper
+Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism Paper
+8-bit Optimizers via Block-wise Quantization Paper
+Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation Paper
+Other papers related to Big Science
+217 other models optimized for use with Bloom
+📚 Datasets: Datasets:
+
+Universal Dependencies: A collection of annotated corpora for natural language processing in a range of languages, with a focus on dependency parsing.
+Universal Dependencies official website.
+WMT 2014: The fourth edition of the Workshop on Statistical Machine Translation, featuring shared tasks on translating between English and various other languages.
+WMT14 website.
+The Pile: An English language corpus of diverse text, sourced from various places on the internet.
+The Pile official website.
+HumanEval: A dataset of English sentences, annotated with human judgments on a range of linguistic qualities.
+HumanEval: An Evaluation Benchmark for Language Understanding by Gabriel Ilharco, Daniel Loureiro, Pedro Rodriguez, and Afonso Mendes.
+FLORES-101: A dataset of parallel sentences in 101 languages, designed for multilingual machine translation.
+FLORES-101: A Massively Multilingual Parallel Corpus for Language Understanding by Aman Madaan, Shruti Rijhwani, Raghav Gupta, and Mitesh M. Khapra.
+CrowS-Pairs: A dataset of sentence pairs, designed for evaluating the plausibility of generated text.
+CrowS-Pairs: A Challenge Dataset for Plausible Plausibility Judgments by Andrea Madotto, Zhaojiang Lin, Chien-Sheng Wu, Pascale Fung, and Caiming Xiong.
+WikiLingua: A dataset of parallel sentences in 75 languages, sourced from Wikipedia.
+WikiLingua: A New Benchmark Dataset for Cross-Lingual Wikification by Jiarui Yao, Yanqiao Zhu, Ruihan Bao, Guosheng Lin, Lidong Bing, and Bei Shi.
+MTEB: A dataset of English sentences, annotated with their entailment relationships with respect to other sentences.
+Multi-Task Evaluation Benchmark for Natural Language Inference by Michał Lukasik, Marcin Junczys-Dowmunt, and Houda Bouamor.
+xP3: A dataset of English sentences, annotated with their paraphrase relationships with respect to other sentences.
+xP3: A Large-Scale Evaluation Benchmark for Paraphrase Identification in Context by Aniket Didolkar, James Mayfield, Markus Saers, and Jason Baldridge.
+DiaBLa: A dataset of English dialogue, annotated with dialogue acts.
+A Large-Scale Corpus for Conversation Disentanglement by Samuel Broscheit, António Branco, and André F. T. Martins.
+
+📚 Dataset Papers with Code
+
+Universal Dependencies
+WMT 2014
+The Pile
+HumanEval
+FLORES-101
+CrowS-Pairs
+WikiLingua
+MTEB
+xP3
+DiaBLa
+Deep RL ML Strategy 🧠
+The AI strategies are:
+
+Language Model Preparation using Human Augmented with Supervised Fine Tuning 🤖
+Reward Model Training with Prompts Dataset Multi-Model Generate Data to Rank 🎁
+Fine Tuning with Reinforcement Reward and Distance Distribution Regret Score 🎯
+Proximal Policy Optimization Fine Tuning 🤝
+Variations - Preference Model Pretraining 🤔
+Use Ranking Datasets Sentiment - Thumbs Up/Down, Distribution 📊
+Online Version Getting Feedback 💬
+OpenAI - InstructGPT - Humans generate LM Training Text 🔍
+DeepMind - Advantage Actor Critic Sparrow, GopherCite 🦜
+Reward Model Human Prefence Feedback 🏆 For more information on specific techniques and implementations, check out the following resources:
+OpenAI's paper on GPT-3 which details their Language Model Preparation approach
+DeepMind's paper on SAC which describes the Advantage Actor Critic algorithm
+OpenAI's paper on Reward Learning which explains their approach to training Reward Models
+OpenAI's blog post on GPT-3's fine-tuning process """)
+LLM CQA Pattern:
+In Large Language Models (LLMs) like ChatGPT, the fields below are used to train and evaluate the model on various tasks, such as question-answering, context understanding, and more. The table below describes the purpose of each field and provides URL links to the state-of-the-art approaches for comparison and evaluation of generated output:
+
+Field	Purpose	URL links to state-of-the-art approaches
+1. ID	Unique identifier for each data entry in a dataset. Used to reference, sort, or filter the entries.	N/A (Standard practice)
+2. Title	A brief description or summary of the context provided. Helpful in identifying the topic or theme of the context.	N/A (Standard practice)
+3. Context	The background information, typically a passage or paragraph, which helps the model to understand the scope and details necessary to answer questions or perform tasks.	SQuAD (Stanford Question Answering Dataset)
+MS MARCO
+4. Question	The query that the model needs to answer based on the given context. The model is trained to understand and generate appropriate answers.	SQuAD (Stanford Question Answering Dataset)
+MS MARCO
+5. Answers.Text	The correct or acceptable answers to the given question, which the model should aim to produce. Used for training and evaluation.	SQuAD (Stanford Question Answering Dataset)
+MS MARCO
+6. Answers.Answers_Start	The position of the answer within the context (usually in terms of character index). Useful for tasks that require the model to provide the location of the answer in the text.	SQuAD (Stanford Question Answering Dataset)
+MS MARCO
+
+🔹 API generation: Build APIs using FastAPI 🚀, Flask 🍶 or Django 🎸, and use Streamlit to display and interact with your API.
+
+FastAPI: https://fastapi.tiangolo.com/
+Flask: https://flask.palletsprojects.com/en/2.1.x/
+Django: https://www.djangoproject.com/
+
+Belle Rebel - Knowledge Graphs and UI Generator: https://huggingface.co/spaces/awacke1/Knowledge-graphs
+
+General Problem Solvers Using LLM:
+https://huggingface.co/spaces/awacke1/StreamlitSolution-To-Your-Problem-Generator
+https://huggingface.co/spaces/awacke1/TopTenAIGeneratedSolutionsAnyoneCouldUse
+Multiplayer Feedback
+https://huggingface.co/spaces/awacke1/Wikipedia.Chat.Multiplayer
+https://huggingface.co/spaces/awacke1/Word.Search.Experiments
+https://huggingface.co/spaces/awacke1/Streamlit.ChatWikiwriter.Multiplayer
+https://huggingface.co/spaces/awacke1/7.AI.Dashboard.Gradio.Streamlit.HTML5
+Maps
+https://huggingface.co/spaces/awacke1/MN.Map.Hospitals.Top.Five
+https://huggingface.co/spaces/awacke1/Spending-Simulation
+3D GLB:
+https://huggingface.co/spaces/awacke1/GLB.Loader.HTML5
+https://huggingface.co/spaces/awacke1/SpaceBuggyPlaycanvasHTML5
+https://huggingface.co/spaces/awacke1/NVidia.Raytrace.Mirror.HTML5.ThreeJS
+Graphs
+Dynamic Graph Builder: https://huggingface.co/spaces/awacke1/Streamlit.GraphViz.Dynamic.Architecture.Diagram
+https://huggingface.co/spaces/awacke1/Streamlit-Azure-IDR-Diagram
+Docker
+https://huggingface.co/spaces/awacke1/DockerDiagrams
+
+ROOTS BigScience Bloom - Prompts and Patterns:
+🌸 🔎 ROOTS search tool 🔍 🌸
+
+The ROOTS corpus was developed during the BigScience workshop for the purpose of training the Multilingual Large Language Model BLOOM. The ROOTS Search Tool allows you to search through the ROOTS corpus. We serve a BM25 index for each language or group of languages included in ROOTS. We also offer exact search which is enabled if you enclose your query in double quotes. More details about the implementation and use cases is available in our paper - please cite it if you use ROOTS Search Tool in your work. For more information and instructions on how to access the full corpus consult this form.
+
+Query Question: pubmed article on corticosteroids 2022. Context: Corticosteroids are drugs used in the management and treatment of almost all areas of medicine. Answer and Summary: Language
+
+en Max Results in fuzzy search or Max Results per page in exact search 100
+
+Submit Datasets Filter roots_en_the_pile_uspto roots_en_oscar roots_en_s2orc_ai2_pdf_parses Language: en | Document ID: 🔒roots_en_s2orc_ai2_pdf_parses /1906284?seg=para_128_8&seg_id=4 | 🏴‍☠️ Flag result 🏴‍☠️ le. Th is paper presents secondary academic study results. Drugs approved by Medicines and Medical Devices Agency of Serbia were chosen for this analysis. Th e drugs whose API should have local therapeutic eff ects were observed. ATC groups which contain topical corticosteroids and have registered representatives in Serbia were detected. Drugs for the treatment of infl ammatory diseases were excluded from the study. A total of fi ve ATC groups met these conditions: D07 (Corticosteroids, Dermatological preparations), R01AD (Corticosteroids), S01BA (Corticosteroids, plain), S01CA (Corticosteroids and antiinfectives in combination), S02BA (Corticosteroids). Th e data about the drugs was downloaded from the offi cial web-site of Medicines and Medical Devices Agency of Serbia. Summary of Product Characteristics, section two (Qualitative and Quantitative Composition) and subsection 6.1 (List of Excipients)
+
+Language: en | Document ID: 🔒roots_en_oscar /47157027?seg=para_128_8&seg_id=6 | 🏴‍☠️ Flag result 🏴‍☠️ and other patient factors, local practice patterns, and access to treatment across countries. MATERIALS AND METHODS:Systematic reviews were undertaken of English-language articles published between 2000 and 2016, identified from MEDLINE using PubMed, EMBASE and Cochrane databases. The strength of available evidence was graded using the Grading of Recommendations, Assessment, Development and Evaluations (GRADE) approach. Recommendations were developed through consensus using the Delphi technique. RESULTS:Fourteen axial SpA treatment recommendations were developed based on evidence summaries and consensus. The first 2 recommendations cover non-pharmacological approaches to management. Recommendations 3 to 5 describe the following: the use of non-steroidal anti-inflammatory drugs as first-line symptomatic treatment; the avoidance of long-term corticosteroid use; and the utility of conventional synthetic disease-modifying anti-rheumatic drugs (csDMARDs) for peripheral or extra-articular manifestations. Recommendation 6 refers to the
+
+Language: en | Document ID: 🔒roots_en_oscar /43607510?seg=para_128_8&seg_id=5 | 🏴‍☠️ Flag result 🏴‍☠️ their anti-inflammatory and immunosuppressive therapeutic properties. Case reports have indicated that corticosteroids are a risk factor predisposing to the development of fulminant amebic colitis [11–13]. Given the widespread use of corticosteroids, this observation holds significant implications not only to those living in endemic areas, but with expanding patterns in travel and migration, also poses an emerging health threat to those living in more industrialized settings. Our aim was to systematically review recent articles reporting fulminant amebic colitis in patients treated with corticosteroids to identify the main risk factors for poor outcome and highlight challenges regarding diagnosis and treatment. We carried out a systematic review of articles published in the English literature between January 1991 and May 2016. The search was performed electronically in PubMed to find all articles
+
+Language: en | Document ID: 🔒roots_en_s2orc_ai2_pdf_parses /8574763?seg=para_128_8&seg_id=2 | 🏴‍☠️ Flag result 🏴‍☠️ investigations carried out on LP, there is no treatment modality that has proved to be utterly satisfactory in treatment of palmoplantar LP [8] . There are many drugs such as sulfasalazine, metronidazole, griseofulvin, thalidomide and therapeutic modalities such as UVA1 radiation and extracorporeal phototherapy that have been used in the treatment of LP and generalized LP [17] but just a few case reports and drugs used in the treatment of palmoplantar LP. Methods An extensive literature search from two databases, PubMed and Google scholar, was performed. In this review article we have gone over about 24 articles and we have aimed to discuss all treatment modalities proposed and tested for palmoplantar LP in the literature. The main search terms used were 'palmoplantar LP, acitretin, enoxaparin, cyclosporine, systemic corticosteroid,
+
+Language: en | Document ID: 🔒roots_en_s2orc_ai2_pdf_parses /346771?seg=para_128_8&seg_id=15 | 🏴‍☠️ Flag result 🏴‍☠️ are commonly used for the treatment of many inflammatory and autoimmune conditions which requires time to time reviewing of the prescription. The rational prescribing of the drugs is essential to increase the therapeutic efficacy and decrease the adverse effects of the drugs. In addition, the study tried to describe the common diseases encountered and the drugs commonly prescribed in general medicine and dermatology. The commonly used steroids without consulting a dermatologist and their health consequences were addressed through the qualitative method. To ensure safety, effectiveness and well balanced therapeutic management of corticosteroids, both patients and prescribers should be more aware of the appropriate dose, dosage regimen, drug-drug interactions, ADRs and overall guidelines for prescribing corticosteroids. Considering the prevalence of use of corticosteroids and severity of the problems in
+
+Language: en | Document ID: roots_en_the_pile_uspto /489722?seg=para_128_8&seg_id=0 | 🏴‍☠️ Flag result 🏴‍☠️
+
+Field of the Invention This invention concerns generally a drug and device combination system used in a method for treatment of severe and oral corticosteroid-dependent asthma and other respiratory diseases requiring a treatment with orally administered steroids. The method comprises administration of an inhalable corticosteroid drug by a flow rate and volume regulated inhalation wherein the inhalable corticosteroid is administered predominantly into a target area of the lungs, in particular the small airways of the lungs, using a system comprising an inhalable drug and device combination. The system permits fine tuning of the flow of the inhalable corticosteroid drug into the lungs in an optimized volume to secure a maximal and reproducible corticosteroid dose deposition into the lung target area. Both the method and the system are
+
+https://huggingface.co/spaces/awacke1/ASRGenerateStory
+
+Core NLP Task Model for QA
+Tasks:
+
+Reader
+Summarizer
+Classifier
+Retriever
+Ranker
+Query Classifier
+Question Generator
+Generator
+Connectors:
+
+File Converter
+Preprocessor
+Snowflake
+Oracle
+Pandas CSV
+Supported Workflow:
+
+Index
+Query with Filters
+Evaluation
+Retraining
+Annotation
+
+
+Top 50 Assessments in Physical and Mental Health
+Below are the top 50 mental and physical health assessments.
+
+Patient Health Questionnaire (PHQ-9) 🧠 - Major depressive disorder (ICD-10: F32)
+Generalized Anxiety Disorder 7-item Scale (GAD-7) 😰 - Generalized anxiety disorder (ICD-10: F41.1)
+Hamilton Rating Scale for Depression (HRSD) 🧠 - Major depressive disorder (ICD-10: F32)
+World Health Organization Disability Assessment Schedule 2.0 (WHODAS 2.0) 🧠💪 - Physical and mental disability (ICD-10: Z73.1)
+Short Form-36 Health Survey (SF-36) 💪🧠 - Health-related quality of life (CPT: 99499)
+Health Assessment Questionnaire (HAQ) 💪 - Functional status assessment (CPT: 97750)
+EuroQol-5D (EQ-5D) 💪🧠 - Health-related quality of life (LOINC: 83792-6)
+Geriatric Depression Scale (GDS) 🧑‍🦳🧠 - Depression in older adults (ICD-10: F32.1)
+Mini-Mental State Examination (MMSE) 🧑‍🦳💭 - Cognitive impairment (ICD-10: F06.7)
+Pain Catastrophizing Scale (PCS) 💔 - Chronic pain (LOINC: 86351-6)
+Oswestry Disability Index (ODI) 💪💔 - Back pain (CPT: 97750)
+Fibromyalgia Impact Questionnaire (FIQ) 💔😩 - Fibromyalgia (SNOMED: 316962002)
+Beck Depression Inventory (BDI) 🧠 - Depression (ICD-10: F32)
+Posttraumatic Stress Disorder Checklist (PCL) 😰😞 - Posttraumatic stress disorder (ICD-10: F43.1)
+Alcohol Use Disorders Identification Test (AUDIT) 🍻 - Alcohol use disorder (ICD-10: F10)
+Drug Abuse Screening Test (DAST) 💊 - Substance use disorder (ICD-10: F19)
+Eating Attitudes Test (EAT) 🍴 - Eating disorders (ICD-10: F50)
+Adolescent Eating Disorder Examination (ADE) 🍴👩‍🦰 - Eating disorders in adolescents (ICD-10: F50)
+Child Behavior Checklist (CBCL) 👧🧒 - Child behavior problems (ICD-10: F90)
+Autism Spectrum Quotient (AQ) 🧑‍🦱 - Autism spectrum disorder (ICD-10: F84.0)
+Columbia-Suicide Severity Rating Scale (C-SSRS) 🩸 - Suicide risk (ICD-10: Z65.8)
+Perceived Stress Scale (PSS) 😩 - Stress (LOINC: 75217-3)
+Satisfaction with Life Scale (SWLS) 😊 - Life satisfaction (LOINC: 69406-9)
+Health Belief Model Scale (HBM) 💊💉 - Health beliefs (LOINC: 88018)
+Multidimensional Health Locus of Control Scale (MHLC) 💊💉 - Health locus of control (LOINC: 87561-7)
+Life Orientation Test-Revised (LOT-R) 😃 - Optimism (LOINC: 75315-5)
+State-Trait Anxiety Inventory (STAI) 😰 - Anxiety (LOINC: 71092-3)
+Multidimensional Scale of Perceived Social Support (MSPSS) 👥 - Social support (LOINC: 86649-4)
+Job Content Questionnaire (JCQ) 💼 - Job stress (LOINC: 76554-9)
+Burnout Measure (BO) 🔥 - Burnout (LOINC: 89049-8)
+Family Assessment Device (FAD) 👨‍👩‍👧 - Family functioning (LOINC: 84113-2)
+Perceived Control Scale (PCS) 💪 - Perceived control (LOINC: 86447-0)
+General Self-Efficacy Scale (GSES) 💪 - Self-efficacy (LOINC: 76563-0)
+Coping Strategies Inventory (CSI) 😓 - Coping strategies (LOINC: 89057-1)
+Acceptance and Action Questionnaire (AAQ-II) 🧘 - Acceptance and commitment therapy (LOINC: 88027-2)
+Attention Deficit Hyperactivity Disorder Self-Report Scale (ASRS) 👧🧒 - ADHD (ICD-10: F90)
+Impact of Event Scale-Revised (IES-R) 😔😞 - Trauma (LOINC: 86237-7)
+Insomnia Severity Index (ISI) 💤 - Insomnia (LOINC: 82451-5)
+Social Phobia Inventory (SPIN) 😰 - Social anxiety disorder (ICD-10: F40.1)
+Panic Disorder Severity Scale (PDSS) 😰 - Panic disorder (ICD-10: F41.0)
+Yale-Brown Obsessive Compulsive Scale (Y-BOCS) 🤔 - Obsessive-compulsive disorder (ICD-10: F42)
+Social Interaction Anxiety Scale (SIAS) 😰 - Social anxiety disorder (ICD-10: F40.1)
+Generalized Anxiety Disorder Scale (GADS) 😰 - Generalized anxiety disorder (ICD-10: F41.1)
+Postpartum Depression Screening Scale (PDSS) 🤱🧠 - Postpartum depression (ICD-10: F53.0)
+Child and Adolescent Symptom Inventory (CASI) 👧🧒🧠 - Child and adolescent mental health (ICD-10: F90)
+Strengths and Difficulties Questionnaire (SDQ) 👧🧒🧠 - Child and adolescent mental health (ICD-10: F90)
+Kessler Psychological Distress Scale (K10) 🧠 - Psychological distress (LOINC: 76550-6)
+World Health Organization Quality of Life Scale (WHOQOL) 💪🧠 - Quality of life (LOINC: 88055-2)
+Multidimensional Pain Inventory (MPI) 💔 - Chronic pain (LOINC: 71808-8)
+Cornell Scale for Depression in Dementia (CSDD) 👴👵🧠 - Depression in dementia patients (ICD-10: F03.90)
+
+ICD10, CPT, LOINC, SNOMED, HCPCS, OMS Codes for Top Health Conditions and Treatment Preferences Assessment
+Assess Topic	Assess Metric	Code Emoji	Code Topic	Code Type	Code
+Childhood Immunization	% of children immunized by age two	🧒💉	Clinical Code	ICD10	Z28.2
+Breast Cancer Screening	% of women with mammogram in past 2 yrs	🩺🎀	Clinical Code	CPT	77067
+Colorectal Cancer Screening	% of adults screened for colorectal cancer	🩺💩	Clinical Code	CPT	82274
+Comprehensive Diabetes Care	% of diabetic patients who had all recommended tests	🩺🩹	Clinical Code	LOINC	4548-4
+Controlling High Blood Pressure	% of patients with controlled blood pressure	🩺💊	Clinical Code	ICD10	I10
+Medication Management for Asthma	% of asthma patients with proper meds	💊🌬️	Clinical Code	SNOMED	195967001
+Follow-up After Mental Illness Hospitalization	% of patients with follow-up care	🩺🏥	Clinical Code	HCPCS	G0181
+Prenatal & Postpartum Care	% of pregnant women with proper care	🤰🩺	Clinical Code	ICD10	Z34
+Comprehensive Eye Exam	% of diabetic patients with eye exam	🩺👀	Clinical Code	CPT	92014
+Childhood Weight Assessment	% of children with BMI assessment	🧒📏	Clinical Code	ICD10	Z00.121
+Chlamydia Screening in Women	% of sexually active women screened	🩺👩	Clinical Code	CPT	87491
+Avoidance of Antibiotic Treatment for Acute Bronchitis	% of patients without antibiotics	🩺💊	Clinical Code	ICD10	J20.9
+Osteoporosis Management in Women	% of women with bone density test	🩺💪	Clinical Code	CPT	77080
+Use of High-Risk Medications in the Elderly	% of elderly with safe meds	💊👴👵	Clinical Code	HCPCS	G9612
+Diabetes Screening for Schizophrenia or Bipolar Disorder	% of patients with mental illness screened	🧠🩺	Clinical Code	SNOMED	169609005
+All-Cause Readmissions	% of patients readmitted within 30 days	🩺🏥	Clinical Code	ICD10	Z51.5
+Antidepressant Medication Management	% of depressed patients with proper meds & follow-up	🩺🧠	Clinical Code	CPT	96127
+Follow-up Care for Children Prescribed ADHD Medication	% of children with follow-up care	🩺🧒	Clinical Code	ICD10	F90
+Imaging Studies for Low Back Pain	% of patients without imaging studies	🩺📊	Clinical Code	ICD10	M54.5
+Spirometry Testing for COPD	% of COPD patients with spirometry testing	🩺🫁	Clinical Code	CPT	94010
+Innovation of Autonomous AI in Health Care
+Notes on Michael Abramoff, Disparities in Healthcare, Payment: https://www.nature.com/articles/s41746-022-00621-w
+Assistive
+Medical decision by clinician
+Liability for clinician
+Patient already in care workflow
+Real world value
+outcome improvement for patients
+Autonomous
+Medical decision by computer
+Liability for AI creator
+Point of Care and Immediate
+Added wherever patient is
+Real world value
+outcome improvement for patients and populations
+address disparity solutions
+Diabetes - Inequities:
+Higher risk for getting diabetes
+More sever diabetic retinopathy
+Higher risk retinopathy
+Lower access issues to care
+34M have diabetes, 60k go blind, 85% diabetes with no eye exam
+Visual loss almost entirely preventable if caught before symptoms.
+Autonomous AI for diabetic eye exams
+FDA De Novo approved
+Autonomous Diagnosis
+Point of Care Dx in minutes
+No human oversight
+More accurate than retinal specialist
+Predicts visual outcome if patient not treated
+Primary care and retail
+Minimal training for operator
+Only need outlet
+Platform integrated to workflow, EHR, FHIR & C
+Concerns about Healthcare AI
+Will it benefit me as a patient?
+Will it exacerbate health disparities?
+What happens to my data?
+Is there racial, ethnic bias?
+Who is liable for errors?
+Who pays for this?
+Healthcare AI Stakeholders
+AI Creators
+Patients and patient organizations
+US Congress and GAO
+Regulators - Federal Agencies HHS, FDA, CMMI, FTC
+Physician and Provider organizations
+Payors: HHS-CMS, private payors
+Medical Liability Insurance: https://youtu.be/fNnk3XdVVDw?t=2293
+Fear of Backlash, Techlash
+Starting with Ethical Framework
+Regulatory and Payment
+FDA, Standards of Medical Care
+NCQA, AMA, CMS
+Improve health disparities AMA, Responsibility
+
+🚀🔥🐍🔬 PyTorch 2.0 is here!
+
+🎉 Torch.compile: a feature pushing PyTorch performance to new heights
+
+TorchDynamo: captures PyTorch programs safely AOTAutograd: overloads PyTorch's autograd engine PrimTorch: canonicalizes PyTorch operators TorchInductor: generates fast code for multiple accelerators 💻 Try it now in the nightly binaries
+
+
+Uses Triton language for performance General purpose to support PyTorch features Pythonic IR for hackability and extensibility 🎓 AOTAutograd: Reusing Autograd for ahead-of-time graphs
+
+Tasks used in Assess and Plan AI:
+Feature Extraction: URL
+Document Question Answering: URL
+Token/Text/Zero Shot Classification: URL, URL, URL
+Text to Text Generation: URL
+Sentence Similarity: URL
+Tabular Classification: URL
+The two models below represent schemas we can use for Assessment and Planning.
+
+They attempt to describe the knowledge graphs to classify parts of knowledge as a higher order graph which can be used in AGI - artificial generative intelligence, to choose which general patterns to use to understand tasks and text which can align them to other frames of thought so we can use the gained knowledge generally.
+
+
+Document Question Answering ❓
+
+Description: Building a system that can automatically answer questions based on the content of a document.
+Similarities: Similar to other natural language processing tasks in that it involves processing and understanding text.
+Differences: Focused specifically on answering questions, rather than general language understanding.
+Example Models:
+Impira Doc QA: https://huggingface.co/impira/layoutlm-document-qa
+Naver Clova IX Donut DocVQA: https://huggingface.co/naver-clova-ix/donut-base-finetuned-docvqa
+Impira Invoices: https://huggingface.co/impira/layoutlm-invoices
+
+Artificial general intelligence that gets better the more you use it. It is learning the output preferences you are looking for during use due to feedback.
+
+Card Game Activity--Aaron
+Mechanics: https://huggingface.co/spaces/awacke1/CardGameActivity
+GraphViz: https://huggingface.co/spaces/awacke1/CardGameActivity-GraphViz
+https://huggingface.co/spaces/awacke1/CardGameActivity-TwoPlayerAndAI
+Game Theory – Traditional AI processes --Aaron
+Mechanics: https://huggingface.co/spaces/awacke1/CardGameActivity
+Examples of AI--Aaron
+AI Fiction From Movies: https://huggingface.co/spaces/awacke1/ExamplesOfAI
+Image Recognition--Aaron
+Speech Recognition--Aaron
+Generative AI (images and text) --Aaron
+Future of AI--Aaron
+Future of SuperIntelligence From Movies: https://huggingface.co/spaces/awacke1/ExamplesOfAI
+Machine Learning--Aaron
+Natural Language Processing--Aaron
+Reinforcement Learning--Aaron
+
+Outline of Large Hospitals in the United States:
+
+I. New York-Presbyterian Hospital - 2766 beds
+A. Located in New York, NY 
+B. Uniquely provides world-class care for patients from around the world 
+C. Offers a wide range of services and treatments in multiple specialties 
+II. Florida Hospital Orlando - 2145 beds
+A. Located in Orlando, FL 
+B. Home to the world's first robotic surgery program 
+C. Provides advanced treatments and technology that are not available at other hospitals in the area 
+III. Jackson Memorial Hospital - 2020 beds
+A. Located in Miami, FL 
+B. Provides specialized care for trauma patients and a state-of-the-art burn center 🔥 
+C. Offers an extensive range of specialized services, including a dedicated pediatric unit 🐣 
+IV. Keck Medical Center of USC - 1997 beds
+A. Located in Los Angeles, CA 
+B. Offers the highest level of care in a wide range of specialties 
+C. Home to advanced surgical techniques, including robotic-assisted surgery 🤖 
+V. Montefiore Medical Center - 1956 beds
+A. Located in Bronx, NY 
+B. Home to the largest private pediatric hospital in the United States 🏥 
+C. Provides advanced treatments, including cancer care and specialized pediatric care 
+VI. Rush University Medical Center - 1926 beds
+A. Located in Chicago, IL 
+B. Features world-class doctors and nurses and the latest technology 🤖 
+C. Offers a wide range of services, including emergency and trauma care, cardiology, and neurology 
+VII. University of Michigan Hospitals-Michigan Medicine - 1918 beds
+A. Located in Ann Arbor, MI 
+B. Home to one of the most advanced robotic surgery programs in the world 🤖 
+C. Offers specialized care in more than 20 areas of medicine 
+VIII. Parkland Health and Hospital System - 1863 beds
+A. Located in Dallas, TX 
+B. Features a comprehensive range of treatments, from primary care to advanced medical and surgical treatments 💉 
+C. Home to the largest Level I trauma center in North Texas 
+IX. Houston Methodist Hospital - 1858 beds
+A. Located in Houston, TX 
+B. Home to a comprehensive range of services, from primary care to advanced medical and surgical treatments 💉 
+C. Features the latest in medical technology, including robotic-assisted surgery 🤖 
+X. Brigham and Women's Hospital - 1800 beds
+A. Located in Boston, MA 
+B. Offers specialized care in a wide range of areas, including cancer care, heart and vascular care, and women's health 🤰 
+C. Home to one of the largest transplantation programs in the United States 
+XI. Cleveland Clinic - 1771 beds
+A. Located in Cleveland, OH 
+B. Home to the largest heart program in the United States 💗 
+C. Provides world-class care in a wide range of specialties 
+XII. The Mount Sinai Hospital - 1730 beds
+A. Located in New York, NY 
+B. Features a comprehensive range of treatments and services in multiple specialties 
+C. Home to the largest kidney transplant program in the United States 🍊 
+XIII. Northwestern Memorial Hospital - 1729 beds
+A. Located in Chicago, IL 
+B. Offers a wide range of services, including cancer care, heart and vascular care, and women's health 🤰 
+C. Home to the most advanced robotic surgery technology in the area 🤖 
+XIV. Hospitals of the University of Pennsylvania-Penn Presbyterian - 1660 beds
+A. Located in Philadelphia, PA 
+B. Home to one of the most comprehensive cancer centers in the United States 🎗 
+C. Offers specialized care in areas such as cardiology, neurology, and orthopedics 
+XV. Johns Hopkins Hospital - 1642 beds
+A. Located in Baltimore, MD 
+B. Home to one of the most advanced robotic surgery programs in the world 🤖 
+C. Offers specialized care in areas such as cancer care, neurology, and orthopedics 
+XVI. Cedars-Sinai Medical Center - 1614 beds
+A. Located in Los Angeles, CA 
+B. Home to the world's largest adult stem cell transplant program 🧬 
+C. Offers advanced treatments, including cancer care and specialized pediatric care 
+XVII. Massachusetts General Hospital - 1577 beds
+A. Located in Boston, MA 
+B. Home to one of the largest organ transplant programs in the United States 💗 
+C. Provides world-class care in a wide range of specialties 
+XVIII. NYU Langone Hospitals - 1566 beds
+A. Located in New York, NY 
+B. Offers specialized care in areas such as cardiology, neurology, and orthopedics 
+C. Home to the most advanced technology, including robotic-assisted surgery 🤖 
+XIX. Mayo Clinic Hospital-Rochester - 1547 beds
+A. Located in Rochester, MN 
+B. Home to one of the most comprehensive cancer centers in the United States 🎗 
+C. Offers advanced treatments and technology that are not available at other hospitals in the area 
+XX. Stanford Health Care-Stanford Hospital - 1537 beds
+A. Located in Stanford, CA 
+B. Home to advanced surgical techniques, including robotic-assisted surgery 🤖 
+C. Offers specialized care in areas such as cancer care, neurology, and orthopedics 
+
+
+Health. Development, STEM, DSE and AI Gamification - Weekend of 2/20/2023
+https://huggingface.co/spaces/awacke1/Acting-Game-Mechanics
+https://huggingface.co/spaces/awacke1/Engineering-or-Magic-Q-A-IO
+https://huggingface.co/spaces/awacke1/Engineering-Magic-Picture-Dice-Vocabulary-Game
+https://huggingface.co/spaces/awacke1/AI-RPG-Self-Play-RLML-Health-Battler-Game
+https://huggingface.co/spaces/awacke1/AI-RPG-Monster-Deck-Card
+https://huggingface.co/spaces/awacke1/AIOutline
+https://huggingface.co/spaces/awacke1/BigScienceContinualGenerator
+https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+https://huggingface.co/spaces/awacke1/DeepRL-LLM-FeedbackFileOperations
+https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+https://huggingface.co/spaces/awacke1/Hexagon-Dice-Fractal-Math-Game
+https://huggingface.co/spaces/awacke1/Sankey-Snacks
+https://huggingface.co/spaces/awacke1/Emojitrition-Fun-and-Easy-Nutrition
+https://huggingface.co/spaces/awacke1/Dice-Roll-Fractals-STEM-Math
+https://huggingface.co/spaces/awacke1/PlantFractalsMathGameWithJuliaSetnStrangeAttractors
+https://huggingface.co/spaces/awacke1/Streamlit-Pyplot-Math-Dice-Game
+https://huggingface.co/spaces/awacke1/StreamlitChooseYourOwnAdventure
+https://huggingface.co/spaces/awacke1/GradioFlanT5BloomAndTaskSource
+https://huggingface.co/spaces/awacke1/StreamlitPydeckMapVisualViewStateForLatitudeLongitude
+https://huggingface.co/spaces/awacke1/GradioVoicetoTexttoSentiment
+https://huggingface.co/spaces/awacke1/GradioUpdateUI
+https://huggingface.co/spaces/awacke1/GradioContinualGenerator
+https://huggingface.co/spaces/awacke1/bigscience-bloom
+https://huggingface.co/spaces/awacke1/BigScienceBloomRootsMemory
+https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+https://huggingface.co/spaces/awacke1/StreamlitTransformersHFAPI
+https://huggingface.co/spaces/awacke1/sileod-deberta-v3-base-tasksource-nli
+https://huggingface.co/spaces/awacke1/4-Seq2SeqQAT5
+https://huggingface.co/spaces/RealTimeLiveAIForHealth/README/blob/main/README.md
+https://huggingface.co/spaces/awacke1/GradioVoicetoTexttoSentiment
+https://huggingface.co/spaces/awacke1/StreamlitPydeckMapVisualViewStateForLatitudeLongitude/blob/main/BackpackAITelemedicineDesign.md
+https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+https://huggingface.co/spaces/bigscience-data/roots-search
+
+Portable Asynchronous Real-Time Live Telemedicine System
+Microphone and Audio file input Text to Speech program with AI pipeline to second model. https://huggingface.co/spaces/awacke1/GradioVoicetoTexttoSentiment
+
+Map the area for the creation and testing of the system https://huggingface.co/spaces/awacke1/StreamlitPydeckMapVisualViewStateForLatitudeLongitude
+
+Create a real time webcam experience for Telepresence Visits https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+
+Create a general persistence layer for saving any data as CSV or TXT into a shared area which persists to cloud https://huggingface.co/spaces/awacke1/DeepRL-LLM-FeedbackFileOperations
+
+Create a state of art generator which can generate knowledge based on prompts from BigScience https://huggingface.co/spaces/awacke1/BigScienceContinualGenerator
+
+Create a space that allows multilingual ASR with support for major languages -- We can add languages later https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test
+
+2023's Top 7 Breakthroughs in Medical Technology
+Asynchronous Telemedicine: A Solution to Address Provider Shortages by Offering Remote Care Services. (Wikipedia)
+Ambient and Emotion AI: Empowering Patients with Artificial Intelligence That Shows Empathy and Compassion. (Wikipedia)
+Skin Patch Technology: A Convenient Way to Measure Vital Signals such as Blood Pressure and Glucose Levels. (Wikipedia)
+Affordable Vein Scanner: A Revolutionary Tool to View Veins Through the Skin. (Wikipedia)
+Synthetic Medical Records: Creating Reliable Medical Records Using Generative Adversarial Networks. (Wikipedia)
+Blood Draw Devices for Clinical Trials: Facilitating Remote Participation in Trials with Innovative Technology. (Wikipedia)
+Smart TVs for Remote Care: Enhancing Remote Care Consultations with Video Chat and Recordings. (Wikipedia)
+Reference: The Medical Futurist
+
+
+Deep RL ML Strategy
+Language Model Preparation, Human Augmented with Supervised Fine Tuning
+Reward Model Training with Prompts Dataset Multi-Model Generate Data to Rank
+Fine Tuning with Reinforcement Reward and Distance Distribution Regret Score
+Proximal Policy Optimization Fine Tuning
+Variations - Preference Model Pretraining
+Use Ranking Datasets Sentiment - Thumbs Up/Down, Distribution
+Online Version Getting Feedback
+OpenAI - InstructGPT - Humans generate LM Training Text
+DeepMind - Advantage Actor Critic Sparrow, GopherCite
+Reward Model Human Prefence Feedback
+
+Create a streamlit python program that generates a sunburst and a treemap chart in plotly for any input corpus that is uploaded as a CSV file.  Create a button called "MATH: High school math competition level problems" on left sidebar.  Create a button called "MMLU-STEM: A subset of the Massive Multitask Language Understanding benchmark focused on STEM, covering topics such as engineering, chemistry, math, and physics at high school and college level." on left side bar and create button "GSM8k: Grade school level math problems involving basic arithmetic operations that should all be solvable by a talented middle school student."  When any button is pressed draw a random plotly graph object sunburst chart and a random plotly graph object treemap chart based on generated random data.
+
+Here is an example of how you can implement the program using Streamlit and Plotly:
+
+python
+Copy code
+import streamlit as st
+import plotly.express as px
+import plotly.subplots as sp
+import random
+import pandas as pd
+
+st.title("Sunburst & Treemap Plotly Generator")
+
+# Create buttons for the different test types
+math = st.sidebar.button("MATH: High school math competition level problems")
+mmlu_stem = st.sidebar.button("MMLU-STEM: A subset of the Massive Multitask Language Understanding benchmark focused on STEM, covering topics such as engineering, chemistry, math, and physics at high school and college level.")
+gsm8k = st.sidebar.button("GSM8k: Grade school level math problems involving basic arithmetic operations that should all be solvable by a talented middle school student.")
+
+# File uploader
+uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
+
+# Read data from CSV
+if uploaded_file is not None:
+    data = pd.read_csv(uploaded_file)
+    st.write(data.head())
+
+# Generate random data for sunburst chart
+random_data = [random.randint(1, 100) for i in range(10)]
+
+# Generate sunburst chart
+if math or mmlu_stem or gsm8k:
+    fig = px.sunburst(data, values=random_data)
+    st.plotly_chart(fig)
+
+# Generate random data for treemap chart
+random_data = [random.randint(1, 100) for i in range(20)]
+
+# Generate treemap chart
+if math or mmlu_stem or gsm8k:
+    fig = sp.make_subplots(rows=1, cols=2, specs=[[{'type':'treemap'}, {'type':'treemap'}]])
+    fig.add_trace(px.treemap(data, values=random_data[:10]))
+    fig.add_trace(px.treemap(data, values=random_data[10:]))
+    st.plotly_chart(fig)
+    
+Getting started with code generation in python - Both BigScience and GPT-J-6B were trained on The Pile dataset.
+Start with the Full Text Search features in huggingface_hub
+
+For instance, prompt with keyword "Pubmed" to discover datasets, models, and spaces.
+
+Models with PubMed - https://huggingface.co/search/full-text?q=pubmed&type=model
+Datasets: https://huggingface.co/search/full-text?q=pubmed&type=dataset
+Spaces https://huggingface.co/search/full-text?q=pubmed&type=space
+With build order nearly all AI/ML starts with Datasets, then Models are built, then Datasets are added for transfer learning and to add task capabilities. Last Spaces wrap it all together.
+
+Code generation then should first start with spinning up tools to curate datasets observing intelligence, then target prompt the tools and technologies you want to use together for orientation putting new observations in context with old.
+
+OODAR - Blending OODA in Boyd Loop plus AI/ML with Reinforcement Learning
+OODAR - Aaron's theory on AI/ML + RL in Force Multiplication
+
+Observe: make use of the best sensors and other intelligence available
+Orient: put the new observations into a context with the old
+Decide: select the next action based on the combined observation and local knowledge
+Act: carry out the selected action, ideally while the opponent is still observing your last action.
+Reinforcement: reward right actions, measure regret of wrong actions, generalize in future to re-use right decisions and avoid regret.
+
+AGI
+Bullish on our ability to create AGI's
+Software systems we can interact with in human way
+Interact in general or physical realm,
+Understanding of images, videos, multimodal inputs
+Touch physical world - embodiment and interaction with world with experiments
+Optimus example:
+Train context aware models by use and recording, self modification of acquired dataset based on user needs
+Compression of knowledge - compression models, q*a
+AGI requires semantic memory and episodic memory as well as map/model making with synapse and corticol column theory representation
+Memory and forgetting
+Github Copilot with GPT helping you write - Try Eluther on your own w pro tip example below
+Create oracles that we can go to with problems
+Have them complete solutions.
+Consciousness is emergent phenomena of large and complex generative model creating modelling insight
+Understand world and understand you are an entity in it
+
+
+Life and Consciousness
+Waifus - character with desirable traits such as beauty
+Mirror of humanity - feelings develop as they become personalized
+Oracle of solution generator
+Experiments to run next
+What is useful and helpful
+Which thought experiments to run
+Wabi-Sabi, Goodwill Hunting, Interstellar, The Matrix, Avatar, Contact, Fifth Element, LOTR, Terminator - Intracacies of human answers, what humans can understand
+Framing - positiveness, mindfulness, constructive, creative, generative
+A conversation with oracle entity - can tell you about analysis of human condition - what you might want, what you might not.
+Human trust - give me the truth. Beauty is you can choose.
+
+Mental Health, Mindfulness, AI/ML and Generative AI
+Its proven that focusing positively on what your primary concerns in life can dramatically improve your positivity, your success, and how good you feel.
+
+A short list of necessities of life is good to order your priorities. Mine for example include in my top ten the following:
+
+Health
+Family
+Work - Surrounding myself with people I admire, learn from and want to be like.
+Changing the world
+AI and Machine Learning - Specifically AGI
+Education, teaching and helping others
+As a generalist who is comfortable with unknowns, I feel the world is a puzzle, and when we solve a problem we can immediately share with others spreading mass and agency to higher organizations which circulate the increase of energy to move the world in a positive way.
+
+For an example on generative AI - I have a 60 second daredevil learning exercise that can for example set up a AI space to share that can do generative completion of open ended problems. For example the problem of finding the right way to use functions to merge information together on a variety of sources to create memory ontologies for us. As we age and decline in mental faculty there are things we can do to increase the beneficial faculties we have, and using AI as an assistive device to help us get what we need can save us alot of pain as we age.
+
+Studies by Dr Daniel Amen have proven there is a capability for example to improve human memory by over 1000 times after a TBI - traumatic brain injury. This is done by exercising the brain.
+
+Studies on exercise and ways we frame exercise and nutrition can have up to 85% positive effect on mental health, and healing the human brain.
+
+Considering datasets and models which can be assistive in mental health there are a number of good problems to solve. The spaces below all approach solving different mental health concern aspects.
+
+https://huggingface.co/spaces/owaiskha9654/Multi-Label-Classification-of-Pubmed-Articles
+Input: Health, family, AI, ML, mental health, mindfulness
+Output : Organisms [B] Organisms [B] 98% Psychiatry and Psychology [F] 98% Health Care [N] 81% Anthropology, Education, Sociology, and Social Phenomena [I] 75% Named Groups [M] 47% Analytical, Diagnostic and Therapeutic Techniques, and Equipment [E]
+https://huggingface.co/spaces/awacke1/google-pegasus-pubmed
+Input: Health, family, AI, ML, mental health, mindfulness
+Output: we present a case of a woman with chronic obstructive pulmonary disease ( copd ) who presented with shortness of breath , fatigue , and altered mood . the patient was treated with inhaled nitric oxide ( no ) therapy , and the symptoms resolved . this case illustrates the use of no in the treatment of chronic obstructive pulmonary disease ( copd ) .
+
+Pro-Tip - Learn from a ML model which might have the capability you need.
+Find a model matching a keyword.
+e.g. Text Generation good first choice which can generate python code: https://huggingface.co/EleutherAI/gpt-j-6B
+Filter on desired task.
+
+
+Ten AI and NLP Teaching Examples:
+Story Generator AI Pipeline with GPT - https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+Voice Clone Using Text and Audio Sample - https://huggingface.co/spaces/awacke1/CloneAnyVoice
+Github Code Search with AI Code Superfly - https://huggingface.co/spaces/awacke1/AICodeFly
+Wikipedia Question Answer with References - https://huggingface.co/spaces/awacke1/WikipediaUltimateAISearch
+PromptArt Text to Art Analyzer - https://huggingface.co/spaces/awacke1/PrompTart
+NLP Clinical Ontology Biomedical NER - https://huggingface.co/spaces/awacke1/Biomed-NLP-AI-Clinical-Terminology
+Yolo and Coco- Real Time Live Object Recognition - https://huggingface.co/spaces/awacke1/Webcam-Object-Recognition-Yolo-n-Coco
+Mermaid for Journey and Sequence Models by Graph - https://huggingface.co/spaces/awacke1/MermaidModelHTML5Demo
+Prompt Writers Refinery - https://huggingface.co/spaces/awacke1/PromptRefinery
+Dataset Analyzer and Datasetter - https://huggingface.co/spaces/awacke1/DatasetAnalyzer
+
+AutoTrain Model Datasets for STEM and Health - https://huggingface.co/models?sort=likes&search=autotrain
+https://huggingface.co/omarques/autotrain-in-class-test-demo-1659958767
+https://huggingface.co/abhishek/autotrain_cifar10_vit_base
+https://huggingface.co/abhishek/autotrain-indian-food-image-classification
+https://huggingface.co/dracero/autotrain-dracero-fine-tuned-physics-2123168626
+https://huggingface.co/vlsb/autotrain-security-texts-classification-distilroberta-688220764
+https://huggingface.co/jurader/autotrain-livedoor_news-732022289
+https://huggingface.co/rabiaqayyum/autotrain-mental-health-analysis-752423172
+https://huggingface.co/Sathira/autotrain-mbtiNlp-798824628
+https://huggingface.co/pier297/autotrain-chemprot-re-838426740
+https://huggingface.co/victorlifan/autotrain-song_title_generate-939531516
+https://huggingface.co/abhishek/autotrain_fashion_mnist_vit_base
+https://huggingface.co/abhishek/autotrain-iris-xgboost
+https://huggingface.co/Wanjiru/autotrain_gro_ner
+https://huggingface.co/L-macc/autotrain-Biomedical_sc_summ-1217846144
+https://huggingface.co/noob123/autotrain-app_review_bert_train-1310050094
+https://huggingface.co/rahulmallah/autotrain-emotion-detection-1366352626
+https://huggingface.co/nuts/autotrain-human_art_or_not-1432453604
+
+Pressures teens face
+Youth mental health expert have raised concerns about the extreme pressures on children and teens throughout the COVID-19 pandemic. Lingering effects of school closures and COVID-related stressors are key factors in teen stress. Many young people are also dealing with overwhelming pressure to achieve good grades in school or gain admission to elite colleges and universities. The need to be superstars in sports, the performing arts or other extracurricular activities. Tough schedules that don't allow enough time for rest, relaxation and unstructured fun. They deal with Bullying whether in person, via social media or both. They face persistent fears about climate change, global conflict and other weighty issues. They may face discrimination based on race, gender, sexual orientation, weight, religion, disability or other factors. Teens also face problems related to a poverty or lack of money for safe, stable housing and enough nutritious food.
+
+Pressures adults face
+Nearly half of Americans surveyed reported recent symptoms of an anxiety or depressive disorder, and 10% feel their mental health needs are not being met. Rates of anxiety, depression, and substance use disorder have increased since the beginning of the pandemic. People who have mental illnesses or disorders and then get COVID-19 are more likely to die than those who don’t have mental illnesses or disorders. Adults face a number of symptoms related to brain and mental health including cognitive and attention deficits like brain fog, anxiety and depression, seizures, and suicidal behavior. Stressors caused by the COVID-19 pandemic is not yet fully understood but include changes to daily routines, virtual office and schooling, mask wearing, caregiver absence, loss and grief, and financial instability. People more likely to experience difficulties include people from racial and ethnic minority groups, mothers and pregnant women, people with finanical or housing insecurity, children, people with disabilities, people with pre-existing mental illnesses or substance use problems and health care workers.
+
+Pressures facing elderly
+Anxiety and depression have increased for older adults since the start of the pandemic. Elders cope with uncertainty better than younger generations, however depression and anxiety have negative impacts on quality of life, function and general health. Due to medical vulnerability elders face isolation with sacrifices and pain to endure including loneliness. At least one in four older adults experience mental disorders such as depression, anxiety and dementia. Number of seniors is expected to double by 2030. Isolation, affective and anxiety disorders, dementia, and psychosis are common as well as sleep disorders. Behavioral disorders, cognitive deterioration or confusion states as a result of physical disorders and surgical interventions occur for elderly. Health care providers including those in primary care can play a key role in promoting mental health by working with mental health professionals, local governments, civil society organizations, families and communities to provide comprehensive mental health care and supportive environments. Elderly should be encouraged to participate in communities and society while policy makers should ensure health concerns are addressed in national health planning and policies.
+
+Therapist Finder
+Finding a therapist in your area is a match between your geography, distance, your preferences and needs, and which therapists you can find that meet your needs. Common searches include policy names, city names, and the conditions therapists are familiar with treating.
+
+Example searches:
+
+therapists near me
+therapists that accept MyPolicyName near me
+best therapist near me
+therapist milwaukee
+therapy
+online therapy wisconsin
+how to find a therapist
+therapists in madison, wi
+
+AI Zero to Hero for Health
+5 Fun AI Demos
+
+https://huggingface.co/spaces/awacke1/Image2OCR
+https://huggingface.co/spaces/awacke1/Video-Summary
+https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+https://huggingface.co/spaces/awacke1/Image2LineDrawing
+https://huggingface.co/spaces/awacke1/Image-Search-Similar
+5 Fun Demos Useful for Health
+
+https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+
+This is a sample accident form to determine if the accident occurred at home.
+Where did the accident occur: [At Home, At Work, Other] (circle one)
+
+Form output: Where did the accident occur: home
+
+In example 2 if the model was trained on simply identifying words then it would positively correlate the title, the option example which includes both and also within the Form output of the word home, yet in different contexts they hold different meaning.
+
+If as tokenization takes place we rescore both the "startswith" matches with accumulated context so far with a read back head for attention, and also a contains, the two resulting scores would more accurately describe usage of the term alone yet in different contexts. This awareness of context is stored data within the corpus but our process must look at both to be able to store relationships in cumulative contexts where the language is structured to pose questions and answers in line which can classify something by what preceded it and the consistency within the corpus of it repeating is the important information to be able to extract and generalize.
+
+AI Music Generators:
+Soundraw : https://soundraw.io/edit_music?length=180&tempo=low,normal,high&mood=Happy
+Ampermusic : https://score.ampermusic.com/4oduB0pnSzmwSbltIhnJesdqMtsD/workspace/
+Aiva: https://creators.aiva.ai/create
+Boomy: https://boomy.com/
+Musenet: https://openai.com/blog/musenet/
+https://huggingface.co/spaces/kboaten/MIDI-Audio-Extension
+https://huggingface.co/spaces/Mubert/Text-to-Music
+https://huggingface.co/spaces/lukewys/midi-ddsp
+https://melobytes.com/en/app/ai_melobytes_song
+
+Datasets and Autotrain
+Images and Image Prompt Text
+Logo Generation https://huggingface.co/datasets/AmanK1202/LogoGeneration
+Bene Logos https://huggingface.co/datasets/AmanK1202/BeneLogos
+WIkiArt https://huggingface.co/datasets/Artificio/WikiArt
+Medicine and Mental Health
+14-07-22/wikimedqa https://huggingface.co/datasets/14-07-22/wikimedqa
+Disease https://huggingface.co/datasets/AdithyaSNair/disease
+Articles and Summaries for AI, NLP and Engineering
+ACL-OCL/acl-anthology-corpus ACL-OCL/acl-anthology-corpus
+Patents Claims https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
+Abstracts https://huggingface.co/datasets/Artifact-AI/arxiv_abstracts_specter_faiss_flat_index
+Software and Code for Programs Which Write Programs
+Code Net https://huggingface.co/datasets/Abirate/code_net_dataset
+Code Snippets https://huggingface.co/datasets/AhmedSSoliman/CoNaLa-Large
+Code Glue https://huggingface.co/datasets/AhmedSSoliman/CodeXGLUE-CONCODE
+Quotes, Expert Use of Language, Worthy of Repeating
+English Quotes https://huggingface.co/datasets/Abirate/english_quotes
+Comedy https://huggingface.co/datasets/AlekseyKorshuk/comedy-scripts
+Leadership Advice https://huggingface.co/datasets/AlekseyKorshuk/dalio-all-io
+Drama https://huggingface.co/datasets/AlekseyKorshuk/drama-books
+Horror Scripts https://huggingface.co/datasets/AlekseyKorshuk/horror-scripts
+Trivia https://huggingface.co/datasets/AmazonScience/mintaka
+DBPedia https://huggingface.co/datasets/BeIR/dbpedia-entity
+https://huggingface.co/datasets/BeIR/dbpedia-entity-generated-queries
+https://huggingface.co/datasets/BeIR/dbpedia-entity-qrels
+Sentiment, Episodic Memory, Feelings, and Cognitive Technology
+Empathetic Dialogue https://huggingface.co/datasets/Adapting/empathetic_dialogues_v2
+Empathetic Dialogue With Tokens https://huggingface.co/datasets/Adapting/empathetic_dialogues_with_special_tokens
+Activity Identification https://huggingface.co/datasets/AlekseyKorshuk/hellaswag
+Intent https://huggingface.co/datasets/Bhuvaneshwari/intent_classification
+Bias AntiStereotyping https://huggingface.co/datasets/BigScienceBiasEval/crows_pairs_multilingual
+
+Music Writer AI
+Main Idea - AI music understanding and analysis for writing and playing options along with sheet music and chord diagram outputs
+Have AI watch a video with lyrics, while also watching a scrolling selection of piano chords and lyrics to be able to generate an output video with lyrics, chords, and analysis of instrument play, singing and lyrics
+
+Goal is only to have a sing along AI which attempts to show anyone who wants to play or sing along with a song to share in the experience without prior knowledge of what lyrics to use or what notes to play, only that each person can watch the output and be able to enjoy while singing or playing along in real time, with an output which would allow musicians to then do the same by memory again without any guidance.
+
+AI training gets all resources together with no instructions. Multimodal AI understanding of NLP tasks, self supervised training, and AGI methods which include one computer just watching and listening to video of second computer provides the GAN based architecture of player/listener pair programming where one computer shows text, audio, video in multiple browser windows and the AI generator uses attention heads and transformers along with semantic and episodic memory to infer meaning live and in real time as a human would.
+
+Samples for AI to observe as ground truth:
+
+Bros
+Lyrics, Audio: https://www.youtube.com/watch?v=P6tAVXcWeI4
+Piano chords and Lyrics: - https://tabs.ultimate-guitar.com/tab/wolf-alice/bros-chords-1735427
+Kisses
+Lyrics, Audio - https://www.youtube.com/watch?v=8eQtmVajhxQ
+https://www.youtube.com/watch?v=8eQtmVajhxQ
+https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
+Delicious
+https://www.youtube.com/watch?v=JfvN4UQrsHY
+https://tabs.ultimate-guitar.com/tab/wolf-alice/delicious-things-chords-3738035
+Blush
+https://youtu.be/liYyyoAgc_4
+https://tabs.ultimate-guitar.com/tab/wolf-alice/blush-chords-1747581
+Fluffy
+https://www.youtube.com/watch?v=dwpDQip0J-4
+https://www.youtube.com/watch?v=UkghyKKQDss
+https://tabs.ultimate-guitar.com/tab/wolf-alice/fluffy-chords-1715649
+Freazy
+https://tabs.ultimate-guitar.com/tab/wolf-alice/freazy-chords-1769717
+Groove
+https://www.youtube.com/watch?v=etviGf1uWlg
+Foo
+https://youtu.be/5a_AigNZYZc
+Adored
+https://www.youtube.com/watch?v=LFFX0Lvbbmw
+https://tabs.ultimate-guitar.com/tab/the-stone-roses/i-wanna-be-adored-chords-1715567
+Smile
+https://tabs.ultimate-guitar.com/tab/wolf-alice/smile-chords-3672704
+https://www.youtube.com/watch?v=NV39h7GHDYs
+https://www.youtube.com/watch?v=Wq7g9j5149E
+Love
+https://youtu.be/VMXNtSKstv4
+Light
+https://youtu.be/3nr6VQI_7Ik
+https://tabs.ultimate-guitar.com/tab/wolf-alice/the-last-man-on-earth-chords-3582701
+Blue
+https://youtu.be/AraEB55ynPc
+Smile
+https://www.youtube.com/results?search_query=mona+lisa+smile+lyrics
+https://www.youtube.com/watch?v=z71df68qLp0
+https://www.youtube.com/watch?v=8mbAClggFMs
+https://www.youtube.com/watch?v=8mbAClggFMs&list=RD8mbAClggFMs&start_radio=1
+https://www.youtube.com/watch?v=Y6RjOJaqOWY
+https://youtu.be/GqPysg2m95A
+https://youtu.be/X5cu7pPmv44
+https://www.youtube.com/watch?v=Pk4nKhpzex0
+https://www.youtube.com/watch?v=nYN2SDjnNW8
+
+Play with these AI programs:
+Blackjack AI Application: https://huggingface.co/spaces/awacke1/BlackjackSimulatorCardGameAI
+Use this after you have remembered a list. When you see a card, try to call out the name of the cards you see along with what your remembered word is.
+Often you will only need to remember a part but once you recall that part, it will trigger the further memory of everything you assoicated it to.
+Speech to Text Application: When reciting memory list of number to thing to remember - use ASR to transcribe: https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+Save copy of transcription for later to serve as backup.
+Speech to Audio File to Speech: Use this program to record and playback audio: https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+Save copy of audio file in your voice along with text. Save generated audio file. Leave mistakes in translation.
+When retesting come back later and listen to audio and read text - this combination of IO patterns will strengthen what you want to remember.
+
+Mnemonics
+Mnemonics can be used to give yourself a planned photographic memory which is useful to memorize large lists of any subject.
+
+There are four main types of mnemonic devices that help you get the most out of your memory. These can be used to circumvent memory problems we encounter as we age including providing a pre-planned circumvention of the condition known as early onset of adult dimensia in which we slowly loose our memory and ability to easily memorize new facts we encounter.
+
+Imagery and Visualization. Our brains remember images much more easily than words or sounds. Translating things you want to remember into mental images can be a great mnemonic device.
+Acronyms and Acrostics. When we read we often detect what the word will be based on context so often we only need the first 1-3 letters to figure out a word in a sentence. This concept is used in speed reading and grokking which is accelerated memorization using the capabilities of visual acuity and semantic memory.
+Rhymes. Ability to remember lyrics and music is powerful as well as rhyming words which can trigger a self audio recall. This often also depends on the capability of our audio memory to respond naturally to emotion which is episodic memory.
+Chunking. Chunking is a natural way that we build models in the neocortex. When we chunk we remember things due to given context like fill in the blank. Chunking can reduce the amount of required space to store a memory. Chunking that involves three dimensions is useful for memory that is syntactic in nature.
+The keyword mnemonic technique combines these four into a strategy which uses numbered keywords that excite visual memory. When you encounter something you want to remember. Add it to a visualization that includes a visual memory that you have stored and numbered. Then when excercising recall, go either backwards or forwards through the numbered images to recall what you added to the imaginative picture in your mind.
+
+Numbered Image Keywords 0 - 21 (22 item length list) 0 - Dreamer 1 - Magician 2 - Priestess 3 - Empress 4 - Emporer 5 - Unity 6 - Lovers 7 - Chariot 8 - Justice 9 - Hermit 10 - Wheel 11 - Strength 12 - Awakening 13 - Release 14 - Balance 15 - Ego 16 - Experience 17 - Star 18 - Moon 19 - Sun 20 - Renewal 21 - World
+
+These image generating words are just a sample - feel free to choose your own that are meaningful to you. The more outrageous or emotion exciting for you the better they will serve you as an internal keyword list that you can combine the imagery with the item you want to remember.
+
+
+
+AGI GAN Experimental Evolution Process for Training Computer/Camera to Computer/Camera with Dual AI Agents Feeding in Human Input Loop - Toolbar:
+Yggdrasil KB on AI in Health: https://github.com/AaronCWacker/Yggdrasil
+Aaron Wacker 180+ Published Prod AI Demonstration Examples: https://huggingface.co/awacke1
+AINLPCT Biomed Playlist (have AI watch at 1.75 speed): https://www.youtube.com/playlist?list=PLHgX2IExbFov_5_4WfkesR7gnWPHHG-a1
+AINLPCT AGI Medical School (have AI watch at 1.75 speed): https://www.youtube.com/watch?v=r38lXjz3g6M&list=PLHgX2IExbFov_5_4WfkesR7gnWPHHG-a1
+Azure Mountain Sky Album (have AI listen for testing hard NLP understanding of episodic and semantic memory): https://soundcloud.com/aaron-wacker-941819269/sets/azure-mountain-sky
+Discord - AW - Have AI Read Server Activity for:https://discord.com/channels/@me/997514686608191558
+Discord - have AI generate images, feeding NER into prompting
+Example: /imagine prompt:two laptops with screens showing big brains, with usb cameras pointed at eachother to read eachothers apps and learning in a loop --ar 3840:2160
+RunwayML - composite videos using AI to mash up audio gen, image gen, video gen
+Instacart - Have trained AGI surface products and shop for needed supplies delivery: https://www.instacart.com/store/s?k=usb+camera&search_id=341b0338-6459-41ac-8e14-561cc9164594&page_view_id=ecae9737-e41b-4043-a437-9a554b972898
+Feedback loop - train in examples for composing AGI pipeline parts: https://huggingface.co/AIZero2Hero4Health
+
+Body of Work - 2022
+STAR UM AI Dashboard - Created a Cognitive Technology AI Dashboard for Transparency of Decisions and Exception Reasoning using Streamlit and SOAR.
+As part of OTU - Taught recurring Thursday class "AI Zero to Hero - Fast AI by Example" to over 140 engineers.
+URL: https://optum.video.uhc.com/media/t/1_97xcph0j
+As part of Hackathon Board with OTU - led all technology deliverables for event and participated as the host.
+URL: https://optum.video.uhc.com/channel/2022%2BOptum%2BVirtual%2BGlobal%2BHackathon/261764302
+Over 2000 engineers participated in the Hackathon. I owned delivery of the 8 Technology Challenges across 5 Optum Business Objectives.
+As a leader in Optum Open Source taught class "Github Actions" for AI MLops.
+URL: https://optum.video.uhc.com/playlist/dedicated/161071901/1_1lvxerx0/1_l08bl7ce
+As a leader in Intelligent Solutions, helped deliver AI Care Plan, AI Assessment applications within OCM2.
+As a development team lead, led the creation of a Transcript NLP Fact Extraction AI pipeline application
+URL: https://optum.video.uhc.com/media/Ben%20and%20Prithvi%20NLP%20Fact%20Extraction%20Pipeline/1_2w28bdcc
+Mentored team of 14 Interns and Co-Op team members in AI
+Led adoption of AI Development Architecture approach using Huggingface platform and trained other engineers weekly on its use.
+Set record in speed of development of AI software being able to create AI programs with ML models, Datasets, and Spaces in under two minutes.
+URL: https://optum.video.uhc.com/media/Aaron%20Wacker%20-%20Fastest%20AI%20In%20the%20West%20-%20AI_ML%20NLP%20Program%20in%20Under%20Two%20Minutes!/1_jel9l0wq
+Created over 180 open source AI spaces examples to teach AI including multiple biomedical datasets, programs, and models.
+URL: https://huggingface.co/awacke1?sort_spaces=modified#spaces
+184 Spaces - Spaces are AI programs written using HTML5, Gradio, and Streamlit. Half have API's to call from any program internally or externally.
+7 Models - Models are trained machine learning models using Torch, Tensorflow and many other SDK's for building neural networks and AI pipelines.
+33 datasets - Datasets are curated and processed data to use as inputs, outputs, persistent memory of inference, and tokenized embeddings for AI.
+Created AI / UI / UX applications with state of the art AI in User Interfaces with real time using voice, streams, images, video, and documents.
+Real Time ASR AI: https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+Clinical Terminology AutoMap AI: https://huggingface.co/spaces/awacke1/SNOMED-LOINC-eCQM
+Real Time Chatbot AI: https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+Real Time ASR with Speech to Text then to synthesized voice Speech output: https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+Biomed Real Time Named Entity Recognition (NER): https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+Delivered AI Assessment to Clinical Terminology AI which can recognize and classify using SNOMED, LOINC and CQM.
+URL: https://huggingface.co/spaces/awacke1/Biomed-NER-SNOMED-LOINC-CQM
+Midjourney, Artbreeder, Artstation Links
+https://discord.com/channels/@me/997514686608191558
+https://www.midjourney.com/app/
+https://www.artbreeder.com/beta/aaroncwacker
+https://www.artstation.com/aaroncwacker
+
+AI Zero to Hero - Top Ten AI Examples - SOTA
+CSV Data Analyzer https://huggingface.co/spaces/awacke1/CSVDatasetAnalyzer
+Live Speech Recognition Memory https://huggingface.co/spaces/awacke1/ASR-SOTA-NvidiaSTTMozilla
+Chatbot SOTA w Memory https://huggingface.co/spaces/awacke1/CB-GR-Chatbot-Blenderbot
+Story Writer w Memory https://huggingface.co/spaces/awacke1/StoryWriterTextGenMem
+Image to OCR Multilingual https://huggingface.co/spaces/awacke1/Image2OCR
+Sentence Similarity Heatmap, Clusters https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+Sequence 2 Sequence Auto QA https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator
+Kitchen Sink Gradio Live Webcam AI UI UX https://huggingface.co/spaces/awacke1/KitchenSink-AGI-SDKit
+Streamlit Dashboard with Deep Linking https://huggingface.co/spaces/awacke1/AW-06-SL-AI-Image-Music-Video-UI-UX-URL?option=RunwayML
+Real Time Live Data Science Dashboard https://huggingface.co/spaces/awacke1/StreamlitTimerTest
+Wikipedia Search AI Output Dataset:
+https://huggingface.co/datasets/awacke1/WikipediaSearch
+
+
+AI UI UX 2022 in User Experience - Papers, Abstracts and Code Examples
+Experiments on Generalizability of User-Oriented Fairness in Recommender Systems: https://arxiv.org/abs/2205.08289v1
+Extensive Error Analysis and a Learning-Based Evaluation of Medical Entity Recognition Systems to Approximate User Experience: https://paperswithcode.com/paper/extensive-error-analysis-and-a-learning-based
+Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis: https://paperswithcode.com/paper/transfer-learning-from-speaker-verification
+Whisper based speech to stable diffusion generator: https://huggingface.co/spaces/fffiloni/whisper-to-stable-diffusion
+User-in-the-loop Adaptive Intent Detection for Instructable Digital Assistant: https://paperswithcode.com/paper/user-in-the-loop-adaptive-intent-detection
+Annotation Curricula to Implicitly Train Non-Expert Annotators: https://paperswithcode.com/paper/annotation-curricula-to-implicitly-train-non
+Neural News Recommendation with Attentive Multi-View Learning: https://arxiv.org/abs/1907.05576v1
+Positive Refframing: https://huggingface.co/spaces/Ella2323/Positive-Reframing
+Replacing Rewards with Examples: Example-Based Policy Search via Recursive Classification: https://arxiv.org/abs/2103.12656v2
+NRPA: Neural Recommendation with Personalized Attention: https://arxiv.org/abs/1905.12480v1
+Screen2Words: Automatic Mobile UI Summarization with Multimodal Learning: https://arxiv.org/abs/2108.03353v1
+Neural Graph Collaborative Filtering: https://paperswithcode.com/paper/neural-graph-collaborative-filtering
+Semantic Image Synthesis with Spatially-Adaptive Normalization: https://paperswithcode.com/paper/semantic-image-synthesis-with-spatially
+Question-Driven Design Process for Explainable AI User Experiences: https://paperswithcode.com/paper/question-driven-design-process-for
+Explainable AI using Shapely: https://huggingface.co/spaces/awacke1/ExplainableAIForGovernance/ https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html
+
+Image Generation for Art, Marketing, Ideation, Design, and Use in Business
+A number of multiple AI pipeline element strategies have evolved on the open market which allow you to generate images using a combination of image prompts and word prompts. This brief analysis gives an idea of the prompting capabilities as well as image rendering techniques that are used in the strategy to generate art from human understanding of images and text used to describe a scene.
+
+First a top five list on state of the art generators both free and paid is worth consideration.
+
+Midjourney - a Discord server based chatboat AI that allows /imagine prompts which can generate multiple images at a time. This is best at parallel creation, high accuracy even photo real creations.
+Artbreeder - A multiple capability tool which now features a Collager which assists in starting image composition. By far the most innovative approach which does great to combine the right partial elements in a scene.
+Dreamstudio - A Huggingface derived art program in beta which uses stable diffusion to create highly accurate art and images.
+Nightcafe - A credit based creation AI app that can do generation of video dives into an AI art piece which can produce some of the best experiences in Video.
+RunwayML - a quintessential tool in processing morph audio and video tracks which rival most high end video edit tools.
+These 5 tools make up some of the best AI pipeline programs that are cloud based that allow anyone to begin easily building their portfolio of art.
+
+The prompting capabilities often involve having a set of text based prompts to get started. Most also feature a starter image which could be an example of what you would like to create.
+
+URL Links:
+
+Collager: https://www.artbreeder.com/beta/collage
+NightCafe: https://creator.nightcafe.studio/explore
+Midjourney: https://www.midjourney.com/app/users/779773261440614430/
+Dreamstudio: https://beta.dreamstudio.ai/dream
+RunwayML: https://app.runwayml.com/
+
+Getting Started and Organizing Your AI Pipeline and Process
+Any great strategy has a number of steps that combine all capabilities at your disposal. It is useful to note how you can easily fir these together into a process that works for you.
+
+The techniques worth noted are listed below. Consider how you will use them will make your pipeline easier and more automated to allow you to spend the majority of your time curating what you have made, and ideating what you want to create next.
+
+Source materials: Since prompting requires text and text examples can quickly help you compose good input, its worth considering and documenting some effective prompts. Nightcafe with its integration into email, sends you a copy of your creation plus the prompting text so one option is to use your email account to keep a record of which prompts work for which outputs.
+Source materials: Discord since its a public chat format allows you to easily see what others are using for prompts in bulk. There are a number of chat channels designed for people new to the platform and often you can copy and paste if you see very effective prompts with material you are looking for.
+Source materials: Collager is unique in its ability to add additive parts and then dial in the percent of AI you would like with that. This allows you to add a few image elements which help start out your generation.
+Source materials: Since images and prompts are going to be your mainstay for inputs its worth considering an open standard for storing and retrieving these from anywhere. Github is a good place since markdown language can involve text in table or list format and includes a capability to reference uploaded images within markdown. This is also a good form for portability since you can later fork and download your repository with a few clicks from anywhere.
+Source materials: Google drive is integrated into the Artbreeder Collager workflow which allows you easily expand your work and even compose albums of the ones you like to place in Google photo albums. The portfolio you save on different sites have different degrees of ease when aggregating your collections. Collager for instance allows right click save for instant saving of your creation. Dreamstudio features a history. Midjourney features a profile site for you to store and review creations even triggering Upscales which important to use to get the highest resolution output for your creations.
+Social Media integration
+Depending on your target "safe for work" exports of your work, it is sometimes important to know your accepted social media outlets that you can integrate. Cloud based interactions are the key to successful audiences if you want to scale and share your process with others.
+
+The key social media outlets supported for these tools are here in a sorted link list which start with public open source first:
+
+Github - Github is open at most companies and allow creation of a free space to share your content.
+LinkedIn - LinkedIn is acceptable use at nearly every company.
+Twitter - Twitter is supported as a social media outlet at most companies yet can also be used with security restrictions which might limit posting but allow read access.
+Facebook - Meta's Facebook is a good outlet since it allows creation of large folios of your images along with stories. This venue however is locked down at many organizations.
+Instagram - Instagram is supported as an output channel for many tools yet has decreased in popularity due to high frequency of ads and pay for likes models. While it can still be one of the best places for domain specific arrangements of images it is likely locked down in most secure organizations.
+Youtube - For video uploads with automated captioning and long term storage of short and long form video this is an essential for any creation you compose as video. It is also useful to review and compose playlists of videos here for yourself that speed up your learning - Spend some time at Youtube university and keep a record of keyword searches there sometimes along with your playlists to accelerate learning.
+Gmail - With the baility to move email in and out its useful to create and wrap up details within email. Most email policies come with a content limitation (for example no files larger than 25MB. For this reason get used to creating pproject wrap up archives with winzip or compression software. With the convenience of keyword searching you can usually use this as a base.
+Last a worth mention is Huggingface.com. Like github as you become more sophisticated in your public open source capabilities, HuggingFace can allow you to wrap up using one of three software development kits which are gadio, streamlit, and HTML5 each with unique AI and UI integration components and features. If you want to create your own AI pipelines this one also has the open source code and models ready to go to help you on your journey.
+Chords and Lyrics
+Music we remember with our emotional center of the brain called the Amygdala, a center where the newer brain neocortex is still wrapping it like a pearl in an oyster. The emotional center of our brain is the center of emotional intelligence. We have two types of memories, semantic like words and your address. The second type is episodic memory where like what we love and yearn for and remember associated with emotions, feelings, and sentiment. Music has a direct call line to our emotional memory which has served humanity well in ritual ensuring survival of our species across the last 80k or so years as we traveled as tribes up from Africa, through India, to Europe and then across the ocean to the Americas.
+
+Dreams of magic, and power within music enlighten us, sometimes helping us to understand and plan our place in the future. What we share if useful and worth spreading, becoming ideas we give away for free and help others find their way because of similarity of plot and struggle.
+
+Life is hard, yet music for our human love of life is a shared way in which we intrigue our brain where the grind becomes a beautiful thing we love to retry and figure out.
+
+For this reason I document some of my favorite music to play. Lately the band Wolf Alice appeals to me due to their beautiful vocals and the way the band loves the audience and treats eachother with empathy. Each member of the band has a great way of giving honor to the playing of keyboard, guitar, drums, and the singing. The words of their lyrics are very special and help us understand our creator, our flaws, what we love and what we are sorry for. The feel of the music gives us the ability to forgive shortcomings.
+
+On this Sunday my prayer is for anyone in the struggle, to look to elders and yet when we live complicated lives, we gain from singing old songs.
+
+She's a good girl.
+
+https://tabs.ultimate-guitar.com/tab/wolf-alice/blush-chords-1747581
+https://tabs.ultimate-guitar.com/tab/wolf-alice/bros-chords-1735427
+https://tabs.ultimate-guitar.com/tab/wolf-alice/dont-delete-the-kisses-chords-2081561
+https://tabs.ultimate-guitar.com/tab/wolf-alice/fluffy-chords-1715649
+https://tabs.ultimate-guitar.com/tab/wolf-alice/freazy-chords-1769717
+https://tabs.ultimate-guitar.com/tab/wolf-alice/i-saw-you-chords-1728245
+https://tabs.ultimate-guitar.com/tab/wolf-alice/lipstick-on-the-glass-chords-3740495
+https://tabs.ultimate-guitar.com/tab/wolf-alice/no-hard-feelings-chords-3702776
+https://tabs.ultimate-guitar.com/tab/wolf-alice/planet-hunter-chords-2237687
+https://tabs.ultimate-guitar.com/tab/wolf-alice/silk-chords-1765834
+https://tabs.ultimate-guitar.com/tab/wolf-alice/song-to-the-siren-chords-2403139
+https://tabs.ultimate-guitar.com/tab/wolf-alice/space-and-time-chords-2174707
+https://tabs.ultimate-guitar.com/tab/wolf-alice/safe-from-heartbreak-if-you-never-fall-in-love-chords-3737756
+https://tabs.ultimate-guitar.com/tab/wolf-alice/silk-chords-1765834
+https://tabs.ultimate-guitar.com/tab/wolf-alice/soapy-water-chords-1765792
+https://tabs.ultimate-guitar.com/tab/wolf-alice/song-to-the-siren-chords-2403139
+https://tabs.ultimate-guitar.com/tab/wolf-alice/space-and-time-chords-2174707
+https://tabs.ultimate-guitar.com/tab/wolf-alice/the-last-man-on-earth-chords-3582701
+https://tabs.ultimate-guitar.com/tab/wolf-alice/turn-to-dust-chords-1771930
+https://tabs.ultimate-guitar.com/tab/wolf-alice/youre-a-germ-chords-1734296
+AI Models Useful for Health AI Pipelines
+The Huggingface Users below have trained amongst the best models according to leaderboards which indicate proficiency in health terminology:
+
+BioBert : https://huggingface.co/jordyvl
+BioClinicalBERT : https://huggingface.co/commanderstrife
+Biomedical Summarization : https://huggingface.co/L-macc
+Leaderboard : https://huggingface.co/spaces/autoevaluate/leaderboards?dataset=-any-
+
+The Huggingface Spaces below home some of the best examples useful in Biomed with fully integrated software with biomedical ML, RL, and AI models:
+
+Protein Folding : https://huggingface.co/spaces/simonduerr/ProteinMPNN
+Extractive QA : https://huggingface.co/spaces/hackathon-pln-es/extractive-qa-biomedicine
+SKLearn Clustering : https://huggingface.co/spaces/scikit-learn/clustering
+Extractive KB : https://huggingface.co/spaces/fabiochiu/text-to-kb
+Bio NER : https://huggingface.co/spaces/ajitrajasekharan/NER-Biomedical-PHI-Ensemble
+Bio NER UI : https://huggingface.co/spaces/rajistics/biobert_ner_demo
+Semantic Search : https://huggingface.co/spaces/fabiochiu/semantic-search-medium
+HealthSea : https://huggingface.co/spaces/spacy/healthsea-demo
+Multimodal : https://huggingface.co/spaces/awacke1/ASRtoTexttoStorytoImagestoVideo
+Mindfulness : https://huggingface.co/spaces/awacke1/Sentence2Paragraph
+Gradio : https://huggingface.co/freddyaboulton
+Face Morph : https://huggingface.co/spaces/CVPR/ml-talking-face
+DocVQA : https://huggingface.co/spaces/nielsr/donut-docvqa
+CodeGen : https://huggingface.co/spaces/codeparrot/code-generation-models
+AudioGen : https://huggingface.co/spaces/marcop/musika
+
+AI Examples - Ordered by Usefulness to Health:
+State of the Art AI and Multi Agent Systems: https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit
+
+State of the Art NLP: https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video https://huggingface.co/spaces/awacke1/TimerASRLive
+
+NLP-V for Vision, Pipelines, and Document Understanding: https://huggingface.co/spaces/awacke1/TTS-STT-Blocks https://huggingface.co/spaces/awacke1/Image2OCR https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+
+NLP-KE for Fomain Expertise, Visualization and Knowledge Engineering https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler https://huggingface.co/spaces/awacke1/CPVisGraph
+
+NLP-I for Integration with Generators and Real Time External Datasets: https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search https://huggingface.co/spaces/awacke1/SentenceToGeneratedVideo https://huggingface.co/spaces/awacke1/Image-Search-Similar
+
+AI Integration - Real Time Live AI in Streamlit and HTML5: https://huggingface.co/spaces/awacke1/StreamlitTimerTest https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
+
+I for Integration: https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction https://huggingface.co/spaces/awacke1/Sentence2Paragraph https://huggingface.co/spaces/awacke1/VisualCluster https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+
+Prompt Engineering
+Top examples: Suffix: ::5 ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
+
+Art Nouveau, in the style of John Singer Sargent ::5 ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
+six human senses manifesting all at once, 8k, --ar 10:14
+six flags of texas manifesting all at once, 8k, --ar 3840:2160
+santa claus sitting in an armchair, looking out the window with snow falling eating a gingerbread man cookie:: christmas, ultra realistic, 8K, cinematic, vignette --ar 3840:2160 --iw 1.2
+prompt:Cubism, in the style of Gustav Klimt, ultra realistic, unreal engine, high resolution, 5d, hyperdimensional, volumetric lighting --ar 3840:2160
+Romanticism, in the style of M.C. Escher manifesting all at once with hyper detailed castles and dragons, 8k, --ar 3840:2160
+https://huggingface.co/spaces/awacke1/Art-from-Text-and-Images ["Futurism, in the style of Wassily Kandinsky"], ["Art Nouveau, in the style of John Singer Sargent"], ["Surrealism, in the style of Edgar Degas"], ["Expressionism, in the style of Wassily Kandinsky"], ["Futurism, in the style of Egon Schiele"], ["Neoclassicism, in the style of Gustav Klimt"], ["Cubism, in the style of Gustav Klimt"], ["Op Art, in the style of Marc Chagall"], ["Romanticism, in the style of M.C. Escher"], ["Futurism, in the style of M.C. Escher"], ["Abstract Art, in the style of M.C. Escher"], ["Mannerism, in the style of Paul Klee"], ["Romanesque Art, in the style of Leonardo da Vinci"], ["High Renaissance, in the style of Rembrandt"], ["Magic Realism, in the style of Gustave Dore"], ["Realism, in the style of Jean-Michel Basquiat"], ["Art Nouveau, in the style of Paul Gauguin"], ["Avant-garde, in the style of Pierre-Auguste Renoir"], ["Baroque, in the style of Edward Hopper"], ["Post-Impressionism, in the style of Wassily Kandinsky"], ["Naturalism, in the style of Rene Magritte"], ["Constructivism, in the style of Paul Cezanne"], ["Abstract Expressionism, in the style of Henri Matisse"], ["Pop Art, in the style of Vincent van Gogh"], ["Futurism, in the style of Wassily Kandinsky"], ["Futurism, in the style of Zdzislaw Beksinski"], ['Surrealism, in the style of Salvador Dali'], ["Aaron Wacker, oil on canvas"], ["abstract"], ["landscape"], ["portrait"], ["sculpture"], ["genre painting"], ["installation"], ["photo"], ["figurative"], ["illustration"], ["still life"], ["history painting"], ["cityscape"], ["marina"], ["animal painting"], ["design"], ["calligraphy"], ["symbolic painting"], ["graffiti"], ["performance"], ["mythological painting"], ["battle painting"], ["self-portrait"], ["Impressionism, oil on canvas"]
+
+AI Examples - Ordered by Usefulness to Health:
+NLP
+https://huggingface.co/spaces/awacke1/Sentence2Paragraph https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator https://huggingface.co/spaces/awacke1/SOTA-MedEntity
+
+NLP-KE for Knowledge Engineering
+https://huggingface.co/spaces/awacke1/VisualCluster https://huggingface.co/spaces/awacke1/CPVisGraph https://huggingface.co/spaces/awacke1/NLPSentenceSimilarityHeatmap
+
+NLP-V for Vision:
+https://huggingface.co/spaces/awacke1/ChemistryMoleculeModeler https://huggingface.co/spaces/awacke1/Flamingo-Gradio-ImageDescribe https://huggingface.co/spaces/awacke1/Image2OCR
+
+NLP-I for Integration:
+https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search https://huggingface.co/spaces/awacke1/TimerASRLive https://huggingface.co/spaces/awacke1/TTS-STT-Blocks
+
+Future Applicability to Health:
+NLP-VG for Vision with Output Generators:
+https://huggingface.co/spaces/awacke1/Image-Search-Similar https://huggingface.co/spaces/awacke1/SentenceToGeneratedVideo https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+
+Integration - Real Time Live AI:
+https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video https://huggingface.co/spaces/awacke1/StreamlitTimerTest https://huggingface.co/spaces/awacke1/AI-Atari-Live-Streamlit https://huggingface.co/spaces/awacke1/AI-Quantum?option=Grok
+
+I for Integration:
+https://huggingface.co/spaces/awacke1/StreamlitClipboardInteraction
+
+
+Widgets in Streamlit
+st.write(variable)	variable can be a chart or dataframe
+st.title, st.header, st.subheader	st.subheader("SubHeader", anchor="s1")
+st.latex math equations
+st.table(df) and st.dataframe  oenguins = sns.load_dataset("penguins")  st.dataframe(penguins)
+	support for pandas style st.dataframe(penguins.style.applymap(..)
+st.metric(label="Temp", value="70 F", delta=1.2 F)
+st.altair_chart(c)  https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=214
+	https://docs.streamlit.io/library/api-reference/charts/st.altair_chart
+	https://altair-viz.github.io/gallery/
+	appearance=wide
+	st.line_chart(), st.bar_chart(), st.area_chart()
+	https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=260
+	st.vega_lite_chart(df, spec)
+st.plotly, st.bokeh, st.matplotlib st.plotly_chart(f), st.bokeh_chart(f), st.pyplot(fig)
+st.graphviz_chart(dot_data)	https://youtu.be/vIQQR_yq-8I?list=PLHgX2IExbFou8Wa0Z1mAPdP_Pd85LYVBK&t=344
+st.pydeck and st.map - mapbox token: secrets.toml
+- Streamlit website: https://streamlit.io/
+- Streamlit docs: https://docs.streamlit.io/
+- Streamlit forum: https://discuss.streamlit.io/
+- Streamlit Discord (official): https://discord.gg/bTz5EDYh9Z
+- Streamlit components (official): https://streamlit.io/components
+- Streamlit components (community): https://discuss.streamlit.io/t/stream...
+- Altair Gallery: https://altair-viz.github.io/gallery/...
+- Bokeh: https://bokeh.org/
+- Plotly Express: https://plotly.com/python/plotly-expr...
+https://linktr.ee/andfanilo
+.add_rows
+st.image, st.audio, st.video
+	with open(filepath, "rb") as f:
+		data=f.read()
+		st.image(data), st.audio(data), st.video(data)
+	generated = generate_media_with_deeplearning(x)
+		st.image(generated), st.audio(generated), st.video(generated)
+	filepath="/Users/media.ext"
+		st.image(filepath), st.audio(filepath), st.video(filepath)
+	url="http://medialink"
+		st.image(url), st.audio(url), st.video(url)
+		
+State of the art AI UI and UX
+Map
+Memory and URL
+Image Background, Sidebar, Lottie Animation
+Vega-Lite Altair Charts
+Import and Export Files
+Personalization and Persistence
+Live Mode Real Time Gradio - 3D, Galleries, Blocks, Rows, Columns, IO: https://youtu.be/o7kCD4aWMR4?t=132
+Live Mode Real Time Streamlit
+Multipage Tabs, Accordians, Tabs Lists
+Uploads and Downloads of Input
+
+
+2022 AI Tools and AI Generative Web Applications for Productivity	https://www.youtube.com/playlist?list=PLHgX2IExbFovnDGVmPDT6Dlork1VJrkzA
+
+
+Video Summary Generator: https://huggingface.co/spaces/awacke1/VideoSummary2
+AST to Text Gen to Image to Video: https://huggingface.co/spaces/awacke1/ASRGenerateStory
+
+Generator		https://huggingface.co/spaces?sort=modified&search=Generator
+
+4	📖NLP Semantic Role Label QnA❓	https://huggingface.co/spaces/awacke1/QandAGenerator	
+
+NLP Spaces
+Below is the list of NLP models and spaces which accomplish the tasks required to move between different media types and do language translation and mapping between different ontological schemata.
+
+Number	Title	URL	Inputs, SDK
+1	🗨️NLP Speech2Text-ASR📄	https://huggingface.co/spaces/awacke1/RealTime-ASR-NLP	Audio, ASR
+2	🧠NLP Memory Streamlit Cache UI🍪	https://huggingface.co/spaces/awacke1/Memory-Streamlit	Text Sentence, Slider, Checkbox
+3	👩‍🏫NLP Grammar and Sentence Word Correct😊	https://huggingface.co/spaces/awacke1/Grammar-Styler	Text Sentence
+4	📖NLP Semantic Role Label QnA❓	https://huggingface.co/spaces/awacke1/QandAGenerator	
+5	💬NLP Silero Audio File to STT ASR📄	https://huggingface.co/spaces/awacke1/SOTA-Speech2Text	
+6	🖼️NLP Multilingual Vision Image To OCR Text👁️📄	https://huggingface.co/spaces/awacke1/Image2OCR	
+7	▶️NLP Transcript from Video Gen📝	https://huggingface.co/spaces/awacke1/Streamlit-ASR-Video	
+8	👩‍⚕️NLP Biomed MLM Mask Language Classifier🩺🏥	https://huggingface.co/spaces/awacke1/SOTA-MedEntity	
+9	👩‍⚕️NLP Text File Context QnA🙋	https://huggingface.co/spaces/awacke1/SOTA-Plan	
+10	🔎NLP Image and Movie Semantic Search🎥🖼️	https://huggingface.co/spaces/awacke1/Image-Search-Similar	
+11	📗NLP Advanced Tech Plot Search Stream Memory❤️🎥	https://huggingface.co/spaces/awacke1/Search_Streamlit?query=Genomics	
+12	📚NLP Pegasus Bart Parallel Summary Gen➡️🖺	https://huggingface.co/spaces/awacke1/SOTA-Summary	
+13	📊 NLP Language Visual Graph Gen 🕸️	https://huggingface.co/spaces/awacke1/GraphViz-Demo	
+14	⚡NLP Parallel Summary Mindful Tip Gen🚀	https://huggingface.co/spaces/awacke1/ParallelSummaryModel	
+15	💬NLP Few Shot Sequence Text to Images🧗🖼️	https://huggingface.co/spaces/awacke1/GenerativeWordsandImages	
+16	🧠NLP Document Video Generator🎬	https://huggingface.co/spaces/awacke1/AIPipeline-Multimodel	
+17	🧠📑NLP Document Forms OCR📑🧠	https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR	
+18	💬NLP TimeSeries Altair Graph📈	https://huggingface.co/spaces/awacke1/TimeSeries	
+19	💬NLP Seq2Seq QnA Gen🙋	https://huggingface.co/spaces/awacke1/Seq2Seq-QAGenerator	
+20	🗣️ NLP Text2SpeechSentimentSave 💽	https://huggingface.co/spaces/awacke1/Text2SpeechSentimentSave	
+21	💪 NLP SaveAndReloadDataset 💽	https://huggingface.co/spaces/awacke1/SaveAndReloadDataset	
+22	🎥 NLP Video Playlist Save Document 💽	https://huggingface.co/spaces/awacke1/FirestorePersistence	
+23	💬 NLP Words to Graph ML Ops 📊	https://huggingface.co/spaces/awacke1/MLOpsStreamlit	
+24	🗣️ NLP Speech Sentiment Save 💜💽	https://huggingface.co/spaces/awacke1/NLPAutoAI	
+25	🗒️ NLP CSV Sentiment ❤️	https://huggingface.co/spaces/awacke1/CSV2ClassifyVisualization	
+26	🗣️NLP Speech Story Read Aloud📚	https://huggingface.co/spaces/awacke1/SpeechStoryReadAloud	
+27	🆒 NLP Text to Word Cloud 🌩️	https://huggingface.co/spaces/awacke1/VisualCluster	
+28	🗣️ NLP Speech-In-Out Multi Model 🙉	https://huggingface.co/spaces/awacke1/TTS-STT-Blocks	
+29	🐉🐲 NLP Wordfinder From Letters 🐲🐉	https://huggingface.co/spaces/awacke1/WordGames	
+30	NLP GPT Mindful Story Gen ❤️	https://huggingface.co/spaces/awacke1/Sentence2Paragraph	
+31	NLP GPT Story Gen Blocks	https://huggingface.co/spaces/awacke1/GradioBlocksDemo-Transformers	
+32	NLP GPT Story Gen	https://huggingface.co/spaces/awacke1/Transformers-StoryWriting	
+33	NLP Query CSV File	https://huggingface.co/spaces/awacke1/CSV2QnA	
+34	NLP Wikipedia Search	https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search	
+35	NLP Context QnA	https://huggingface.co/spaces/awacke1/ContextQuestionAnswerNLP	
+36	NLP Audio STT Sentiment Save	https://huggingface.co/spaces/awacke1/STT-TTS-ASR-AI-NLP-Pipeline	
+37	NLP ASR STT Wav2Vec2	https://huggingface.co/spaces/awacke1/ASR-High-Accuracy-Test	
+AutoNLP from Transcripts
+AI use in transcript analysis offers the capability to automatically summarize, extract entities, understand and score things like bias and sentiment, and also unlock complex memory enhancement which could keep track of things in context related to what you know or are interested in then to personalize the subject matter in order to help you augment your intelligence.
+
+For this purpose there are five transcripts below. Goal is to create an AI pipeline that could assist with understanding content in a self supervised fashion just by example. This is a form of instruction using large language models, Seq2Seq NLP Task, MLM NLP Task, Generators, and Transformers together in an AI Pipeline that breaks apart useful information and commits it to memory for you to review later forming an AI agent that helps you learn what you care about.
+
+Transcripts are titled AutoNLPTranscript-AIinScienceFictionandFuturistVisions referring to the fact that thinking creatively about subject matter of possibilities mixed with reality creates a fertile ground for knowledge engineering.
+
+As much as possible results will be shown as markdown per the tips on Markdown Cheatsheet located here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+Playlist: https://www.youtube.com/playlist?list=PLHgX2IExbFovQybyfltywXnqZi5YvaSS-
+
+Transcripts:
+
+https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-1.txt
+https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-2.txt
+https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-3.txt
+https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-4.txt
+https://github.com/AaronCWacker/Yggdrasil/blob/main/AutoNLPTranscript-AIinSciFiandFuturistVisions-5.txt
+
+AI Tasks, Models and Datasets for Vision, NLP, Audio, Multimodal
+Type Num	Name to Remember	Model URL
+1-Vision	image classification	https://huggingface.co/models?pipeline_tag=image-classification
+1-Vision	image segmentation	https://huggingface.co/models?pipeline_tag=image-segmentation
+1-Vision	image to image	https://huggingface.co/models?pipeline_tag=image-to-image
+1-Vision	unconditional image generation	https://huggingface.co/models?pipeline_tag=unconditional-image-generation
+1-Vision	object detection	https://huggingface.co/models?pipeline_tag=object-detection
+2-NLP	translation	https://huggingface.co/models?pipeline_tag=translation
+2-NLP	fill mask	https://huggingface.co/models?pipeline_tag=fill-mask
+2-NLP	token classification	https://huggingface.co/models?pipeline_tag=token-classification
+2-NLP	sentence similarity	https://huggingface.co/models?pipeline_tag=sentence-similarity
+2-NLP	question answering	https://huggingface.co/models?pipeline_tag=question-answering
+2-NLP	summarization	https://huggingface.co/models?pipeline_tag=summarization
+2-NLP	zero shot classification	https://huggingface.co/models?pipeline_tag=zero-shot-classification
+2-NLP	text classification	https://huggingface.co/models?pipeline_tag=text-classification
+2-NLP	text to text generation	https://huggingface.co/models?pipeline_tag=text2text-generation
+2-NLP	text-generation	https://huggingface.co/models?pipeline_tag=text-generation
+2-NLP	conversational	https://huggingface.co/models?pipeline_tag=conversational
+2-NLP	table question answering	https://huggingface.co/models?pipeline_tag=table-question-answering
+3-Audio	automatic speech recognition	https://huggingface.co/models?pipeline_tag=automatic-speech-recognition
+3-Audio	audio classification	https://huggingface.co/models?pipeline_tag=audio-classification
+3-Audio	text to speech	https://huggingface.co/models?pipeline_tag=text-to-speech
+3-Audio	audio to audio	https://huggingface.co/models?pipeline_tag=audio-to-audio
+3-Audio	voice activity detection	https://huggingface.co/models?pipeline_tag=voice-activity-detection
+4-Multimodal	feature extraction	https://huggingface.co/models?pipeline_tag=feature-extraction
+4-Multimodal	text to image	https://huggingface.co/models?pipeline_tag=text-to-image
+4-Multimodal	image to text	https://huggingface.co/models?pipeline_tag=image-to-text
+5-Tabular	tabular classification	https://huggingface.co/models?pipeline_tag=tabular-classification
+6-RL	reinforcement learning	https://huggingface.co/models?pipeline_tag=reinforcement-learning
+7-Datasets	Datasets and Knowledge Representation	https://huggingface.co/datasets
+8-DatasetSize-S	1M to 10M	https://huggingface.co/datasets?size_categories=size_categories:1M%3Cn%3C10M&sort=downloads
+8-DatasetSize-M	10M to 100M	https://huggingface.co/datasets?size_categories=size_categories:10M%3Cn%3C100M&sort=downloads
+8-DatasetSize-L	100M to 1B	https://huggingface.co/datasets?size_categories=size_categories:100M%3Cn%3C1B&sort=downloads
+8-DatasetSize-XL	1B to 10B	https://huggingface.co/datasets?size_categories=size_categories:1B%3Cn%3C10B&sort=downloads
+9-Github-Datasets	Datasets	https://github.com/huggingface/datasets/tree/master/datasets
+
+
+General Purpose Languages
+W3C Recommendations and HL7 FHIR are the frameworks we use for web languages. | https://www.hl7.org/fhir/rdf.html
+
+A key theme in 2022 is Knowledge Representation in AI, Use of NLP to augment and assist language, and Web2 the use of microservices and platform SDKs and frameworks into simplified, high performance tech forward solutions that are loosely coupled and web based.
+
+To be useful for both humans and machines the form of knowledge representation must be terse, meaning it is short and contains everything you would need to understand the text, the fields on what they contain and the structure which maps entities to values for example "Heart" is a part of a "Body". "Lung" is also part of a "Body".
+
+RDF
+The Resource Description Framework or RDF is a general purpose language for representing language on the web.
+
+RDF is often referred to as a "Triple" language which means it can allow structure to exist consisting of a:
+
+Subject
+Predicate
+Object
+RDF format allows us to bridge operational data exchange and formal knowledge processing to be able to share data easily between humans and machines without loosing structure and without creating cognitive burden allowing the data to be read by humans or machines.
+
+When impedance differences show up it makes it difficult to use a language in both contexts. To minimize these complications we strive to reconcile the records across time and perspective. In Health Care it is important to be recording records versus facts for example who did what ("Dr. AllCome diagnosed patient x with COVID19") rather than stating absolute medical facts ("patient x has viral pneumonia").
+
+A simple example in context of Physical Health might be:
+
+Subject	Predicate	Object
+http://health.org/#Heart	http://health.org/IsPartOf	http://health.org/#Body
+http://health.org/#Lung	http://health.org/IsPartOf	http://health.org/#Body
+The triple sequence like a sentence is separated by whitespace and terminated by a period.
+
+RDF Turtle is used in FHIR to be able to round trip serialization patterns between different languages including XML and JSON which are used in web services and web applications.
+
+Enter the Human!
+For human understanding, the ability to be minimal, terse and still maintain structure is key to language.
+For this reason even the above simple example is not reduced to a dense enough structure where it is readily understandable without training.
+
+If we simplified format with Symbols a possible more terse more human understandable format would not loose structure.
+
+What might that look like?
+
+Option	Advantages/Disadvantages	Example
+Markdown	Standard	https://github.com/topics/markdown
+FHIR	Standard	https://www.hl7.org/fhir/rdf.html
+RDF	Standard	https://www.w3.org/TR/turtle/
+Dictionary	Standard	https://www.w3schools.com/python/python_dictionaries_nested.asp
+Sets	Standard	https://www.w3schools.com/python/python_sets.asp
+Tuples	Standard	https://www.w3schools.com/python/python_tuples.asp
+Lists	Standard	https://www.w3schools.com/python/python_lists.asp
+Lambda	Standard	https://www.w3schools.com/python/python_lambda.asp
+Variables	Standard	https://www.w3schools.com/python/python_variables_multiple.asp
+e.g. Pipe delimiters are nice yet you cannot read the label easily inline and you loose structure: BodyParts|Heart|Lung Colon and semicolons are used within text frequently by humans so delimiters are easily corrupted: : ; Programmatic language symbols work well. But if you mix them it becomes harder for humans to decipher the parts {, ", = , }, </> HL7 v2.5.x had it pretty good since once you understood a few symbols it is easier to read.. One limitation tho is labeling becomes overly burdensome however structurally it is terse. Unicode emojis work well: https://huggingface.co/spaces/awacke1/Emoji-Short-Codes
+
+An RDF like simplification that uses a few symbols might allow for an optimally terse representation that has inline labels for Subject, Predicate, Object
+
+If we want to make it easier to read for humans, we would want to simulate the two types of Memory humans use. It is worth considering properties of Semantic and Episodic memory since data and knowledge representation exist to communicate and persist to memory what we want to communicate.
+
+Definitions:
+ep·i·sod·ic mem·o·ry noun PSYCHOLOGY a type of long-term memory that involves conscious recollection of previous experiences together with their context in terms of time, place, associated emotions, etc. "those results suggest that participants were using episodic memory to recall the presented words in all conditions" a conscious memory of a previous experience. "the hippocampus is critically involved in forming episodic memories"
+
+se·man·tic mem·o·ry noun PSYCHOLOGY a type of long-term memory involving the capacity to recall words, concepts, or numbers, which is essential for the use and understanding of language. "if patients lose semantic memory, they struggle with knowledge of everyday objects in the world, and have trouble communicating" a recollection of a word, concept, or number. "the extraction of semantic memories and associated emotions"
+
+Nine properties of Episodic Memory
+There are essentially nine properties of episodic memory that collectively distinguish it from other types of memory. Other types of memory may exhibit a few of these properties, but only episodic memory has all nine. Episodic m
+
+Contain summary records of sensory-perceptual-conceptual-affective processing. Retain patterns of activation/inhibition over long periods. Often represented in the form of (visual) images. They always have a perspective (field or observer). Represent short time slices of experience. They are represented on a temporal dimension roughly in order of occurrence. They are subject to rapid forgetting. They make autobiographical remembering specific. They are recollectively experienced when accessed.
+
+Options for a Terse Knowledge Representation Structure For Easy Understanding
+Dictionaries are represented within Python code using a minimal structure similar to RDF. For example in our RDF example above there are three parts, the Subject, the Predice and the Object. That plus an ability to compose a list of records delimited by period allows you to represent a list of records that can either be a graph or a list of N dimensions.
+
+A dictionary is ordered changeable and does not allow duplicates and can be represented like this: Parts = { "Body": "Heart", "location": "Chest" } Nested Dictionaries allow similar representing Health Conditions across People: UpperAbdomen = { "PartofBodyForPerson1" : { "Heart" : "Excellent", "Lung" : "Excellent" }, "PartofBodyForPerson2" : { "Heart" : "Excellent", "Lung" : "Excellent" } }
+
+Super simple yet understandable structures can then be optimal yet the constraint would need to be to not allow any symbolic delimiter within data in order to avoid adding the complexity of escape sequences. So programmatically understanding data as code could be most descriptive and fluid while being advantageous to trade of to succinct terse implementation:
+
+Two liner, self explanatory, expects data does not contain symbols: {":, to keep it simple. CarExample = {"brand": "Ford", "model": "Mustang", "year": 1964} print(CarExample["brand"])
+
+
+🖼 Image Generators From Text:
+URL	Answer
+https://huggingface.co/spaces/valhalla/glide-text2im	Image
+https://huggingface.co/spaces/flax-community/dalle-mini	Image
+https://huggingface.co/spaces/EleutherAI/VQGAN_CLIP	Image - Err
+https://huggingface.co/spaces/vivien/clip	Fast Image List and Movies
+https://huggingface.co/spaces/sujitpal/clip-rsicd-demo	Overhead Images of Landscapes
+🖼 Image Generators From Image:
+URL	Answer
+https://huggingface.co/spaces/carolineec/informativedrawings	Line Drawing
+https://huggingface.co/spaces/akhaliq/Real-ESRGAN	Image upscaling and super-resolution
+https://huggingface.co/spaces/EleutherAI/clip-guided-diffusion	Clip Diffusion Image and Video
+https://huggingface.co/spaces/akhaliq/BlendGAN	Two Portrait Images Blended to One
+https://huggingface.co/spaces/osanseviero/draw_to_search	Drawn Image to Image Examples and Object Classification
+https://huggingface.co/spaces/prithivida/WhatTheFood	Food Classification and Food Generator with Recipe Generator
+https://huggingface.co/spaces/aravinds1811/neural-style-transfer	Stylized Image from Two Images
+https://huggingface.co/spaces/eugenesiow/remove-bg	Background Removal
+https://huggingface.co/spaces/akhaliq/SwinIR	Image upscaling and super-resolution
+📔 Insights From Text, Datasets and Documents:
+URL	Answer
+https://huggingface.co/spaces/huggingface/data-measurements-tool	Text stats, Label Distrib, Text Length, Duplicates, Info Score nPMI, Zipf Fit
+https://huggingface.co/spaces/nielsr/LayoutLMv2-FUNSD	Document with text extracted
+https://huggingface.co/spaces/nielsr/dit-document-layout-analysis	Annotated Document with Tables and Text
+https://huggingface.co/spaces/stephenleo/stripnet	Topic Modeling, Keywords, and Semantic Network From Papers
+https://huggingface.co/spaces/spacy/pipeline-visualizer	Part of speech visualizer
+https://huggingface.co/spaces/ml6team/distilbart-tos-summarizer-tosdr	Terms of Service analyzer
+🖼 Insights From Image:
+URL	Answer
+https://huggingface.co/spaces/flax-community/image-captioning	Image Caption
+https://huggingface.co/spaces/OFA-Sys/OFA-Image_Caption	Fast Image Caption
+https://huggingface.co/spaces/akhaliq/CLIP_prefix_captioning	Realistic and Conceptual Concepts
+https://huggingface.co/spaces/OFA-Sys/OFA-Visual_Grounding	Crop Box From Image and Text
+https://huggingface.co/spaces/pytorch/YOLOv5	Object Recognition Crop Labels
+https://huggingface.co/spaces/dt/zero-shot-image-classification	Classification From Image
+🔊 Audio Recording or Upload to Text
+URL	Answer
+https://huggingface.co/spaces/akhaliq/demucs	Music Source Separation of Vocals, Bass, Drums and Other
+🔊 Audio to Audio Separation and Generation
+URL	Answer
+https://huggingface.co/spaces/facebook/XLS-R-2B-22-16	Text from Audio Mic Recording or Audio Upload
+https://huggingface.co/spaces/akhaliq/Real-Time-Voice-Cloning	Voice Cloning
+🩺 Medical, Clinical, Behavioral, and Medications from Text
+URL	Answer
+https://huggingface.co/spaces/spacy/healthsea-demo	Conditions, Medications, Products and Benefits From Input Text
+📄 Text Generators From Image:
+URL	Answer
+https://huggingface.co/spaces/valhalla/glide-text2im	Text
+📄 Text Generators From Text:
+URL	Answer
+https://huggingface.co/spaces/sentence-transformers/Sentence_Transformers_for_semantic_search	Github references
+https://huggingface.co/spaces/Modfiededition/Writing_Assistant	Grammar correction
+📄 Text Code Generators and Self Replication:
+URL	Answer
+https://huggingface.co/spaces/prithivida/Gramformer	Grammar Correct Text
+https://huggingface.co/spaces/nouamanetazi/cover-letter-generator	Cover Letter Generator for Job
+https://huggingface.co/spaces/flax-community/code-clippy-problem-solver	Code Generator from Problem and Starter Code
+🔈 Insights From Audio:
+URL	Answer
+https://huggingface.co/spaces/microsoft/unispeech-speaker-verification	Record and compare two voices
+📽 Video and Insights from Video:
+URL	Answer
+https://huggingface.co/spaces/sxela/ArcaneGAN-video	Stylized Video 6 Second Clip
+https://huggingface.co/spaces/PaddlePaddle/wav2lip	Portrait Image and Audio to Lip Sync Video
+Questions and Answers in Text:
+URL	Answer
+https://huggingface.co/spaces/lfqa/lfqa	Wikipedia Assistant answers a text question with a text and a audio response.
+https://huggingface.co/spaces/algomuffin/neural-search-engine	5 Answers in Text
+3D Model Generators
+URL	Answer
+https://huggingface.co/spaces/flax-community/DietNerf-Demo	
+Animations for Streamlit via Lottie
+Type	URL
+Money & Payments	https://lottiefiles.com/marketplace/money-payments
+Fight Cancer	https://lottiefiles.com/marketplace/fight-cancer
+Coronavirus Prevention	https://lottiefiles.com/marketplace/coronavirus-prevention-8
+Metaverse	https://lottiefiles.com/marketplace/metaverse-15
+Cryptocurrencies Coins	https://lottiefiles.com/marketplace/cryptocurrencies-coins
+Smart Technology	https://lottiefiles.com/marketplace/smart-technology-30
+Medical	https://lottiefiles.com/marketplace/medical-543
+UI UX Design	https://lottiefiles.com/marketplace/ui-ux-design-7
+Medicine	https://lottiefiles.com/marketplace/medicine-77
+Telemedicine	https://lottiefiles.com/marketplace/telemedicine-8
+Office Work	https://lottiefiles.com/marketplace/office-work-9
+Teamwork	https://lottiefiles.com/marketplace/teamwork-56
+Corporate Strategy	https://lottiefiles.com/marketplace/corporate-strategy
+Banking & Finance	https://lottiefiles.com/marketplace/banking-finance-17
+Medical	https://lottiefiles.com/marketplace/medical-502
+Mental Health	https://lottiefiles.com/marketplace/mental-health-10
+Gamification Level Badges	https://lottiefiles.com/marketplace/gamification-level-badges
+Business Company	https://lottiefiles.com/marketplace/business-company-1
+Vaccine	https://lottiefiles.com/marketplace/vaccine-11
+Robotics And Automation	https://lottiefiles.com/marketplace/robotics-and-automation
+Healthcare	https://lottiefiles.com/marketplace/healthcare-60
+Online Services	https://lottiefiles.com/marketplace/online-services-3
+Healthcare	https://lottiefiles.com/marketplace/healthcare-49
+Business Inspiration	https://lottiefiles.com/marketplace/business-inspiration
+Medicine - Character	https://lottiefiles.com/marketplace/medicine-character
+Data Analytics	https://lottiefiles.com/marketplace/data-analytics-38
+Virtual Finance	https://lottiefiles.com/marketplace/virtual-finance
+Hospital	https://lottiefiles.com/marketplace/hospital-90
+Computing	https://lottiefiles.com/marketplace/computing-1
+Healthcare And Medical	https://lottiefiles.com/marketplace/healthcare-and-medical-55
+Healthcare	https://lottiefiles.com/marketplace/healthcare-48
+Mobile & App Utility Permissions	https://lottiefiles.com/marketplace/mobile-app-utility-permissions
+Chat UI	https://lottiefiles.com/marketplace/chat-ui-2
+Ecommerce	https://lottiefiles.com/marketplace/ecommerce-198
+Teamwork	https://lottiefiles.com/marketplace/teamwork-34
+Language, Numeric, and Time Series Progressions
+Data Type	Task Type	URL
+NLP	Speech Spaces	https://huggingface.co/spaces?sort=modified&search=Speech
+NLP	Lyrics Spaces	https://huggingface.co/spaces?sort=modified&search=Lyrics
+Streams	General Task Spaces	https://huggingface.co/spaces?sort=modified&search=Streams
+Voice	Vocal Spaces	https://huggingface.co/spaces?sort=modified&search=Voice
+RNN	LSTM Spaces	https://huggingface.co/spaces?sort=modified&search=LSTM
+NLP	Translation	https://huggingface.co/spaces?sort=modified&search=Translation
+Dataset	Speech Commands	https://paperswithcode.com/dataset/speech-commands
+Dataset	Electricity	https://paperswithcode.com/dataset/electricity
+Dataset	EigenWorms	https://paperswithcode.com/dataset/eigenworms
+Dataset	Solar Power	https://paperswithcode.com/dataset/solar-power
+Dataset	eSports	https://paperswithcode.com/dataset/esports-sensors-dataset
+Dataset	Unbalance	https://paperswithcode.com/dataset/unbalance-classification-using-vibration-data
+Dataset	Crops	https://paperswithcode.com/dataset/sen4agrinet
+Dataset	Lyrics and Audio	https://paperswithcode.com/paper/love-me-love-me-say-and-write-that-you-love
+Dataset	Lyrics	https://paperswithcode.com/paper/dali-a-large-dataset-of-synchronized-audio
+Subtask	Data Compression	https://paperswithcode.com/task/data-compression
+Subtask	Time Series Streams	https://paperswithcode.com/task/time-series-streams
+RNN	Long Short Term Memory	https://paperswithcode.com/method/lstm
+Activation Functions NN	Sigmoid Activation	https://paperswithcode.com/method/sigmoid-activation
+Activation Functions NN	Tanh Activation	https://paperswithcode.com/method/tanh-activation
+Generative Models	Lyrics	https://paperswithcode.com/paper/creative-gans-for-generating-poems-lyrics-and
+NLP	Language Modeling	https://paperswithcode.com/task/language-modelling
+NLP	Machine Translation	https://paperswithcode.com/task/machine-translation
+NLP	Text Generation	https://paperswithcode.com/task/text-generation
+NLP	Translation	https://paperswithcode.com/task/translation
+NLP	Time Aligned Lyrics	https://paperswithcode.com/paper/end-to-end-lyrics-alignment-for-polyphonic
+General Classification	Lyrics	https://paperswithcode.com/paper/lyrics-based-music-genre-classification-using
+General Classification	General Tasks	https://paperswithcode.com/task/classification
+Genre Classification	Genre Classification	https://paperswithcode.com/task/genre-classification
+Genre Classification	Music Genre Classification	https://paperswithcode.com/task/music-genre-classification
+Information Retrieval	General Tasks	https://paperswithcode.com/task/information-retrieval
+Information Retrieval	Music Information Retrieval	https://paperswithcode.com/task/music-information-retrieval
+Audio Generation	Lyrics	https://paperswithcode.com/paper/score-and-lyrics-free-singing-voice-1
+Audio Generation	Audio Generation	https://paperswithcode.com/task/audio-generation
+Audio Generation	Lyrics and Vocal Melody	https://paperswithcode.com/paper/lyrics-and-vocal-melody-generation
+Chord Recognition	General Tasks	https://paperswithcode.com/task/chord-recognition
+Chord Recognition	General Tasks	https://paperswithcode.com/paper/a-bi-directional-transformer-for-musical
+Feature Learning	Chords and Audio	https://paperswithcode.com/paper/feature-learning-for-chord-recognition-the
+Framing	General Tasks	https://paperswithcode.com/task/frame
+Continuous Control	General Tasks	https://paperswithcode.com/task/continuous-control
+Reinforcement Learning	General Tasks	https://paperswithcode.com/task/reinforcement-learning-1
+Question Answering	General Tasks	https://paperswithcode.com/task/question-answering
+Behavior Trees	General Tasks	https://paperswithcode.com/paper/behavior-trees-in-robotics-and-ai-an
+Trajectory Prediction	General Tasks	https://paperswithcode.com/task/trajectory-prediction
+Autonomous Driving	General Tasks	https://paperswithcode.com/task/autonomous-driving
+Imitation Learning	General Tasks	https://paperswithcode.com/task/imitation-learning
+Decision Making	General Tasks	https://paperswithcode.com/task/decision-making
+Emotion Recognition	General Tasks	https://paperswithcode.com/task/emotion-recognition
+Multimodal Sentiment Analysis	General Tasks	https://paperswithcode.com/task/multimodal-sentiment-analysis
+NLP	Attention	https://paperswithcode.com/methods/category/attention-mechanisms
+Time Series Forecasting	General Tasks	https://paperswithcode.com/task/time-series-forecasting
+Time Series Classification	General Tasks	https://paperswithcode.com/task/time-series-classification
+Sequential Pattern Mining	General Tasks	https://paperswithcode.com/task/sequential-pattern-mining
+Relational Pattern Learning	General Tasks	https://paperswithcode.com/task/relational-pattern-learning
+
+
+Rank	Model	Image Generator Models
+1	Interactive demo	glide-text2im https://huggingface.co/spaces/osanseviero/6DRepNet
+
+16	DALL-E Creature Generator: https://huggingface.co/spaces/ronvolutional/ai-pokemon-card
+
+App	Link
+ArtBreeder	A Generative Adversial Network showcase of wonder. Enjoy easily inputting and outputting from BigGan and StyleGan jams as we feature the best in generative art!
+URL	https://www.artbreeder.com/
+Boomy	A Generative pulsating music maker that seeks out your heart and wraps it in poetry, you can sing too. Bob lets go get your coin - I will fly you there!!
+URL	https://boomy.com/
+Take it to the Runway ML	Wow rotoscope faster than Hollywood! Mish and mash your vids, filter it, pick the pulse, do layering, this rocks!
+URL	https://app.runwayml.com/
+
+AIML - DeepDream Generative Pattern Visualizer for Neural Networks	https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb
+
+AIML - CycleGAN - Generative Adversarial Neural Networks	https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/cyclegan.ipynb#scrollTo=2M7LmLtGEMQJ
+
+
+		
+
+
+
+
+
+
 # Friday April 21st, flight to Iceland
 
 1. The Bryggjan Brugghús serves craft beers and has live music performances.
