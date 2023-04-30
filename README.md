@@ -5,6 +5,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ## Sam and Aaron - Silfa Fissure Dive Between North America and Eurasian Tectonic Plates
 
+Youtube Video: https://www.youtube.com/watch?v=CWkeyaryk1w
+
 https://clipchamp.com/watch/Lqb3kV7gj9i
 
 1️⃣ 🛫 Arrival to Iceland 🇮🇸
