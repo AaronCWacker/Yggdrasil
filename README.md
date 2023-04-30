@@ -70,12 +70,95 @@ Each letter types as three outlines points on what to say.
 This is represented as first, middle and last to tell the story of letters and shows two examples.
 
 
+
+
+
+
 ### 🤝 Referral Letters
 
 | **Referral Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
 |---------------------|------------------------------------|---------------------------------------|--------------------------------------|
 | 📨 State the request for consultation/treatment | - Urgent need for further diagnostic testing for Mrs. Smith, who has persistent stomach issues 🤢 | - The patient has symptoms that suggest a more comprehensive review is required 🔍 | - Patient demographics, Referral details 🗂️ |
 |                     | - Request for an audiological assessment for Mr. Johnson, aged 60 👂 | - The patient's issue requires specialized care beyond the scope of the referring physician 👩‍⚕️ | - Diagnostic test reports, Medication details 💊 |
+
+### 📜 Medical Certificate Letters
+
+| **Medical Certificate Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|--------------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 State the reason for certification | - To certify Mr. Brown's condition and advise on work restrictions 💼 | - Mr. Brown has suffered from a heart attack and is under medication 💔💊 | - No driving should be allowed for 6 months 🚫🚗 |
+|                                  | - To certify Ms. Lee's health status for her impending travel ✈️ | - Ms. Lee has a chronic back pain condition that requires special accommodations during her travel 🚶‍♀️ | - Ms. Lee must have an aisle seat and use cushions for lumbar support 🛋️ |
+
+
+### 💊 Prescription Letters
+
+| **Prescription Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|-------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 Introduce prescription request | - Request for prescription for Mr. Clarke 💊 | - Mr. Clarke requires medication for hypertension - Lisinopril 10mg BD with food 🩺 | - Medication details, allergies and any known side effects 🚫 |
+|                         | - Prescription authorization for Mrs. Davis 💊 | - Mrs. Davis is required to take two 500mg penicillin V tablets every 6 hours 🩺 | - Medication details, allergies and any known side effects 🚫 |
+
+
+### 🔬 Diagnosis Letters
+
+| **Diagnosis Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|----------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 State the diagnosis | - The results of Mr. Thompson's chest x-ray reveal Pneumonia 😷 | - Mr. Thompson has a bacterial infection that requires antibiotic treatment 💊 | - Recommend follow-up visits for monitoring and periodic testing 📆 |
+|                      | - The blood test results indicate that Mrs. Jones has Type 2 diabetes 🩸 | - Mrs. Jones has a lifelong condition that requires medication, dietary adjustments, and lifestyle changes 🍽️🏃‍♀️ | - Refer patients to the relevant healthcare specialist 👩‍⚕️ |
+
+
+### 🩹 Treatment Plan Letters
+
+| **Treatment Plan Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|---------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 Introduce treatment plan | - Outline treatment and testing plan for Mr. Smith 📋 | - Mr. Smith's treatment will involve IV medication and chest x-ray 💉📸 | - Recommend follow-up visits for monitoring and periodic testing 📆 |
+|                           | - Suggest handling chronic asthma for Mrs. White 📋 | - Mrs. White's asthma management plan requires frequent use of recommended inhaler and daily monitoring 🌬️📊 | - Provide contact information in case of any emergencies ☎️ |
+
+
+### 🏥 Surgery Recommendation Letters
+
+| **Surgery Recommendation Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|-----------------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 Introduce surgical procedure | - Recommend endoscopy procedure for Mr. Baker 🔬 | - Mr. Baker needs endoscopy for the diagnosis of GI tract abnormalities 🫁 | - Suggest to take extra measures regarding allergies or post-procedural appointments 🚫⚕️ |
+|                                 | - Recommend an angiography for Mrs. Taylor 💓 | - Mrs. Taylor needs angiography to locate any arterial blockages 🩺 | - Provide details on necessary pre and post-hospitalization guidance 🏥 |
+
+
+### 🤝 Referral Letters
+
+| **Referral Letter** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|---------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 State the request for consultation/treatment | - Urgent need for further diagnostic testing for Mrs. Smith, who has persistent stomach issues 🤢 | - The patient has symptoms that suggest a more comprehensive review is required 🔍 | - Patient demographics, Referral details 🗂️ |
+|                     | - Request for an audiological assessment for Mr. Johnson, aged 60 👂 | - The patient's issue requires specialized care beyond the scope of the referring physician 👩‍⚕️ | - Diagnostic test reports, Medication details 💊 |
+
+
+### 🏃‍♂️ Medical Clearance Letters
+
+| **Medical Clearance Letters** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|-------------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 State clearance conditions | - Allow Mrs. Anderson to safely participate in a marathon 🏃‍♀️ | - The patient has been tested and has no chronic medical conditions or injuries 🚫🩺 | - Encourage gradual progression and cautious approach to intense activity 📈 |
+|                               | - Clear Mr. White to begin strength training 💪 | - The patient's prior conditions are monitored, and it is advised to begin any physical activity or routine 🏋️‍♂️ | - List exercises that should be avoided, for instance, weightlifting for an individual with a heart condition 🚫❤️ |
+
+
+### 📅 Follow-up Appointment Letters
+
+| **Follow-up Appointment Letters** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|-----------------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 Remind of the appointment     | - This is a reminder for Mrs. Rodriguez's appointment on Friday, 17th September, at 11:00 am 📆 | - Review the date, time, and location of appointment 📍 | - Provide contact information and phone numbers in case of schedule change or emergency ☎️ |
+|                                   | - This letter is to confirm Mr. Johnson's appointment on Monday, 20th September, at 1:00 pm 📆 | - Detail any necessary preparations for the appointment ⚙️ | - Encourage to reach out if an appointment must be canceled, or if there are any questions or concerns ✉️ |
+
+### ♿ Disability Support Letters
+
+| **Disability Support Letters** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|--------------------------------|------------------------------------|---------------------------------------|--------------------------------------|
+| 📨 State the purpose of the letter | - The purpose of this letter is to validate Mr. Williams' disability so that he can receive disability benefits ♿ | - Detail the patient's physical or cognitive condition and how it affects their daily life 🧠 | - Outline the assistive equipment or technology necessary for the patient 🛠️ |
+|                                  | - The purpose of this letter is to document Ms. Radcliff's disability to request special accommodations at work ♿ | - Explain the cause of the patient's condition and duration of symptoms ⏳ | - Describe the special consideration or modifications required 📝 |
+
+
+### 🍎 Health Education Letters
+
+| **Health Education Letters** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
+|------------------------------|---------------------------------|------------------------------------|-----------------------------------|
+| 🍎 Introduce the health education topic | - This letter is to provide Ms. Prince with information on healthy eating habits 🥗 | - Outline the benefits of specific health practices for overall health 🌟 | - Provide handouts, online resources, or any relevant materials to supplement the information 📚 |
+|                              | - This letter offers suggestions for stress management to Mr. Martin 😌 | - Detail steps that can be taken to manage specific health conditions properly 🚶‍♀️ | - Encourage patients to schedule follow-up appointments to discuss any questions or concerns 🗓️ |
+
 
 
 First: State the request for consultation/treatment
