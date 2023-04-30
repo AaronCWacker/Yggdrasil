@@ -3,6 +3,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Sunday April 30th, 2023
 
+## Sam and Aaron - Silfa Fissure Dive Between North America and Eurasian Tectonic Plates
+
+https://clipchamp.com/watch/Lqb3kV7gj9i
+
+
+
 ## Focus on Letter and Writing Opportunities along with Integration into Health and Medical Workflow
 
 
