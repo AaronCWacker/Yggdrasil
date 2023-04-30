@@ -5,27 +5,6 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 Managing information overload will be one of the greatest innovations in 2023 given that information volume has doubled in the last three years making it difficult for doctors, nurses and patients.  By creating innovative solutions using generative AI, there will be a rennaissance in managing information that allows us to catch up and make sure our needs are met with different information systems, devices, and our personalized information needs.
 
-Pain Points	🏥 Doctors & Nurses	🤖 Generative AI Solutions
-1. Email	✉️	Prioritize emails with AI filters, flagging high-priority messages and sorting them into folders.
-2. Mail	📬	Digitize mail, use OCR to extract keywords for categorization and prioritization.
-3. Letters	📃	Use AI summarization tools for condensed versions and quick understanding.
-4. Bills	💵	Automate bill payments and notifications, create summaries of monthly expenses.
-5. Notices	📌	Use NLP to identify critical notices and deadlines, push reminders to a calendar.
-6. Web	🌐	Use AI-powered extensions to highlight content and summarize articles for efficient browsing.
-7. Notes	📝	Use AI tools to analyze and categorize notes, combine topics and create summaries for reference.
-8. Preferences	⚙️	Use AI algorithms for personal profiles to suggest tailored content, reducing irrelevant info.
-9. Social Media	📱	Use AI filters to curate feeds and limit exposure to overwhelming or irrelevant content.
-10. Project Management	📊	Implement AI-based tools to prioritize tasks, streamline communication, and track progress.
-11. Instant Messaging	💬	Integrate AI assistants to suggest responses, summarize conversations, and manage notifications.
-12. Phone Calls	📞	Use AI transcription services to convert calls into searchable text for easy review and reference.
-13. Video Conferences	📹	Use AI-powered tools to summarize and transcribe video content, providing visual cues and highlights.
-14. Document Collaboration	📄	Use AI-enhanced platforms for real-time collaboration, simplifying version control and reducing miscommunication.
-15. Surveys and Feedback	📈	Leverage AI to analyze and summarize responses, highlighting key insights and actionable feedback.
-16. File Management	🗂️	Use AI-driven tools to categorize, tag, and search for documents efficiently.
-17. Customer Service	🎧	Integrate AI chatbots for routine inquiries, focusing on higher-priority communications.
-18. Knowledge Bases and Documentation	📚	Use AI-powered search engines and summarization tools to locate and digest information.
-19. Training and Onboarding	🎓	Use AI-driven personalized learning plans to streamline training and reduce information overload for new team members.
-20. Meeting Agendas and Minutes	📅	Use AI to generate meeting agendas and minutes, summarizing key points and action items for easy follow-up.
 
 
 | Opportunities | 🤖 Generative AI Solutions | 🌟 Description |
@@ -50,6 +29,29 @@ Pain Points	🏥 Doctors & Nurses	🤖 Generative AI Solutions
 | 18. Virtual Health Assistants | 🤖 AI-driven health assistants | Use AI to provide virtual health assistants, offering guidance, support, and resources. |
 | 19. Accessible Health Information | 📖 AI-enhanced health information | Use AI to make health information more accessible and understandable for individuals. |
 | 20. Privacy Protection | 🔒 AI-driven privacy measures | Use AI to enhance privacy protection for personal health data and communications. |
+
+
+Pain Points	🏥 Doctors & Nurses	🤖 Generative AI Solutions
+1. Email	✉️	Prioritize emails with AI filters, flagging high-priority messages and sorting them into folders.
+2. Mail	📬	Digitize mail, use OCR to extract keywords for categorization and prioritization.
+3. Letters	📃	Use AI summarization tools for condensed versions and quick understanding.
+4. Bills	💵	Automate bill payments and notifications, create summaries of monthly expenses.
+5. Notices	📌	Use NLP to identify critical notices and deadlines, push reminders to a calendar.
+6. Web	🌐	Use AI-powered extensions to highlight content and summarize articles for efficient browsing.
+7. Notes	📝	Use AI tools to analyze and categorize notes, combine topics and create summaries for reference.
+8. Preferences	⚙️	Use AI algorithms for personal profiles to suggest tailored content, reducing irrelevant info.
+9. Social Media	📱	Use AI filters to curate feeds and limit exposure to overwhelming or irrelevant content.
+10. Project Management	📊	Implement AI-based tools to prioritize tasks, streamline communication, and track progress.
+11. Instant Messaging	💬	Integrate AI assistants to suggest responses, summarize conversations, and manage notifications.
+12. Phone Calls	📞	Use AI transcription services to convert calls into searchable text for easy review and reference.
+13. Video Conferences	📹	Use AI-powered tools to summarize and transcribe video content, providing visual cues and highlights.
+14. Document Collaboration	📄	Use AI-enhanced platforms for real-time collaboration, simplifying version control and reducing miscommunication.
+15. Surveys and Feedback	📈	Leverage AI to analyze and summarize responses, highlighting key insights and actionable feedback.
+16. File Management	🗂️	Use AI-driven tools to categorize, tag, and search for documents efficiently.
+17. Customer Service	🎧	Integrate AI chatbots for routine inquiries, focusing on higher-priority communications.
+18. Knowledge Bases and Documentation	📚	Use AI-powered search engines and summarization tools to locate and digest information.
+19. Training and Onboarding	🎓	Use AI-driven personalized learning plans to streamline training and reduce information overload for new team members.
+20. Meeting Agendas and Minutes	📅	Use AI to generate meeting agendas and minutes, summarizing key points and action items for easy follow-up.
 
 
 
