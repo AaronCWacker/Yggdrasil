@@ -5,7 +5,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ## Memory Chat Story Generator ChatGPT - (https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator)[App]
 
-This is an example of prompt evolution using chatGPT.  Prompt evolution is the generation of answer sets for questions where the question is priority order for personalization of letters that meet individual health and wellness goals.  Fields needed are shown to give an idea of what information would be important to represent as a continual plan, assessment, and easy check up on our own pysical and mental health.  Userfulness can be rated by human feedback of likes along with the next best query as a prompt to evolve the model for customization ai modeling.
+This is an example of prompt evolution using chatGPT.  Prompt evolution is the generation of answer sets for questions where the question is priority order for personalization of letters that meet individual health and wellness goals.  Fields needed are shown to give an idea of what information would be important to represent as a continual plan, assessment, and easy check up on our own physical and mental health.  Userfulness can be rated by human feedback of likes along with the next best query as a prompt to evolve the model for customization ai modeling.
 
 Top ten types of letters doctors have to create for patients.
 
