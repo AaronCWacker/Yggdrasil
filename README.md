@@ -7,7 +7,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 This is an example of prompt evolution using chatGPT.  Prompt evolution is the generation of answer sets for questions where the question is priority order for personalization of letters that meet individual health and wellness goals.  Fields needed are shown to give an idea of what information would be important to represent as a continual plan, assessment, and easy check up on our own pysical and mental health.  Userfulness can be rated by human feedback of likes along with the next best query as a prompt to evolve the model for customization ai modeling.
 
-name the top ten types of letters doctors have to create for patients. use markdown
+Top ten types of letters doctors have to create for patients.
+
 1. Referral letters
 2. Medical certificate letters
 3. Prescription letters
@@ -18,8 +19,13 @@ name the top ten types of letters doctors have to create for patients. use markd
 8. Follow-up appointment letters
 9. Disability support letters
 10. Health education letters
-create a markdown table with the definition of each letter. add a column to markdown table to list which fields are usually needed for the form letter, create a short one line summary for each as a line in the markdown table. Use emojis where possible to keep text short
-| Letter Type | Definition | Fields Needed (Usually) |
+
+
+### Markdown table with the definition of each letter. 
+#### Fields Needed column is used to list which fields are needed for form letter
+#### One line summary for each as is supplied. 
+
+| Letter Type | Definition | Fields Usually Needed |
 |-------------------------------|-----------------------------------------------------|--------------------------------|
 | Referral Letters | Requests for additional consultation or treatment | Patient demographics, Referral details |
 | Medical Certificate Letters | Certify a patient’s medial condition or limitations | Patient demographics, Medical condition details |
@@ -31,8 +37,15 @@ create a markdown table with the definition of each letter. add a column to mark
 | Follow-up Appointment Letters | Reminder of upcoming appointment | Patient demographics, Appointment details |
 | Disability Support Letters | Documentation of patient’s disability | Patient demographics, Disability details |
 | Health Education Letters | Provide information on health and wellness | Patient demographics, Education topic |
-write each of the letter types as three point outlines on what to say, represented as markdown column named first, middle and last to tell the story of letters with pretend examples that look real.
-### Referral Letters
+
+
+Each letter types as three outlines points on what to say.
+
+This is represented as first, middle and last to tell the story of letters and shows two examples.
+
+
+### Referral Letter
+
 First: State the request for consultation/treatment
 - Urgent need for further diagnostic testing for Mrs. Smith, who has persistent stomach issues
 - Request for an audiological assessment for Mr. Johnson, aged 60
@@ -45,7 +58,8 @@ Last: Provide patient info needed for the referred service
 - Patient demographics, Referral details
 - Diagnostic test reports, Medication details
 
-### Medical Certificate Letters
+
+### Medical Certificate Letter
 First: State the reason for certification
 - To certify Mr. Brown’s condition and advise on work restrictions
 - To certify Ms. Lee’s health status for her impending travel.
@@ -58,7 +72,8 @@ Last: Outline any necessary work/travel adjustments
 - No driving should be allowed for 6 months
 - Ms. Lee must have an aisle seat and use cushions for lumbar support
 
-### Prescription Letters
+
+### Prescription Letter
 First: Introduce prescription request
 - Request for prescription for Mr. Clarke
 - Prescription authorization for Mrs. Davis
@@ -70,7 +85,8 @@ Middle: List dosage and frequency of medication
 Last: Provide medication details
 - Medication details, allergies and any known side effects
 
-### Diagnosis Letters
+
+### Diagnosis Letter
 First: State the diagnosis
 - The results of Mr. Thompson’s chest x-ray reveal Pneumonia
 - The blood test results indicate that Mrs. Jones has Type 2 diabetes
@@ -83,7 +99,9 @@ Last: Provide any necessary follow-up recommendations
 - Recommend follow-up visits for monitoring and periodic testing
 - Refer patients to the relevant healthcare specialist
 
-### Treatment Plan Letters
+
+
+### Treatment Plan Letter
 First: Introduce treatment plan
 - Outline treatment and testing plan for Mr.Smith
 - Suggest handling chronic asthma for Mrs.White
@@ -96,7 +114,8 @@ Last: Detail any follow-up needed
 - Recommend follow-up visits for monitoring and periodic testing
 - Provide contact information in case of any emergencies
 
-### Surgery Recommendation Letters
+
+### Surgery Recommendation Letter
 First: Introduce surgical procedure
 - Recommend endoscopy procedure for Mr.Baker
 - Recommend an angiography for Mrs.Taylor
@@ -108,6 +127,7 @@ Middle: Explain surgical procedure specifics
 Last: Detail any adjustment needed before/after surgery
 - Suggest to take extra measures regarding allergies or post-procedural appointments
 - Provide details on necessary pre and post-hospitalization guidance
+
 
 ### Medical Clearance Letters
 First: State clearance conditions
@@ -122,6 +142,7 @@ Last: Provide guidance on physical activity
 - Encourage gradual progression and cautious approach to intense activity
 - List exercises that should be avoided, for instance, weightlifting for an individual with a heart condition
 
+
 ### Follow-up Appointment Letters
 First: Remind of the appointment
 - This is a reminder for Mrs. Rodriguez’s appointment on Friday, 17th September, at 11:00 am
@@ -134,6 +155,7 @@ Middle: Confirm appointment details
 Last: Provide contact details
 - Provide contact information and phone numbers in case of schedule change or emergency
 - Encourage to reach out if an appointment must be canceled, or if there are any questions or concerns
+
 
 ### Disability Support Letters
 First: State the purpose of the letter
@@ -148,6 +170,7 @@ Last: List any necessary accommodations
 - Outline the assistive equipment or technology necessary for the patient
 - Describe the special consideration or modifications required
 
+
 ### Health Education Letters
 First: Introduce the health education topic
 - This letter is to provide Ms. Prince with information on healthy eating habits
@@ -160,6 +183,7 @@ Middle: Explain the recommended practices
 Last: Provide Resources
 - Provide handouts, online resources, or any relevant materials to supplement the information
 - Encourage patients to schedule follow-up appointments to discuss any questions or concerns.
+
 
 ## Letter Types For Doctors
 
