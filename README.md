@@ -11,26 +11,26 @@ Health & Wellness using generative AI will change the world in 2023.  For physic
 
 | Library | Description | Sample Code |
 | ------- | ----------- | ----------- |
-| 1. Tensorflow | 💪 AI-powered fitness plans | `import tensorflow as tf` |
-| 2. Keras | 🏋️‍♀️ Personalized workout routines | `from keras.models import Sequential` |
-| 3. Gym | 🎮 AI-driven fitness environments | `import gym` |
-| 4. OpenAI | 🤖 AI-driven mental health resources | `import openai` |
-| 5. Pandas | 📊 Personalized data analysis | `import pandas as pd` |
-| 6. Numpy | 🧮 Efficient numerical computations | `import numpy as np` |
-| 7. Scikit-learn | 🧠 Machine learning models | `from sklearn.ensemble import RandomForestClassifier` |
-| 8. NLTK | 📚 Natural language processing | `import nltk` |
-| 9. Gensim | 💭 Topic modeling & document similarity | `import gensim` |
-| 10. SpaCy | 📖 Advanced natural language processing | `import spacy` |
-| 11. FastAPI | 🚀 Fast web application framework | `from fastapi import FastAPI` |
-| 12. Streamlit | 🌐 Interactive web app development | `import streamlit as st` |
-| 13. PyTorch | 🔥 Flexible deep learning framework | `import torch` |
-| 14. Flask | 🌐 Lightweight web application framework | `from flask import Flask` |
-| 15. OpenCV | 📸 Image & video processing | `import cv2` |
-| 16. Dash | 📊 Interactive data visualization | `import dash` |
-| 17. Matplotlib | 📈 Data visualization | `import matplotlib.pyplot as plt` |
-| 18. Seaborn | 🎨 Statistical data visualization | `import seaborn as sns` |
-| 19. Plotly | 📊 Interactive data visualization | `import plotly.express as px` |
-| 20. NetworkX | 💑 Relationship network analysis | `import networkx as nx` |
+| 1. Tensorflow | 💪 AI-powered fitness plans | `model = tf.keras.Sequential()` |
+| 2. Keras | 🏋️‍♀️ Personalized workout routines | `model.add(Dense(128, activation='relu'))` |
+| 3. Gym | 🎮 AI-driven fitness environments | `env = gym.make('CartPole-v0')` |
+| 4. OpenAI | 🤖 AI-driven mental health resources | `response = openai.Completion.create(prompt='Analyze mood:', max_tokens=50)` |
+| 5. Pandas | 📊 Personalized data analysis | `df = pd.read_csv('health_data.csv')` |
+| 6. Numpy | 🧮 Efficient numerical computations | `arr = np.array([1, 2, 3, 4, 5])` |
+| 7. Scikit-learn | 🧠 Machine learning models | `clf = RandomForestClassifier(n_estimators=100)` |
+| 8. NLTK | 📚 Natural language processing | `tokens = nltk.word_tokenize('Health is wealth!')` |
+| 9. Gensim | 💭 Topic modeling & document similarity | `lda = gensim.models.LdaModel(corpus, num_topics=5)` |
+| 10. SpaCy | 📖 Advanced natural language processing | `nlp = spacy.load('en_core_web_sm')` |
+| 11. FastAPI | 🚀 Fast web application framework | `app = FastAPI()` |
+| 12. Streamlit | 🌐 Interactive web app development | `st.write('Hello, Streamlit!')` |
+| 13. PyTorch | 🔥 Flexible deep learning framework | `x = torch.tensor([1, 2, 3])` |
+| 14. Flask | 🌐 Lightweight web application framework | `app = Flask(__name__)` |
+| 15. OpenCV | 📸 Image & video processing | `img = cv2.imread('image.jpg', cv2.IMREAD_GRAYSCALE)` |
+| 16. Dash | 📊 Interactive data visualization | `app = dash.Dash(__name__)` |
+| 17. Matplotlib | 📈 Data visualization | `plt.plot([1, 2, 3, 4], [1, 4, 9, 16])` |
+| 18. Seaborn | 🎨 Statistical data visualization | `sns.lineplot(data=df)` |
+| 19. Plotly | 📊 Interactive data visualization | `fig = px.line(df, x='Date', y='Value')` |
+| 20. NetworkX | 💑 Relationship network analysis | `G = nx.Graph()` |
 
 
 ## Python Libraries for AI  Management of Information
