@@ -18,61 +18,6 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 | 9️⃣ Disability Support Letters | ♿ Letters about a patient's disability | 📄 Patient info, Disability details |
 | 🔟 Health Education Letters | 🍎 Letters teaching about health     | 📄 Patient info, Education topic  |
 
-| 💌 **Letter Example** | 📝 **First** | 📝 **Middle** | 📝 **Last** |
-|---------------------|------------------------------------|---------------------------------------|--------------------------------------|
-| **Referral Letter**    | 🤝 Ask for more help or treatment | 📚 Say why they need more help | 🗂️ Give patient information |
-|                       | - Mrs. Smith needs more tests for her stomach problems 🤢 | - The patient needs a closer look 👀 | - Patient info, Referral details |
-|                       | - Mr. Johnson, 60 years old, needs a hearing check 👂 | - The patient needs special care from an expert 👩‍⚕️ | - Test results, Medicine details 💊 |
-| **Medical Certificate Letter** | 📝 Say why you're writing the letter | 🩺 Explain the patient's health problem | 📜 Say what they need for work or travel |
-|                       | - Mr. Brown needs work limits because of his heart 💔 | - Mr. Brown had a heart attack and takes medicine 💊 | - No driving for 6 months 🚫🚗 |
-|                       | - Ms. Lee needs special help for her back pain on her trip ✈️ | - Ms. Lee has back pain that needs help on her trip 🚶‍♀️ | - Ms. Lee needs an aisle seat and a cushion for her back 🛋️ |
-
-
-
-## Mass Content Personalization using ChatGPT - [App](https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator)
-
-This is an example of prompt evolution using chatGPT.  Prompt evolution is the generation of answer sets for questions where the question is priority order for personalization of letters that meet individual health and wellness goals.  Fields needed are shown to give an idea of what information would be important to represent as a continual plan, assessment, and easy check up on our own physical and mental health.  Userfulness can be rated by human feedback of likes along with the next best query as a prompt to evolve the model for customization ai modeling.
-
-Top ten types of letters doctors have to create for patients.
-
-1. Referral letters
-2. Medical certificate letters
-3. Prescription letters
-4. Diagnosis letters
-5. Treatment plan letters
-6. Surgery recommendation letters
-7. Medical clearance letters
-8. Follow-up appointment letters
-9. Disability support letters
-10. Health education letters
-
-
-### Markdown table with the definition of each letter. 
-#### Fields Needed column is used to list which fields are needed for form letter
-#### One line summary for each as is supplied. 
-
-| Letter Type | Definition | Fields Usually Needed |
-|-------------------------------|-----------------------------------------------------|--------------------------------|
-| Referral Letters | Requests for additional consultation or treatment | Patient demographics, Referral details |
-| Medical Certificate Letters | Certify a patient’s medial condition or limitations | Patient demographics, Medical condition details |
-| Prescription Letters | Authorization for medication | Patient demographics, Medication details |
-| Diagnosis Letters | Documentation of a patient’s diagnosis | Patient demographics, Diagnosis details |
-| Treatment Plan Letters | Outline of recommended treatment plan | Patient demographics, Treatment details |
-| Surgery Recommendation Letters | Suggestion of surgical procedure | Patient demographics, Surgical procedure details |
-| Medical Clearance Letters | Confirmation of patient’s fitness for certain activities | Patient demographics, Activity details |
-| Follow-up Appointment Letters | Reminder of upcoming appointment | Patient demographics, Appointment details |
-| Disability Support Letters | Documentation of patient’s disability | Patient demographics, Disability details |
-| Health Education Letters | Provide information on health and wellness | Patient demographics, Education topic |
-
-
-Each letter types as three outlines points on what to say.
-
-This is represented as first, middle and last to tell the story of letters and shows two examples.
-
-
-
-
-
 
 ### 🤝 Referral Letters
 
@@ -158,6 +103,51 @@ This is represented as first, middle and last to tell the story of letters and s
 |------------------------------|---------------------------------|------------------------------------|-----------------------------------|
 | 🍎 Introduce the health education topic | - This letter is to provide Ms. Prince with information on healthy eating habits 🥗 | - Outline the benefits of specific health practices for overall health 🌟 | - Provide handouts, online resources, or any relevant materials to supplement the information 📚 |
 |                              | - This letter offers suggestions for stress management to Mr. Martin 😌 | - Detail steps that can be taken to manage specific health conditions properly 🚶‍♀️ | - Encourage patients to schedule follow-up appointments to discuss any questions or concerns 🗓️ |
+
+
+
+## Mass Content Personalization using ChatGPT - [App](https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator)
+
+This is an example of prompt evolution using chatGPT.  Prompt evolution is the generation of answer sets for questions where the question is priority order for personalization of letters that meet individual health and wellness goals.  Fields needed are shown to give an idea of what information would be important to represent as a continual plan, assessment, and easy check up on our own physical and mental health.  Userfulness can be rated by human feedback of likes along with the next best query as a prompt to evolve the model for customization ai modeling.
+
+Top ten types of letters doctors have to create for patients.
+
+1. Referral letters
+2. Medical certificate letters
+3. Prescription letters
+4. Diagnosis letters
+5. Treatment plan letters
+6. Surgery recommendation letters
+7. Medical clearance letters
+8. Follow-up appointment letters
+9. Disability support letters
+10. Health education letters
+
+
+### Markdown table with the definition of each letter. 
+#### Fields Needed column is used to list which fields are needed for form letter
+#### One line summary for each as is supplied. 
+
+| Letter Type | Definition | Fields Usually Needed |
+|-------------------------------|-----------------------------------------------------|--------------------------------|
+| Referral Letters | Requests for additional consultation or treatment | Patient demographics, Referral details |
+| Medical Certificate Letters | Certify a patient’s medial condition or limitations | Patient demographics, Medical condition details |
+| Prescription Letters | Authorization for medication | Patient demographics, Medication details |
+| Diagnosis Letters | Documentation of a patient’s diagnosis | Patient demographics, Diagnosis details |
+| Treatment Plan Letters | Outline of recommended treatment plan | Patient demographics, Treatment details |
+| Surgery Recommendation Letters | Suggestion of surgical procedure | Patient demographics, Surgical procedure details |
+| Medical Clearance Letters | Confirmation of patient’s fitness for certain activities | Patient demographics, Activity details |
+| Follow-up Appointment Letters | Reminder of upcoming appointment | Patient demographics, Appointment details |
+| Disability Support Letters | Documentation of patient’s disability | Patient demographics, Disability details |
+| Health Education Letters | Provide information on health and wellness | Patient demographics, Education topic |
+
+
+Each letter types as three outlines points on what to say.
+
+This is represented as first, middle and last to tell the story of letters and shows two examples.
+
+
+
 
 
 
