@@ -3,6 +3,22 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Sunday April 30th, 2023
 
+## Letter Types For Doctors
+
+| Letter Type | Definition | Fields Needed (Usually) |
+|-------------------------------|-----------------------------------------------------|--------------------------------|
+| Referral Letters | Requests for additional consultation or treatment | Patient demographics, Referral details |
+| Medical Certificate Letters | Certify a patient’s medial condition or limitations | Patient demographics, Medical condition details |
+| Prescription Letters | Authorization for medication | Patient demographics, Medication details |
+| Diagnosis Letters | Documentation of a patient’s diagnosis | Patient demographics, Diagnosis details |
+| Treatment Plan Letters | Outline of recommended treatment plan | Patient demographics, Treatment details |
+| Surgery Recommendation Letters | Suggestion of surgical procedure | Patient demographics, Surgical procedure details |
+| Medical Clearance Letters | Confirmation of patient’s fitness for certain activities | Patient demographics, Activity details |
+| Follow-up Appointment Letters | Reminder of upcoming appointment | Patient demographics, Appointment details |
+| Disability Support Letters | Documentation of patient’s disability | Patient demographics, Disability details |
+| Health Education Letters | Provide information on health and wellness | Patient demographics, Education topic |
+
+
 ## Sam and Aaron - Silfa Fissure Dive Between North America and Eurasian Tectonic Plates
 
 Youtube Video: https://www.youtube.com/watch?v=CWkeyaryk1w
