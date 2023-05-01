@@ -1,6 +1,12 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Monday May 1st, 2023
+
+1. Generative AI Letters for Managing Information Overload (GAL-MIO) - https://huggingface.co/spaces/awacke1/Streamlit-AI-Letter-UI
+2. Generative AI Intelligence Amplifier - GAIA - https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
+3. Generative-AI-Writers-Dashboard - https://huggingface.co/spaces/awacke1/Generative-AI-Writers-Dashboard
+
 # Sunday April 30th, 2023
 
 ## Content for Letter Generator AI UI UX
