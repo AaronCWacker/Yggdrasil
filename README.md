@@ -7,6 +7,31 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 2. Generative AI Intelligence Amplifier - GAIA - https://huggingface.co/spaces/awacke1/ChatGPT-Memory-Chat-Story-Generator
 3. Generative-AI-Writers-Dashboard - https://huggingface.co/spaces/awacke1/Generative-AI-Writers-Dashboard
 
+https://huggingface.co/spaces/IcelandAI/AnimalsOfIceland
+https://huggingface.co/spaces/IcelandAI/Iceland-Top-Ten-Things-To-See
+
+## Sam and Aaron - Silfa Fissure Dive Between North America and Eurasian Tectonic Plates
+
+Youtube Video: https://www.youtube.com/watch?v=CWkeyaryk1w
+
+1️⃣ 🛫 Arrival to Iceland 🇮🇸
+Samantha and Aaron Wacker embark on a thrilling journey to Iceland to explore the Silfra Fissure diving between the North American and Eurasian tectonic plates.  Our local guide Luis along with fellow divers, making new friends in the process.
+2️⃣ 🏞️ Exploring the Golden Circle ⭕
+Before diving, Samantha and Aaron tour the famous Golden Circle.
+We visit Þingvellir National Park, Geysir hot springs, and the powerful Gullfoss waterfall and marvel at Iceland's stunning natural beauty.
+3️⃣ 🤿 Preparing for the Dive: Gear and Briefing ⚙️
+Samantha, Aaron, and group gather at Silfra Fissure, excited for their dive.
+We suit up in drysuits and receive a comprehensive safety and dive briefing.
+The divers learn about the geological significance of the Silfra Fissure and its crystal-clear glacial waters.
+4️⃣ 🐠 Diving into the Silfra Fissure: An Unforgettable Experience 🐟
+Samantha and Aaron dive into the icy waters, experiencing the incredible visibility Silfra offers.
+They swim through the Big Crack, and majestic Cathedral, marveling at the vibrant underwater colors and unique rock formations and feel the thrill of touching both the North American and Eurasian tectonic plates at the same time.
+5️⃣ 🎉 Celebrating Their Achievement and Heading Home 🏠
+After the dive, Samantha, Aaron, and their group share stories and laughter over a warm meal.
+They celebrate their unique accomplishment, and the bonds they've formed with their fellow divers.
+With memories to last a lifetime, the couple returns home, excited to share their Silfra Fissure adventure with friends and family.
+
+
 # Sunday April 30th, 2023
 
 ## Content for Letter Generator AI UI UX
@@ -367,28 +392,6 @@ Last: Provide Resources
 | 🍎 Health Education Letters | 💡 Provide information on health and wellness | 👩‍⚕️ Patient demographics, 📚 Education topic |
 
 
-## Sam and Aaron - Silfa Fissure Dive Between North America and Eurasian Tectonic Plates
-
-Youtube Video: https://www.youtube.com/watch?v=CWkeyaryk1w
-
-https://clipchamp.com/watch/Lqb3kV7gj9i
-
-1️⃣ 🛫 Arrival to Iceland 🇮🇸
-Samantha and Aaron Wacker embark on a thrilling journey to Iceland to explore the Silfra Fissure diving between the North American and Eurasian tectonic plates.  Our local guide Luis along with fellow divers, making new friends in the process.
-2️⃣ 🏞️ Exploring the Golden Circle ⭕
-Before diving, Samantha and Aaron tour the famous Golden Circle.
-We visit Þingvellir National Park, Geysir hot springs, and the powerful Gullfoss waterfall and marvel at Iceland's stunning natural beauty.
-3️⃣ 🤿 Preparing for the Dive: Gear and Briefing ⚙️
-Samantha, Aaron, and group gather at Silfra Fissure, excited for their dive.
-We suit up in drysuits and receive a comprehensive safety and dive briefing.
-The divers learn about the geological significance of the Silfra Fissure and its crystal-clear glacial waters.
-4️⃣ 🐠 Diving into the Silfra Fissure: An Unforgettable Experience 🐟
-Samantha and Aaron dive into the icy waters, experiencing the incredible visibility Silfra offers.
-They swim through the Big Crack, and majestic Cathedral, marveling at the vibrant underwater colors and unique rock formations and feel the thrill of touching both the North American and Eurasian tectonic plates at the same time.
-5️⃣ 🎉 Celebrating Their Achievement and Heading Home 🏠
-After the dive, Samantha, Aaron, and their group share stories and laughter over a warm meal.
-They celebrate their unique accomplishment, and the bonds they've formed with their fellow divers.
-With memories to last a lifetime, the couple returns home, excited to share their Silfra Fissure adventure with friends and family.
 
 ## Focus on Letter and Writing Opportunities along with Integration into Health and Medical Workflow
 
