@@ -10,6 +10,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 https://huggingface.co/spaces/IcelandAI/AnimalsOfIceland
 https://huggingface.co/spaces/IcelandAI/Iceland-Top-Ten-Things-To-See
 
+AI and Pharmacogenomics - Manolis Kellis: Evolution of Human Civilization and Superintelligent AI - https://www.youtube.com/watch?v=wMavKrA-4do&t=1510s
+
 ## Sam and Aaron - Silfa Fissure Dive Between North America and Eurasian Tectonic Plates
 
 Youtube Video: https://www.youtube.com/watch?v=CWkeyaryk1w
