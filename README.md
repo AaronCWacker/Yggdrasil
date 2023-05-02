@@ -2,8 +2,7 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Tuesday May 2nd, 2023
-AI-ChatGPT-Procedure-Cost-Body-Map - a Hugging Face Space by awacke1
-https://huggingface.co/spaces/awacke1/Generative-AI-Procedure-Cost-Summary
+AI-ChatGPT-Procedure-Cost-Body-Map - https://huggingface.co/spaces/awacke1/Generative-AI-Procedure-Cost-Summary
 
 ## Test for keyword match for service validation
 
@@ -35,6 +34,123 @@ Generate a keyword search list of top ten word pairs to find in clinical documen
 | Ankle Fusion     | 27750-27872                 | M25.771, M25.772 | X-ray of affected ankle joint | ankle pain, joint degeneration, ankle arthritis, joint space narrowing, bone-on-bone, ankle instability, functional impairment, ankle deformity, limited mobility, ankle stiffness |
 | Inguinal Hernia  | 49491-49525                 | K40.90          | X-ray of affected herniated area | hernia bulge, inguinal pain, groin swelling, hernia reducibility, bowel obstruction, hernia incarceration, hernia strangulation, physical exam findings, positive Valsalva, functional impairment |
 | Total Elbow      | 24360-24392                 | M19.011, M19.012 | X-ray of affected elbow joint | elbow pain, joint degeneration, elbow arthritis, joint space narrowing, bone-on-bone, elbow instability, functional impairment, elbow deformity, limited mobility, elbow stiffness |
+
+Generate a table of prior authorization cpt code guides for medical necessity calculation for popular MSK services such as knee replacement and hip replacement surgery along with CPT codes for criteria and ICD10 code and xray observations needed to compute medical necessity and prior auth approval based on policy using the guide below. Add ten lines of markdown code in a table for MSK for this information. 20 🦶 Feet 💪 Muscles Movement and strength 🏋️‍♂️ Musculoskeletal Disorders 176 97110 97799
+
+
+| MSK Service | CPT Code for Criteria | ICD10 Code | Xray Observations |
+|-------------------|----------------------|----------------------|-----------------------------------|
+| Knee Replacement | 27447 | M17.0, M17.1, M17.2 | X-ray of affected knee joint |
+| Hip Replacement | 27130 | M16.1, M16.2, M16.4 | X-ray of affected hip joint |
+| ACL Repair | 29888 | S83.511A | X-ray of affected knee joint |
+| Rotator Cuff | 29827 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Carpal Tunnel | 64721 | G56.00 | X-ray of affected wrist joint |
+| Spinal Fusion | 22612 | M51.06, M43.16 | X-ray of affected spinal region |
+| Total Shoulder | 23472 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Ankle Fusion | 27870 | M25.771, M25.772 | X-ray of affected ankle joint |
+| Inguinal Hernia | 49505 | K40.90 | X-ray of affected herniated area |
+| Total Elbow | 24363 | M19.011, M19.012 | X-ray of affected elbow joint |
+
+modify table to contain CPT code ranges that are typically used instead of a single code
+
+
+| MSK Service | CPT Code Range for Criteria | ICD10 Code | Xray Observations |
+|-------------------|---------------------------|----------------------|-----------------------------------|
+| Knee Replacement | 27130-27447 | M17.0, M17.1, M17.2 | X-ray of affected knee joint |
+| Hip Replacement | 27130-27132, 27134-27137 | M16.1, M16.2, M16.4 | X-ray of affected hip joint |
+| ACL Repair | 29888 | S83.511A | X-ray of affected knee joint |
+| Rotator Cuff | 29827 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Carpal Tunnel | 64721 | G56.00 | X-ray of affected wrist joint |
+| Spinal Fusion | 22554-22633 | M51.06, M43.16 | X-ray of affected spinal region |
+| Total Shoulder | 23472 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Ankle Fusion | 27750-27872 | M25.771, M25.772 | X-ray of affected ankle joint |
+| Inguinal Hernia | 49491-49525 | K40.90 | X-ray of affected herniated area |
+| Total Elbow | 24360-24392 | M19.011, M19.012 | X-ray of affected elbow joint |
+
+
+# Tuesday May 2nd, 2023
+AI-ChatGPT-Procedure-Cost-Body-Map - https://huggingface.co/spaces/awacke1/Generative-AI-Procedure-Cost-Summary
+
+## Test for keyword match for service validation
+
+Generate a keyword search list of top ten word pairs to find in clinical document to produce evidence of medical necessity for MSK services using the information in table below.  For each line create a new column of top ten word pair terms that if found validate the medical nessity of services given CPT and ICD codes for services and diagnosis:  
+
+| MSK Service | CPT Code Range for Criteria | ICD10 Code | Xray Observations |
+|-------------------|---------------------------|----------------------|-----------------------------------|
+| Knee Replacement | 27130-27447 | M17.0, M17.1, M17.2 | X-ray of affected knee joint |
+| Hip Replacement | 27130-27132, 27134-27137 | M16.1, M16.2, M16.4 | X-ray of affected hip joint |
+| ACL Repair | 29888 | S83.511A | X-ray of affected knee joint |
+| Rotator Cuff | 29827 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Carpal Tunnel | 64721 | G56.00 | X-ray of affected wrist joint |
+| Spinal Fusion | 22554-22633 | M51.06, M43.16 | X-ray of affected spinal region |
+| Total Shoulder | 23472 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Ankle Fusion | 27750-27872 | M25.771, M25.772 | X-ray of affected ankle joint |
+| Inguinal Hernia | 49491-49525 | K40.90 | X-ray of affected herniated area |
+| Total Elbow | 24360-24392 | M19.011, M19.012 | X-ray of affected elbow joint |
+
+
+| MSK Service      | CPT Code Range for Criteria | ICD10 Code      | Xray Observations           | Top 10 Word Pair Terms                         |
+|------------------|-----------------------------|-----------------|-----------------------------|-----------------------------------------------|
+| Knee Replacement | 27130-27447                 | M17.0, M17.1, M17.2  | X-ray of affected knee joint  | knee pain, joint degeneration, osteoarthritis, joint space narrowing, bone-on-bone, knee instability, knee stiffness, functional impairment, knee deformity, limited mobility |
+| Hip Replacement  | 27130-27132, 27134-27137    | M16.1, M16.2, M16.4  | X-ray of affected hip joint   | hip pain, joint degeneration, hip osteoarthritis, joint space narrowing, bone-on-bone, hip instability, hip stiffness, functional impairment, hip deformity, limited mobility |
+| ACL Repair       | 29888                       | S83.511A        | X-ray of affected knee joint  | ACL tear, knee instability, positive Lachman test, positive pivot-shift test, knee swelling, joint effusion, loss of motion, knee pain, functional limitation, joint laxity |
+| Rotator Cuff     | 29827                       | M75.111, M75.12 | X-ray of affected shoulder joint | rotator cuff tear, shoulder pain, positive drop arm test, decreased range of motion, shoulder weakness, night pain, functional impairment, shoulder stiffness, limited mobility, joint degeneration |
+| Carpal Tunnel    | 64721                       | G56.00          | X-ray of affected wrist joint | wrist pain, numbness, tingling, positive Phalen's test, positive Tinel's sign, median nerve compression, nocturnal symptoms, grip weakness, functional limitation |
+| Spinal Fusion    | 22554-22633                 | M51.06, M43.16  | X-ray of affected spinal region | back pain, disc degeneration, spondylolisthesis, spinal stenosis, foraminal stenosis, loss of disc height, sciatica, nerve root compression, functional impairment, limited mobility |
+| Total Shoulder   | 23472                       | M75.111, M75.12 | X-ray of affected shoulder joint | shoulder pain, joint degeneration, glenohumeral arthritis, joint space narrowing, shoulder instability, functional impairment, shoulder stiffness, bone-on-bone, limited mobility, rotator cuff tear |
+| Ankle Fusion     | 27750-27872                 | M25.771, M25.772 | X-ray of affected ankle joint | ankle pain, joint degeneration, ankle arthritis, joint space narrowing, bone-on-bone, ankle instability, functional impairment, ankle deformity, limited mobility, ankle stiffness |
+| Inguinal Hernia  | 49491-49525                 | K40.90          | X-ray of affected herniated area | hernia bulge, inguinal pain, groin swelling, hernia reducibility, bowel obstruction, hernia incarceration, hernia strangulation, physical exam findings, positive Valsalva, functional impairment |
+| Total Elbow      | 24360-24392                 | M19.011, M19.012 | X-ray of affected elbow joint | elbow pain, joint degeneration, elbow arthritis, joint space narrowing, bone-on-bone, elbow instability, functional impairment, elbow deformity, limited mobility, elbow stiffness |
+
+
+Short example with markdown:
+
+**Knee Replacement:** The patient is a 65-year-old male presenting with severe **knee pain** and stiffness in the left knee. The patient's pain has been progressively worsening, and he now experiences difficulty walking and climbing stairs. Physical examination reveals significant **functional impairment** and crepitus during knee flexion. X-ray imaging shows advanced **osteoarthritis** with **joint space narrowing** and **bone-on-bone** contact. There is also evidence of **knee deformity** and **joint degeneration**. The patient has tried conservative management, including physical therapy and medication, without success. Considering the patient's clinical presentation and radiographic findings, a total knee replacement is recommended to improve the patient's quality of life and mobility.
+
+**Hip Replacement:** A 70-year-old female patient presents with chronic left **hip pain** and difficulty walking. The patient reports a history of worsening pain over the past two years, with limited response to conservative treatments. Physical examination reveals **limited mobility** and **hip stiffness**. The patient's gait is antalgic, and she is unable to perform a straight leg raise due to pain. X-ray imaging of the left hip joint demonstrates severe **hip osteoarthritis** with significant **joint space narrowing**, **bone-on-bone** contact, and **hip deformity**. Given the patient's debilitating symptoms, **functional impairment**, and failure to respond to conservative treatment, a total hip replacement is recommended to relieve pain and restore function.
+
+
+Long example with markdown:
+
+
+
+
+
+**Knee Replacement:** Mr. Johnson, a 65-year-old male, presented to the clinic with a history of worsening left **knee pain** that began about three years ago. The patient has tried multiple conservative treatments, including physical therapy, over-the-counter pain relievers, and corticosteroid injections. However, these treatments provided only temporary relief, and his pain has continued to worsen. The patient now experiences difficulty walking, climbing stairs, and performing daily activities due to the severity of the pain. During the physical examination, Mr. Johnson's left knee joint exhibited significant **functional impairment** with limited range of motion, crepitus during flexion, and a positive McMurray's test. The patient's medical history included obesity and type 2 diabetes, which may have contributed to the **joint degeneration**. Mr. Johnson's pain has affected his quality of life, causing sleep disturbances and difficulty in maintaining an active lifestyle.
+
+Radiographic assessment of the left knee joint revealed advanced **osteoarthritis** with substantial **joint space narrowing**, subchondral sclerosis, and osteophyte formation. There was also evidence of **bone-on-bone** contact and **knee deformity** in the form of varus angulation. A series of weight-bearing x-rays were performed, which confirmed the severity of the degenerative changes. Laboratory tests ruled out the presence of an inflammatory condition, such as rheumatoid arthritis. Given the severity of the patient's symptoms and the lack of response to conservative treatments, Mr. Johnson was referred to an orthopedic surgeon for a total knee replacement evaluation. The surgeon discussed the risks and benefits of the procedure with the patient and his family. After considering the available options, the patient decided to proceed with the total knee replacement surgery.
+
+The surgery was performed using a medial parapatellar approach, and the patient's knee joint was exposed. The surgeon removed the damaged cartilage and bone, reshaped the remaining bone surfaces, and implanted the prosthetic components. A tourniquet was used during the surgery to minimize blood loss. The patient tolerated the procedure well and was transferred to the recovery room in stable condition. Postoperative x-rays confirmed the correct alignment and positioning of the prosthetic components. Mr. Johnson was started on a multimodal pain management regimen, including acetaminophen, nonsteroidal anti-inflammatory drugs, and opioid medications as needed for breakthrough pain. The patient was encouraged to participate in early ambulation and range of motion exercises with the assistance of a physical therapist.
+
+During the postoperative period, Mr. Johnson experienced a significant reduction in his **knee pain** and demonstrated progressive improvement in his mobility. He participated in daily physical therapy sessions, focusing on strengthening exercises, gait training, and balance activities. The patient was discharged home after a one-week hospital stay with instructions to continue physical therapy and follow up with the surgeon in two weeks. At the follow-up appointment, Mr. Johnson reported continued improvement in his pain and function. The surgical incision was healing well without signs of infection, and the patient's range of motion was gradually improving. The surgeon recommended continuing physical therapy and gradually increasing activity levels, with the goal of returning to normal daily activities within the next few months. Mr. Johnson expressed satisfaction with the outcome of the surgery and the improvement in his quality of life.
+
+_Outline_
+- Knee pain: Start 1, End 8
+- Functional impairment: Start 129, End 150
+- Joint degeneration: Start 247, End 264
+- Osteoarthritis: Start 361, End 374
+- Joint space narrowing: Start 376, End 394
+- Bone-on-bone
+...
+
+**Knee Replacement:** The patient is a 65-year-old male with a history of osteoarthritis in both knees. The left knee has been causing significant **knee pain** (9, 11) and stiffness, making it difficult for the patient to perform daily activities such as walking, climbing stairs, and even sitting for extended periods. The patient has been using a cane for ambulation but now finds it increasingly difficult to bear weight on the left knee. Conservative treatments, including nonsteroidal anti-inflammatory drugs (NSAIDs) and physical therapy, have been attempted without significant improvement.
+
+Over the past year, the patient's symptoms have progressively worsened, and he now experiences severe pain even at rest. The **knee stiffness** (74, 76) has also increased, limiting his range of motion and making it challenging to fully extend or bend the knee. The patient's quality of life has been severely impacted by his inability to participate in previously enjoyed activities such as walking the dog, playing golf, and gardening.
+
+On physical examination, the patient exhibits an antalgic gait, favoring the right leg. Palpation of the left knee reveals tenderness along the medial joint line and significant **functional impairment** (134, 138) during active and passive movements. There is noticeable crepitus and **joint degeneration** (150, 152) during knee flexion, with a reduced range of motion. The patient is unable to perform a single leg stance on the left leg due to pain and instability.
+
+Radiographic evaluation, including X-rays and magnetic resonance imaging (MRI), was performed to assess the severity of the patient's knee osteoarthritis. X-ray imaging shows advanced **osteoarthritis** (178, 180) with **joint space narrowing** (181, 183) and **bone-on-bone** (184, 186) contact in the medial compartment of the left knee. There is also evidence of **knee deformity** (190, 192), with varus angulation and subchondral sclerosis.
+
+The patient has tried multiple conservative management approaches, such as physical therapy, activity modification, and medication. Despite these efforts, the patient's symptoms have not improved, and his quality of life continues to decline. Given the severity of the patient's condition and the failure of conservative treatments, surgical intervention is recommended.
+
+A total knee replacement is proposed as the most appropriate treatment option for this patient. The procedure involves removing damaged joint surfaces and replacing them with prosthetic components to restore joint function and alleviate pain. The patient has been informed of the risks and benefits of the surgery, as well as the expected postoperative rehabilitation process.
+
+In conclusion, the patient is a 65-year-old male with severe left knee pain, stiffness, and functional impairment due to advanced osteoarthritis. Radiographic imaging confirms significant joint degeneration, joint space narrowing, bone-on-bone contact, and knee deformity. Conservative treatments have failed to provide adequate symptom relief. A total knee replacement is recommended to improve the patient's quality of life and mobility.
+
+**Hip Replacement:** A 70-year-old female patient presents with a long-standing history of left **hip pain** (9, 11) and difficulty walking. She reports that her symptoms began approximately three years ago and have progressively worsened over time. The patient has tried various conservative treatments, including pain medications, corticosteroid injections, and physical therapy, without significant relief. Her mobility has become increasingly limited, affecting her ability to perform daily activities and maintain an active lifestyle.
+
+Physical examination reveals **limited mobility** (49, 51) and **hip stiffness** (52, 54) in the left hip joint, with a reduced range of motion in all planes.
+
 
 
 
