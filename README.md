@@ -1,6 +1,45 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tuesday May 2nd, 2023
+AI-ChatGPT-Procedure-Cost-Body-Map - a Hugging Face Space by awacke1
+https://huggingface.co/spaces/awacke1/Generative-AI-Procedure-Cost-Summary
+
+## Test for keyword match for service validation
+
+Generate a keyword search list of top ten word pairs to find in clinical document to produce evidence of medical necessity for MSK services using the information in table below.  For each line create a new column of top ten word pair terms that if found validate the medical nessity of services given CPT and ICD codes for services and diagnosis:  
+
+| MSK Service | CPT Code Range for Criteria | ICD10 Code | Xray Observations |
+|-------------------|---------------------------|----------------------|-----------------------------------|
+| Knee Replacement | 27130-27447 | M17.0, M17.1, M17.2 | X-ray of affected knee joint |
+| Hip Replacement | 27130-27132, 27134-27137 | M16.1, M16.2, M16.4 | X-ray of affected hip joint |
+| ACL Repair | 29888 | S83.511A | X-ray of affected knee joint |
+| Rotator Cuff | 29827 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Carpal Tunnel | 64721 | G56.00 | X-ray of affected wrist joint |
+| Spinal Fusion | 22554-22633 | M51.06, M43.16 | X-ray of affected spinal region |
+| Total Shoulder | 23472 | M75.111, M75.12 | X-ray of affected shoulder joint |
+| Ankle Fusion | 27750-27872 | M25.771, M25.772 | X-ray of affected ankle joint |
+| Inguinal Hernia | 49491-49525 | K40.90 | X-ray of affected herniated area |
+| Total Elbow | 24360-24392 | M19.011, M19.012 | X-ray of affected elbow joint |
+
+
+| MSK Service      | CPT Code Range for Criteria | ICD10 Code      | Xray Observations           | Top 10 Word Pair Terms                         |
+|------------------|-----------------------------|-----------------|-----------------------------|-----------------------------------------------|
+| Knee Replacement | 27130-27447                 | M17.0, M17.1, M17.2  | X-ray of affected knee joint  | knee pain, joint degeneration, osteoarthritis, joint space narrowing, bone-on-bone, knee instability, knee stiffness, functional impairment, knee deformity, limited mobility |
+| Hip Replacement  | 27130-27132, 27134-27137    | M16.1, M16.2, M16.4  | X-ray of affected hip joint   | hip pain, joint degeneration, hip osteoarthritis, joint space narrowing, bone-on-bone, hip instability, hip stiffness, functional impairment, hip deformity, limited mobility |
+| ACL Repair       | 29888                       | S83.511A        | X-ray of affected knee joint  | ACL tear, knee instability, positive Lachman test, positive pivot-shift test, knee swelling, joint effusion, loss of motion, knee pain, functional limitation, joint laxity |
+| Rotator Cuff     | 29827                       | M75.111, M75.12 | X-ray of affected shoulder joint | rotator cuff tear, shoulder pain, positive drop arm test, decreased range of motion, shoulder weakness, night pain, functional impairment, shoulder stiffness, limited mobility, joint degeneration |
+| Carpal Tunnel    | 64721                       | G56.00          | X-ray of affected wrist joint | wrist pain, numbness, tingling, positive Phalen's test, positive Tinel's sign, median nerve compression, nocturnal symptoms, grip weakness, functional limitation |
+| Spinal Fusion    | 22554-22633                 | M51.06, M43.16  | X-ray of affected spinal region | back pain, disc degeneration, spondylolisthesis, spinal stenosis, foraminal stenosis, loss of disc height, sciatica, nerve root compression, functional impairment, limited mobility |
+| Total Shoulder   | 23472                       | M75.111, M75.12 | X-ray of affected shoulder joint | shoulder pain, joint degeneration, glenohumeral arthritis, joint space narrowing, shoulder instability, functional impairment, shoulder stiffness, bone-on-bone, limited mobility, rotator cuff tear |
+| Ankle Fusion     | 27750-27872                 | M25.771, M25.772 | X-ray of affected ankle joint | ankle pain, joint degeneration, ankle arthritis, joint space narrowing, bone-on-bone, ankle instability, functional impairment, ankle deformity, limited mobility, ankle stiffness |
+| Inguinal Hernia  | 49491-49525                 | K40.90          | X-ray of affected herniated area | hernia bulge, inguinal pain, groin swelling, hernia reducibility, bowel obstruction, hernia incarceration, hernia strangulation, physical exam findings, positive Valsalva, functional impairment |
+| Total Elbow      | 24360-24392                 | M19.011, M19.012 | X-ray of affected elbow joint | elbow pain, joint degeneration, elbow arthritis, joint space narrowing, bone-on-bone, elbow instability, functional impairment, elbow deformity, limited mobility, elbow stiffness |
+
+
+
+
+
 # Monday May 1st, 2023
 
 1. Generative AI Letters for Managing Information Overload (GAL-MIO) - https://huggingface.co/spaces/awacke1/Streamlit-AI-Letter-UI
