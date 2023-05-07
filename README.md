@@ -1,8 +1,63 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 🎵 Little Red 🚗 Comedy 🎭
+
+| Chord | Emoji |
+|-------|-------|
+| Gb    | 🐴    |
+| Ab    | 🚗    |
+| Bbm   | 🚀    |
+| Bbm7  | 🏎️    |
+| Gbmaj7| 🤣    |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Gb (🐴) | I guess I should have known, it's kinda funny  |
+| Ab (🚗) | By the way you parked your car, all clumsy     |
+| Bbm(🚀) | That it wouldn't last, but it was quite a ride |
+| Bbm7(🏎️)| Gbmaj7(🤣) Gb(🐴) With your quirky style         |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Ab (🚗) | Believing in one-night stands, no strings attached|
+| Bbm(🚀) | Bbm7(🏎️) Gbmaj7(🤣) Guess that's how it's supposed to be |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Gb (🐴) | I must be a fool, 'cause you had horseshoes    |
+| Ab (🚗) | Bbm(🚀) Bbm7(🏎️) Gbmaj7(🤣) But you used them on shoes |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Gb (🐴) | It was a Saturday night, and I'm feeling all right |
+| Ab (🚗) | Bbm(🚀) Bbm7(🏎️) Ab(🚗) What have I got to lose? |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Gb (🐴) | Ab(🚗) Db(🎭) Little red 🚗, you're too darn fast   |
+| Gb (🐴) | Ab(🚗) Bbm7(🏎️) Our love's a comedy, will it last?  |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Gb (🐴) | Ab(🚗) Db(🎭) Little red 🚗, you need some brakes  |
+| Gb (🐴) | Ab(🚗) Absus Ab(🚗) For love's sake, give us a break |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Bbm7(🏎️)| Your body's so funny, it should be a crime        |
+| Gb (🐴) | 🤣 On the edge of being a meme, all the time         |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Ab (🚗) | Move over, baby, let me take the wheel          |
+| Bbm7(🏎️)| Ab(🚗) We'll tame your little red comedy-mobile  |
+
+
 
 ## Title: 🎵 Racing Hearts: Love, Friendship, and Speed 🎵
+
+
 
 Chord Table:
 
