@@ -1,6 +1,190 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+| Chords | Lyrics       | Chords | Lyrics | Chords | Lyrics | Chords | Lyrics      |
+|--------|--------------|--------|--------|--------|--------|--------|-------------|
+| C (🌞) | In Emojiville| G (🎸) | where  | Am (🎹)| dreams | F (🌈) | come true,  |
+| C (🌞) | Our furry    | G (🎸) | friends | Am (🎹)| had a  | F (🌈) | plan in view,|
+
+| Chords | Lyrics         | Chords | Lyrics   | Chords | Lyrics  | Chords | Lyrics        |
+|--------|----------------|--------|----------|--------|---------|--------|---------------|
+| C (🌞) | To open AirBnB | G (🎸) | in their  | Am (🎹)| homeland| F (🌈) | for all to stay|
+| C (🌞) | With open hearts| G (🎸)| and laughter| Am (🎹)| so bright| F (🌈)| they built their way|
+
+| Chords | Lyrics      | Chords | Lyrics  | Chords | Lyrics  | Chords | Lyrics     |
+|--------|-------------|--------|---------|--------|---------|--------|------------|
+| C (🌞) | In Emojiville| G (🎸)| where love| Am (🎹)| abounds| F (🌈) | hearts heal |
+| C (🌞) | Through loss | G (🎸)| and joy  | Am (🎹)| we find | F (🌈) | our way    |
+
+
+
+| Chords       | Lyrics | Chords      | Lyrics | Chords       | Lyrics | Chords       | Lyrics | Chords       | Lyrics |
+|--------------|--------|-------------|--------|--------------|--------|--------------|--------|--------------|--------|
+| C (🌞)        | In     | G (🎸)       | Emoji- | Am (🎹)      | ville, | F (🌈)       | where  | C (🌞)       | dreams |
+| G (🎸)        | where  | F (🌈)       | come   | C (🌞)       | true,  | G (🎸)       | our    | Am (🎹)      | furry  |
+| F (🌈)        | friends| C (🌞)       | they   | G (🎸)       | had    | Am (🎹)      | a      | F (🌈)       | plan,  |
+| C (🌞)        | to     | G (🎸)       | open   | Am (🎹)      | an     | F (🌈)       | AirBnB,| C (🌞)       | in     |
+| G (🎸)        | their  | F (🌈)       | home-  | C (🌞)       | land,  | G (🎸)       | a      | Am (🎹)      | cozy   |
+| F (🌈)        | place  | C (🌞)       | for    | G (🎸)       | all    | Am (🎹)      | to     | F (🌈)       | stay.  |
+| C (🌞)        | With   | G (🎸)       | open   | Am (🎹)      | hearts | F (🌈)       | and    | C (🌞)       | laughter|
+| G (🎸)        | bright,| F (🌈)       | they   | C (🌞)       | built  | G (🎸)       | a      | Am (🎹)      | place, |
+| F (🌈)        | to     | C (🌞)       | share  | G (🎸)       | the    | Am (🎹)      | light, | F (🌈)       | in     |
+| C (🌞)        | Emoji- | G (🎸)       | ville, | Am (🎹)      | where  | F (🌈)       | hearts | C (🌞)       | heal.  |
+| G (🎸)        | Through| F (🌈)       | loss   | C (🌞)       | and    | G (🎸)       | joy,   | Am (🎹)      | we     |
+| F (🌈)        | perse- | C (🌞)       | vere,  | G (🎸
+
+
+ # Chords (🌞 for C, 🎸 for G, 🎹 for Am, 🌈 for F) and keywords in the lyrics
+ 
+| Chords | Lyrics                                 |
+|--------|----------------------------------------|
+| 🌞      | In Emojiville, where 💭 come true,    |
+| 🎸      | Our 🐾 friends, they had a plan,      |
+| 🎹      | To open an AirBnB, in their 🏡 land,  |
+| 🌈      | A cozy place, for all to stay.        |
+|        |                                        |
+| 🌞      | 🏠, 🌳, 🌸, a home so sweet,          |
+| 🎸      | 🐼, 🐨, 🦩, 🦒, and 🦔, they'd meet,   |
+| 🎹      | With open ❤️ and laughter bright,     |
+| 🌈      | They built a place, to share the light.|
+|        |                                        |
+| Chorus |                                        |
+|        |                                        |
+| 🌞      | Emojiville, a town of 💗 and cheer,  |
+| 🎸      | Through loss and joy, we persevere,   |
+| 🎹      | With 🎶, friends, and laughter near,  |
+| 🌈      | We'll find our way, through every tear.|
+|        |                                        |
+| 🌞      | Healing ❤️, with tunes and song,      |
+| 🎸      | Healthy habits, to make us strong,    |
+| 🎹      | 🥗, 🏃‍♂️, 🧘‍♀️, our journey's just begun,|
+| 🌈      | In Emojiville, where 💕 is won.       |
+|        |                                        |
+| 🌞      | With every step, we'll find our way,  |
+| 🎸      | In this town, where ✨ stays,          |
+| 🎹      | Through AirBnBs and healing ❤️,       |
+| 🌈      | Emojiville's 💖, will never part.     |
+
+
+
+
+# Song:
+| Chords | Lyrics                                |
+|--------|---------------------------------------|
+| C      | In Emojiville, where dreams come true,|
+| G      | Our furry friends, they had a plan,   |
+| Am     | To open an AirBnB, in their homeland, |
+| F      | A cozy place, for all to stay.       |
+|        |                                       |
+| C      | 🏠, 🌳, 🌸, a home so sweet,          |
+| G      | 🐼, 🐨, 🦩, 🦒, and 🦔, they'd meet,   |
+| Am     | With open hearts and laughter bright, |
+| F      | They built a place, to share the light.|
+|        |                                       |
+| Chorus |                                       |
+|        |                                       |
+| C      | Emojiville, a town of love and cheer, |
+| G      | Through loss and joy, we persevere,   |
+| Am     | With music, friends, and laughter near,|
+| F      | We'll find our way, through every tear.|
+|        |                                       |
+| C      | Healing hearts, with tunes and song,  |
+| G      | Healthy habits, to make us strong,    |
+| Am     | 🥗, 🏃‍♂️, 🧘‍♀️, our journey's just begun,|
+| F      | In Emojiville, where love is won.     |
+|        |                                       |
+| C      | With every step, we'll find our way,  |
+| G      | In this town, where magic stays,      |
+| Am     | Through AirBnBs and healing hearts,   |
+| F      | Emojiville's love, will never part.   |
+
+
+
+
+## Title: 🏠 Emojiville's AirBnB Adventure 🏠
+
+Once upon a time in the colorful land of Emojiville, five emoji friends, 
+🐼 the Panda, 
+🐨 the Koala, 
+🦩 the Flamingo, 
+🦒 the Giraffe, and 
+🦔 the Hedgehog, 
+decided to open an AirBnB.
+
+🏡 The Search for the Perfect House
+a. 🗺️ Exploring the town together
+b. 🏚️ Visiting various properties
+c. 🌳 Finding a cozy house near a park
+
+🛠️ Renovating and Decorating
+a. 🎨 Painting the walls in bright colors
+b. 🛋️ Furnishing the rooms with unique pieces
+c. 🌸 Creating a beautiful garden
+
+🎉 Grand Opening
+a. 💌 Sending out invitations
+b. 🎈 Hosting a fun-filled opening party
+c. 📸 Sharing pictures and memories online
+
+🌟 A Five-Star Experience
+a. 🛏️ Welcoming guests from all over the world
+b. 🥞 Serving delicious breakfasts every morning
+c. 🗣️ Sharing stories and making new friends
+
+🏆 The Award-Winning AirBnB
+a. 📰 Featured in a popular travel magazine
+b. ⭐ Gaining a five-star rating and rave reviews
+c. 🥇 Becoming the most sought-after AirBnB in Emojiville
+
+In the end, the five emoji friends transformed their dream into a reality, creating the best AirBnB experience in Emojiville. Their AirBnB became a popular destination for travelers from far and wide, who cherished the warm hospitality, unique accommodations, and the unforgettable friendships forged during their stay. And so, 🐼, 🐨, 🦩, 🦒, and 🦔 continued their journey, welcoming new guests into their home and creating memories that would last a lifetime.
+
+
+
+
+
+User
+provide insight on how to get someone into healthy happy habits after loss using better song and emoji list with characters fun and witty at doctoral level.
+ChatGPT
+Title: 🌈 Healing Hearts: A Musical Emoji Journey to Happiness 🌈
+
+After experiencing a loss, it can be challenging to reestablish healthy and happy habits. Using music, fun emoji characters, and a witty approach, a doctor may help someone find the strength and motivation to rebuild their life. Here's a step-by-step guide to use songs and emojis to encourage positive habits:
+
+🎶 Create an uplifting playlist
+a. 🎵 Choose songs with uplifting lyrics and melodies
+b. 🎧 Incorporate various genres and tempos to maintain interest
+c. 🔄 Update the playlist regularly to keep it fresh and engaging
+
+🏃‍♂️ Incorporate physical activity
+a. 🚶‍♀️ Start with gentle walks or yoga sessions
+b. 🏋️‍♂️ Gradually increase intensity and variety (e.g., dancing, swimming, or hiking)
+c. 💪 Set achievable fitness goals to maintain motivation
+
+🥗 Encourage a balanced diet
+a. 🍎 Promote the consumption of fresh fruits and vegetables
+b. 🥑 Highlight the importance of healthy fats and lean proteins
+c. 🚫 Limit processed foods and added sugars
+
+🌟 Establish a daily routine
+a. ⏰ Create a consistent sleep schedule
+b. 🧘‍♀️ Incorporate mindfulness practices, like meditation or deep breathing exercises
+c. 📝 Schedule time for hobbies and relaxation
+
+🤝 Foster social connections
+a. 👯‍♂️ Encourage participation in group activities, such as joining a local club or volunteering
+b. 🗣️ Promote open communication with friends and family
+c. 💞 Create a supportive network of individuals who have experienced a similar loss
+
+📚 Provide educational resources
+a. 📘 Share books or articles on grief and loss
+b. 🎙️ Recommend podcasts or TED talks on healing
+
+
+
+
+
+
+
+
 # Saturday, May 6th 2023
 
 Title: 🎶 Funky Furry Friends Adventure 🎶
