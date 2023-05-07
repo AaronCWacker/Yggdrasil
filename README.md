@@ -73,6 +73,48 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 |                       | Lantern of Light         | 🏮             |
 |                       | Scroll of Knowledge      | 📜             |
 
+| 🦊 | 🌳 | 🌄 | 🐠 |
+
+Ensure there is a sequence of four matching emojis in a row for each animal hero (🦁, 🐰, 🐸, 🦊). Here's an example board in markdown:
+
+import random
+
+emoji_dict = {
+    'Enchanted Forest': ['🌳', '🐿️', '🐦', '🦌', '🐻', '🍃', '🍄', '🏞️', '🧚‍♀️', '🌾'],
+    'Mysterious Mountains': ['🦅', '🐐', '🌄', '🥾', '💦', '❄️', '🏛️', '👻', '⚡', '💎'],
+    'Sparkling Sea': ['🐬', '🐠', '🐳', '🏝️', '🚢', '🐚', '🐉', '💰', '🧜‍♀️', '🌩️'],
+    'Magical Items': ['🪄', '🧪', '🗺️', '💍', '👘', '🥾', '🧭', '📿', '🏮', '📜']
+}
+
+animal_heroes = ['🦁', '🐰', '🐸', '🦊']
+
+
+def create_board(emoji_dict, animal_heroes):
+    board = [[' ' for _ in range(10)] for _ in range(10)]
+    
+    # Place animal_heroes with four in a row
+    for idx, hero in enumerate(animal_heroes):
+        for i in range(4):
+            board[idx * 2][i] = hero
+
+    # Fill the rest of the board with random emojis
+    all_emojis = [emoji for suit in emoji_dict.values() for emoji in suit]
+    for i in range(10):
+        for j in range(10):
+            if board[i][j] == ' ':
+                board[i][j] = random.choice(all_emojis)
+    
+    return board
+
+
+def print_board(board):
+    for row in board:
+        print('|'.join(row))
+        print('-' * 41)
+
+
+board = create_board(emoji_dict, animal_heroes)
+print_board(board)
 
 
 
