@@ -1,6 +1,81 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Saturday, May 6th 2023
+
+## Title: 🏰
+## The Enchanted TTRPG Adventure: Four Furry Friends' Fantastical Quest 🐾
+
+## Tags: 
+## 🦁#BraveLeo, 🐰#CleverRuby, 🐸#WiseFreddie, 🦊#SwiftFlick, 🌈#MagicalTTRPG, 🎲#EnchantedAdventure, 🌳#FantasyForest, 💎#CrystalOfFriendship, 🤝#UnitedAbilities, 🎉#FurryCelebration
+
+| 🏰 The Enchanted TTRPG Adventure: Four Furry Friends' Fantastical Quest 🐾 |
+|--------------------------------------------------------------------------|
+| 1. Animal Heroes 🦁🐰🐸🦊                                                 |
+| A. Leo, the brave lion 🦁                                                |
+| B. Ruby, the clever rabbit 🐰                                           |
+| C. Freddie, the wise frog 🐸                                            |
+| D. Flick, the swift fox 🦊                                               |
+| 2. The Magical TTRPG World 🌈🎲                                           |
+| A. Enchanted forest 🌳                                                   |
+| B. Mysterious mountains ⛰️                                               |
+| C. Sparkling sea 🌊                                                      |
+| 3. The Quest for the Crystal of Friendship 💎🤝                           |
+| A. Overcoming challenges 🐉🔥                                            |
+| B. Uniting their unique abilities 🦁🐰🐸🦊                               |
+| C. Discovering the true meaning of friendship 🤗                         |
+| 4. The Crystal of Friendship and the Celebration 🎉🏆                      |
+| A. Retrieving the crystal 💎                                             |
+| B. Eternal bond of friendship 🤝                                        |
+| C. Sharing their adventure with others 📖                                |
+
+
+| Suit                  | Card Name                | Emoji          |
+|-----------------------|--------------------------|----------------|
+| Enchanted Forest 🌳    | Friendly Tree            | 🌳              |
+|                       | Curious Squirrel         | 🐿️             |
+|                       | Chatty Bird              | 🐦             |
+|                       | Playful Deer             | 🦌             |
+|                       | Sleepy Bear              | 🐻             |
+|                       | Mysterious Path          | 🍃             |
+|                       | Magical Mushroom         | 🍄             |
+|                       | Enchanted River          | 🏞️            |
+|                       | Forest Guardian          | 🧚‍♀️          |
+|                       | Whimsical Willow         | 🌾             |
+| Mysterious Mountains ⛰️ | Soaring Eagle            | 🦅            |
+|                       | Mountain Goat            | 🐐             |
+|                       | Hidden Cave              | 🌄             |
+|                       | Winding Trail            | 🥾             |
+|                       | Majestic Waterfall       | 💦             |
+|                       | Snowy Peak               | ❄️             |
+|                       | Ancient Ruins            | 🏛️            |
+|                       | Mountain Spirit          | 👻             |
+|                       | Thundering Gorge         | ⚡             |
+|                       | Crystal Mine             | 💎             |
+| Sparkling Sea 🌊       | Playful Dolphin          | 🐬             |
+|                       | Colorful Fish            | 🐠             |
+|                       | Majestic Whale           | 🐳             |
+|                       | Tropical Island          | 🏝️            |
+|                       | Sunken Ship              | 🚢             |
+|                       | Coral Reef               | 🐚             |
+|                       | Sea Serpent              | 🐉             |
+|                       | Pirate Treasure          | 💰             |
+|                       | Mermaid's Cove           | 🧜‍♀️          |
+|                       | Stormy Seas              | 🌩️            |
+| Magical Items ✨       | Wand of Friendship       | 🪄             |
+|                       | Potion of Courage        | 🧪             |
+|                       | Map of Destiny           | 🗺️            |
+|                       | Ring of Wisdom           | 💍             |
+|                       | Cloak of Invisibility    | 👘             |
+|                       | Boots of Swiftness       | 🥾             |
+|                       | Enchanted Compass        | 🧭             |
+|                       | Amulet of Protection     | 📿             |
+|                       | Lantern of Light         | 🏮             |
+|                       | Scroll of Knowledge      | 📜             |
+
+
+
+
 # Tuesday May 2nd, 2023
 AI-ChatGPT-Procedure-Cost-Body-Map - https://huggingface.co/spaces/awacke1/Generative-AI-Procedure-Cost-Summary
 
