@@ -1,6 +1,66 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+## Title: 🎵 Racing Hearts: Love, Friendship, and Speed 🎵
+
+Chord Table:
+
+| Chord | Emoji |
+|-------|-------|
+| C     | 🌞    |
+| G     | 🎸    |
+| Am    | 🎹    |
+| F     | 🌈    |
+
+Song 1: Love on the Fast Lane
+
+| Chords | Lyrics                                        |
+|--------|-----------------------------------------------|
+| C (🌞) | Racing hearts, speeding down the track of love|
+| G (🎸) | Our friends 🦊, 🐰, 🦁, 🐸, take the wheel above|
+| Am (🎹)| Love fuels the engine, as they chase their dreams|
+| F (🌈) | Together they soar, beyond limits it seems   |
+
+Chorus
+| C (🌞) | Love on the fast lane, a race that never ends |
+| G (🎸) | Through twists and turns, love always transcends|
+| Am (🎹)| With every mile, their hearts grow closer, my friends|
+| F (🌈) | In the race of love, their journey ascends    |
+
+Song 2: Friends in the Pit Crew
+
+| Chords | Lyrics                                         |
+|--------|------------------------------------------------|
+| C (🌞) | Side by side, they work as one, the perfect team|
+| G (🎸) | Our friends 🦊, 🐰, 🦁, 🐸, in the pit crew, they dream|
+| Am (🎹)| Quick hands and steady hearts, they share the load|
+| F (🌈) | In the race of life, they help each other on the road|
+
+Chorus
+| C (🌞) | Friends in the pit crew, they stand by your side  |
+| G (🎸) | Together they triumph, through every race and tide|
+| Am (🎹)| With love and support, their friendship is their guide|
+| F (🌈) | In the pit crew of life, true friendship resides  |
+
+Song 3: Victory Lane
+
+| Chords | Lyrics                                         |
+|--------|------------------------------------------------|
+| C (🌞) | The finish line in sight, hearts pounding fast  |
+| G (🎸) | Our friends 🦊, 🐰, 🦁, 🐸, memories of love to last  |
+| Am (🎹)| With every lap, closer to the dream they chase  |
+| F (🌈) | In victory lane, they find love, friendship, and grace|
+
+Chorus
+| C (🌞) | Victory lane, the end of a race but just the start |
+| G (🎸) | Of new adventures, for our friends with racing hearts|
+| Am (🎹)| With love, friendship, and speed, they've come so far |
+| F (🌈) | In victory lane, they'll shine like the brightest star |
+
+
+
+
 | Chords | Lyrics       | Chords | Lyrics | Chords | Lyrics | Chords | Lyrics      |
 |--------|--------------|--------|--------|--------|--------|--------|-------------|
 | C (🌞) | In Emojiville| G (🎸) | where  | Am (🎹)| dreams | F (🌈) | come true,  |
