@@ -3,6 +3,37 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Saturday, May 6th 2023
 
+Title: 🎶 Funky Furry Friends Adventure 🎶
+
+Tags: #FunkyMusic, #EmojiSong, #AnimalFriends, #FurryFriends, #Adventure, #EmojiLyrics, #ChordsAndLyrics, #PrinceInspired, #LittleRedCorvette, #Friendship
+
+## Song: | Chords | Lyrics              |
+|--------|---------------------|
+| Dm7    | 🦁 and 🐰,           |
+| G7     | they met one day,   |
+| Cmaj7  | Became best         |
+| Fmaj7  | friends right away. |
+|        |                     |
+| Dm7    | 🐸 joined them,     |
+| G7     | hopped along,       |
+| Cmaj7  | Together they       |
+| Fmaj7  | grew strong.        |
+|        |                     |
+| Chorus |                     |
+|        |                     |
+| Dm7    | 🦁🐰🐸, and          |
+| G7     | 🦊 too,             |
+| Cmaj7  | Funky friends,      |
+| Fmaj7  | their bond so true, |
+| Dm7    | Facing              |
+| G7     | challenges, they    |
+| Cmaj7  | grew,               |
+| Fmaj7  | Together they       |
+|        | always knew.        |
+
+
+
+
 ## Title: 🏰
 ## The Enchanted TTRPG Adventure: Four Furry Friends' Fantastical Quest 🐾
 
