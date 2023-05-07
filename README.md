@@ -1,6 +1,55 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+Chord Table:
+
+| Chord | Emoji |
+|-------|-------|
+| C     | 🌌    |
+| G     | 🚀    |
+| Am    | 🌠    |
+| F     | 🛸    |
+
+| Chords | Lyrics                                        |
+|--------|-----------------------------------------------|
+| C (🌌) | Beyond the Earth, our friends explore new sights|
+| Am (🌠)| With laughter and love, they soar to new heights|
+| F (🛸) | Through galaxies far, the cosmos they roam   |
+| G (🚀) | In this grand adventure, the universe their home|
+
+Chorus
+| C (🌌) | Journey through the stars, their laughter fills the void |
+| Am (🌠)| With each new world, friendships grow, and fears destroyed|
+| F (🛸) | Together they venture, their bond grows stronger, unalloyed|
+| G (🚀) | In this intergalactic adventure, love and laughter deployed|
+
+| Chords | Lyrics                                         |
+|--------|------------------------------------------------|
+| Am (🌠)| Side by side, their laughter echoes through space |
+| F (🛸) | A ragtag crew of friends, united in their chase |
+| C (🌌) | Through unknown realms, their bond transcends the stars|
+| G (🚀) | Cosmic companions, they explore both near and far |
+
+Chorus
+| Am (🌠)| Cosmic companions, laughter through the Milky Way |
+| F (🛸) | Side by side, they journey, love in every ray    |
+| C (🌌) | Through trials and triumphs, friendships never fray |
+| G (🚀) | Cosmic companions, laughter lighting up the way  |
+
+| Chords | Lyrics                                         |
+|--------|------------------------------------------------|
+| F (🛸) | In the heart of the cosmos, a secret they unveil |
+| G (🚀) | The Laughing Nebula, where joy will never fail  |
+| C (🌌) | Together they dance, in a whirl of cosmic delight|
+| Am (🌠)| Embracing the laughter, their spirits shining bright|
+
+Chorus
+| F (🛸) | The Laughing Nebula, where joy and laughter blend  |
+| G (🚀) | With friends by their side, their love will never end |
+| C (🌌) | In this cosmic wonder, they find a love transcendent |
+| Am (🌠)| The Laughing Nebula, a place where laughter's resplendent |
+
+
 
 $ 🎶 Something In The Way 🌉 Comedy 😆
 
