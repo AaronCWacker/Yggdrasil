@@ -1,6 +1,58 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+$ 🎶 Something In The Way 🌉 Comedy 😆
+
+| Chord | Emoji |
+|-------|-------|
+| Fm    | 🌉    |
+| C#/G# | 😆    |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | Underneath the bridge, there's a funny scene    |
+| C#/G#(😆)| Fm(🌉) C#/G#(😆) A clown has found a place to sleep|
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | The animals he's trapped, now part of his act  |
+| C#/G#(😆)| Fm(🌉) C#/G#(😆) They dance and juggle, that's a fact |
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | He's living off of grass, and laughter in the air|
+| C#/G#(😆)| Fm(🌉) C#/G#(😆) Jokes bouncing off the walls everywhere|
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | It's okay to eat fish, but they'll make you laugh|
+| C#/G#(😆)| Fm(🌉) C#/G#(😆) 'Cause they tell jokes as they splash|
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something in the way, mmm  |
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something makes us laugh, yeah|
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something in the way, mmm  |
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something makes us laugh, yeah|
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something in the way, mmm  |
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something makes us laugh, yeah|
+
+| Chords | Lyrics                                          |
+|--------|-------------------------------------------------|
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something in the way, mmm  |
+| Fm (🌉) | C#/G#(😆) Fm(🌉) C#/G#(😆) Something makes us laugh, yeah|
+
+
+
+
+
 # 🎵 Little Red 🚗 Comedy 🎭
 
 | Chord | Emoji |
