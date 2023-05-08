@@ -1,6 +1,26 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Monday, May 8th, 2023
+
+1. ChatGPT
+2. ChatGPT + AI Pipelines:  https://chat.openai.com/?model=gpt-4  
+   - https://huggingface.co/spaces/awacke1/Generative-AI-SOP - https://huggingface.co/spaces/awacke1/AI-Standard-Operating-Procedures - https://huggingface.co/spaces/awacke1/ChatGPT-SOP
+   - https://huggingface.co/spaces/awacke1/Generative-AI-Procedure-Cost-Summary - https://huggingface.co/spaces/awacke1/AI-ChatGPT-CPT-Body-Map-Cost
+   - https://huggingface.co/spaces/awacke1/Generative-AI-Writers-Dashboard - https://huggingface.co/spaces/awacke1/Streamlit-AI-Letter-UI
+   - https://huggingface.co/spaces/awacke1/Generative-AI-EACN - https://huggingface.co/spaces/awacke1/AI-ChatGPT-EACN
+   - https://huggingface.co/spaces/awacke1/Generative-AI-Provider - https://huggingface.co/spaces/awacke1/AI-ChatGPT-Provider
+4. AgentGPT - https://agentgpt.reworkd.ai/
+5. MeetCody - https://www.meetcody.ai/
+6. Jasper - https://www.jasper.ai/
+7. Literally Anything - https://www.literallyanything.io/
+8. Ora.sh - https://ora.ai/
+9. AutoGPT - https://autogpt.net/
+
+
+# Sunday. May 7 2023
+
 🎵 Dancefloor Adventures: A Celebration of Life, Love, and Dance 🎵
 Chord Table:
 
