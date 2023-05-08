@@ -4,6 +4,102 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Monday, May 8th, 2023
 
+## ChatGPT - Tasks
+
+User
+Create a short description of the following clinical documentation standard and correlated codes, code types, and code descriptions used for 1: Member, 2: Policies, 3: Encounters, 4: Orders, 5: Observations, 6: Clinical CCDs, 7: FHIR Schema, 8: Clinical Documents, 9: Clinical Notes, and 10) Clinical Letters and Communications.
+
+ChatGPT
+Member: A standard to document patient demographics, identification, and relevant contact information. Correlated codes include unique member identifiers, patient name, date of birth, and address.
+
+Policies: A standard that outlines the specific guidelines, procedures, and rules followed in clinical practices. Correlated codes pertain to policy type, policy number, effective date, and related parties.
+
+Encounters: Documentation standard for recording patient-provider interactions. Codes include encounter type, date and time, location, diagnosis codes (e.g., ICD-10), and attending provider.
+
+Orders: A standard for documenting clinical orders, such as medication prescriptions, diagnostic tests, or referrals. Codes include order type, unique order identifier, date and time, ordering provider, and status.
+
+Observations: A standard to capture clinical measurements and findings during patient encounters. Correlated codes include observation type, unique observation identifier, value, units, reference range, and observation date and time.
+
+Clinical CCDs (Continuity of Care Documents): A standardized document format for the electronic exchange of patient information. Codes include clinical summary, patient demographics, medication list, problem list, allergies, and immunizations.
+
+FHIR Schema: Fast Healthcare Interoperability Resources (FHIR) is a standard for exchanging healthcare information electronically. Correlated codes include resource type, identifier, metadata, and associated data elements.
+
+Clinical Documents: A general standard for organizing and structuring various types of clinical documentation, such as discharge summaries and care plans. Codes include document type, unique document identifier, creation date, and author.
+
+Clinical Notes: A standard for documenting patient progress, assessments, and clinical recommendations. Codes include note type, unique note identifier, note date and time, author, and associated encounter.
+
+Clinical Letters and Communications: A standard for documenting clinical correspondence and communications between healthcare providers, patients, and other relevant parties. Codes include communication type, unique identifier, date and time, sender, and recipient.
+
+---
+Create this as a markdown table.  For each asset create an emoji to identify it along with short word for its title.  For each record annotate standards and potential libraries to read and write data.  Use HL7 , EDI, and other standards to say what the expected standard and create a box chart model in markdown to see which ccontains which for relating the documentation together.  Also create a standard IO format based on JSONL and pandas dataframe which contains key information in one denormalized table for markdown code.  Show full streamlit, markdown code.
+---
+
+Asset	Emoji	Title	Standards	Libraries
+1	👤	Member	HL7, X12 (EDI)	hl7apy, pyx12
+2	📚	Policies	HL7, X12 (EDI)	hl7apy, pyx12
+3	🤝	Encounters	HL7, ICD-10, CPT	hl7apy, python-icd-10, pypubsub
+4	📝	Orders	HL7, LOINC, RxNorm	hl7apy, loinc2hpo, rxnorm_client
+5	🔍	Observations	HL7, LOINC	hl7apy, loinc2hpo
+6	📋	Clinical CCDs	HL7 CDA, CCD	hl7apy, python-cda
+7	🔗	FHIR Schema	FHIR, JSON	fhir.resources, json
+8	📄	Clinical Documents	HL7, IHE XDS	hl7apy, IHE-XDS-Client
+9	📓	Clinical Notes	HL7, SNOMED CT	hl7apy, snomedct
+10	✉️	Clinical Letters and Communications	HL7, DICOM SR	hl7apy, pynetdicom
+
+---
+
++---------------------+       +---------------------+
+|      Member (1)     |<------|     Encounters (3)   |
++---------------------+       +---------------------+
+                                 |
+                                 v
++---------------------+       +---------------------+
+|     Policies (2)    |<------|      Orders (4)      |
++---------------------+       +---------------------+
+                                 |
+                                 v
++---------------------+       +---------------------+
+|   Clinical CCDs (6) |<------|  Observations (5)    |
++---------------------+       +---------------------+
+                                 |
+                                 v
++---------------------+       +---------------------+
+|   FHIR Schema (7)   |<------| Clinical Documents (8)|
++---------------------+       +---------------------+
+                                 |
+                                 v
++---------------------+       +---------------------+
+| Clinical Notes (9)  |<------| Clinical Letters and |
+|                     |        |  Communications (10) |
++---------------------+       +---------------------+
+
+
+---
+
+
+import pandas as pd
+import json
+
+data = [
+    {"asset": 1, "emoji": "👤", "title": "Member", "standards": "HL7, X12 (EDI)", "libraries": "hl7apy, pyx12"},
+    {"asset": 2, "emoji": "📚", "title": "Policies", "standards": "HL7, X12 (EDI)", "libraries": "hl7apy, pyx12"},
+    # ... Add all the other assets here ...
+]
+
+jsonl_data = "\n".join([json.dumps(item) for item in data])
+
+# To read the JSONL data into a pandas DataFrame
+df = pd.read_json(jsonl_data, lines=True)
+
+# To write the pandas DataFrame to JSONL format
+jsonl_output = df.to_json(orient='records', lines=True)
+
+print(jsonl_output)
+
+
+
+## ChatGPT and AI Pipelines using it as Service
+
 1. ChatGPT
 2. ChatGPT + AI Pipelines:  https://chat.openai.com/?model=gpt-4  
    - https://huggingface.co/spaces/awacke1/Generative-AI-SOP - https://huggingface.co/spaces/awacke1/AI-Standard-Operating-Procedures - https://huggingface.co/spaces/awacke1/ChatGPT-SOP
