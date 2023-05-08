@@ -6,6 +6,128 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ## ChatGPT - Tasks
 
+description of the standards, covering HL7 v2.x, FHIR, EDI, and others in a markdown table:
+
+Standard	Description	Examples	Libraries
+HL7 v2.x	Health Level Seven version 2.x is a widely used messaging standard for exchanging healthcare data between systems. It uses a pipe-and-hat format to transmit messages like patient admissions, orders, and results.	ADT (Admission, Discharge, Transfer), ORM (Order), ORU (Observation Result)	hl7apy, python-hl7
+FHIR	Fast Healthcare Interoperability Resources is a modern standard for exchanging healthcare data using RESTful APIs. It defines modular "resources" to represent various healthcare entities, allowing flexibility and interoperability.	Patient, Encounter, Observation, DiagnosticReport, AllergyIntolerance	fhir.resources, fhirclient
+EDI 278	Electronic Data Interchange (EDI) standard 278 is used for transmitting healthcare service information, like prior authorizations and referrals. It includes two substandards: 278A (Request) and 278N (Response).	278A (Request for Review), 278N (Response to Request for Review)	pyx12, edi3tools
+IHE XDS	Integrating the Healthcare Enterprise (IHE) Cross-Enterprise Document Sharing (XDS) is a standard for sharing clinical documents between different healthcare organizations in a secure and interoperable manner.	XDS (Cross-Enterprise Document Sharing), XDS-I (Cross-Enterprise Document Sharing for Imaging)	IHE-XDS-Client, pyxds
+LOINC	Logical Observation Identifiers Names and Codes (LOINC) is a universal code system for identifying laboratory and clinical observations.	LOINC codes (e.g., 2160-0 for Serum Creatinine)	loinc2hpo, loinc-parser
+SNOMED CT	Systematized Nomenclature of Medicine – Clinical Terms (SNOMED CT) is a comprehensive and standardized vocabulary for clinical terminology in healthcare.	SNOMED CT codes (e.g., 840539006 for COVID-19)	snomedct, snomed-ct-parser
+To read and write observations, CCDs, and other formats using libraries, you can follow these examples:
+
+Observations with HL7 v2.x (ORU message):
+
+import hl7
+from hl7apy.parser import parse_message
+
+message = "MSH|^~\&|...|ORU^R01|..."  # Replace with a valid HL7 v2.x message
+parsed_message = parse_message(message, validation_level='TOLERANT')
+
+# Read an observation
+observation = parsed_message.get_segments('OBX')[0]
+value = observation['OBX.5']['OBX.5.1'].value
+units = observation['OBX.6']['OBX.6.1'].value
+
+# Write an observation
+new_observation = hl7.Segment("OBX")
+new_observation.set_fields([
+    "OBX",
+    "1",
+    "NM",
+    "2160-0^Serum Creatinine^LN",
+    "",
+    "1.2",
+    "mg/dL",
+    "0.6-1.3",
+    "N",
+    "",
+    "F",
+    "20210508000000"
+])
+parsed_message.add_segment(new_observation)
+
+CCDs with Python CDA Library:
+
+from lxml import etree
+from python_cda import CDA
+
+xml = """<?xml version="1.0" encoding="UTF-8"?>
+<ClinicalDocument xmlns="urn:hl7-org:v3">
+    <!-- CCD content goes here -->
+</ClinicalDocument>"""
+
+# Read CCD
+tree = etree.fromstring(xml)
+ccd = CDA(tree)
+
+# Access patient information
+patient = ccd.record_target.patient_role.patient
+given_name = patient.name.given
+family_name = patient.name.family
+
+# Access medication section
+medications = ccd.component.structured_body.component[0].section.entry
+
+# Write CCD
+new_ccd = CDA()
+new_ccd.set_element("realmCode", code="US")
+new_ccd.set_element("typeId", root="2.16.840.1.113883.1.3", extension="POCD_HD000040")
+
+# Add patient information, medication section, etc. to the new CCD
+
+
+Observations with FHIR:
+
+from fhir.resources import Observation, Quantity
+
+# Read observation from JSON
+json_data = {
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "2160-0",
+        "display": "Serum Creatinine"
+      }
+    ]
+  },
+  "valueQuantity": {
+    "value": 1.2,
+    "unit": "mg/dL",
+    "system": "http://unitsofmeasure.org",
+    "code": "mg/dL"
+  }
+}
+observation = Observation(json_data)
+
+# Access observation values
+value = observation.valueQuantity.value
+units = observation.valueQuantity.unit
+
+# Write observation
+new_observation = Observation.construct()
+new_observation.status = "final"
+new_observation.code = {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "2160-0",
+        "display": "Serum Creatinine"
+      }
+    ]
+}
+new_observation.valueQuantity = Quantity.construct()
+new_observation.valueQuantity.value = 1.2
+new_observation.valueQuantity.unit = "mg/dL"
+new_observation.valueQuantity.system = "http://unitsofmeasure.org"
+new_observation.valueQuantity.code = "mg/dL"
+
+
+
 User
 Create a short description of the following clinical documentation standard and correlated codes, code types, and code descriptions used for 1: Member, 2: Policies, 3: Encounters, 4: Orders, 5: Observations, 6: Clinical CCDs, 7: FHIR Schema, 8: Clinical Documents, 9: Clinical Notes, and 10) Clinical Letters and Communications.
 
