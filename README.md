@@ -4,6 +4,57 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Monday, May 8th, 2023
 
+🤖 **Autonomous AI** (00:57): A sophisticated AI tool that can complete tasks independently. [🔗 Google Search](https://www.google.com/search?q=Autonomous+AI) [🔗 Bing Search](https://www.bing.com/search?q=Autonomous+AI)
+
+🕵️ **AgentGPT** (01:16): An advanced AI system offering personalized assistance in various fields. [🔗 Google Search](https://www.google.com/search?q=AgentGPT) [🔗 Bing Search](https://www.bing.com/search?q=AgentGPT)
+
+🛠️ **Ora.sh** (04:41): A versatile AI-powered platform that streamlines coding and development tasks. [🔗 Google Search](https://www.google.com/search?q=Ora.sh) [🔗 Bing Search](https://www.bing.com/search?q=Ora.sh)
+
+🤝 **Meetcody.ai** (05:38): An AI solution that improves collaboration and communication in team settings. [🔗 Google Search](https://www.google.com/search?q=Meetcody.ai) [🔗 Bing Search](https://www.bing.com/search?q=Meetcody.ai)
+
+📝 **Jasper** (07:11): An AI-driven tool that aids in content creation and editing. [🔗 Google Search](https://www.google.com/search?q=Jasper+AI) [🔗 Bing Search](https://www.bing.com/search?q=Jasper+AI)
+
+
+
+
+
+Five underutilized AI tools that are superior to ChatGPT in certain aspects. It explores their features and benefits, as well as the reasons for their limited adoption.
+
+🤖 Autonomous AI (00:57): A sophisticated AI tool that can complete tasks independently. 🔗 Google Search
+
+🕵️ AgentGPT (01:16): An advanced AI system offering personalized assistance in various fields. 🔗 Google Search
+
+🛠️ Ora.sh (04:41): A versatile AI-powered platform that streamlines coding and development tasks. 🔗 Google Search
+
+🤝 Meetcody.ai (05:38): An AI solution that improves collaboration and communication in team settings. 🔗 Google Search
+
+📝 Jasper (07:11): An AI-driven tool that aids in content creation and editing. 🔗 Google Search
+
+The video also features a discussion on literallyanything.io (09:08), the presenter's thoughts on AI (10:57), and an outro (12:03). These AI tools hold potential for enhancing productivity and efficiency in various fields.
+
+
+Task Based LLM Feedback Techniques for Productivity and Use Cases
+Tools around coding and productivity different to implement to code, produce and ddo various things for you as an agent.
+
+1. Autonomous AI technology doesnt need prompting since the AI learns from past prompts and can continue a prompting sequence to its completion training an AI Chatbot with your own data to get smarter and smarter within In Context Learning (ICL).
+
+For LLM to think, plan, and act autonomously, it can continue on its own.
+
+To do this locally, with AgentGPT a non code orr non technical person can run automnomous AI.
+
+Agent GPT can help with code and productivity - Build web site fast as a goal will lead to 4 tasks add
+
+1) Add web site builder
+2) Content Generator Feature
+3) Tools
+4) Framework
+5) Steps to build web fast
+6) Give it a goal, let it take on tasks to completion.
+
+
+
+
+
 ## ChatGPT - Tasks
 
 description of the standards, covering HL7 v2.x, FHIR, EDI, and others in a markdown table:
