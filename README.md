@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tuesday, May 9th, 2023
+
+Unity in Huggingface:
+1. Git clone template from here to new directory:  https://github.com/huggingface/Unity-WebGL-template-for-Hugging-Face-Spaces
+2. Review build specs here for Torch HF ML Agent build instructions:  https://huggingface.co/blog/unity-in-spaces
 
 # Monday, May 8th, 2023
 
