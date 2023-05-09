@@ -3,7 +3,19 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Tuesday, May 9th, 2023
 
-Unity in Huggingface:
+## RLHF: https://huggingface.co/blog?tag=rlhf
+
+## Docker with ACA per HF for Streamlit and Gradio docker builds.
+1. Docker VSCode:  https://huggingface.co/spaces/DockerTemplates/vscode
+2. Docker Streamlit: https://huggingface.co/spaces/DockerTemplates/streamlit-docker-example
+3. Docker Secret Build:  https://huggingface.co/spaces/DockerTemplates/secret-example
+4. Docker FastAPI Sample: https://huggingface.co/spaces/DockerTemplates/fastapi_t5
+5. Docker Easy: https://huggingface.co/spaces/DockerTemplates/fastapi_dummy
+6. Docker Spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
+
+
+
+## Unity in Huggingface:
 1. Git clone template from here to new directory:  https://github.com/huggingface/Unity-WebGL-template-for-Hugging-Face-Spaces
 2. Review build specs here for Torch HF ML Agent build instructions:  https://huggingface.co/blog/unity-in-spaces
 
