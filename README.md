@@ -3,6 +3,39 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Tuesday, May 9th, 2023
 
+# 🤖 AI Models Performance Summary
+
+## 🎓 ChatGPT-4 Performance
+### 📊 OpenAI's Statement
+* 💬 OpenAI announced GPT-4 last week, which it says "outperforms ChatGPT by scoring in higher approximate percentiles among test-takers."
+* 🚀 OpenAI also noted that GPT-4 "surpasses ChatGPT in its advanced reasoning capabilities."
+
+### 🏛 GPT-4 Exams Performance
+* 📚 **The Uniform Bar Exam**: GPT-4 scored in the 90th percentile with a score of 298 out of 400.
+* 📖 **SAT**: GPT-4 aced the SAT Reading & Writing section with a score of 710 out of 800 (93rd percentile). For the math section, GPT-4 earned a 700 out of 800 (89th percentile). Total score: 1410 out of 1600.
+* 📝 **GRE**: Scored in the 99th percentile on the verbal section, 80th percentile of the quantitative section, and 54th percentile of the writing test.
+* 🧬 **USA Biology Olympiad Semifinal Exam**: Scored in the 99th to 100th percentile on the 2020 Semifinal Exam.
+* 📚 **AP Exams**: Received a 5 on AP Art History, AP Biology, AP Environmental Science, AP Macroeconomics, AP Microeconomics, AP Psychology, AP Statistics, AP US Government and AP US History, and a 4 on AP Physics 2, AP Calculus BC, AP Chemistry, and AP World History.
+* 📐 **AMC Exams**: Scored a 30 and 60 on AMC 10 and AMC 12 respectively.
+* 🍷 **Sommelier Examinations**: Passed the Introductory Sommelier, Certified Sommelier, and Advanced Sommelier exams at respective rates of 92%, 86%, and 77%.
+
+## 🎓 ChatGPT (GPT-3.5) Performance
+### 📊 OpenAI's Statement
+* 🚀 OpenAI launched ChatGPT in November which is powered by GPT-3.5. 
+
+### 🏛 ChatGPT Exams Performance
+* 📚 **The Uniform Bar Exam**: ChatGPT scored in the 10th percentile.
+* 📖 **SAT**: Scored in the 87th percentile with a score of 670 out of 800 on Reading & Writing section, and 70th percentile on math section.
+* 📝 **GRE**: Scored within the 25th percentile and 63rd percentiles for the quantitative and verbal sections respectively, and 54th percentile of the writing test.
+* 🧬 **USA Biology Olympiad Semifinal Exam**: Performance data not mentioned.
+* 📚 **AP Exams**: Performance data not mentioned.
+* 📐 **AMC Exams**: Performance data not mentioned.
+* 🍷 **Sommelier Examinations**: Came in at 80%, 58%, and 46% for Introductory Sommelier, Certified Sommelier, and Advanced Sommelier exams respectively.
+* 💼 **Wharton MBA exam**: ChatGPT would have received a B or B- on a Wharton exam.
+* 💊 **US medical licensing exam**: Passed all three parts of the United States medical licensing examination within a comfortable range.
+* 📚 **Essays**: While Chat
+
+
 ## Tests GPT4 has taken, What is next to test?
 
 # 🤖 ChatGPT-4 Performance Summary
