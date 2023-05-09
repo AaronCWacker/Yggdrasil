@@ -35,6 +35,46 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 * 💊 **US medical licensing exam**: Passed all three parts of the United States medical licensing examination within a comfortable range.
 * 📚 **Essays**: While Chat
 
+🤖💭📝
+- ChatGPT's capabilities:
+    - 🎯📚: Wide range of topics.
+    - 💪🗣️: Constructing arguments and articulating points.
+- 🎒💡: Beneficial for students.
+- ⚠️🤔: Raised ethical concerns.
+    - 🚫🔃: Academic dishonesty, plagiarism.
+
+📖📈🕐
+- 💡🔬: Matthew S. Schwartz experiment.
+    - 🎓📄: Law school essay prompt.
+    - 🤖💬: ChatGPT's solid response.
+    - 🐦💬: Declared "take-home essay is dead" on Twitter.
+- 🏫🚧: Challenges for educators.
+    - 📚💯: Ensuring originality of students' work.
+
+🎓🔍💻
+- 🧐📚: Philosophy professor's discovery.
+    - 🎒📝: Student used a ChatGPT-generated essay.
+    - ❓🧠: Misinformation about David Hume.
+    - 💡👀: Indicator of lack of understanding.
+
+🤖❗📰
+- 🔄💡: AI models like ChatGPT can produce convincing content.
+- 🚫🤔: Propagation of misinformation.
+    - 🔄📊: Replicating patterns from training data.
+    - ❓💬: Can lead to incorrect/misleading outputs.
+
+🏛️🗣️🤝
+- OpenAI's response:
+    - 👥🎤: Sam Altman's interview.
+    - 🛠️🎓: Working on solutions to detect AI-generated content.
+    - ⚠️🔍: Can't guarantee full detection.
+    
+🤖📝🚥
+- 🔄🔀: Complex issue: ethics, originality, academic integrity.
+- 🚪🌈: New possibilities for teaching and learning.
+- ⚠️🚧: New challenges for educators, students, AI developers.
+- 🔄⏫: As AI evolves, ongoing conversations and policy needed.
+
 
 ## Tests GPT4 has taken, What is next to test?
 
