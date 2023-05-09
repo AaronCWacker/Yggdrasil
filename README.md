@@ -9,11 +9,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 1. Docker VSCode:  https://huggingface.co/spaces/DockerTemplates/vscode
 2. Docker Streamlit: https://huggingface.co/spaces/DockerTemplates/streamlit-docker-example
 3. Docker Gradio: https://huggingface.co/spaces/sayakpaul/demo-docker-gradio
-4. Docker Secret Build:  https://huggingface.co/spaces/DockerTemplates/secret-example
-5. Docker FastAPI Sample: https://huggingface.co/spaces/DockerTemplates/fastapi_t5
-6. Docker Easy: https://huggingface.co/spaces/DockerTemplates/fastapi_dummy
-7. Docker Spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
-8. More about dockerfiles - main step of building docker app:  https://docs.docker.com/get-started/
+4. Docker HTML5 w Go:  https://huggingface.co/spaces/XciD/test-docker-go?q=Adrien
+5. Docker Secret Build:  https://huggingface.co/spaces/DockerTemplates/secret-example
+6. Docker FastAPI Sample: https://huggingface.co/spaces/DockerTemplates/fastapi_t5
+7. Docker Easy: https://huggingface.co/spaces/DockerTemplates/fastapi_dummy
+8. Docker Spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
+9. More about dockerfiles - main step of building docker app:  https://docs.docker.com/get-started/
 
 
 
