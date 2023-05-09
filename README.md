@@ -23,6 +23,191 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 1. Git clone template from here to new directory:  https://github.com/huggingface/Unity-WebGL-template-for-Hugging-Face-Spaces
 2. Review build specs here for Torch HF ML Agent build instructions:  https://huggingface.co/blog/unity-in-spaces
 
+
+# 🌐 Azure Bicep vs 🏗️ HashiCorp Terraform
+
+## Overview
+- Azure Bicep
+  - 🎯 Domain-specific language (DSL) for deploying Azure resources
+  - 💼 Developed and maintained by Microsoft
+  - 🌐 Azure-centric; specifically designed for Azure Resource Manager (ARM) templates
+- HashiCorp Terraform
+  - 🎯 Open-source infrastructure as code (IaC) tool
+  - 💼 Developed and maintained by HashiCorp
+  - 🏢 Multi-cloud and multi-provider support
+
+## Language and Syntax
+- Azure Bicep
+  - 📝 Easier, simplified syntax compared to ARM templates
+  - 🚀 Transpiles to ARM templates
+- HashiCorp Terraform
+  - 📝 HashiCorp Configuration Language (HCL); more complex syntax than Bicep
+  - 🗂️ Uses provider-specific resource definitions
+
+## Provider Support
+- Azure Bicep
+  - 🔒 Limited to Azure services and resources
+- HashiCorp Terraform
+  - 🌩️ Supports multiple cloud providers (e.g., AWS, GCP, Azure) and non-cloud services
+  - 📦 Extensible through custom providers
+
+## Community and Ecosystem
+- Azure Bicep
+  - 🌱 Growing community focused on Azure resources
+  - 📚 Limited to Azure documentation and resources
+- HashiCorp Terraform
+  - 🌳 Mature and established community and ecosystem
+  - 📚 Extensive documentation and resources for various cloud providers and platforms
+
+## Conclusion
+- Azure Bicep is best suited for organizations and developers primarily focused on Azure resources with a need for a simple, Azure-centric IaC solution.
+- HashiCorp Terraform is ideal for organizations and developers with multi-cloud or multi-provider requirements, as it offers greater flexibility and extensibility across different platforms.
+
+
+# 📥 Ingress vs Egress
+
+1. 📥 Ingress
+   - 🌐 External Traffic
+      - Incoming traffic from users, clients, or other services outside the network
+      - Accessing resources within the network or system (e.g., API, web services)
+   - 🔒 Internal Traffic
+      - Communication between components within the network or system (e.g., microservices)
+      - Typically restricted access for improved security
+
+2. 📤 Egress
+   - 🌐 External Traffic
+      - Outgoing traffic from the network or system to users, clients, or other services
+      - Sending responses or data to external entities
+   - 🔒 Internal Traffic
+      - Communication between components within the network or system (e.g., microservices)
+      - Typically restricted access for improved security
+    
+For Ingress: Azure Container Apps supports HTTPS and TCP types of ingress.
+
+With HTTPS ingress enabled container apps support TLS, HTTP/1.1 and 2, Websocket, gRPC.  TLS1.2 is used for HTTPS.  Endpoints expose port 80, 443.  80 is redirected to 443.  App accessed on FQDN.  Request timeout is 240 seconds.
+
+FrontDoor app delivery net provides global load balanceand site acceleration similar to L7.  Available in Std and Premium.
+
+
+# Azure Container Apps
+1. 👥 Users
+   - 📥 Inbound Traffic
+
+2. 🌐 Load Balancer w Public IP
+   - 🕸️ Virtual Network
+   - 🔒 Private Endpoints
+   - 📦 External Container App env w Ingress IP restrictions
+
+3. 🔒 Private Endpoints
+   - 🗝️ Key Vault
+   - 🛢️ Container Registry
+   - 🚀 Cache for REDIS
+   - 💾 Storage
+   - 🚍 Service Bus
+
+4. 📤 Outbound Traffic
+   - 🔥 Firewall
+   - 🗺️ Route Table
+
+
+## 🌐 Azure Container Apps - Outline
+1. 📦 Container Apps Overview
+	- 🌟 ACA is serverless microservices mashup of Open Source:
+		1. 🐳 Kubernetes: Container
+		2. 🚀 Dapr: Runtime and API
+		3. 📈 KEDA: Kube based autoscaler
+		4. 🛡️ Envoy: Proxy w Endpoint SSL
+	- 🔍 Service Discovery
+	- 🚦 Traffic Splitting
+	- 📊 Event driven scaling based on traffic
+	- 📮 Event source queues
+	- ⬇️ Scales down to zero
+	- 🔄 Long running processes and background tasks
+2. 🌍 Environment Internal vs External
+	- 🌐 External: Public VIP
+	- 🔒 Internal: VIP and ILB
+3. 🏗️ Infrastructure w/ Azure Bicep
+4. ⚖️ Load Balancing Options
+
+
+## Azure Container Apps - Model
+```mermaid
+graph LR
+A[Azure Container Apps]
+A1[1. Container Apps Overview]
+A2[2. Environment Internal vs External]
+A3[3. Infrastructure w/ Azure Bicep]
+A4[4. Load Balancing Options]
+A --> A1
+A --> A2
+A --> A3
+A --> A4
+
+A1a[ACA is serverless microservices mashup of Open Source:]
+A1b[Service Discovery]
+A1c[Traffic Splitting]
+A1d[Event driven scaling based on traffic]
+A1e[Event source queues]
+A1f[Scales down to zero]
+A1g[Long running processes and background tasks]
+A1 --> A1a
+A1 --> A1b
+A1 --> A1c
+A1 --> A1d
+A1 --> A1e
+A1 --> A1f
+A1 --> A1g
+
+A1a1[1. Kubernetes: Container]
+A1a2[2. Dapr: Runtime and API]
+A1a3[3. KEDA: Kube based autoscaler]
+A1a4[4. Envoy: Proxy w Endpoint SSL]
+A1a --> A1a1
+A1a --> A1a2
+A1a --> A1a3
+A1a --> A1a4
+
+A2a[External: Public VIP]
+A2b[Internal: VIP and ILB]
+A2 --> A2a
+A2 --> A2b
+```
+
+
+
+# Terraform Import:
+
+![image](https://user-images.githubusercontent.com/30595158/231140616-a6089091-e195-451a-95e5-54ea3c94fe80.png)
+
+Usage: terraform import ADDR ID
+
+
+
+# Azure Container Registry
+Admin user - enable to access via CLI
+
+Name and Resource Group
+Location (Central) - 
+
+# Github Actions YAML:
+
+1. Azure Build Docker Image, Push ACR
+2. Azure Container App Deploy
+3. Dockerfile (Image Push)
+
+# Github Actions Azure Container Registry Deploy Web App
+
+```mermaid
+graph TD
+    A[Git Commit] --> B[Github Actions]
+    B --> C[ACR Image Push]
+    C --> D[ACR Image Pull to Web App]
+    D --> E[URL to Test]
+```
+
+
+
+
 # Monday, May 8th, 2023
 
 🤖 **Autonomous AI** (00:57): A sophisticated AI tool that can complete tasks independently. [🔗 Google Search](https://www.google.com/search?q=Autonomous+AI) [🔗 Bing Search](https://www.bing.com/search?q=Autonomous+AI)
@@ -4292,187 +4477,6 @@ Use the container app's FQDN to view the website. The page will resemble the fol
 3. Maintain a balanced and nutritious diet
 4. Limit alcohol and drug consumption
 
-
-# 🌐 Azure Bicep vs 🏗️ HashiCorp Terraform
-
-## Overview
-- Azure Bicep
-  - 🎯 Domain-specific language (DSL) for deploying Azure resources
-  - 💼 Developed and maintained by Microsoft
-  - 🌐 Azure-centric; specifically designed for Azure Resource Manager (ARM) templates
-- HashiCorp Terraform
-  - 🎯 Open-source infrastructure as code (IaC) tool
-  - 💼 Developed and maintained by HashiCorp
-  - 🏢 Multi-cloud and multi-provider support
-
-## Language and Syntax
-- Azure Bicep
-  - 📝 Easier, simplified syntax compared to ARM templates
-  - 🚀 Transpiles to ARM templates
-- HashiCorp Terraform
-  - 📝 HashiCorp Configuration Language (HCL); more complex syntax than Bicep
-  - 🗂️ Uses provider-specific resource definitions
-
-## Provider Support
-- Azure Bicep
-  - 🔒 Limited to Azure services and resources
-- HashiCorp Terraform
-  - 🌩️ Supports multiple cloud providers (e.g., AWS, GCP, Azure) and non-cloud services
-  - 📦 Extensible through custom providers
-
-## Community and Ecosystem
-- Azure Bicep
-  - 🌱 Growing community focused on Azure resources
-  - 📚 Limited to Azure documentation and resources
-- HashiCorp Terraform
-  - 🌳 Mature and established community and ecosystem
-  - 📚 Extensive documentation and resources for various cloud providers and platforms
-
-## Conclusion
-- Azure Bicep is best suited for organizations and developers primarily focused on Azure resources with a need for a simple, Azure-centric IaC solution.
-- HashiCorp Terraform is ideal for organizations and developers with multi-cloud or multi-provider requirements, as it offers greater flexibility and extensibility across different platforms.
-
-
-# 📥 Ingress vs Egress
-
-1. 📥 Ingress
-   - 🌐 External Traffic
-      - Incoming traffic from users, clients, or other services outside the network
-      - Accessing resources within the network or system (e.g., API, web services)
-   - 🔒 Internal Traffic
-      - Communication between components within the network or system (e.g., microservices)
-      - Typically restricted access for improved security
-
-2. 📤 Egress
-   - 🌐 External Traffic
-      - Outgoing traffic from the network or system to users, clients, or other services
-      - Sending responses or data to external entities
-   - 🔒 Internal Traffic
-      - Communication between components within the network or system (e.g., microservices)
-      - Typically restricted access for improved security
-    
-For Ingress: Azure Container Apps supports HTTPS and TCP types of ingress.
-
-With HTTPS ingress enabled container apps support TLS, HTTP/1.1 and 2, Websocket, gRPC.  TLS1.2 is used for HTTPS.  Endpoints expose port 80, 443.  80 is redirected to 443.  App accessed on FQDN.  Request timeout is 240 seconds.
-
-FrontDoor app delivery net provides global load balanceand site acceleration similar to L7.  Available in Std and Premium.
-
-
-# Azure Container Apps
-1. 👥 Users
-   - 📥 Inbound Traffic
-
-2. 🌐 Load Balancer w Public IP
-   - 🕸️ Virtual Network
-   - 🔒 Private Endpoints
-   - 📦 External Container App env w Ingress IP restrictions
-
-3. 🔒 Private Endpoints
-   - 🗝️ Key Vault
-   - 🛢️ Container Registry
-   - 🚀 Cache for REDIS
-   - 💾 Storage
-   - 🚍 Service Bus
-
-4. 📤 Outbound Traffic
-   - 🔥 Firewall
-   - 🗺️ Route Table
-
-
-## 🌐 Azure Container Apps - Outline
-1. 📦 Container Apps Overview
-	- 🌟 ACA is serverless microservices mashup of Open Source:
-		1. 🐳 Kubernetes: Container
-		2. 🚀 Dapr: Runtime and API
-		3. 📈 KEDA: Kube based autoscaler
-		4. 🛡️ Envoy: Proxy w Endpoint SSL
-	- 🔍 Service Discovery
-	- 🚦 Traffic Splitting
-	- 📊 Event driven scaling based on traffic
-	- 📮 Event source queues
-	- ⬇️ Scales down to zero
-	- 🔄 Long running processes and background tasks
-2. 🌍 Environment Internal vs External
-	- 🌐 External: Public VIP
-	- 🔒 Internal: VIP and ILB
-3. 🏗️ Infrastructure w/ Azure Bicep
-4. ⚖️ Load Balancing Options
-
-
-## Azure Container Apps - Model
-```mermaid
-graph LR
-A[Azure Container Apps]
-A1[1. Container Apps Overview]
-A2[2. Environment Internal vs External]
-A3[3. Infrastructure w/ Azure Bicep]
-A4[4. Load Balancing Options]
-A --> A1
-A --> A2
-A --> A3
-A --> A4
-
-A1a[ACA is serverless microservices mashup of Open Source:]
-A1b[Service Discovery]
-A1c[Traffic Splitting]
-A1d[Event driven scaling based on traffic]
-A1e[Event source queues]
-A1f[Scales down to zero]
-A1g[Long running processes and background tasks]
-A1 --> A1a
-A1 --> A1b
-A1 --> A1c
-A1 --> A1d
-A1 --> A1e
-A1 --> A1f
-A1 --> A1g
-
-A1a1[1. Kubernetes: Container]
-A1a2[2. Dapr: Runtime and API]
-A1a3[3. KEDA: Kube based autoscaler]
-A1a4[4. Envoy: Proxy w Endpoint SSL]
-A1a --> A1a1
-A1a --> A1a2
-A1a --> A1a3
-A1a --> A1a4
-
-A2a[External: Public VIP]
-A2b[Internal: VIP and ILB]
-A2 --> A2a
-A2 --> A2b
-```
-
-
-
-# Terraform Import:
-
-![image](https://user-images.githubusercontent.com/30595158/231140616-a6089091-e195-451a-95e5-54ea3c94fe80.png)
-
-Usage: terraform import ADDR ID
-
-
-
-# Azure Container Registry
-Admin user - enable to access via CLI
-
-Name and Resource Group
-Location (Central) - 
-
-# Github Actions YAML:
-
-1. Azure Build Docker Image, Push ACR
-2. Azure Container App Deploy
-3. Dockerfile (Image Push)
-
-# Github Actions Azure Container Registry Deploy Web App
-
-```mermaid
-graph TD
-    A[Git Commit] --> B[Github Actions]
-    B --> C[ACR Image Push]
-    C --> D[ACR Image Pull to Web App]
-    D --> E[URL to Test]
-```
 
 # Top Gums with Liquid Inside
 🔴 Bubble Tape
