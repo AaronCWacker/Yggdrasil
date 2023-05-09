@@ -12,6 +12,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Docker FastAPI Sample: https://huggingface.co/spaces/DockerTemplates/fastapi_t5
 5. Docker Easy: https://huggingface.co/spaces/DockerTemplates/fastapi_dummy
 6. Docker Spaces: https://huggingface.co/docs/hub/spaces-sdks-docker
+7. More about dockerfiles - main step of building docker app:  https://docs.docker.com/get-started/
 
 
 
