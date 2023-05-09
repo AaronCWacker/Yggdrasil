@@ -3,6 +3,35 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Tuesday, May 9th, 2023
 
+## Tests GPT4 has taken, What is next to test?
+
+# 🤖 ChatGPT-4 Performance Summary
+
+## 🎓 Test Performance
+
+1. 🏫 **High School Questions**: ChatGPT-4 perfectly answered several questions in various subjects that a typical high school student would encounter.
+2. 📚 **University of Minnesota Law Exams**: Passed four law exams, scoring a C+.
+3. 📈 **Wharton School of Business Exam**: Scored a B to B- grade in a business management course.
+4. 📝 **AP English Essay**: Composed an essay for a 12th-grade AP literature class, earning a grade in the B-to-C range.
+5. 💻 **Google Coding Interview**: Passed a coding interview for a level-three engineer position at Google.
+6. 📖 **SAT**: Took an entire SAT test and scored 1020, placing in the 52nd percentile.
+
+## 🎓 Defining Excellence at Doctoral College Levels
+
+1. 📚 **Comprehensive Examinations**: Tests covering the breadth of the subject matter in a student's field.
+2. 📝 **Dissertation Defense**: An oral examination where the student defends their research.
+3. 📰 **Peer-Reviewed Publications**: Publishing in academic journals is an indicator of competence.
+4. 💰 **Research Grants and Fellowships**: Winning competitive research grants or fellowships is a mark of distinction.
+
+## 🤔 Potential Next Tests for ChatGPT-4
+
+1. 📚 **Writing a Mock Dissertation**: Compile, write, and defend a mock dissertation.
+2. 📝 **Creating Original Research Proposals**: Identify gaps in knowledge, develop relevant research questions, and design appropriate methodologies.
+3. 📰 **Peer Reviewing Academic Papers**: Critically evaluate the quality of research papers and provide constructive feedback.
+4. 💰 **Grant Writing**: Write a successful grant proposal requiring a clear understanding of the field, a well-articulated research plan, and the ability to persuade.
+
+
+
 ## RLHF: https://huggingface.co/blog?tag=rlhf
 
 ## Docker with ACA per HF for Streamlit and Gradio docker builds.
