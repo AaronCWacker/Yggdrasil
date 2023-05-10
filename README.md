@@ -3,32 +3,28 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Wednesday, May 10th KEDA DAPR ACA AI Programs and Autoscaler Tests
 
-Video: https://www.youtube.com/watch?v=8JwyQ6hb2Xc&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&t=327s
+import streamlit as st
 
-To deploy an app from a GitHub repository to Azure Container Apps, you can use the az containerapp up command with the --name and --repo parameters. Here’s an example command: 
-```
-az containerapp up --name <CONTAINER_APP_NAME> --repo <GitHub repository URL> --ingress external1.
-```
-1. https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up
-2. https://learn.microsoft.com/en-us/azure/container-apps/quickstart-code-to-cloud?pivots=github-build&tabs=bash%2Ccsharp
-3. https://learn.microsoft.com/en-us/azure/developer/github/deploy-to-azure
-4. https://learn.microsoft.com/en-us/azure/app-service/deploy-container-github-action?tabs=publish-profile
-5. https://learn.microsoft.com/en-us/azure/container-apps/github-actions
+markdown_text = """
+# Wednesday, May 10th KEDA DAPR ACA AI Programs and Autoscaler Tests
 
+| Section | Description |
+| :--- | :--- |
+| Video | [Link](https://www.youtube.com/watch?v=8JwyQ6hb2Xc&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&t=327s) |
+| Deploying from GitHub | Use the command: `az containerapp up --name <CONTAINER_APP_NAME> --repo <GitHub repository URL> --ingress external1.` [^1^] |
+| Other deployment methods | You can also use GitHub Actions[^2^]. |
+| Azure Container Apps | A fully managed environment for running microservices and containerized applications on a serverless platform[^1^]. |
+| Common uses | Deploying API endpoints, hosting background processing applications, handling event-driven processing, running microservices[^1^]. |
+| Features | Run multiple container revisions, autoscale apps based on KEDA-supported scale trigger, enable HTTPS or TCP ingress, use internal ingress and service discovery, build microservices with Dapr, run containers from any registry, use Azure CLI extension, Azure portal or ARM templates to manage applications, provide an existing virtual network, securely manage secrets directly in application, monitor logs using Azure Log Analytics[^1^]. |
 
-You can also build and deploy your container app using other methods such as GitHub Actions. For more information, you can check out Microsoft Learn’s tutorial on building and deploying your app to Azure Container Apps2.
+[^1^]: Azure Container Apps overview | Microsoft Learn. [Link](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+[^2^]: Azure Container Apps | Microsoft Azure. [Link](https://azure.microsoft.com/en-us/products/container-apps/)
+[^3^]: Generally available: Azure Container Apps. [Link](https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps/)
+[^4^]: Containers in Azure Container Apps | Microsoft Learn. [Link](https://learn.microsoft.com/en-us/azure/container-apps/containers)
 
-Azure Container Apps is a fully managed environment that enables you to run microservices and containerized applications on a serverless platform. It is unopinionated about runtime or programming model and allows you to enjoy the benefits of running containers while leaving behind the concerns of managing cloud infrastructure and complex container orchestrators¹.
+"""
 
-Common uses of Azure Container Apps include deploying API endpoints, hosting background processing applications, handling event-driven processing, and running microservices. Applications built on Azure Container Apps can dynamically scale based on HTTP traffic, event-driven processing, CPU or memory load, or any KEDA-supported scaler¹.
-
-With Azure Container Apps, you can run multiple container revisions and manage the container app's application lifecycle, autoscale your apps based on any KEDA-supported scale trigger, enable HTTPS or TCP ingress without having to manage other Azure infrastructure, split traffic across multiple versions of an application for Blue/Green deployments and A/B testing scenarios, use internal ingress and service discovery for secure internal-only endpoints with built-in DNS-based service discovery, build microservices with Dapr and access its rich set of APIs, run containers from any registry (public or private), including Docker Hub and Azure Container Registry (ACR), use the Azure CLI extension, Azure portal or ARM templates to manage your applications, provide an existing virtual network when creating an environment for your container apps, securely manage secrets directly in your application and monitor logs using Azure Log Analytics¹.
-
-Source: Conversation with Bing, 5/10/2023(1) Azure Container Apps overview | Microsoft Learn. https://learn.microsoft.com/en-us/azure/container-apps/overview Accessed 5/10/2023.
-(2) Azure Container Apps | Microsoft Azure. https://azure.microsoft.com/en-us/products/container-apps/ Accessed 5/10/2023.
-(3) Generally available: Azure Container Apps. https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps/ Accessed 5/10/2023.
-(4) Containers in Azure Container Apps | Microsoft Learn. https://learn.microsoft.com/en-us/azure/container-apps/containers Accessed 5/10/2023.
-
+st.markdown(markdown_text)
 
 
 
