@@ -11,6 +11,122 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 4. Secrets: https://huggingface.co/spaces/DockerTemplates/secret-example
 5. Fast API: https://huggingface.co/spaces/DockerTemplates/fastapi_t5
 
+```
+
+import streamlit as st
+
+
+st.markdown("""
+# 2. Streamlit Docker Example
+https://huggingface.co/spaces/DockerTemplates/streamlit-docker-example/tree/main
+# Dockerfile:
+FROM python:3.8.9
+WORKDIR /app
+COPY ./requirements.txt /app/requirements.txt
+COPY ./packages.txt /app/packages.txt
+RUN apt-get update && xargs -r -a /app/packages.txt apt-get install -y && rm -rf /var/lib/apt/lists/*
+RUN pip3 install --no-cache-dir -r /app/requirements.txt
+# User
+RUN useradd -m -u 1000 user
+USER user
+ENV HOME /home/user
+ENV PATH $HOME/.local/bin:$PATH
+WORKDIR $HOME
+RUN mkdir app
+WORKDIR $HOME/app
+COPY . $HOME/app
+EXPOSE 8501
+CMD streamlit run app.py
+# app.py:
+import streamlit as st
+import pandas as pd
+import numpy as np
+st.title('Uber pickups in NYC')
+DATE_COLUMN = 'date/time'
+DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
+            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+@st.cache
+def load_data(nrows):
+    data = pd.read_csv(DATA_URL, nrows=nrows)
+    lowercase = lambda x: str(x).lower()
+    data.rename(lowercase, axis='columns', inplace=True)
+    data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
+    return data
+data_load_state = st.text('Loading data...')
+data = load_data(10000)
+data_load_state.text("Done! (using st.cache)")
+if st.checkbox('Show raw data'):
+    st.subheader('Raw data')
+    st.write(data)
+st.subheader('Number of pickups by hour')
+hist_values = np.histogram(data[DATE_COLUMN].dt.hour, bins=24, range=(0,24))[0]
+st.bar_chart(hist_values)
+# Some number in the range 0-23
+hour_to_filter = st.slider('hour', 0, 23, 17)
+filtered_data = data[data[DATE_COLUMN].dt.hour == hour_to_filter]
+st.subheader('Map of all pickups at %s:00' % hour_to_filter)
+st.map(filtered_data)
+# requirements.txt
+streamlit
+numpy
+pandas
+# 2. Gradio Docker Example
+https://huggingface.co/spaces/sayakpaul/demo-docker-gradio/blob/main/Dockerfile
+# Dockerfile:
+# read the doc: https://huggingface.co/docs/hub/spaces-sdks-docker
+# you will also find guides on how best to write your Dockerfile
+FROM python:3.9
+WORKDIR /code
+COPY ./requirements.txt /code/requirements.txt
+RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
+# Set up a new user named "user" with user ID 1000
+RUN useradd -m -u 1000 user
+# Switch to the "user" user
+USER user
+# Set home to the user's home directory
+ENV HOME=/home/user \
+    PATH=/home/user/.local/bin:$PATH
+# Set the working directory to the user's home directory
+WORKDIR $HOME/app
+# Copy the current directory contents into the container at $HOME/app setting the owner to the user
+COPY --chown=user . $HOME/app
+CMD ["python", "main.py"]
+# main.py
+import gradio as gr
+import torch
+import requests
+from torchvision import transforms
+model = torch.hub.load("pytorch/vision:v0.6.0", "resnet18", pretrained=True).eval()
+response = requests.get("https://git.io/JJkYN")
+labels = response.text.split("\n")
+def predict(inp):
+    inp = transforms.ToTensor()(inp).unsqueeze(0)
+    with torch.no_grad():
+        prediction = torch.nn.functional.softmax(model(inp)[0], dim=0)
+        confidences = {labels[i]: float(prediction[i]) for i in range(1000)}
+    return confidences
+def run():
+    demo = gr.Interface(
+        fn=predict,
+        inputs=gr.inputs.Image(type="pil"),
+        outputs=gr.outputs.Label(num_top_classes=3),
+    )
+    demo.launch(server_name="0.0.0.0", server_port=7860)
+if __name__ == "__main__":
+    run()
+# requirements.txt
+gradio
+torch
+torchvision
+requests
+""")
+
+
+
+```
+
+
+
 1. Streamlit:
 
 ```
