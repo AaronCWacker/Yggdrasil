@@ -3,6 +3,108 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Wednesday, May 10th KEDA DAPR ACA AI Programs and Autoscaler Tests
 
+## Docker Starter Projects:
+
+1. Streamlit: https://huggingface.co/spaces/DockerTemplates/streamlit-docker-example
+2. Gradio: https://huggingface.co/spaces/sayakpaul/demo-docker-gradio
+3. HTTP w GO: https://huggingface.co/spaces/XciD/test-docker-go?q=Adrien
+4. Secrets: https://huggingface.co/spaces/DockerTemplates/secret-example
+5. Fast API: https://huggingface.co/spaces/DockerTemplates/fastapi_t5
+
+1. Streamlit:
+
+```
+# Dockerfile:
+
+FROM python:3.8.9
+
+WORKDIR /app
+
+COPY ./requirements.txt /app/requirements.txt
+COPY ./packages.txt /app/packages.txt
+
+RUN apt-get update && xargs -r -a /app/packages.txt apt-get install -y && rm -rf /var/lib/apt/lists/*
+RUN pip3 install --no-cache-dir -r /app/requirements.txt
+
+# User
+RUN useradd -m -u 1000 user
+USER user
+ENV HOME /home/user
+ENV PATH $HOME/.local/bin:$PATH
+
+WORKDIR $HOME
+RUN mkdir app
+WORKDIR $HOME/app
+COPY . $HOME/app
+
+EXPOSE 8501
+CMD streamlit run app.py
+
+# app.py:
+import streamlit as st
+import pandas as pd
+import numpy as np
+
+st.title('Uber pickups in NYC')
+
+DATE_COLUMN = 'date/time'
+DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
+            'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+
+@st.cache
+def load_data(nrows):
+    data = pd.read_csv(DATA_URL, nrows=nrows)
+    lowercase = lambda x: str(x).lower()
+    data.rename(lowercase, axis='columns', inplace=True)
+    data[DATE_COLUMN] = pd.to_datetime(data[DATE_COLUMN])
+    return data
+
+data_load_state = st.text('Loading data...')
+data = load_data(10000)
+data_load_state.text("Done! (using st.cache)")
+
+if st.checkbox('Show raw data'):
+    st.subheader('Raw data')
+    st.write(data)
+
+st.subheader('Number of pickups by hour')
+hist_values = np.histogram(data[DATE_COLUMN].dt.hour, bins=24, range=(0,24))[0]
+st.bar_chart(hist_values)
+
+# Some number in the range 0-23
+hour_to_filter = st.slider('hour', 0, 23, 17)
+filtered_data = data[data[DATE_COLUMN].dt.hour == hour_to_filter]
+
+st.subheader('Map of all pickups at %s:00' % hour_to_filter)
+st.map(filtered_data)
+
+# requirements.txt:
+
+streamlit
+numpy
+pandas
+
+```
+
+2. Gradio:
+```
+
+```
+
+3. HTTP:
+```
+```
+
+4. Secrets:
+```
+```
+
+5. Fast API:
+```
+```
+
+
+
 :whale2: **Create a Dockerfile for Gradio deployment** :whale2:
 
 1️⃣ Start by specifying the base image for your container. For Python:
