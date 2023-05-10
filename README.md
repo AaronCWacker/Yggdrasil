@@ -3,6 +3,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Wednesday, May 10th KEDA DAPR ACA AI Programs and Autoscaler Tests
 
+Video: https://www.youtube.com/watch?v=8JwyQ6hb2Xc&list=PLHgX2IExbFovHgtRVA_vtkNsvqcKvhkVy&t=327s
+
 To deploy an app from a GitHub repository to Azure Container Apps, you can use the az containerapp up command with the --name and --repo parameters. Here’s an example command: 
 ```
 az containerapp up --name <CONTAINER_APP_NAME> --repo <GitHub repository URL> --ingress external1.
