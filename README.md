@@ -1,6 +1,48 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Comparative debian - check support:
+===== Build Queued at 2023-05-17 01:28:07 / Commit SHA: 0d2a469 =====
+
+--> FROM docker.io/library/python:3.8.9@sha256:49d05fff9cb3b185b15ffd92d8e6bd61c20aa916133dca2e3dbe0215270faf53
+DONE 0.0s
+
+--> RUN --mount=target=pre-requirements.txt,source=pre-requirements.txt 	pip install --no-cache-dir -r pre-requirements.txt
+CACHED
+
+--> RUN pip install --no-cache-dir pip==22.3.1 &&     pip install --no-cache-dir         datasets         "huggingface-hub>=0.12.1" "protobuf<4" "click<8.1"
+CACHED
+
+--> RUN pip install --no-cache-dir         streamlit==1.19.0
+CACHED
+
+--> WORKDIR /home/user/app
+CACHED
+
+--> RUN --mount=target=/root/packages.txt,source=packages.txt 	sed -i 's http://deb.debian.org http://cdn-aws.deb.debian.org g' /etc/apt/sources.list && sed -i 's http://archive.ubuntu.com http://us-east-1.ec2.archive.ubuntu.com g' /etc/apt/sources.list && sed -i '/security/d' /etc/apt/sources.list && apt-get update &&     xargs -r -a /root/packages.txt apt-get install -y     && rm -rf /var/lib/apt/lists/*
+CACHED
+
+--> RUN sed -i 's http://deb.debian.org http://cdn-aws.deb.debian.org g' /etc/apt/sources.list && sed -i 's http://archive.ubuntu.com http://us-east-1.ec2.archive.ubuntu.com g' /etc/apt/sources.list && sed -i '/security/d' /etc/apt/sources.list && apt-get update && apt-get install -y 	git 	git-lfs 	ffmpeg 	libsm6 	libxext6 	cmake 	libgl1-mesa-glx 	&& rm -rf /var/lib/apt/lists/* 	&& git lfs install
+CACHED
+
+--> RUN useradd -m -u 1000 user
+CACHED
+
+--> RUN --mount=target=requirements.txt,source=requirements.txt 	pip install --no-cache-dir -r requirements.txt
+CACHED
+
+--> COPY --link --chown=1000 --from=lfs /app /home/user/app
+CACHED
+
+--> COPY --link --chown=1000 ./ /home/user/app
+DONE 0.0s
+
+--> Pushing image
+DONE 1.0s
+
+--> Exporting cache
+
+
 # Wednesday, May 10th KEDA DAPR ACA AI Programs and Autoscaler Tests
 
 ## Docker Starter Projects:
