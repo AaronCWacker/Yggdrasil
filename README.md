@@ -4,7 +4,14 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Saturday May 20th, 2023
 
 ## Chords:
-
+C - 🍪,
+D - 🦆,
+E - 🐘,
+F - 🐠,
+G - 🦒,
+Am - 🍎,
+Em - 🦅,
+Dm - 🥁
 
 |🔢| Base Root Note | Sample Song |
 |---|-----------------|-------------|
