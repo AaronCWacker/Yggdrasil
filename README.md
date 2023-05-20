@@ -1,6 +1,83 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Saturday May 20th, 2023
+
+## Chords:
+
+
+|🔢| Base Root Note | Sample Song |
+|---|-----------------|-------------|
+|1️⃣| C🍪-G🦒-Am🍎-F🐠 | "Black Sheep" - Metric |
+|2️⃣| D🦆-G🦒-C🍪 | "Bros" - Wolf Alice |
+|3️⃣| A🍎-D🦆-E🐘 | "Sabotage" - Beastie Boys |
+|4️⃣| Dm🥁-G🦒-C🍪 | "Elephant" - Tame Impala |
+|5️⃣| Am🍎-F🐠-C🍪-G🦒 | "Told You I'd Be with the Guys" - Cherry Glazerr |
+|6️⃣| C🍪-Am🍎-F🐠-G🦒 | "Myth" - Beach House |
+|7️⃣| C🍪-G🦒-Am🍎-Em🦅-F🐠 | "Seventeen" - Ladytron |
+|8️⃣| Am🍎-G🦒-F🐠-C🍪 | "Say So" - Doja Cat |
+|9️⃣| C🍪-F🐠-Dm🥁-G🦒 | "Truth Hurts" - Lizzo |
+|🔟| C🍪-G🦒-F🐠 | "Mirrors" - Justin Timberlake |
+|1️⃣1️⃣| F🐠-C🍪-F🐠-G🦒 | "Umbrella" - Rihanna |
+|1️⃣2️⃣| Dm🥁-G🦒-C🍪-F🐠 | "Heartless" - Kanye West |
+|1️⃣3️⃣| C🍪-Em🦅-F🐠-G🦒 | "Santa Monica" - Everclear |
+|1️⃣4️⃣| Am🍎-F🐠-G🦒-E🐘 | "Tightrope" - Janelle Monáe |
+|1️⃣5️⃣| C🍪-F🐠-G🦒-F🐠 | "Hollaback Girl" - Gwen Stefani |
+|1️⃣6️⃣| Dm🥁-G🦒-C🍪-Am🍎 | "Don't Stop Believin'" - Journey |
+|1️⃣7️⃣| F🐠-G🦒-C🍪 | "Unchained Melody" - The Righteous Brothers |
+
+
+|🔢| Chord Progression | Base Root Note | Emoji Mnemonic | Sample Song |
+|---|-----------------|-----------------|-----------------|-------------|
+|1️⃣| I–V–vi–IV | C-G-Am-F | 🌞-🏞-🐺-🏡 | "Black Sheep" - Metric |
+|2️⃣| II–V–I | D-G-C | 🐦-🌳-☀️ | "Bros" - Wolf Alice |
+|3️⃣| I–IV–V | A-D-E | 🍎-🍌-🍒 | "Sabotage" - Beastie Boys |
+|4️⃣| ii–V–I | D-G-C | 🌸-🌳-☀️ | "Elephant" - Tame Impala |
+|5️⃣| vi–IV–I–V | Am-F-C-G | 🐢-🌉-🌞-🌴 | "Told You I'd Be with the Guys" - Cherry Glazerr |
+|6️⃣| I–vi–IV–V | C-Am-F-G | ☕-🐱-🚲-🎈 | "Myth" - Beach House |
+|7️⃣| I–V–vi–iii–IV | C-G-Am-Em-F | 🎹-🎸-🎻-🥁-🎺 | "Seventeen" - Ladytron |
+|8️⃣| vi–V–IV–I | Am-G-F-C | 🐼-🦁-🐸-🐙 | "Say So" - Doja Cat |
+|9️⃣| I–IV–ii–V | C-F-Dm-G | 🐠-🦀-🦑-🐙 | "Truth Hurts" - Lizzo |
+|🔟| I–V–IV | C-G-F | 🍔-🍟-🥤 | "Mirrors" - Justin Timberlake |
+|1️⃣1️⃣| IV–I–IV–V | F-C-F-G | 🎢-🏖-🎡-🎠 | "Umbrella" - Rihanna |
+|1️⃣2️⃣| ii–V–I–IV | Dm-G-C-F | 🌪-🌈-🌏-🏔 | "Heartless" - Kanye West |
+|1️⃣3️⃣| I–iii–IV–V | C-Em-F-G | 🚗-🌈-☁️-🎈 | "Santa Monica" - Everclear |
+|1️⃣4️⃣| vi–IV–V–III | Am-F-G-E | 🦖-🦕-🌋-🌴 | "Tightrope" - Janelle Monáe |
+|1️⃣5️⃣| I–IV–V–IV | C-F-G-F | 🚀-🌕-⭐-🌍 | "Hollaback Girl" - Gwen Stefani |
+|1️⃣6️
+
+
+
+
+
+1. Metric: https://www.ultimate-guitar.com/search.php?title=metric&page=1&type=300
+2. Beatles: https://www.ultimate-guitar.com/artist/the_beatles_1916
+https://tabs.ultimate-guitar.com/tab/the-beatles/a-day-in-the-life-chords-17207
+
+
+|🔢| Chord Progression | Base Root Note | Emoji Mnemonic | Sample Song |
+|---|-----------------|-----------------|-----------------|-------------|
+|1️⃣| I–V–vi–IV | C-G-Am-F | 🌞-🏞-🐺-🏡 | "Let It Be" - The Beatles |
+|2️⃣| II–V–I | D-G-C | 🐦-🌳-☀️ | "Autumn Leaves" - Joseph Kosma |
+|3️⃣| I–IV–V | A-D-E | 🍎-🍌-🍒 | "Louie Louie" - Richard Berry |
+|4️⃣| ii–V–I | D-G-C | 🌸-🌳-☀️ | "Giant Steps" - John Coltrane |
+|5️⃣| vi–IV–I–V | Am-F-C-G | 🐢-🌉-🌞-🌴 | "Someone Like You" - Adele |
+|6️⃣| I–vi–IV–V | C-Am-F-G | ☕-🐱-🚲-🎈 | "Poker Face" - Lady Gaga |
+|7️⃣| I–V–vi–iii–IV | C-G-Am-Em-F | 🎹-🎸-🎻-🥁-🎺 | "Apologize" - OneRepublic |
+|8️⃣| vi–V–IV–I | Am-G-F-C | 🐼-🦁-🐸-🐙 | "Zombie" - The Cranberries |
+|9️⃣| I–IV–ii–V | C-F-Dm-G | 🐠-🦀-🦑-🐙 | "Torn" - Natalie Imbruglia |
+|🔟| I–V–IV | C-G-F | 🍔-🍟-🥤 | "Three Little Birds" - Bob Marley |
+|1️⃣1️⃣| IV–I–IV–V | F-C-F-G | 🎢-🏖-🎡-🎠 | "Sweet Child O' Mine" - Guns N' Roses |
+|1️⃣2️⃣| ii–V–I–IV | Dm-G-C-F | 🌪-🌈-🌏-🏔 | "I Will Always Love You" - Whitney Houston |
+|1️⃣3️⃣| I–iii–IV–V | C-Em-F-G | 🚗-🌈-☁️-🎈 | "Just the Way You Are" - Bruno Mars |
+|1️⃣4️⃣| vi–IV–V–III | Am-F-G-E | 🦖-🦕-🌋-🌴 | "My Heart Will Go On" - Celine Dion |
+|1️⃣5️⃣| I–IV–V–IV | C-F-G-F | 🚀-🌕-⭐-🌍 | "With Or Without You" - U2 |
+|1️⃣6️⃣| ii–V–I–VI | Dm-G-C-Am | 🏞-🌅-🌌-🌠 | "Don't Stop Believin'" - Journey |
+|1️⃣7️⃣| IV–V–I | F-G-C | 🚂-🛤-🏞 | "Unchained Melody" - The Righteous Brothers |
+|1️⃣8️⃣| I–vi–II–V | C-Am-D-G | 🏖-🐠-🐟-🦀 | "Shape of You" - Ed Sheeran |
+
+
+
 # Comparative debian - check support:
 ===== Build Queued at 2023-05-17 01:28:07 / Commit SHA: 0d2a469 =====
 
