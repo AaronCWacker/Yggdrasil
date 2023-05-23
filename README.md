@@ -1,6 +1,13 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tuesday May 23, 2023
+
+## Examples: 
+1. [ACA](https://github.com/AaronCWacker/Docker-ACA-Examples)
+2. [ACR](https://learn.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-build-task)
+3. 
+
 # Saturday May 20th, 2023
 
 ## Chords:
