@@ -5,7 +5,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 1. Install Azure Developer CLI which will let you run AZD commands:  [AZD-CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows)
 2. Advanced install here:  [AZD-CLI-Advanced](https://github.com/Azure/azure-dev/blob/main/cli/installer/README.md#advanced-installation-scenarios)
-
+3. 
 
 
 # Tuesday May 23, 2023
