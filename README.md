@@ -1,6 +1,98 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tuesday May 30th 2023
+
+## ChatGPT Streamlit
+
+App:  [ChatGPT Streamlit](https://huggingface.co/spaces/awacke1/Streamlit-ChatGPT)
+
+Prompt: The CCDA standard allows you to use HL7 v3 to format health care data.  Show an example CCDA and create a markdown table showing the main data types used for the CCDA along with a description of the record type and example data.
+
+Response: As an AI language model, I do not have the ability to produce a graphical format or table. However, I can provide you with an example CCDA document in HL7 v3 format that includes some of the common data types used in the record.
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<ClinicalDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="urn:hl7-org:v3"
+    xmlns:cda="urn:hl7-org:v3"
+    xsi:schemaLocation="urn:hl7-org:v3 http://www.hl7.org/documentcenter/public_temp_A435223-1D6B-BA17-0CDA3B4A4B4E7F10/infrastructure/cda/CDA_SDTC.xsd">
+    <typeId root="2.16.840.1.113883.1.3" extension="POCD_HD000040"/>
+    <templateId root="2.16.840.1.113883.10.20.22.1.1"/>
+    <id root="2.16.840.1.113883.19.5.99999.1" extension="987654321"/>
+    <code code="34133-9" codeSystem="2.16.840.1.113883.6.1" displayName="Summarization of Episode Note"/>
+    <title>Continuity of Care Document</title>
+    <effectiveTime value="200506270830"/>
+    <confidentialityCode code="N" displayName="Normal" codeSystem="2.16.840.1.113883.5.25"/>
+    <languageCode code="en-US"/>
+    <recordTarget>
+        <patientRole>
+            <id extension="12345" root="2.16.840.1.113883.19.5.99999.2"/>
+            <patient>
+                <name>
+                    <given>John</given>
+                    <family>Doe</family>
+                </name>
+                <administrativeGenderCode code="M" displayName="Male"  codeSystem="2.16.840.1.113883.5.1"/>
+                <birthTime value="19710801"/>
+            </patient>
+            <providerOrganization>
+                <id root="2.16.840.1.113883.19.5.99999.3"/>
+                <name>Ambulatory Clinic</name>
+            </providerOrganization>
+        </patientRole>
+    </recordTarget>
+    <author>
+        <time value="200506270830"/>
+        <assignedAuthor>
+            <id root="2.16.840.1.113883.19.5.99999.4"/>
+            <assignedPerson>
+                <name>
+                    <given>Doctor</given>
+                    <family>Smart</family>
+                </name>
+            </assignedPerson>
+            <representedOrganization>
+                <id root="2.16.840.1.113883.19.5.99999.5"/>
+                <name>Clinic</name>
+            </representedOrganization>
+        </assignedAuthor>
+    </author>
+    <custodian>
+        <assignedCustodian>
+            <representedCustodianOrganization>
+                <id root="2.16.840.1.113883.19.5.99999.6" />
+                <name>Clinic Medical Records Department</name>
+            </representedCustodianOrganization>
+        </assignedCustodian>
+    </custodian>
+    <component>
+        <structuredBody>
+            <component>
+                <section>
+                    <code code="10160-0" codeSystem="2.16.840.1.113883.6.1" displayName="HISTORY OF PRESENT ILLNESS"/>
+                    <text>...</text>
+                </section>
+            </component>
+        </structuredBody>
+    </component>
+</ClinicalDocument>
+```
+
+Here's a markdown table that shows some of the main data types used in CCDA records:
+
+| Data type      | Description                                            | Example data                                        |
+|----------------|--------------------------------------------------------|-----------------------------------------------------|
+| Code           | Identifies a concept or term in a controlled vocabulary | Code value="M" codeSystem="2.16.840.1.113883.5.1"    |
+| Time or date   | Represents specific time or date                       | Value="200506270830"                               |
+| ID             | Unique identifier for individuals or organizations     | Root="2.16.840.1.113883.19.5.99999.4"                |
+| Language code  | Indicates the natural language used in the document    | Code="en-US"                                       |
+| Name or person | Names of individuals, including given and family names | Given="John" Family="Doe"                          |
+| Address        | Description of a location in human readable form       | StreetAddressLine="123 Main St." PostalCode="90210" |
+| Quantity       | Measurement data                                       | Value="120" Unit="mg/dL"                           |
+| Value          | Numerical data representing a measurement              | Value="98.6" Unit="deg Fahrenheit"                  |
+
+
 # Wednesday May 24, 2023
 
 1. Install Azure Developer CLI which will let you run AZD commands:  [AZD-CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-windows)
