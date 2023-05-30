@@ -11,10 +11,9 @@ https://huggingface.co/spaces/awacke1/Streamlit-ChatGPT
 What are the names and representative zip code ranges for all of the states in the united states?  give me a markdown table, with a column that represents emojis of that state around the name to make it a state graphic representing what the state is known for.  Order by state name and bold face two letter state codes.  show as markdown code for markdown tables.
 
 
-question:  write a streamlit python program to show markdown from a python list dictionary named Publications and include Beckers and National Library of Medicine review information for facilities in states of Minnesota zip code range 555000-56799.  Give latitude and longitude for top ten large zip code address areas by city that are large for zip code.
+**Request:  Write a streamlit python program** to show markdown from a python list dictionary named Publications and include Beckers and National Library of Medicine review information for facilities in states of Minnesota zip code range 555000-56799.  Give latitude and longitude for top ten large zip code address areas by city that are large for zip code.
 
-answer:  
-
+**Response:  Here is the Python code** to create a Streamlit app that displays markdown information related to the facilities in Minnesota zip code range 555000-56799:
 
 ```
 
