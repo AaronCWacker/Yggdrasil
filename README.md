@@ -3,6 +3,118 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Tuesday May 30th 2023
 
+## The United States - Each State with Zip Code Ranges
+
+https://huggingface.co/spaces/awacke1/Streamlit-ChatGPT
+
+
+What are the names and representative zip code ranges for all of the states in the united states?  give me a markdown table, with a column that represents emojis of that state around the name to make it a state graphic representing what the state is known for.  Order by state name and bold face two letter state codes.  show as markdown code for markdown tables.
+
+
+question:  write a streamlit python program to show markdown from a python list dictionary named Publications and include Beckers and National Library of Medicine review information for facilities in states of Minnesota zip code range 555000-56799.  Give latitude and longitude for top ten large zip code address areas by city that are large for zip code.
+
+answer:  
+
+
+```
+
+import streamlit as st
+
+# Define the dictionary of publications
+publications = {
+    "Beckers": "Minnesota hospitals face financial strain amid COVID-19, survey finds.",
+    "National Library of Medicine": "Enhancing recovery-oriented care in mental health activities to improve outcomes.",
+}
+
+# Define the list of top 10 large zip code address areas by city
+zipcodes = [
+    {"city": "Minneapolis", "zipcode": "55401", "latitude": 44.98, "longitude": -93.27},
+    {"city": "St. Paul", "zipcode": "55101", "latitude": 44.95, "longitude": -93.09},
+    {"city": "Bloomington", "zipcode": "55420", "latitude": 44.84, "longitude": -93.26},
+    {"city": "Plymouth", "zipcode": "55441", "latitude": 45.02, "longitude": -93.44},
+    {"city": "Eden Prairie", "zipcode": "55344", "latitude": 44.86, "longitude": -93.44},
+    {"city": "Edina", "zipcode": "55410", "latitude": 44.90, "longitude": -93.33},
+    {"city": "Maple Grove", "zipcode": "55311", "latitude": 45.12, "longitude": -93.45},
+    {"city": "Roseville", "zipcode": "55113", "latitude": 45.01, "longitude": -93.16},
+    {"city": "Burnsville", "zipcode": "55337", "latitude": 44.76, "longitude": -93.28},
+    {"city": "Blaine", "zipcode": "55434", "latitude": 45.16, "longitude": -93.24},
+]
+
+# Define a function to format the markdown based on the dictionary
+# and zip code range
+def format_markdown():
+    markdown_string = "# Facilities in Minnesota Zip Code Range\n\n"
+    markdown_string += "The zip codes in the range 555000-56799 include the following facilities:\n\n"
+    markdown_string += "- St. Joseph's Hospital, Brainerd\n"
+    markdown_string += "- Northfield Hospital and Clinics, Northfield\n"
+    markdown_string += "- Lakeview Hospital, Stillwater\n"
+    markdown_string += "- Rice Memorial Hospital, Willmar\n\n"
+    markdown_string += "Here are some publications related to these facilities:\n\n"
+    for key, value in publications.items():
+        markdown_string += f"- {key}: {value}\n\n"
+    markdown_string += "Here are the top 10 large zip code address areas by city:\n\n"
+    for index, item in enumerate(zipcodes[:10]):
+        markdown_string += f"{index+1}. {item['city']} ({item['zipcode']}) - ({item['latitude']}, {item['longitude']})\n\n"
+    return markdown_string
+
+
+```
+
+
+Alabama (AL) 35000-36999
+Alaska (AK) 99500-99999
+Arizona (AZ) 85000-86599
+Arkansas (AR) 71600-72999
+California (CA) 90000-96199
+Colorado (CO) 80000-81699
+Connecticut (CT) 06000-06999
+Delaware (DE) 19700-19999
+Florida (FL) 32000-34999
+Georgia (GA) 30000-31999
+Hawaii (HI) 96700-96999
+Idaho (ID) 83200-83999
+Illinois (IL) 60000-62999
+Indiana (IN) 46000-47999
+Iowa (IA) 50000-52899
+Kansas (KS) 66000-67999
+Kentucky (KY) 40000-42799
+Louisiana (LA) 70000-71499
+Maine (ME) 03900-04999
+Maryland (MD) 20600-21999
+Massachusetts (MA) 01000-02799
+Michigan (MI) 48000-49999
+Minnesota (MN) 55000-56799
+Mississippi (MS) 38600-39999
+Missouri (MO) 63000-65899
+Montana (MT) 59000-59999
+Nebraska (NE) 68000-69399
+Nevada (NV) 88900-89899
+New Hampshire (NH) 03000-03899
+New Jersey (NJ) 07000-08999
+New Mexico (NM) 87000-88499
+New York (NY) 00500-14999
+North Carolina (NC) 27000-28999
+North Dakota (ND) 58000-58999
+Ohio (OH) 43000-45999
+Oklahoma (OK) 73000-74999
+Oregon (OR) 97000-97999
+Pennsylvania (PA) 15000-19699
+Rhode Island (RI) 02800-02999
+South Carolina (SC) 29000-29999
+South Dakota (SD) 57000-57799
+Tennessee (TN) 37000-38599
+Texas (TX) 73300-79999
+Utah (UT) 84000-84799
+Vermont (VT) 05000-05999
+Virginia (VA) 22000-24699
+Washington (WA) 98000-99499
+West Virginia (WV) 24700-26899
+Wisconsin (WI) 53000-54999
+Wyoming (WY) 82000-83199
+
+
+
+
 ## ChatGPT Streamlit
 
 App:  [ChatGPT Streamlit](https://huggingface.co/spaces/awacke1/Streamlit-ChatGPT)
