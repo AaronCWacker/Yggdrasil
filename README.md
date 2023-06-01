@@ -1,6 +1,64 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Thursday June 1st, 2023
+
+The use of LLM AI pipelines like ChatGPT to reason around current context requires the in context learning prompt size of token count totals less than the amount of tokens a particular service can process at a time.  Processing of max tokens for GPT4-32k for instance is 32,000 tokens (which are unqiue word and letter parts that reduce to numeric values aka tokenization).
+
+The 32k tokens then for instance are the mximum a prompt and response can collectively take up so if inputs are totalling 20k and response is 12k it will not error but anything larger on input or output tokens will fail with an error.
+
+For context data sources such as XML this poses a problem because a cut point inside the document would create XML which is no longer well formed so it looses context that may refer to relationships within the document such as nesting and open elements that are many levels deep and span in scope across thousands of pages.
+
+Below are ideas that can allow us to work with in context learning loops with complex data like XML:
+
+1. Use Minify to reduce token volume.
+	1. Minify is a technique that removes unneeded white space and filler within an xml document.  
+	2. It can reduce a 1300 line XML into 115 lines (**over 10x shrink**) which then would allow lines to be processed as sections.
+	3. Example XML Minifier:  https://codebeautify.org/xml-minifier
+	4. Example tested:  https://github.com/HL7/C-CDA-Examples/blob/master/Documents/Care%20Plan/Care_Plan.xml
+2. Use parsing and search in document to batch out inference queries.  This requires some knowledge about what the standards are for XML schema.
+3. A CCDA for innstance has these 9 sections but keep in mind there are 11 different variations of CCDA documents.
+4. Different sources of same document type (e.g. XML) can have different implementation guides or interpretations for systems mapping creation of entities and attributes.
+	1. ClinicalDocument: The root element of the CCDA document.
+	2. Patient: Contains information about the patient such as their name, date of birth, gender, etc.
+	3. AllergyIntolerance: Contains information about any allergies or intolerances the patient may have.
+	4. Medication: Contains information about any medications the patient is taking, including dosage and frequency.
+	5. ProblemConcern: Contains information about any health concerns or problems the patient is experiencing.
+	6. Procedure: Contains information about any medical procedures the patient has undergone or is scheduled to undergo.
+	7. Result: Contains information about any lab or diagnostic test results.
+	8. SocialHistory: Contains information about the patient's social habits and history, such as smoking or alcohol use.
+	9. VitalSigns: Contains information about the patient's vital signs, such as blood pressure, heart rate, and temperature.
+5. Intelligent chunking methods can be used to sense high information value in source data (like NLTK information score) to locate what parts and sections have key information.
+6. A sample of chunking methods is below along with a purge example which removes data we don't care about from the document.
+7. While chunking solves the problem of reducing token count per transaction, subdividding it can increase run time if each request is synchronous.
+8. Code example which builds a prompt list chopped into parts of equal width (24000 characters which is different than tokens and shown below):
+
+```
+import textwrap
+import xml.etree.ElementTree as ET
+
+def CompressXML(xml_text):
+    root = ET.fromstring(xml_text)
+    
+    # Iterate over the parent nodes
+    for parent in root.iter():
+        # For each child of the parent node
+        for child in list(parent):
+            # Check if the child tag is a string and contains 'Comment'
+            if isinstance(child.tag, str) and 'Comment' in child.tag:
+                # If it is, remove it
+                parent.remove(child)
+    
+    # Convert the XML back to a string
+    xml_string = ET.tostring(root, encoding='unicode', method="xml")
+    
+    # Split the string into chunks of 24000 or smaller
+    xml_chunks = textwrap.wrap(xml_string, width=24000)
+    
+    return xml_chunks
+```
+
+
 # Tuesday May 30th 2023
 
 ## The United States - Each State with Zip Code Ranges
