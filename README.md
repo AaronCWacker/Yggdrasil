@@ -2,23 +2,48 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
-# Thursday June 1st, 2023 Top 15 questions that physicians have about the contents of the CCDA for any given patient:
+# Thursday June 1st, 2023 
 
-a. What is the patient's medical history as documented in the CCDA?
-b. How can I view the medication list of the patient?
-c. Where can I find the patient's allergy information?
-d. What are the results of the patient's latest laboratory tests?
-e. How can I understand the patient's immunization record?
-f. Where are the vital signs recorded in the CCDA?
-g. How is the problem list structured in the CCDA?
-h. How do I interpret the care plan within the CCDA?
-i. Where can I find the patient's social history?
-j. How is the family history represented in the CCDA?
-k. What does the patient's surgical history look like?
-l. How can I access the patient's plan of care?
-m. Where can I find the patient's functional status?
-n. What are the details of the patient's encounters?
-o. How is the patient's cognitive status represented in the CCDA? Notes
+## CCDA Pain Points:
+
+| Rank | Issue |
+| ---- | ----- |
+| 1 | Difficulty understanding the complex structure of XML in CCDA documents. |
+| 2 | Challenges in manually reading and extracting relevant patient data due to the verbose nature of XML. |
+| 3 | Interoperability issues when integrating with different EMR/EHR systems. |
+| 4 | Lack of consistent data formatting and structuring, causing difficulty in processing the data. |
+| 5 | Need for significant computational resources to process XML files, especially large ones. |
+| 6 | Confusion around managing and updating XML namespaces and schemas. |
+| 7 | Risk of data corruption or loss when converting from XML to other formats and vice versa. |
+| 8 | Limited support for querying and filtering data within XML files. |
+| 9 | Challenges in validating XML documents against given schemas. |
+| 10 | Difficulty in handling null or missing values in XML data. |
+| 11 | Inefficient XML parsing leading to performance issues. |
+| 12 | Need for specialized software or tools to handle XML data. |
+| 13 | Difficulty in securing XML data and managing access controls. |
+| 14 | Lack of comprehensive error reporting when handling XML data. |
+| 15 | Complexity in handling XML data in mobile or low-resource environments. |
+
+## CCDA Questions and Extractive Summary Prompts
+
+| Rank | Question |
+| ---- | -------- |
+| 1 | What is the patient's medical history as documented in the CCDA? |
+| 2 | How can I view the medication list of the patient? |
+| 3 | Where can I find the patient's allergy information? |
+| 4 | What are the results of the patient's latest laboratory tests? |
+| 5 | How can I understand the patient's immunization record? |
+| 6 | Where are the vital signs recorded in the CCDA? |
+| 7 | How is the problem list structured in the CCDA? |
+| 8 | How do I interpret the care plan within the CCDA? |
+| 9 | Where can I find the patient's social history? |
+| 10 | How is the family history represented in the CCDA? |
+| 11 | What does the patient's surgical history look like? |
+| 12 | How can I access the patient's plan of care? |
+| 13 | Where can I find the patient's functional status? |
+| 14 | What are the details of the patient's encounters? |
+| 15 | How is the patient's cognitive status represented in the CCDA? |
+
 
 # Thursday June 1st, 2023
 
