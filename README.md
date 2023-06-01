@@ -59,6 +59,114 @@ def CompressXML(xml_text):
 ```
 
 
+It is worth noting neither of these is a perfect solution.  Breaking it into chunks just means it will take longer to inference (maybe a whole day for one document if synchronous).
+
+We can also use AI to solve the problem by decomposing it into parts.
+
+One part is understanding the potential and actual content per document, then having an ordered intelligent way of choosing which data from document to pair with which prompt.
+
+Example prompts and results shown below which again is not definitive across all document types which can have dramatic variation on implementation.
+
+Create a markdown table with 20 facts about the C-CDA Clinical Notes Implementation Guides that have helped people understand the sections of a CCDA in XML including: ClinicalDocument, CDA Body, Health Concerns,  Goals, Interventions, and Health Status.
+
+<h1>Prompt:</h1> <p>Create a markdown table with 20 facts about the C-CDA Clinical Notes Implementation Guides that have helped people understand the sections of a CCDA in XML including: ClinicalDocument, CDA Body, Health Concerns,  Goals, Interventions, and Health Status.</p> <h1>Response:</h1> <p>| No. | Fact                                                                       |
+| --- | --------------------------------------------------------------------------|
+| 1   | The C-CDA Clinical Notes Implementation Guides provides guidance for clinical notes XML documents.|
+| 2   | ClinicalDocument section in XML contains metadata about the document.     |
+| 3   | CDA Body is the main section in XML for clinical notes.                    |
+| 4   | Health Concerns section in XML helps to define the patient's problems     |
+| 5   | Goals section in XML provides the patient's goals to improve their health  |
+| 6   | Interventions section in XML lists the interventions for the patient.     |
+| 7   | Health Status section in XML contains information about vital signs, lab results, etc. |
+| 8   | ClinicalDocument/code section in XML defines the document type as "Progress Note" |
+| 9   | CDA Body/text section in XML holds the human-readable content.            |
+| 10  | Health Concerns/entry section in XML defines a singular health-related concern.|
+| 11  | Health Concerns/entry/observation section in XML provides information about a patient's observation or finding.|
+| 12  | Health Concerns/entry/concern section in XML provides information about a patient's clinical concern or problem.|
+| 13  | Goals/entry section in XML defines a singular goal.                        |
+| 14  | Goals/entry/observation section in XML provides information about the goal observation or finding.|
+| 15  | Goals/entry/act section in XML provides information about the goal intervention.|
+| 16  | Goals/entry/act/entryRelationship section in XML provides a relationship between interventions and goals.|
+| 17  | Interventions/entry section in XML defines a singular intervention.        |
+| 18  | Interventions/entry/substanceAdministration section in XML provides information about a medication intervention.|
+| 19  | Health Status/entry section in XML defines a singular health status observation.|
+| 20  | Health Status/entry/observation section in XML provides information about a patient's health status observation. |</p>
+
+
+Test at : https://huggingface.co/spaces/awacke1/ChatGPT-Streamlit-2
+
+
+
+CCDA record format in health care is used to format patient records.  Describe how to decode this information and find the referenced entity for id root:    <custodian>
+        <assignedCustodian>
+            <representedCustodianOrganization>
+                <id root="2.16.840.1.113883.19.5.99999.6" />
+                <name>Clinic Medical Records Department</name>
+            </representedCustodianOrganization>
+        </assignedCustodian>
+    </custodian>
+ChatGPT
+CCDA, or Consolidated Clinical Document Architecture, is a standard for the exchange of clinical health information developed by Health Level Seven International (HL7), a not-for-profit standards developing organization.
+
+CCDA documents are XML files that follow a certain structure. Each element (e.g., custodian, representedCustodianOrganization) represents a different aspect of a patient's clinical history.
+
+In the XML snippet you've provided, an id root is given for the representedCustodianOrganization. This id root is a globally unique identifier known as an Object Identifier (OID). In this case, the OID 2.16.840.1.113883.19.5.99999.6 has been assigned to the represented custodian organization, "Clinic Medical Records Department".
+
+To decode this information and find the referenced entity, you would need access to a lookup service or a registry that provides information about what each OID refers to. The OID registry is a public, searchable database, however the specific registry or database can vary based on the country or specific healthcare system being used. For instance, in the United States, the National Library of Medicine maintains an OID registry.
+
+As the nature of OID is to be globally unique and assigned by authorized bodies, it's likely that 2.16.840.1.113883.19.5.99999.6 refers specifically to the "Clinic Medical Records Department". However, without access to the specific registry that provides information about this OID, the precise entity it refers to can't be conclusively determined.
+
+So, in summary, decoding the CCDA record involves understanding the XML structure, the semantics of the CCDA standard, and being able to lookup identifiers (like OID) in the appropriate registries or databases. The id root attribute in the XML provides a unique identifier that can be used to look up additional information about the referenced entity, in this case the representedCustodianOrganization.
+
+list ccda python libraries top ten in markdown table along with short description on usage to parse a cccd from a large xml to a short summary with just labels and values as a dictionary.
+ChatGPT
+Sure, let's create a table with a list of the top 10 Python libraries that can be used to parse Consolidated Clinical Document Architecture (CCDA) documents. I'll include a short description for each of them. Note that most libraries will need custom code to get the exact output you are describing.
+
+Please note that some of these libraries are not specific to CCDA but can parse XML data, and they can be used to extract information from a CCDA document.
+
+| Library | Description |
+| --- | --- |
+| [Python-CCDA](https://github.com/amida-tech/python-ccda) | A Python library for parsing CCDA documents. |
+| [PyDicom](https://pydicom.github.io/) | PyDicom is a Python package specifically for parsing, modifying, and generating DICOM files. DICOM is a standard used in medical imaging which includes a lot of health related information. |
+| [Lxml](https://lxml.de/) | A library for processing XML and HTML in the Python language. It can be used for parsing CCDA XML documents. |
+| [xml.etree.ElementTree](https://docs.python.org/3/library/xml.etree.elementtree.html) | ElementTree is a part of Python's standard library and can parse XML data. |
+| [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) | Although mainly used for HTML scraping, it can also be used for parsing XML data including CCDA documents. |
+| [xmltodict](https://github.com/martinblech/xmltodict) | This library can convert XML to Python dictionaries, making it easier to work with the data. |
+| [untangle](https://github.com/stchris/untangle) | Untangle is a simple library which takes an XML document and returns a Python object which mirrors the nodes and attributes in its structure. |
+| [defusedxml](https://pypi.org/project/defusedxml/) | This is a library that should be used as a safe replacement for Python's standard XML libraries because it defends against several security holes in the standard libraries. |
+| [xmlschema](https://pypi.org/project/xmlschema/) | This Python library is for reading and writing XML schemas. It can validate and decode XML documents into Python data and other representations. |
+| [pandas](https://pandas.pydata.org/) | With the combination of other XML parsing libraries, you can create dataframes from parsed XML data which might help in processing CCDA documents. |
+While the libraries listed above can help with the parsing of XML and CCDA documents, creating a short summary with just labels and values as a dictionary will involve writing some custom code that leverages these libraries. The exact implementation will depend on the structure of the CCDA documents you are dealing with. You'll likely need to iterate over the elements of the document and extract the desired information into a Python dictionary.
+
+Please remember that CCDA documents contain sensitive health information. Any code that handles such data should be written and operated in a manner compliant with all relevant data protection laws and standards.
+
+
+
+
+Describe how to access the OID registry:National Library of Medicine maintains an OID registry
+
+
+
+As of my knowledge cutoff in September 2021, you can access the OID registry managed by the U.S. National Library of Medicine (NLM) using the following steps:
+
+Navigate to the U.S. National Library of Medicine website.
+
+Locate the 'Services & Resources' or equivalent dropdown menu, and look for the HL7/OID Registry.
+
+Clicking on the HL7/OID Registry link will take you to the registry search page. Here you can search the OID database using various parameters.
+
+In your case, to find the information related to the given OID 2.16.840.1.113883.19.5.99999.6, enter it in the search bar provided and hit the 'Search' button.
+
+The result will provide detailed information about the entity associated with the given OID, including its name, associated organization, and other relevant information.
+
+However, please note that the specific steps might change over time, as website designs and features get updated.
+
+Please also note that not all OIDs might be present in the NLM's OID registry. OID assignments can be made by a variety of organizations worldwide, and some of these might not be registered with the NLM. Therefore, if you do not find the OID in the NLM's registry, you may need to consult other OID registries or contact the organization that issued the CCDA document to get more information.
+
+
+
+
+
 # Tuesday May 30th 2023
 
 ## The United States - Each State with Zip Code Ranges
