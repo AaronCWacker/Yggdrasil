@@ -1,6 +1,25 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Thursday June 1st, 2023 Top 15 questions that physicians have about the contents of the CCDA for any given patient:
+
+a. What is the patient's medical history as documented in the CCDA?
+b. How can I view the medication list of the patient?
+c. Where can I find the patient's allergy information?
+d. What are the results of the patient's latest laboratory tests?
+e. How can I understand the patient's immunization record?
+f. Where are the vital signs recorded in the CCDA?
+g. How is the problem list structured in the CCDA?
+h. How do I interpret the care plan within the CCDA?
+i. Where can I find the patient's social history?
+j. How is the family history represented in the CCDA?
+k. What does the patient's surgical history look like?
+l. How can I access the patient's plan of care?
+m. Where can I find the patient's functional status?
+n. What are the details of the patient's encounters?
+o. How is the patient's cognitive status represented in the CCDA? Notes
+
 # Thursday June 1st, 2023
 
 The use of LLM AI pipelines like ChatGPT to reason around current context requires the in context learning prompt size of token count totals less than the amount of tokens a particular service can process at a time.  Processing of max tokens for GPT4-32k for instance is 32,000 tokens (which are unqiue word and letter parts that reduce to numeric values aka tokenization).
@@ -28,6 +47,8 @@ Below are ideas that can allow us to work with in context learning loops with co
 	7. Result: Contains information about any lab or diagnostic test results.
 	8. SocialHistory: Contains information about the patient's social habits and history, such as smoking or alcohol use.
 	9. VitalSigns: Contains information about the patient's vital signs, such as blood pressure, heart rate, and temperature.
+
+
 5. Intelligent chunking methods can be used to sense high information value in source data (like NLTK information score) to locate what parts and sections have key information.
 6. A sample of chunking methods is below along with a purge example which removes data we don't care about from the document.
 7. While chunking solves the problem of reducing token count per transaction, subdividding it can increase run time if each request is synchronous.
