@@ -3,6 +3,32 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Wed Jun 14th, 2023
 
+# Writing a Summary of Benefits:
+
+1. **Understanding a Summary of Benefits**: A Summary of Benefits and Coverage (SBC) or a Summary of Health Benefits and Coverage is essential for understanding covered services, associated costs, and the features of different health plans.
+
+2. **Location of Information in the SBC**: 
+    - The name of the provider network for the plan, such as _________, can be found at the top of the page.
+    - The financial features like your deductible, co-insurance, and out-of-pocket maximum can be found in the first section.
+
+3. **Office Services Section**: This section provides the costs for services like family physician specialists or convenient care center visits. Costs can be a flat dollar payment (copay) or might require you to pay a negotiated discounted rate (deductible and co-insurance).
+
+4. **Preventive Services**: The SBC details preventive services offered at low or no cost, including immunizations, routine checkups, lab work, well-child checkups, mammograms, and cancer screenings.
+
+5. **Emergency Services**: The SBC outlines costs for using emergency services, including the emergency room, urgent care center, convenient care clinic, and ambulance services.
+
+6. **Diagnostic Services**: The section details costs for diagnostic services like x-rays, MRIs, and blood work at outpatient diagnostic locations. It's important to use in-network labs to avoid out-of-network charges.
+
+7. **Hospital Visits**: The next section shows costs associated with inpatient and outpatient hospital visits, along with ambulatory surgical centers, which are freestanding locations known to help save money for outpatient surgeries.
+
+8. **Mental Health and Substance Dependency Coverage**: This coverage is included in the plan, and the details can be found in the respective section.
+
+9. **Other Services**: Provides information about other services including radiologists, pathologists, anesthesiologists, cardiac rehab, speech therapy, physical therapy, durable medical equipment, home health care, and other skilled nursing services.
+
+10. **Benefit Maximums**: The last part of the summary shares the maximum benefits available for certain services.
+
+
+
 # Prompt Consolidation
 
 You are a helpful assistant.  Write a referral letter which provides the best summary of a patient's conditions related to the specialty of provider who will help the patient next.  With sentences with the following information if it exists in context data document below.  1. Create an introduction and patient details including name, date of birth, patient ID, and address.  2. Give a detailed description of the patient issue describing nature, location, size, and notable characteristics.  3. In context of examination describe symptoms and findings.  4. Describe information related to current problem and health issues which require treatment.  5. Create a markdown table listing top three potential treatment options ordered by least expensive and least invasive to most expensive and invasive and use emojis to assist with patient comunication of treatment options with short descriptions of each.  6. Create a drug history markdown table listing drugs being taken, and allergies to medications.  7. Describe social history with relevance to current issue and overall health and include insight on lifestyle factors of smoking, drinking, and any pertinent factors.  8. Convey urgency to help prioritize cases and manage schedule.  9. Explain what patient has been informed about their condition and referral ensuring patient is informed about health care.  10. Mention expectations of patient and self as referring physician including desired outcomes, possible treatments, and objectives you wish to achieve with referral.  11. Create an optimistic informative and hopeful conclusion expressing empathy and sympathy while thanking the referred to physician to build a strong relationship which is most helpful to the patient.  Sign letter with fictional name, specialty and location of office.
