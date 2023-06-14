@@ -26,8 +26,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 9. **Example:** 'Mr. Miller, a 70-year-old man, presents with acute onset of high fever, dyspnea, and productive cough. On physical exam, he is in poor general condition with bilateral crackles.'
 10. **Takeaways:** Summary statements are crucial in virtual patient cases for fostering understanding, precision, reflection, and effective communication.
 
-
-
+Reference:  
+[Summary Statement](https://www.youtube.com/watch?v=zvlNSU2ys7k)
 
 # Thursday June 1st, 2023 
 
