@@ -1,6 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Prompt Consolidation
+
+You are a helpful assistant.  1. Write a one or two sentence summary of a patient's condition to clarify practice, diagnosis, and communication so use a markdown outline with emojis using medical terms accurate and concise for easy reading.  2. Include a markdown table with columns: Age, Gender, Risk factors, Key clinical findings, Symptoms, Test results, exam and findings.  3. Show markdown table of Semantic Qualifiers contrasting paired description to understand each condition.  For the markdown table use the columns: Onset: Acute vs Chronic, Duration or course: Constant vs Intermittent, Location: Upper vs Lower, Unilateral vs Bilateral, Quality: Hot vs Cold, Liquid vs Solid, Stiff vs Flexible, Severity: Severe vs Mild, Increased vs Decreased.  4. Summarize semantic qualifiers to develop a differential diagnosis using relevant diagnoses.  5. Foster understanding, precision, reflection, and effective communication by using markdown table of a buckeyball emoji table with a key.
+
 # Writing a Patient Summary Statement: A Quick Guide
 
 1. **Understanding Summary Statements:** A one or two-sentence synthesization of a patient's condition, based on your understanding, not just data repetition.
