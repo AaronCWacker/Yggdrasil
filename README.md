@@ -1,6 +1,33 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Writing a Patient Summary Statement: A Quick Guide
+
+1. **Understanding Summary Statements:** A one or two-sentence synthesization of a patient's condition, based on your understanding, not just data repetition.
+2. **Why Write a Summary Statement:** It encourages reflection, deliberate practice, guides differential diagnosis development, and enhances communication with colleagues.
+3. **When to Write a Summary Statement:** Ideally throughout a virtual patient scenario, refining as you gain more information. Make sure to finalize before assessment and planning.
+4. **Key Elements of a Summary Statement:** Incorporate significant and relevant features of a patient. 
+    - Age
+    - Gender
+    - Risk factors
+    - Key clinical findings
+    - Symptoms
+    - Test results
+    - Physical exam findings
+5. **Using Medical Terms:** Use specific medical terms for accurate and concise communication. e.g., use 'hypertension' instead of 'blood pressure of 160 over 100'.
+6. **Leveraging Semantic Qualifiers:** These are contrasting and often paired descriptors that offer nuanced understanding of a condition.
+    - Onset: Acute vs Chronic
+    - Duration or course: Constant vs Intermittent
+    - Location: Upper vs Lower, Unilateral vs Bilateral
+    - Quality: Hot vs Cold, Liquid vs Solid, Stiff vs Flexible
+    - Severity: Severe vs Mild, Increased vs Decreased
+7. **Importance of Semantic Qualifiers:** Using these assists in developing the differential diagnosis, as relevant diagnoses for acute vs chronic onset, for instance, are usually very different.
+8. **Personalizing Summary Statements:** Including the patient's name in the statement enhances personal connection and comprehension.
+9. **Example:** 'Mr. Miller, a 70-year-old man, presents with acute onset of high fever, dyspnea, and productive cough. On physical exam, he is in poor general condition with bilateral crackles.'
+10. **Takeaways:** Summary statements are crucial in virtual patient cases for fostering understanding, precision, reflection, and effective communication.
+
+
+
 
 # Thursday June 1st, 2023 
 
