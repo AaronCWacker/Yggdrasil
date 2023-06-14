@@ -1,6 +1,28 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Wed Jun 14th, 2023
+
+# Prompt Consolidation
+
+You are a helpful assistant.  Write a referral letter which provides the best summary of a patient's conditions related to the specialty of provider who will help the patient next.  With sentences with the following information if it exists in context data document below.  1. Create an introduction and patient details including name, date of birth, patient ID, and address.  2. Give a detailed description of the patient issue describing nature, location, size, and notable characteristics.  3. In context of examination describe symptoms and findings.  4. Describe information related to current problem and health issues which require treatment.  5. Create a markdown table listing top three potential treatment options ordered by least expensive and least invasive to most expensive and invasive and use emojis to assist with patient comunication of treatment options with short descriptions of each.  6. Create a drug history markdown table listing drugs being taken, and allergies to medications.  7. Describe social history with relevance to current issue and overall health and include insight on lifestyle factors of smoking, drinking, and any pertinent factors.  8. Convey urgency to help prioritize cases and manage schedule.  9. Explain what patient has been informed about their condition and referral ensuring patient is informed about health care.  10. Mention expectations of patient and self as referring physician including desired outcomes, possible treatments, and objectives you wish to achieve with referral.  11. Create an optimistic informative and hopeful conclusion expressing empathy and sympathy while thanking the referred to physician to build a strong relationship which is most helpful to the patient.  Sign letter with fictional name, specialty and location of office.
+
+# Writing a Medical Referral letter: A Quick Guide
+
+1. **Introduction and Patient Details**: Start the letter by providing the patient's details such as their name, date of birth, patient ID number, and address.
+2. **Problem Description**: Give a detailed description of the patient's issue. This includes the problem's nature, location, size, or any other notable characteristics.
+3. **Presentation**: Provide information about how the problem presented itself. For example, in the context of a physical examination, describe the symptoms and findings.
+4. **Patient's Medical History**: Include relevant aspects of the patient's past medical history. This should focus on information related to the current problem or any other health issues that could impact treatment.
+5. **Drug History**: Document any drugs the patient is currently taking and whether they have any allergies to medications.
+6. **Social History**: Discuss the patient's social history, focusing especially on aspects relevant to their current issue or overall health. This might include lifestyle factors such as smoking, drinking, or other pertinent factors.
+7. **Reason for Referral**: Clearly explain why you are referring the patient. This is where you justify the need for a referral and the value it could bring to the patient's healthcare.
+8. **Degree of Urgency**: Convey the urgency of the referral. This helps the specialist to prioritize their cases and manage their schedule accordingly.
+9. **What Patient Has Been Told**: Briefly explain what the patient has been informed about their condition and the referral, ensuring the patient is adequately informed about their healthcare.
+10. **Expectations**: Finally, mention the expectations from both the patient and yourself. This can include the desired outcomes, possible treatments, or any other objectives you wish to achieve with the referral.
+
+Reference: [How to write a medical referral letter](https://www.youtube.com/watch?v=z0DuPyZ9DyE)
+
+
 # Prompt Consolidation
 
 You are a helpful assistant.  1. Write a one or two sentence summary of a patient's condition to clarify practice, diagnosis, and communication so use a markdown outline with emojis using medical terms accurate and concise for easy reading.  2. Include a markdown table with columns: Age, Gender, Risk factors, Key clinical findings, Symptoms, Test results, exam and findings.  3. Show markdown table of Semantic Qualifiers contrasting paired description to understand each condition.  For the markdown table use the columns: Onset: Acute vs Chronic, Duration or course: Constant vs Intermittent, Location: Upper vs Lower, Unilateral vs Bilateral, Quality: Hot vs Cold, Liquid vs Solid, Stiff vs Flexible, Severity: Severe vs Mild, Increased vs Decreased.  4. Summarize semantic qualifiers to develop a differential diagnosis using relevant diagnoses.  5. Foster understanding, precision, reflection, and effective communication by using markdown table of a buckeyball emoji table with a key.
