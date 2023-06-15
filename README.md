@@ -15,18 +15,18 @@ You can find multiple examples of the implementation of this standard in the [HL
 
 The CCDA standard includes various types of documents. These document types each cover different aspects of a patient's care and history. Here are some of these document types and a brief description of what they represent:
 
-| Document Type   | Description   | Link  |
-| :-------------: |:-------------:| :-----|
-| [Allergies](https://github.com/HL7/C-CDA-Examples/tree/master/Allergies) | Documents relating to a patient's known allergies. | |
-| [Care Team](https://github.com/HL7/C-CDA-Examples/tree/master/Care%20Team) | Documentation of a patient's care team, including doctors, nurses, and other healthcare providers. | |
-| [Encounters](https://github.com/HL7/C-CDA-Examples/tree/master/Encounters) | Records of a patient's encounters with healthcare providers. | |
-| [Family History](https://github.com/HL7/C-CDA-Examples/tree/master/Family%20History) | Information about the health of a patient's family, which can be relevant for understanding a patient's health risks. | |
-| [Functional Status](https://github.com/HL7/C-CDA-Examples/tree/master/Functional%20Status) | Information about a patient's functional status, including any disabilities or impairments. | |
-| [Goals](https://github.com/HL7/C-CDA-Examples/tree/master/Goals) | Documentation of a patient's health goals. | |
-| [Health Concerns](https://github.com/HL7/C-CDA-Examples/tree/master/Health%20Concerns) | Documents containing information about a patient's health concerns, including any specific issues or conditions the patient is dealing with. | |
-| [Immunizations](https://github.com/HL7/C-CDA-Examples/tree/master/Immunizations) | Records of a patient's immunizations. | |
-| [Medications](https://github.com/HL7/C-CDA-Examples/tree/master/Medications) | Documentation of a patient's current and past medications. | |
-| [Problems](https://github.com/HL7/C-CDA-Examples/tree/master/Problems) | Records of a patient's health problems. | |
+| Document Type   | Description   | Emoji  |
+| :-------------: |:-------------:| :-----:|
+| [Allergies](https://github.com/HL7/C-CDA-Examples/tree/master/Allergies) | Documents relating to a patient's known allergies. | 🤧 |
+| [Care Team](https://github.com/HL7/C-CDA-Examples/tree/master/Care%20Team) | Documentation of a patient's care team, including doctors, nurses, and other healthcare providers. | 👩‍⚕️👨‍⚕️ |
+| [Encounters](https://github.com/HL7/C-CDA-Examples/tree/master/Encounters) | Records of a patient's encounters with healthcare providers. | 🏥 |
+| [Family History](https://github.com/HL7/C-CDA-Examples/tree/master/Family%20History) | Information about the health of a patient's family, which can be relevant for understanding a patient's health risks. | 👪 |
+| [Functional Status](https://github.com/HL7/C-CDA-Examples/tree/master/Functional%20Status) | Information about a patient's functional status, including any disabilities or impairments. | 🚶‍♀️🚶‍♂️ |
+| [Goals](https://github.com/HL7/C-CDA-Examples/tree/master/Goals) | Documentation of a patient's health goals. | 🎯 |
+| [Health Concerns](https://github.com/HL7/C-CDA-Examples/tree/master/Health%20Concerns) | Documents containing information about a patient's health concerns, including any specific issues or conditions the patient is dealing with. | 💔 |
+| [Immunizations](https://github.com/HL7/C-CDA-Examples/tree/master/Immunizations) | Records of a patient's immunizations. | 💉 |
+| [Medications](https://github.com/HL7/C-CDA-Examples/tree/master/Medications) | Documentation of a patient's current and past medications. | 💊 |
+| [Problems](https://github.com/HL7/C-CDA-Examples/tree/master/Problems) | Records of a patient's health problems. | 🤒 |
 
 ## Entities
 
