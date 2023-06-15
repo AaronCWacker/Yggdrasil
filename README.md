@@ -1,6 +1,42 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Thu Jun 15th, 2023
+
+[CCDA Examples Github](https://github.com/HL7/C-CDA-Examples)
+
+# HL7 Consolidated Clinical Document Architecture (C-CDA)
+
+The Health Level Seven (HL7) Consolidated Clinical Document Architecture (C-CDA) is a standard for structuring patient care documents. This standard allows for more consistent documentation across different healthcare providers and systems.
+
+You can find multiple examples of the implementation of this standard in the [HL7 C-CDA Examples GitHub repository](https://github.com/HL7/C-CDA-Examples).
+
+## Document Types
+
+The CCDA standard includes various types of documents. These document types each cover different aspects of a patient's care and history. Here are some of these document types and a brief description of what they represent:
+
+| Document Type   | Description   | Link  |
+| :-------------: |:-------------:| :-----|
+| [Allergies](https://github.com/HL7/C-CDA-Examples/tree/master/Allergies) | Documents relating to a patient's known allergies. | |
+| [Care Team](https://github.com/HL7/C-CDA-Examples/tree/master/Care%20Team) | Documentation of a patient's care team, including doctors, nurses, and other healthcare providers. | |
+| [Encounters](https://github.com/HL7/C-CDA-Examples/tree/master/Encounters) | Records of a patient's encounters with healthcare providers. | |
+| [Family History](https://github.com/HL7/C-CDA-Examples/tree/master/Family%20History) | Information about the health of a patient's family, which can be relevant for understanding a patient's health risks. | |
+| [Functional Status](https://github.com/HL7/C-CDA-Examples/tree/master/Functional%20Status) | Information about a patient's functional status, including any disabilities or impairments. | |
+| [Goals](https://github.com/HL7/C-CDA-Examples/tree/master/Goals) | Documentation of a patient's health goals. | |
+| [Health Concerns](https://github.com/HL7/C-CDA-Examples/tree/master/Health%20Concerns) | Documents containing information about a patient's health concerns, including any specific issues or conditions the patient is dealing with. | |
+| [Immunizations](https://github.com/HL7/C-CDA-Examples/tree/master/Immunizations) | Records of a patient's immunizations. | |
+| [Medications](https://github.com/HL7/C-CDA-Examples/tree/master/Medications) | Documentation of a patient's current and past medications. | |
+| [Problems](https://github.com/HL7/C-CDA-Examples/tree/master/Problems) | Records of a patient's health problems. | |
+
+## Entities
+
+Entities in C-CDA refer to the participants in care delivery and can include organizations, devices, and people. Entities can play different roles and can have different relationships with each other.
+
+For example, an organization (like a hospital) might be the entity responsible for delivering care, while a device (like a pacemaker) might be the entity being used in care delivery. Entities like these are used throughout the C-CDA documents to provide a fuller picture of a patient's care.
+
+For more detailed examples, please refer to the [CCDA Examples Github](https://github.com/HL7/C-CDA-Examples).
+
+
 # Wed Jun 14th, 2023
 
 # Writing a Summary of Benefits:
