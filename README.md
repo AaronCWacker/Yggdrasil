@@ -1,10 +1,596 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Tuesday, Jun 20th 2023
+
+[StreamlitChatGPT7](https://huggingface.co/spaces/awacke1/ChatGPTStreamlit7)
+
+{
+"text":"Show the top 10 lyrics and songs by the band Rolling Stones. Show chords for the lyrics as well."
+}
+Responses:
+
+Sure, here are the top 10 Rolling Stones songs along with their lyrics and chords:
+
+"(I Can't Get No) Satisfaction"
+
+Verse:
+E               D
+I can't get no satisfaction
+A               E        A
+I can't get no satisfaction
+E           D
+'Cause I try and I try and I try and I try
+     A               E
+I can't get no, I can't get no
+
+Chorus:
+E7            A
+When I'm drivin' in my car
+E7         A
+And that man comes on the radio
+    E7               A
+He's tellin' me more and more
+E7               A
+About some useless information
+E7                A
+Supposed to fire my imagination
+
+Verse:
+E               D
+I can't get no satisfaction
+A               E        A
+I can't get no satisfaction
+E           D
+'Cause I try and I try and I try and I try
+     A               E
+I can't get no, I can't get no
+
+Chorus:
+E7            A
+When I'm watchin' my TV
+E7             A
+And that man comes on to tell me
+E7                A
+How white my shirts can be
+E7                   A
+Well, he can't be a man 'cause he doesn't smoke
+E7            A
+The same cigarettes as me
+
+Verse:
+E               D
+I can't get no satisfaction
+A               E        A
+I can't get no satisfaction
+E           D
+'Cause I try and I try and I try and I try
+     A               E
+I can't get no, I can't get no
+
+Chorus:
+E7                A
+When I'm ridin' 'round the world
+E7             A
+And I'm doin' this and I'm signing that
+E7                A
+And I'm tryin' to make some girl
+E7                       A
+'Cause you see I'm on losing streak
+E7           A
+I can't get no, oh no no no
+"Paint It Black"
+
+Verse 1:
+Em         G                   Em
+I see a red door and I want to paint it black
+Em         G                   Em
+No colors anymore I want them to turn black
+Em         G                   Em
+I see the girls walk by dressed in their summer clothes
+Em         G           Am         Em
+I have to turn my head until my darkness goes
+
+Chorus:
+Em         G                   Em
+I see a line of cars and they're all painted black
+Em         G                   Em
+With flowers and my love both never to come back
+Em         G                   Em
+I see people turn their heads and quickly look away
+Em         G           Am         Em
+Like a newborn baby it just happens everyday
+
+Verse 2:
+Em         G                   Em
+I look inside myself and see my heart is black
+Em         G                   Em
+I see my red door I must have it painted black
+Em         G                   Em
+Maybe then I'll fade away and not have to face the facts
+Em         G           Am         Em
+It's not easy facin' up when your whole world is black
+
+Chorus:
+Em         G                   Em
+No more will my green sea go turn a deeper blue
+Em         G                   Em
+I could not foresee this thing happening to you
+Em         G                   Em
+If I look hard enough into the settin' sun
+Em         G           Am         Em
+My love will laugh with me before the mornin' comes
+
+Outro:
+Em         G                   Em
+I see a red door and I want it painted black
+Em         G                   Em
+No colors anymore I want them to turn black
+Em         G                   Em
+I see the girls walk by dressed in their summer clothes
+Em         G           Am         Em
+I have to turn my head until my darkness goes
+"Gimme Shelter"
+
+Verse 1:
+G                   C                 G
+Oh, a storm is threat'ning my very life today
+C                 G             D
+If I don't get some shelter, oh yeah, I'm gonna fade away
+
+Chorus:
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+
+Verse 2:
+G                   C                 G
+Ooh, see the fire is sweepin' our very street today
+C                 G             D
+Burns like a red coal carpet, mad bull lost its way
+
+Chorus:
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+
+Verse 3:
+G                   C                 G
+Rape, murder, it's just a shot away, it's just a shot away
+C                 G             D
+Rape, murder, it's just a shot away, it's just a shot away
+
+Chorus:
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+
+Verse 4:
+G                   C                 G
+The flood is threat'ning my very life today
+C                 G             D
+Gimme, gimme shelter or I'm gonna fade away
+
+Chorus:
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+G             C       G    C                  G
+War, children, it's just a shot away, it's just a shot away
+
+Outro:
+G     C     G     D     G
+Ooh, see the fire is sweepin'
+G     C     G     D     G
+Our very street today
+G     C     G     D     G
+Burns like a red coal carpet
+G     C     G     D     G
+Mad bull lost its way
+G     C     G     D     G
+Rape, murder, it's just a shot away
+G     C     G     D     G
+It's just a shot away
+"Sympathy for the Devil"
+
+Verse 1:
+E                   B7
+Please allow me to introduce myself
+     E                         B7
+I'm a man of wealth and taste
+E                          B7
+I've been around for a long, long year
+         E              B7
+Stole many a man's soul to waste
+
+Verse 2:
+E                   B7
+I was 'round when Jesus Christ
+     E                      B7
+Had his moment of doubt and pain
+E                      B7
+Made damn sure that Pilate
+         E                B7
+Washed his hands and sealed his fate
+
+Chorus:
+E                     B7
+Pleased to meet you, hope you guess my name
+E                     B7
+But what's puzzling you is the nature of my game
+
+Verse 3:
+E                         B7
+I stuck around St. Petersburg
+     E                    B7
+Killed the czar and his ministers
+E                  B7
+Anastasia screamed in vain
+         E                B7
+I rode a tank, held a general's rank
+
+Chorus:
+E                     B7
+Pleased to meet you, hope you guess my name
+E                     B7
+But what's puzzling you is the nature of my game
+
+Verse 4:
+E                          B7
+I watched with glee while your kings and queens
+     E                    B7
+Fought for ten decades for the gods they made
+E                     B7
+I shouted out, "Who killed the Kennedys?"
+         E                 B7
+When after all, it was you and me
+
+Chorus:
+E                     B7
+Pleased to meet you, hope you guess my name
+E                     B7
+But what's puzzling you is the nature of my game
+
+Outro:
+E                     B7
+Just as every cop is a criminal
+       E                  B7
+And all the sinners saints
+E                            B7
+As heads is tails, just call me Lucifer
+         E                B7
+'Cause I'm in need of some restraint
+E                     B7
+So if you meet me, have some courtesy
+E                     B7
+Have some sympathy, and some taste
+E                     B7
+Use all your well-learned politesse
+         E                B7
+Or I'll lay your soul to waste
+"Brown Sugar"
+
+Verse 1:
+C               C/Bb       F
+Gold coast slave ship bound for cotton fields
+C               C/Bb       F
+Sold in a market down in New Orleans
+C               C/Bb       F
+Scarred old slaver know he's doin' all right
+C         C/Bb          F
+Hear him whip the women just around midnight
+
+Chorus:
+                C        C/Bb     F
+Ah, brown sugar, how come you taste so good?
+                C        C/Bb     F
+Ah, brown sugar, just like a young girl should
+                C        C/Bb     F
+Ah, brown sugar, how come you taste so sweet?
+                C        C/Bb     F
+Ah, brown sugar, just like a black girl should
+
+Verse 2:
+C               C/Bb       F
+Drums beating, cold English blood runs hot
+C               C/Bb       F
+Lady of the house wonderin' where it's gonna stop
+C               C/Bb       F
+House boy knows that he's doin' all right
+C         C/Bb          F
+You shoulda heard him just around midnight
+
+Chorus:
+                C        C/Bb     F
+Ah, brown sugar, how come you taste so good?
+                C        C/Bb     F
+Ah, brown sugar, just like a young girl should
+                C        C/Bb     F
+Ah, brown sugar, how come you taste so sweet?
+                C        C/Bb     F
+Ah, brown sugar, just like a black girl should
+
+Bridge:
+C                   C/Bb             F
+I bet your mama was a Cajun queen
+C                   C/Bb             F
+And all her boyfriends were sweet sixteen
+C                   C/Bb                F
+I'm no schoolboy, but I know what I like
+C      C/Bb                 F
+You shoulda heard me just around midnight
+
+Chorus:
+                C        C/Bb     F
+Ah, brown sugar, how come you taste so good?
+                C        C/Bb     F
+Ah, brown sugar, just like a young girl should
+                C        C/Bb     F
+Ah, brown sugar, how come you taste so sweet?
+                C        C/Bb     F
+Ah, brown sugar, just like a black girl should
+"Start Me Up"
+
+Verse 1:
+G         D     G        D
+If you start me up
+G        D     G        D
+If you start me up, I'll never stop
+G        D     G        D
+If you start me up
+G         D     G        D
+If you start me up, I'll never stop
+I've been running hot
+G        D     G        D
+You got me ticking gonna blow my top
+G        D     G        D
+If you start me up
+G        D     G        D
+If you start me up, I'll never stop
+
+Chorus:
+     G      D       G        D
+Never stop, never stop, never stop
+     G      D       G        D
+Never stop, never stop, never stop
+
+Verse 2:
+G        D     G        D
+You make a grown man cry
+G        D     G        D
+You make a grown man cry
+G        D     G        D
+You make a grown man cry
+Spread out the oil, the gasoline
+G        D     G        D
+I walk smooth, ride in a mean, mean machine
+G        D     G        D
+Start it up
+G        D     G        D
+If you start it up, kick on the starter, give it all you got
+Chorus:
+     G      D       G        D
+Never stop, never stop, never stop
+     G      D       G        D
+Never stop, never stop, never stop
+
+Interlude:
+    G
+You got me rocking
+
+Verse 3:
+G        D     G        D
+I know that you like it, you like it a lot
+G        D     G        D
+You got me rocking, baby, I didn't need no tutelage
+G        D     G        D
+I was born ready, I was already well-prepared
+G        D     G        D
+I was ready to take you, baby, bit by bit, and all the way
+G              D          G        D
+I'm on the hunt, I'm after you, moan and groan, honey
+
+Chorus:
+     G      D       G        D
+Never stop, never stop, never stop
+     G      D       G        D
+Never stop, never stop, never stop
+
+Outro:
+G        D     G        D
+You make a grown man cry
+G        D     G        D
+You make a grown man cry
+G        D     G        D
+You make a grown man cry
+"Jumpin' Jack Flash"
+
+Verse 1:
+Bb
+I was born in a crossfire hurricane
+F
+And I howled at the mornin' drivin' rain
+Bb
+But it's all right now, in fact, it's a gas
+F
+But it's all right, I'm Jumpin' Jack Flash
+Bb
+It's a gas, gas, gas
+
+Verse 2:
+Bb
+I was raised by a toothless bearded hag
+F
+I was schooled with a strap right across my back
+Bb
+But it's all right now, in fact, it's a gas
+F
+But it's all right, I'm Jumpin' Jack Flash
+Bb
+It's a gas, gas, gas
+
+Chorus:
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+
+Verse 3:
+Bb
+I was drowned, I was washed up and left for dead
+F
+I fell down to my feet and I saw they bled, yeah, yeah
+Bb
+I frowned at the crumbs of a crust of bread
+F
+I was crowned with a spike right through my head
+
+Chorus:
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+Bb                     F       Bb
+Jumpin' Jack Flash, it's a gas, gas, gas
+
+Verse 4:
+Bb
+But it's all right now, in fact, it's a gas
+F
+But it's all right, I'm Jumpin' Jack Flash
+Bb
+It's a gas, gas, gas
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+Bb
+Jumpin' Jack Flash
+F
+Jumpin' Jack Flash
+"Honky Tonk Women"
+
+Verse 1:
+G
+I met a gin soaked, bar-room queen in Memphis
+C
+She tried to take me upstairs for a ride
+G
+She had to heave me right across her shoulder
+D
+'Cause I just can't seem to drink you off my mind
+
+Chorus:
+                G
+It's the honky tonk women
+                C
+Gimme, gimme, gimme the honky tonk blues
+
+Verse 2:
+G
+I laid a divorcee in New York City
+C
+I had to put up some kind of a fight
+G
+The lady then she covered me with roses
+D
+She blew my nose and then she blew my mind
+
+Chorus:
+                G
+It's the honky tonk women
+                C
+Gimme, gimme, gimme the honky tonk blues
+
+Bridge:
+          D         A
+(Mmmmmmmm...) (Ow...)
+          D         A
+(Mmmmmmmm...) (Ow...)
+          D         A
+(Mmmmmmmm...) (Ow...)
+          D         A
+(Mmmmmmmm...) (Ow...)
+
+Verse 3:
+G
+I walked a thin line, honey, for your sake
+C
+I have to just keep on pushing, mama, ah-ah-ah
+G
+I don't want the same old thing, mama
+D
+I just want a little bit of everything
+
+Chorus:
+                G
+It's the honky tonk women
+                C
+Gimme, gimme, gimme the honky tonk blues
+
+Bridge:
+          D         A
+(Mmmmmmmm...) (Ow...)
+          D         A
+(Mmmmmmmm...) (Ow...)
+          D         A
+(Mmmmmmmm...) (Ow...)
+
+Outro:
+G
+It's the honky tonk women
+C
+Gimme, gimme, gimme the honky tonk blues
+G
+It's the honky tonk women
+C
+Gimme, gimme, gimme the honky tonk blues
+G
+It's the honky tonk women
+C
+Gimme, gimme, gimme the honky tonk blues
+"Angie"
+
+Verse 1:
+        Am      Em       G        F
+Angie, Angie, when will those clouds all disappear?
+        Am      Em       G        F
+Ang
+Show the top 10 lyrics and songs by the band Rolling Stones. Show chords for the lyrics as well.
 # Sunday, 6/18/2023:
 
-
-Vision and Mission
+Voice Prompt Results: [
+](https://huggingface.co/spaces/awacke1/ChatGPTStreamlit7)Vision and Mission
 Clearly define the vision and mission of the organization. These should guide all strategic decisions and align all employees.
 
 [Verse 1]
