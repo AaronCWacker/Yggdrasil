@@ -1,6 +1,11 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Voice Prompting
+
+Voice prompting is the fastest way to instruct a computer because it allows for faster input of information compared to typing on a keyboard. Most people can speak around 120-150 words per minute, while they can only type around 40-60 words per minute. Additionally, people can typically hear and process around 200-300 words per minute. Therefore, using voice prompting allows for faster input and processing of information.
+
+
 # Tuesday, Jun 20th 2023
 
 Writing Class Lessons for STEM with Health and Wellness for a healthy body and mind along with STEM AI pair programming with language with voice input.
