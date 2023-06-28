@@ -1,6 +1,193 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+# Owls:
+There are around 250 species of owls that are distributed across the world, except for Antarctica. Tell me which owl species exist in which area of the world and use emojis and the owl species proper name and article from encyclopedic sources. Number the outline for 1 - 100 starting with list here: 🦉 Snowy Owl (Bubo scandiacus): Found in the Arctic regions of North America and Eurasia. 🦉 Great Horned Owl (Bubo virginianus): Found throughout North and South America. 🦉 Barn Owl (Tyto alba): Found in Europe, Asia, Africa, Australia, and the Americas. 🦉 Eagle Owl (Bubo bubo): Found in Europe, Asia, and Africa. 🦉 Tawny Owl (Strix aluco): Found in Europe, Asia, and Africa. 🦉 Little Owl (Athene noctua): Found in Europe, Asia, and Africa. 🦉 Scops Owl (Otus scops): Found in Europe, Asia, and Africa. 🦉 Burrowing Owl (Athene cunicularia): Found in North and South America. 🦉 Elf Owl (Micrathene whitneyi): Found in southwestern United States and Mexico. 11. 🦉 Short-eared Owl (Asio flammeus): Found in North and South America, Europe, Asia, and Africa. 12. 🦉 Long-eared Owl (Asio otus): Found in Europe, Asia, and North America. 13. 🦉 Northern Saw-whet Owl (Aegolius acadicus): Found in North and Central America. 14. 🦉 Boreal Owl (Aegolius funereus): Found in North America, Europe, and Asia. 15. 🦉 Spotted Owl (Strix occidentalis): Found in North America. 16. 🦉 Barred Owl (Strix varia): Found in North America. 17. 🦉 Great Grey Owl (Strix nebulosa): Found in North America, Europe, and Asia. 18. 🦉 Crested Owl (Lophostrix cristata): Found in Central and South America. 19. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America. 20. 🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America. 21. 🦉 Northern Pygmy Owl (Glaucidium gnoma): Found in North and Central America. 22. 🦉 Eurasian Pygmy Owl (Glaucidium passerinum): Found in Europe and Asia. 23. 🦉 Forest Owlet (Heteroglaux blewitti): Found in India. 24. 🦉 Indian Scops Owl (Otus bakkamoena): Found in India and Southeast Asia. 25. 🦉 Brown Fish Owl (Ketupa zeylonensis): Found in South Asia. 26. 🦉 Snowy-browed Owl (Pulsatrix koeniswaldiana): Found in South America. 27. 🦉 Stygian Owl (Asio stygius): Found in Central and South America. 28. 🦉 Striped Owl (Asio clamator): Found in Central and South America. 29. 🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America. 30. 🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America. 31. 🦉 Jamaican Owl (Pseudoscops grammicus): Found only in Jamaica. 32. 🦉 Buru Boobook (Ninox hypogramma): Found in Indonesia. 33. 🦉 Oriental Bay Owl (Phodilus badius): Found in South and Southeast Asia. 34. 🦉 Buffy Fish Owl (Ketupa ketupu): Found in South and Southeast Asia. 35. 🦉 Collared Owlet (Glaucidium brodiei): Found in South and Southeast Asia. 36. 🦉 Chestnut-backed Owlet (Glaucidium castanotum): Found in South and Southeast Asia. 37. 🦉 Crested Treeswift (Hemiprocne coronata): Found in South and Southeast Asia. 38. 🦉 Grey Nightjar (Caprimulgus indicus): Found in South and Southeast Asia. 39. 🦉 Pygmy Nightjar (Caprimulgus hirundinaceus): Found in Africa. 40. 🦉 Rufous-cheeked Nightjar (Caprimulgus rufigena): Found in Africa. 41. 🦉 Abyssinian Nightjar (Caprimulgus poliocephalus): Found in Africa. 42. 🦉 Black-shouldered Nightjar (Caprimulgus nigriscapularis): Found in Africa. 43. 🦉 Fiery-necked Nightjar (Caprimulgus pectoralis): Found in Africa. 44. 🦉 Pennant-winged Nightjar (Caprimulgus vexillarius): Found in Africa. 45. 🦉 Standard-winged Nightjar (Caprimulgus longipennis): Found in Africa. 46. 🦉 White-tailed Nightjar (Caprimulgus cayennensis): Found in Central and South America. 47. 🦉 Chuck-will's-widow (Antrostomus carolinensis): Found in North and Central America. 48. 🦉 Whip-poor-will (Antrostomus vociferus): Found in North and Central America. 49. 🦉 Tawny-bellied Screech Owl (Megascops watsonii): Found in Central and South America. 50. 🦉 Vermiculated Screech Owl (Megascops vermiculatus): Found in Central and South America. 51. 🦉 Black-capped Screech Owl (Megascops atricapilla): Found in Central and South America. 52. 🦉 Rufous-bellied Screech Owl (Megascops ingens): Found in Central and South America. 53. 🦉 Whiskered Screech Owl (Megascops trichopsis): Found in Central and South America. 54. 🦉 Pacific Screech Owl (Megascops cooperi): Found in North and Central America. 55. 🦉 Bearded Screech Owl (Megascops barbarus): Found in Central and South America. 56. 🦉 Yungas Pygmy Owl (Glaucidium bolivianum): Found in South America. 57. 🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America. 58. 🦉 Least Pygmy Owl (Glaucidium minutissimum): Found in Central and South America. 59. 🦉 Amazonian Pygmy Owl (Glaucidium hardyi): Found in South America. 60. 🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America. 61. 🦉 Striped Owl (Asio clamator): Found in Central and South America. 62. 🦉 Blackish Nightjar (Nyctipolus nigrescens): Found in Central and South America. 63. 🦉 White-winged Nightjar (Eleothreptus candicans): Found in Central and South America. 64. 🦉 Rufous Nightjar (Antrostomus rufus): Found in Central and South America. 65. 🦉 Common Pauraque (Nyctidromus albicollis): Found in Central and South America. 66. 🦉 Great Potoo (Nyctibius grandis): Found in Central and South America. 67. 🦉 Long-tailed Potoo (Nyctibius aethereus): Found in Central and South America. 68. 🦉 Northern Potoo (Nyctibius jamaicensis): Found in Central and South America. 69. 🦉 Andean Potoo (Nyctibius maculosus): Found in South America. 70. 🦉 Rufous Potoo (Nyctibius bracteatus): Found in South America. 71. 🦉 White-collared Swift (Streptoprocne zonaris): Found in Central and South America. 72. 🦉 Spot-fronted Swift (Cypseloides cherriei): Found in Central and South America. 73. 🦉 Chestnut-collared Swift (Streptoprocne rutila): Found in Central and South America. 74. 🦉 White-tipped Swift (Aeronautes montivagus): Found in South America. 75. 🦉 Black Swift (Cypseloides niger): Found in North and South America. 76. 🦉 White-throated Swift (Aeronautes saxatalis): Found in North and South America. 77. 🦉 Tawny-throated Leaftosser (Sclerurus mexicanus): Found in Central and South America. 78. 🦉 Scaly-throated Leaftosser (Sclerurus guatemalensis): Found in Central and South America. 79. 🦉 Olive-backed Quail-Dove (Leptotila ochraceiventris): Found in Central and South America. 80. 🦉 Grey-fronted Dove (Leptotila rufaxilla): Found in Central and South America. 81. 🦉 White-tipped Dove (Leptotila verreauxi): Found in Central and South America. 82. 🦉 Ruddy Quail-Dove (Geotrygon montana): Found in Central and South America. 83. 🦉 White-faced Quail-Dove (Zentrygon albifacies): Found in Central and South America. 84. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America. 85. 🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America. 86. 🦉 Crested Owl (Lophostrix cristata): Found in Central and South America. 87. 🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America. 88. 🦉 Tawny-browed Owl (Pulsatrix koeniswaldiana): Found in Central and South America. 89. 🦉 Rufous-banded Owl (Ciccaba albitarsis): Found in Central and South America. 90. 🦉 Black-banded Owl (Strix huhula): Found in Central and South America. 91. 🦉 Stygian Owl (Asio stygius): Found in Central and South America. 92. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America. 93. 🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America. 94. 🦉 Crested Owl (Lophostrix cristata): Found in Central and South America. 95. 🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America. 96. 🦉 Tawny-browed Owl (Pulsatrix koeniswaldiana): Found in Central and South America. 97. 🦉 Rufous-banded Owl (Ciccaba albitarsis): Found in Central and South America. 98. 🦉 Black-banded Owl (Strix huhula): Found in Central and South America. 99. 🦉 Stygian Owl (Asio stygius): Found in Central and South America. 100. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America.
+
+
+
+*11. 🦉 Short-eared Owl (Asio flammeus): Found in North and South America, Europe, Asia, and Africa.
+
+🦉 Long-eared Owl (Asio otus): Found in Europe, Asia, and North America.
+
+🦉 Northern Saw-whet Owl (Aegolius acadicus): Found in North and Central America.
+
+🦉 Boreal Owl (Aegolius funereus): Found in North America, Europe, and Asia.
+
+🦉 Spotted Owl (Strix occidentalis): Found in North America.
+
+🦉 Barred Owl (Strix varia): Found in North America.
+
+🦉 Great Grey Owl (Strix nebulosa): Found in North America, Europe, and Asia.
+
+🦉 Crested Owl (Lophostrix cristata): Found in Central and South America.
+
+🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America.
+
+🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America.
+
+🦉 Northern Pygmy Owl (Glaucidium gnoma): Found in North and Central America.
+
+🦉 Eurasian Pygmy Owl (Glaucidium passerinum): Found in Europe and Asia.
+
+🦉 Forest Owlet (Heteroglaux blewitti): Found in India.
+
+🦉 Indian Scops Owl (Otus bakkamoena): Found in India and Southeast Asia.
+
+🦉 Brown Fish Owl (Ketupa zeylonensis): Found in South Asia.
+
+🦉 Snowy-browed Owl (Pulsatrix koeniswaldiana): Found in South America.
+
+🦉 Stygian Owl (Asio stygius): Found in Central and South America.
+
+🦉 Striped Owl (Asio clamator): Found in Central and South America.
+
+🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America.
+
+🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America.
+
+🦉 Jamaican Owl (Pseudoscops grammicus): Found only in Jamaica.
+
+🦉 Buru Boobook (Ninox hypogramma): Found in Indonesia.
+
+🦉 Oriental Bay Owl (Phodilus badius): Found in South and Southeast Asia.
+
+🦉 Buffy Fish Owl (Ketupa ketupu): Found in South and Southeast Asia.
+
+🦉 Collared Owlet (Glaucidium brodiei): Found in South and Southeast Asia.
+
+🦉 Chestnut-backed Owlet (Glaucidium castanotum): Found in South and Southeast Asia.
+
+🦉 Crested Treeswift (Hemiprocne coronata): Found in South and Southeast Asia.
+
+🦉 Grey Nightjar (Caprimulgus indicus): Found in South and Southeast Asia.
+
+🦉 Pygmy Nightjar (Caprimulgus hirundinaceus): Found in Africa.
+
+🦉 Rufous-cheeked Nightjar (Caprimulgus rufigena): Found in Africa.
+
+🦉 Abyssinian Nightjar (Caprimulgus poliocephalus): Found in Africa.
+
+🦉 Black-shouldered Nightjar (Caprimulgus nigriscapularis): Found in Africa.
+
+🦉 Fiery-necked Nightjar (Caprimulgus pectoralis): Found in Africa.
+
+🦉 Pennant-winged Nightjar (Caprimulgus vexillarius): Found in Africa.
+
+🦉 Standard-winged Nightjar (Caprimulgus longipennis): Found in Africa.
+
+🦉 White-tailed Nightjar (Caprimulgus cayennensis): Found in Central and South America.
+
+🦉 Chuck-will's-widow (Antrostomus carolinensis): Found in North and Central America.
+
+🦉 Whip-poor-will (Antrostomus vociferus): Found in North and Central America.
+
+🦉 Tawny-bellied Screech Owl (Megascops watsonii): Found in Central and South America.
+
+🦉 Vermiculated Screech Owl (Megascops vermiculatus): Found in Central and South America.
+
+🦉 Black-capped Screech Owl (Megascops atricapilla): Found in Central and South America.
+
+🦉 Rufous-bellied Screech Owl (Megascops ingens): Found in Central and South America.
+
+🦉 Whiskered Screech Owl (Megascops trichopsis): Found in Central and South America.
+
+🦉 Pacific Screech Owl (Megascops cooperi): Found in North and Central America.
+
+🦉 Bearded Screech Owl (Megascops barbarus): Found in Central and South America.
+
+🦉 Yungas Pygmy Owl (Glaucidium bolivianum): Found in South America.
+
+🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America.
+
+🦉 Least Pygmy Owl (Glaucidium minutissimum): Found in Central and South America.
+
+🦉 Amazonian Pygmy Owl (Glaucidium hardyi): Found in South America.
+
+🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America.
+
+🦉 Striped Owl (Asio clamator): Found in Central and South America.
+
+🦉 Blackish Nightjar (Nyctipolus nigrescens): Found in Central and South America.
+
+🦉 White-winged Nightjar (Eleothreptus candicans): Found in Central and South America.
+
+🦉 Rufous Nightjar (Antrostomus rufus): Found in Central and South America.
+
+🦉 Common Pauraque (Nyctidromus albicollis): Found in Central and South America.
+
+🦉 Great Potoo (Nyctibius grandis): Found in Central and South America.
+
+🦉 Long-tailed Potoo (Nyctibius aethereus): Found in Central and South America.
+
+🦉 Northern Potoo (Nyctibius jamaicensis): Found in Central and South America.
+
+🦉 Andean Potoo (Nyctibius maculosus): Found in South America.
+
+🦉 Rufous Potoo (Nyctibius bracteatus): Found in South America.
+
+🦉 White-collared Swift (Streptoprocne zonaris): Found in Central and South America.
+
+🦉 Spot-fronted Swift (Cypseloides cherriei): Found in Central and South America.
+
+🦉 Chestnut-collared Swift (Streptoprocne rutila): Found in Central and South America.
+
+🦉 White-tipped Swift (Aeronautes montivagus): Found in South America.
+
+🦉 Black Swift (Cypseloides niger): Found in North and South America.
+
+🦉 White-throated Swift (Aeronautes saxatalis): Found in North and South America.
+
+🦉 Tawny-throated Leaftosser (Sclerurus mexicanus): Found in Central and South America.
+
+🦉 Scaly-throated Leaftosser (Sclerurus guatemalensis): Found in Central and South America.
+
+🦉 Olive-backed Quail-Dove (Leptotila ochraceiventris): Found in Central and South America.
+
+🦉 Grey-fronted Dove (Leptotila rufaxilla): Found in Central and South America.
+
+🦉 White-tipped Dove (Leptotila verreauxi): Found in Central and South America.
+
+🦉 Ruddy Quail-Dove (Geotrygon montana): Found in Central and South America.
+
+🦉 White-faced Quail-Dove (Zentrygon albifacies): Found in Central and South America.
+
+🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America.
+
+🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America.
+
+🦉 Crested Owl (Lophostrix cristata): Found in Central and South America.
+
+🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America.
+
+🦉 Tawny-browed Owl (Pulsatrix koeniswaldiana): Found in Central and South America.
+
+🦉 Rufous-banded Owl (Ciccaba albitarsis): Found in Central and South America.
+
+🦉 Black-banded Owl (Strix huhula): Found in Central and South America.
+
+🦉 Stygian Owl (Asio stygius): Found in Central and South America.
+
+🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America.
+
+🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America.
+
+🦉 Crested Owl (Lophostrix cristata): Found in Central and South America.
+
+🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America.
+
+🦉 Tawny-browed Owl (Pulsatrix koeniswaldiana): Found in Central and South America.
+
+🦉 Rufous-banded Owl (Ciccaba albitarsis): Found in Central and South America.
+
+🦉 Black-banded Owl (Strix huhula): Found in Central and South America.
+
+🦉 Stygian Owl (Asio stygius): Found in Central and South America.
+
+🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America.*
+
 # Voice Prompting
 
 Voice prompting is the fastest way to instruct a computer because it allows for faster input of information compared to typing on a keyboard. Most people can speak around 120-150 words per minute, while they can only type around 40-60 words per minute. Additionally, people can typically hear and process around 200-300 words per minute. Therefore, using voice prompting allows for faster input and processing of information.
