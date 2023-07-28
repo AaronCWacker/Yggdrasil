@@ -2,6 +2,363 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 
+# Chords and Lyrics
+
+Below is a recurring thought experiment of mine to find easier ways to write and read music in real time.
+
+The prompt for this follows a pattern:
+
+1. List top ten hit songs by Cypress Hill as numbered markdown outline with emojis.
+2. For each song list a chord sheet that shows the chords and lyrics for the song.
+3. Use alternating lines of lyrics then chords.  For the alternating lines show them as emojis and the line with either lyric or chord in around 80 characters per line maximum.  
+4. For sections like Into, Verse, Chorus, Outro show section titles as a seperate line in markdown table with emojis for section title along with easy to read description.
+5. For each song chord sheet, try to make information dense as markdown table so it fits on one page per song.
+6. Show emojis around each chord to easily spot it at a glance while playing music.
+7. Try to keep all lines in a section together in markdown table to minimize length and maximize keeping whole line of lyric and chords close together vertically.
+8. Condense each section into a single markdown table.  Use markdown outline too if it makes the whole lyric line appear in one line.  Do not omit any lyrics!
+9. For the markdown table sections include the chords playing as another column.  Boldface whenever chord changes from a previous line to easily see transitions of new chords.
+10. Use emojis around the chord transitions to visually see when they come up easily at a glance.  Use different emojis on either side of each chord and be consistent picking Emojis easily recognized as beginning with that letter (E for example would be an egg emoji).
+
+Below are some examples of markdown generated to meet these requirements.
+
+1. Top Ten Hit Songs by AC/DC:
+
+"Back in Black" 🎸
+
+Intro: 🎵 | E5 | E5 | E5 | E5 |
+Verse 1: 🎵 | E5 | G5 | A5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Verse 2: 🎵 | E5 | G5 | A5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Outro: 🎵 | E5 | E5 | E5 | E5 |
+"Highway to Hell" 🤘
+
+Intro: 🎵 | A5 | D5 | G5 | G5 |
+Verse 1: 🎵 | A5 | E5 | G5 | G5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Verse 2: 🎵 | A5 | E5 | G5 | G5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Outro: 🎵 | A5 | D5 | G5 | G5 |
+"Thunderstruck" ⚡️
+
+Intro: 🎵 | B5 | B5 | B5 | B5 |
+Verse 1: 🎵 | B5 | B5 | B5 | B5 |
+Chorus: 🎵 | E5 | D5 | A5 | E5 |
+Verse 2: 🎵 | B5 | B5 | B5 | B5 |
+Chorus: 🎵 | E5 | D5 | A5 | E5 |
+Outro: 🎵 | B5 | B5 | B5 | B5 |
+"You Shook Me All Night Long" 💃
+
+Intro: 🎵 | G5 | C5 | D5 | D5 |
+Verse 1: 🎵 | G5 | C5 | D5 | D5 |
+Chorus: 🎵 | G5 | C5 | D5 | D5 |
+Verse 2: 🎵 | G5 | C5 | D5 | D5 |
+Chorus: 🎵 | G5 | C5 | D5 | D5 |
+Outro: 🎵 | G5 | C5 | D5 | D5 |
+"T.N.T" 💣
+
+Intro: 🎵 | D5 | A5 | E5 | E5 |
+Verse 1: 🎵 | D5 | A5 | E5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Verse 2: 🎵 | D5 | A5 | E5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Outro: 🎵 | D5 | A5 | E5 | E5 |
+"Hells Bells" 🔔
+
+Intro: 🎵 | G5 | G5 | G5 | G5 |
+Verse 1: 🎵 | G5 | G5 | G5 | G5 |
+Chorus: 🎵 | G5 | G5 | G5 | G5 |
+Verse 2: 🎵 | G5 | G5 | G5 | G5 |
+Chorus: 🎵 | G5 | G5 | G5 | G5 |
+Outro: 🎵 | G5 | G5 | G5 | G5 |
+"Shoot to Thrill" 🔫
+
+Intro: 🎵 | D5 | D5 | D5 | D5 |
+Verse 1: 🎵 | D5 | D5 | D5 | D5 |
+Chorus: 🎵 | A5 | A5 | E5 | E5 |
+Verse 2: 🎵 | D5 | D5 | D5 | D5 |
+Chorus: 🎵 | A5 | A5 | E5 | E5 |
+Outro: 🎵 | D5 | D5 | D5 | D5 |
+"Dirty Deeds Done Dirt Cheap" 💰
+
+Intro: 🎵 | G5 | G5 | G5 | G5 |
+Verse 1: 🎵 | G5 | D5 | C5 | G5 |
+Chorus: 🎵 | G5 | D5 | C5 | G5 |
+Verse 2: 🎵 | G5 | D5 | C5 | G5 |
+Chorus: 🎵 | G5 | D5 | C5 | G5 |
+Outro: 🎵 | G5 | G5 | G5 | G5 |
+"Whole Lotta Rosie" 🌹
+
+Intro: 🎵 | A5 | G5 | A5 | G5 |
+Verse 1: 🎵 | A5 | G5 | A5 | G5 |
+Chorus: 🎵 | D5 | D5 | A5 | A5 |
+Verse 2: 🎵 | A5 | G5 | A5 | G5 |
+Chorus: 🎵 | D5 | D5 | A5 | A5 |
+Outro: 🎵 | A5 | G5 | A5 | G5 |
+"Rock and Roll Ain't Noise Pollution" 🎶
+
+Intro: 🎵 | A5 | A5 | A5 | A5 |
+Verse 1: 🎵 | A5 | E5 | D5 | A5 |
+Chorus: 🎵 | A5 | E5 | D5 | A5 |
+Verse 2: 🎵 | A5 | E5 | D5 | A5 |
+Chorus: 🎵 | A5 | E5 | D5 | A5 |
+Outro: 🎵 | A5 | A5 | A5 | A5 |*
+Elapsed time:
+
+41.65046739578247
+
+Response:
+
+Top Ten Hit Songs by AC/DC:
+
+"Back in Black" 🎸
+
+Intro: 🎵 | E5 | E5 | E5 | E5 |
+Verse 1: 🎵 | E5 | G5 | A5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Verse 2: 🎵 | E5 | G5 | A5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Outro: 🎵 | E5 | E5 | E5 | E5 |
+"Highway to Hell" 🤘
+
+Intro: 🎵 | A5 | D5 | G5 | G5 |
+Verse 1: 🎵 | A5 | E5 | G5 | G5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Verse 2: 🎵 | A5 | E5 | G5 | G5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Outro: 🎵 | A5 | D5 | G5 | G5 |
+"Thunderstruck" ⚡️
+
+Intro: 🎵 | B5 | B5 | B5 | B5 |
+Verse 1: 🎵 | B5 | B5 | B5 | B5 |
+Chorus: 🎵 | E5 | D5 | A5 | E5 |
+Verse 2: 🎵 | B5 | B5 | B5 | B5 |
+Chorus: 🎵 | E5 | D5 | A5 | E5 |
+Outro: 🎵 | B5 | B5 | B5 | B5 |
+"You Shook Me All Night Long" 💃
+
+Intro: 🎵 | G5 | C5 | D5 | D5 |
+Verse 1: 🎵 | G5 | C5 | D5 | D5 |
+Chorus: 🎵 | G5 | C5 | D5 | D5 |
+Verse 2: 🎵 | G5 | C5 | D5 | D5 |
+Chorus: 🎵 | G5 | C5 | D5 | D5 |
+Outro: 🎵 | G5 | C5 | D5 | D5 |
+"T.N.T" 💣
+
+Intro: 🎵 | D5 | A5 | E5 | E5 |
+Verse 1: 🎵 | D5 | A5 | E5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Verse 2: 🎵 | D5 | A5 | E5 | E5 |
+Chorus: 🎵 | D5 | A5 | E5 | E5 |
+Outro: 🎵 | D5 | A5 | E5 | E5 |
+"Hells Bells" 🔔
+
+Intro: 🎵 | G5 | G5 | G5 | G5 |
+Verse 1: 🎵 | G5 | G5 | G5 | G5 |
+Chorus: 🎵 | G5 | G5 | G5 | G5 |
+Verse 2: 🎵 | G5 | G5 | G5 | G5 |
+Chorus: 🎵 | G5 | G5 | G5 | G5 |
+Outro: 🎵 | G5 | G5 | G5 | G5 |
+"Shoot to Thrill" 🔫
+
+Intro: 🎵 | D5 | D5 | D5 | D5 |
+Verse 1: 🎵 | D5 | D5 | D5 | D5 |
+Chorus: 🎵 | A5 | A5 | E5 | E5 |
+Verse 2: 🎵 | D5 | D5 | D5 | D5 |
+Chorus: 🎵 | A5 | A5 | E5 | E5 |
+Outro: 🎵 | D5 | D5 | D5 | D5 |
+"Dirty Deeds Done Dirt Cheap" 💰
+
+Intro: 🎵 | G5 | G5 | G5 | G5 |
+Verse 1: 🎵 | G5 | D5 | C5 | G5 |
+Chorus: 🎵 | G5 | D5 | C5 | G5 |
+Verse 2: 🎵 | G5 | D5 | C5 | G5 |
+Chorus: 🎵 | G5 | D5 | C5 | G5 |
+Outro: 🎵 | G5 | G5 | G5 | G5 |
+"Whole Lotta Rosie" 🌹
+
+Intro: 🎵 | A5 | G5 | A5 | G5 |
+Verse 1: 🎵 | A5 | G5 | A5 | G5 |
+Chorus: 🎵 | D5 | D5 | A5 | A5 |
+Verse 2: 🎵 | A5 | G5 | A5 | G5 |
+Chorus: 🎵 | D5 | D5 | A5 | A5 |
+Outro: 🎵 | A5 | G5 | A5 | G5 |
+"Rock and Roll Ain't Noise Pollution" 🎶
+
+Intro: 🎵 | A5 | A5 | A5 | A5 |
+Verse 1: 🎵 | A5 | E5 | D5 | A5 |
+Chorus: 🎵 | A5 | E5 | D5 | A5 |
+Verse 2: 🎵 | A5 | E5 | D5 | A5 |
+Chorus: 🎵 | A5 | E5 | D5 | A5 |
+Outro: 🎵 | A5 | A5 | A5 | A5 |
+
+
+# Elton John
+
+Top Ten Hit Songs by Elton John:
+
+🌟 "Your Song" 🌟
+Into: 💔
+Verse: 🎵
+Chorus: 🌈
+Verse: 🎵
+Chorus: 🌈
+Bridge: 🌉
+Chorus: 🌈
+Outro: 💔
+Lyrics	Chords
+It's a little bit funny, this feeling inside	C Em Am F G C G F
+I'm not one of those who can easily hide	C Em Am F G C G F
+I don't have much money, but, boy, if I did	F G Em Am D G C F
+I'd buy a big house where we both could live	F G Em Am D G C F
+And you can tell everybody this is your song	F G Em Am D G C F
+It may be quite simple, but now that it's done	F G Em Am D G C F
+I hope you don't mind, I hope you don't mind	F G Em Am D G C F
+That I put down in words	F G Em Am D G C F
+How wonderful life is while you're in the world	F G Em Am D G C F
+🌟 "Rocket Man" 🌟
+Verse: 🚀
+Chorus: 🎶
+Verse: 🚀
+Chorus: 🎶
+Bridge: 🌌
+Chorus: 🎶
+Lyrics	Chords
+She packed my bags last night pre-flight	Em A7 Em A7
+Zero hour, nine A.M.	Em A7 Em A7
+And I'm gonna be high as a kite by then	Em A7 Em A7
+I miss the Earth so much, I miss my wife	C D G G/F# Em A7
+It's lonely out in space on such a timeless flight	C D G G/F# Em A7
+And I think it's gonna be a long, long time	C D G G/F# Em A7
+Till touch down brings me round again to find	C D G G/F# Em A7
+I'm not the man they think I am at home	C D G G/F# Em A7
+Oh no, no, no, I'm a rocket man	C D G G/F# Em A7
+Rocket man, burning out his fuse up here alone	C D G G/F# Em A7
+🌟 "Candle in the Wind" 🌟
+Verse: 🕯️
+Chorus: 🌹
+Verse: 🕯️
+Chorus: 🌹
+Bridge: 🎵
+Chorus: 🌹
+Lyrics	Chords
+Goodbye, Norma Jean	C G Em D
+Though I never knew you at all	C G Em D
+You had the grace to hold yourself	C G Em D
+While those around you crawled	C G Em D
+They crawled out of the woodwork	C G Em D
+And they whispered into your brain	C G Em D
+They set you on the treadmill	C G Em D
+And they made you change your name	C G Em D
+And it seems to me you lived your life	C G Em D
+Like a candle in the wind	C G Em D
+Never knowing who to cling to	C G Em D
+When the rain set in	C G Em D
+And I would have liked to have known you	C G Em D
+But I was just a kid	C G Em D
+Your candle burned out long before	C G Em D
+Your legend ever did	C G Em D
+🌟 "Don't Let the Sun Go Down on Me" 🌟
+Verse: 🌇
+Chorus: 🌅
+Verse: 🌇
+Chorus: 🌅
+Bridge: 🌌
+Chorus: 🌅
+Outro: 🌇
+Lyrics	Chords
+I can't light no more of your darkness	Bm G D A
+All my pictures seem to fade to black and white	Bm G D A
+I'm growing tired and time stands still before me	Bm G D A
+Frozen here on the ladder of my life	Bm G D A
+Too late to save myself from falling	G D/F# Em A
+I took a chance and changed your way of life	G D/F# Em A
+But you misread my meaning when I met you	G D/F# Em A
+Closed the door and left me blinded by the light	G D/F# Em A
+Don't let the sun go down on me	G D/F# Em A
+Although I search myself, it's always someone else I see	G D/F# Em A
+I'd just allow a fragment of your life to wander free	G D/F# Em A
+But losing everything is like the sun going down on me	G D/F# Em A
+🌟 "Tiny Dancer" 🌟
+Verse: 🌠
+Chorus: 🌟
+Verse: 🌠
+Chorus: 🌟
+Bridge: 🎶
+Chorus: 🌟
+Lyrics	Chords
+Blue-jean baby, L.A. lady, seamstress for the band	C G F C F G Am F
+Pretty-eyed, pirate smile, you'll marry a music man	C G F C F G Am F
+Ballerina, you must've seen her dancing in the sand	C G F C F G Am F
+And now she's in me, always with me, tiny dancer in my hand	C G F C F G Am F
+Jesus freaks out in the street	C G F C F G Am F
+Handing tickets out for God	C G F C F G Am F
+Turning back, she just laughs	C G F C F G Am F
+The boulevard is not that bad	C G F C F G Am F
+Piano man, he makes his stand in the auditorium	C G F C F G Am F
+Looking on, she sings the songs, the words she knows, the tune she hums	C G F C F G Am F
+But, oh, how it feels so real, lying here with no one near	C G F C F G Am F
+Only you, and you can hear me when I say softly, slowly	C G F C F G Am F
+🌟 "Bennie and the Jets" 🌟
+Verse: 🎹
+Chorus: 🎸
+Verse: 🎹
+Chorus: 🎸
+Bridge: 🌈
+Chorus: 🎸
+Lyrics	Chords
+Hey kids, shake it loose together	Am C Em G Am C Em G
+The spotlight's hitting something	Am C Em G Am C Em G
+That's been known to change the weather	Am C Em G Am C Em G
+We'll kill the fatted calf tonight	Am C Em G Am C Em G
+So stick around	Am C Em G Am C Em G
+You're gonna hear electric music	Am C Em G Am C Em G
+Solid walls of sound	Am C Em G Am C Em G
+Say, Candy, and Ronnie, have you seen them yet	Am C Em G Am C Em G
+But they're so spaced out, Bennie and the Jets	Am C Em G Am C Em G
+Oh, but they're weird and they're wonderful	Am C Em G Am C Em G
+Oh, Bennie, she's really keen	Am C Em G Am C Em G
+She's got electric boots, a mohair suit	Am C Em G Am C Em G
+You know I read it in a magazine	Am C Em G Am C Em G
+🌟 "Daniel" 🌟
+Verse: 🌅
+Chorus: 🎶
+Verse: 🌅
+Chorus: 🎶
+Bridge: 🌌
+Chorus: 🎶
+Lyrics	Chords
+Daniel is traveling tonight on a plane	G D Em C
+I can see the red tail lights heading for Spain	G D Em C
+Oh, and I can see Daniel waving goodbye	G D Em C
+God, it looks like Daniel	G D Em C
+Must be the clouds in my eyes	G D Em C
+They say Spain is pretty, though I've never been	G D Em C
+Daniel says it's the best place he's ever seen	G D Em C
+Oh, and he should know, he's been there enough	G D Em C
+Lord, I miss Daniel	G D Em C
+Oh, I miss him so much	G D Em C
+Daniel, my brother, you are older than me	G D Em C
+Do you still feel the pain of the scars that won't heal?	G D Em C
+Your eyes have died, but you see more than I	G D Em C
+Daniel, you're a star in the face of the sky	G D Em C
+🌟 "Crocodile Rock" 🌟
+Verse: 🐊
+Chorus: 🎶
+Verse: 🐊
+Chorus: 🎶
+Bridge: 🌈
+Chorus: 🎶
+Lyrics	Chords
+I remember when rock was young	G C G D C G D
+Me and Suzie had so much fun	G C G D C G D
+*	
+
+# Grateful Dead
+
+
+
+
 
 # Owls:
 There are around 250 species of owls that are distributed across the world, except for Antarctica. Tell me which owl species exist in which area of the world and use emojis and the owl species proper name and article from encyclopedic sources. Number the outline for 1 - 100 starting with list here: 🦉 Snowy Owl (Bubo scandiacus): Found in the Arctic regions of North America and Eurasia. 🦉 Great Horned Owl (Bubo virginianus): Found throughout North and South America. 🦉 Barn Owl (Tyto alba): Found in Europe, Asia, Africa, Australia, and the Americas. 🦉 Eagle Owl (Bubo bubo): Found in Europe, Asia, and Africa. 🦉 Tawny Owl (Strix aluco): Found in Europe, Asia, and Africa. 🦉 Little Owl (Athene noctua): Found in Europe, Asia, and Africa. 🦉 Scops Owl (Otus scops): Found in Europe, Asia, and Africa. 🦉 Burrowing Owl (Athene cunicularia): Found in North and South America. 🦉 Elf Owl (Micrathene whitneyi): Found in southwestern United States and Mexico. 11. 🦉 Short-eared Owl (Asio flammeus): Found in North and South America, Europe, Asia, and Africa. 12. 🦉 Long-eared Owl (Asio otus): Found in Europe, Asia, and North America. 13. 🦉 Northern Saw-whet Owl (Aegolius acadicus): Found in North and Central America. 14. 🦉 Boreal Owl (Aegolius funereus): Found in North America, Europe, and Asia. 15. 🦉 Spotted Owl (Strix occidentalis): Found in North America. 16. 🦉 Barred Owl (Strix varia): Found in North America. 17. 🦉 Great Grey Owl (Strix nebulosa): Found in North America, Europe, and Asia. 18. 🦉 Crested Owl (Lophostrix cristata): Found in Central and South America. 19. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America. 20. 🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America. 21. 🦉 Northern Pygmy Owl (Glaucidium gnoma): Found in North and Central America. 22. 🦉 Eurasian Pygmy Owl (Glaucidium passerinum): Found in Europe and Asia. 23. 🦉 Forest Owlet (Heteroglaux blewitti): Found in India. 24. 🦉 Indian Scops Owl (Otus bakkamoena): Found in India and Southeast Asia. 25. 🦉 Brown Fish Owl (Ketupa zeylonensis): Found in South Asia. 26. 🦉 Snowy-browed Owl (Pulsatrix koeniswaldiana): Found in South America. 27. 🦉 Stygian Owl (Asio stygius): Found in Central and South America. 28. 🦉 Striped Owl (Asio clamator): Found in Central and South America. 29. 🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America. 30. 🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America. 31. 🦉 Jamaican Owl (Pseudoscops grammicus): Found only in Jamaica. 32. 🦉 Buru Boobook (Ninox hypogramma): Found in Indonesia. 33. 🦉 Oriental Bay Owl (Phodilus badius): Found in South and Southeast Asia. 34. 🦉 Buffy Fish Owl (Ketupa ketupu): Found in South and Southeast Asia. 35. 🦉 Collared Owlet (Glaucidium brodiei): Found in South and Southeast Asia. 36. 🦉 Chestnut-backed Owlet (Glaucidium castanotum): Found in South and Southeast Asia. 37. 🦉 Crested Treeswift (Hemiprocne coronata): Found in South and Southeast Asia. 38. 🦉 Grey Nightjar (Caprimulgus indicus): Found in South and Southeast Asia. 39. 🦉 Pygmy Nightjar (Caprimulgus hirundinaceus): Found in Africa. 40. 🦉 Rufous-cheeked Nightjar (Caprimulgus rufigena): Found in Africa. 41. 🦉 Abyssinian Nightjar (Caprimulgus poliocephalus): Found in Africa. 42. 🦉 Black-shouldered Nightjar (Caprimulgus nigriscapularis): Found in Africa. 43. 🦉 Fiery-necked Nightjar (Caprimulgus pectoralis): Found in Africa. 44. 🦉 Pennant-winged Nightjar (Caprimulgus vexillarius): Found in Africa. 45. 🦉 Standard-winged Nightjar (Caprimulgus longipennis): Found in Africa. 46. 🦉 White-tailed Nightjar (Caprimulgus cayennensis): Found in Central and South America. 47. 🦉 Chuck-will's-widow (Antrostomus carolinensis): Found in North and Central America. 48. 🦉 Whip-poor-will (Antrostomus vociferus): Found in North and Central America. 49. 🦉 Tawny-bellied Screech Owl (Megascops watsonii): Found in Central and South America. 50. 🦉 Vermiculated Screech Owl (Megascops vermiculatus): Found in Central and South America. 51. 🦉 Black-capped Screech Owl (Megascops atricapilla): Found in Central and South America. 52. 🦉 Rufous-bellied Screech Owl (Megascops ingens): Found in Central and South America. 53. 🦉 Whiskered Screech Owl (Megascops trichopsis): Found in Central and South America. 54. 🦉 Pacific Screech Owl (Megascops cooperi): Found in North and Central America. 55. 🦉 Bearded Screech Owl (Megascops barbarus): Found in Central and South America. 56. 🦉 Yungas Pygmy Owl (Glaucidium bolivianum): Found in South America. 57. 🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America. 58. 🦉 Least Pygmy Owl (Glaucidium minutissimum): Found in Central and South America. 59. 🦉 Amazonian Pygmy Owl (Glaucidium hardyi): Found in South America. 60. 🦉 Ferruginous Pygmy Owl (Glaucidium brasilianum): Found in Central and South America. 61. 🦉 Striped Owl (Asio clamator): Found in Central and South America. 62. 🦉 Blackish Nightjar (Nyctipolus nigrescens): Found in Central and South America. 63. 🦉 White-winged Nightjar (Eleothreptus candicans): Found in Central and South America. 64. 🦉 Rufous Nightjar (Antrostomus rufus): Found in Central and South America. 65. 🦉 Common Pauraque (Nyctidromus albicollis): Found in Central and South America. 66. 🦉 Great Potoo (Nyctibius grandis): Found in Central and South America. 67. 🦉 Long-tailed Potoo (Nyctibius aethereus): Found in Central and South America. 68. 🦉 Northern Potoo (Nyctibius jamaicensis): Found in Central and South America. 69. 🦉 Andean Potoo (Nyctibius maculosus): Found in South America. 70. 🦉 Rufous Potoo (Nyctibius bracteatus): Found in South America. 71. 🦉 White-collared Swift (Streptoprocne zonaris): Found in Central and South America. 72. 🦉 Spot-fronted Swift (Cypseloides cherriei): Found in Central and South America. 73. 🦉 Chestnut-collared Swift (Streptoprocne rutila): Found in Central and South America. 74. 🦉 White-tipped Swift (Aeronautes montivagus): Found in South America. 75. 🦉 Black Swift (Cypseloides niger): Found in North and South America. 76. 🦉 White-throated Swift (Aeronautes saxatalis): Found in North and South America. 77. 🦉 Tawny-throated Leaftosser (Sclerurus mexicanus): Found in Central and South America. 78. 🦉 Scaly-throated Leaftosser (Sclerurus guatemalensis): Found in Central and South America. 79. 🦉 Olive-backed Quail-Dove (Leptotila ochraceiventris): Found in Central and South America. 80. 🦉 Grey-fronted Dove (Leptotila rufaxilla): Found in Central and South America. 81. 🦉 White-tipped Dove (Leptotila verreauxi): Found in Central and South America. 82. 🦉 Ruddy Quail-Dove (Geotrygon montana): Found in Central and South America. 83. 🦉 White-faced Quail-Dove (Zentrygon albifacies): Found in Central and South America. 84. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America. 85. 🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America. 86. 🦉 Crested Owl (Lophostrix cristata): Found in Central and South America. 87. 🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America. 88. 🦉 Tawny-browed Owl (Pulsatrix koeniswaldiana): Found in Central and South America. 89. 🦉 Rufous-banded Owl (Ciccaba albitarsis): Found in Central and South America. 90. 🦉 Black-banded Owl (Strix huhula): Found in Central and South America. 91. 🦉 Stygian Owl (Asio stygius): Found in Central and South America. 92. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America. 93. 🦉 Black-and-white Owl (Ciccaba nigrolineata): Found in Central and South America. 94. 🦉 Crested Owl (Lophostrix cristata): Found in Central and South America. 95. 🦉 Mottled Owl (Ciccaba virgata): Found in Central and South America. 96. 🦉 Tawny-browed Owl (Pulsatrix koeniswaldiana): Found in Central and South America. 97. 🦉 Rufous-banded Owl (Ciccaba albitarsis): Found in Central and South America. 98. 🦉 Black-banded Owl (Strix huhula): Found in Central and South America. 99. 🦉 Stygian Owl (Asio stygius): Found in Central and South America. 100. 🦉 Spectacled Owl (Pulsatrix perspicillata): Found in Central and South America.
