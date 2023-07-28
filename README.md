@@ -21,6 +21,659 @@ The prompt for this follows a pattern:
 
 Below are some examples of markdown generated to meet these requirements.
 
+
+Here are the top ten hit songs by Twenty One Pilots, along with chord sheets that show the chords and lyrics for each song:
+
+"Stressed Out" 🌟
+Into: 🎵
+Verse: 🎵
+Chorus: 🎵
+Outro: 🎵
+Lyrics	Chords
+I wish I found some better sounds no one's ever heard	Am F C G
+I wish I had a better voice that sang some better words	Am F C G
+I wish I found some chords in an order that is new	Am F C G
+I wish I didn't have to rhyme every time I sang	Am F C G
+"Heathens" 😈
+Into: 🎵
+Verse: 🎵
+Chorus: 🎵
+Outro: 🎵
+Lyrics	Chords
+All my friends are heathens, take it slow	Am C G F
+Wait for them to ask you who you know	Am C G F
+Please don't make any sudden moves	Am C G F
+You don't know the half of the abuse	Am C G F
+"Ride" 🚴‍♂️
+Into: 🎵
+Verse: 🎵
+Chorus: 🎵
+Outro: 🎵
+Lyrics	Chords
+I just wanna stay in the sun where I find	Am F C G
+I know it's hard sometimes	Am F C G
+Pieces of peace in the sun's peace of mind	Am F C G
+I know it's hard sometimes	Am F C G
+"Car Radio" 📻
+Into: 🎵
+Verse: 🎵
+Chorus: 🎵
+Outro: 🎵
+Lyrics	Chords
+I ponder of something great	Am F C G
+My lungs will fill and then deflate	Am F C G
+They fill with fire, exhale desire	Am F C G
+I know it's dire, my time today	Am F C G
+"Tear In My Heart" 💔
+Into: 🎵
+Verse: 🎵
+Chorus: 🎵
+Outro: 🎵
+Lyrics	Chords
+Sometimes you've got to bleed to know	Am F C G
+That you're alive and have a soul	
+...
+
+
+Here are the top ten hit songs by Ozzy Osbourne, along with chord sheets and lyrics formatted as requested:
+
+🥇 Song Title: "Crazy Train" 🎵 Chords: Chord Sheet 📝 Lyrics:
+
+
+All aboard! Ha ha ha ha ha ha haaaa!
+E5       G5            D5       C5
+Crazy, but that's how it goes
+E5       G5            D5       C5
+Millions of people living as foes
+E5       G5            D5       C5
+Maybe it's not too late
+B5       A5       G5
+To learn how to love
+And forget how to hate
+🥈 Song Title: "Mr. Crowley" 🎵 Chords: Chord Sheet 📝 Lyrics:
+
+
+Mr. Crowley, what went on in your head?
+E5       G5            D5       C5
+Oh, Mr. Crowley, did you talk to the dead?
+E5       G5            D5       C5
+Your life style to me seemed so tragic
+E5       G5            D5       C5
+With the thrill of it all
+B5       A5       G5
+You fooled all the people
+With magic
+🥉 Song Title: "Bark at the Moon" 🎵 Chords: Chord Sheet 📝 Lyrics:
+
+
+Screams break the silence
+E5       G5            D5       C5
+Waking from the dead of night
+E5       G5            D5       C5
+Vengeance is boiling
+E5       G5            D5       C5
+He's returned to kill the light
+B5       A5       G5
+Then when he's found
+What he's looking for
+G5       A5       B5
+Listen in awe and you'll hear him
+Song Title: "No More Tears" Chords: Chord Sheet Lyrics:
+
+
+A stairway to darkness
+E5       G5            D5       C5
+In the blink of an eye
+E5       G5            D5       C5
+A wall of illusion
+E5       G5            D5       C5
+That's all in your mind
+B5       A5       G5
+So forget what you see
+G5       A5       B5
+It's not what you'll get
+G5       A5       B5
+Then toss it to me
+Song Title: "Mama, I'm Coming Home" Chords: Chord Sheet Lyrics:
+
+
+Times have changed and times are strange
+E5       G5            D5       C5
+Here I come, but I ain't the same
+E5       G5            D5       C5
+Mama, I'm coming home
+E5       G5            D5       C5
+Times gone by, it seems to be
+B5       A5       G5
+You could have been a better friend to me
+G5       A5       B5
+Mama, I'm coming home
+Song Title: "Shot in the Dark" Chords: Chord Sheet Lyrics:
+
+
+Out on the street, I'm stalking the night
+E5       G5            D5       C5
+I can hear my heavy breathing
+E5       G5            D5       C5
+Paid for the kill, but it doesn't seem right
+E5       G5            D5       C5
+Something there I can't believe in
+B5       A5       G5
+Voices are calling
+From inside my head
+G5       A5       B5
+I can hear them
+I can hear them
+Song Title: "I Don't Wanna Stop" Chords: Chord Sheet Lyrics:
+
+
+I don't know what they're talking about
+E5       G5            D5       C5
+I'm making my own decisions
+E5       G5            D5       C5
+This thing that I found ain't gonna bring me down
+E5       G5            D5       C5
+I'm like a junkie without an addiction
+B5       A5       G5
+Mama, don't cry
+G5       A5       B5
+I just wanna stay high
+G5       A5       B5
+I like the lights in my eyes
+Song Title: "Diary of a Madman" Chords: Chord Sheet Lyrics:
+
+
+Screaming at the window
+E5       G5            D5       C5
+Watch me die another day
+E5       G5            D5       C5
+Hopeless situation
+E5       G5            D5       C5
+Endless price I have to pay
+B5       A5       G5
+Sanity now it's beyond me
+G5       A5       B5
+There's no choice
+G5       A5       B5
+Diary of a madman
+Song Title: "Flying High Again" Chords: Chord Sheet Lyrics:
+
+
+Got a crazy feeling I don't understand
+E5       G5            D5       C5
+Gotta get away from here
+E5       G5            D5       C5
+Feelin' like I should've kept my feet on the ground
+E5       G5            D5       C5
+Waitin' for the sun to appear
+B5       A5       G5
+Mama's gonna worry
+G5       A5       B5
+I been a bad, bad boy
+G5       A5       B5
+No use sayin' sorry
+Song Title: "Over the Mountain" Chords: Chord Sheet Lyrics:
+
+
+Over the mountain, take me across the sky
+E5       G5            D5       C5
+Something in my vision, something deep inside
+E5       G5            D5       C5
+Where did I wander? Where'd you think I wandered to?
+E5       G5            D5       C5
+I've seen life's magic, astral plane I travel through
+B5       A5       G5
+I heard them tell me
+That this land of dreams was now
+G5       A5       B5
+I told them I had ridden shooting stars
+G5       A5       B5
+And said I'd show them how
+Please note that the chord sheets and lyrics are for demonstration purposes only, and the actual chord sheets and lyrics may vary.*
+
+Elapsed time:
+
+54.88056421279907
+
+Response:
+
+Sure! Here are the top ten hit songs by Ozzy Osbourne, along with chord sheets and lyrics formatted as requested:
+
+🥇 Song Title: "Crazy Train" 🎵 Chords: Chord Sheet 📝 Lyrics:
+
+
+All aboard! Ha ha ha ha ha ha haaaa!
+E5       G5            D5       C5
+Crazy, but that's how it goes
+E5       G5            D5       C5
+Millions of people living as foes
+E5       G5            D5       C5
+Maybe it's not too late
+B5       A5       G5
+To learn how to love
+And forget how to hate
+🥈 Song Title: "Mr. Crowley" 🎵 Chords: Chord Sheet 📝 Lyrics:
+
+
+Mr. Crowley, what went on in your head?
+E5       G5            D5       C5
+Oh, Mr. Crowley, did you talk to the dead?
+E5       G5            D5       C5
+Your life style to me seemed so tragic
+E5       G5            D5       C5
+With the thrill of it all
+B5       A5       G5
+You fooled all the people
+With magic
+🥉 Song Title: "Bark at the Moon" 🎵 Chords: Chord Sheet 📝 Lyrics:
+
+
+Screams break the silence
+E5       G5            D5       C5
+Waking from the dead of night
+E5       G5            D5       C5
+Vengeance is boiling
+E5       G5            D5       C5
+He's returned to kill the light
+B5       A5       G5
+Then when he's found
+What he's looking for
+G5       A5       B5
+Listen in awe and you'll hear him
+Song Title: "No More Tears" Chords: Chord Sheet Lyrics:
+
+
+A stairway to darkness
+E5       G5            D5       C5
+In the blink of an eye
+E5       G5            D5       C5
+A wall of illusion
+E5       G5            D5       C5
+That's all in your mind
+B5       A5       G5
+So forget what you see
+G5       A5       B5
+It's not what you'll get
+G5       A5       B5
+Then toss it to me
+Song Title: "Mama, I'm Coming Home" Chords: Chord Sheet Lyrics:
+
+
+Times have changed and times are strange
+E5       G5            D5       C5
+Here I come, but I ain't the same
+E5       G5            D5       C5
+Mama, I'm coming home
+E5       G5            D5       C5
+Times gone by, it seems to be
+B5       A5       G5
+You could have been a better friend to me
+G5       A5       B5
+Mama, I'm coming home
+Song Title: "Shot in the Dark" Chords: Chord Sheet Lyrics:
+
+
+Out on the street, I'm stalking the night
+E5       G5            D5       C5
+I can hear my heavy breathing
+E5       G5            D5       C5
+Paid for the kill, but it doesn't seem right
+E5       G5            D5       C5
+Something there I can't believe in
+B5       A5       G5
+Voices are calling
+From inside my head
+G5       A5       B5
+I can hear them
+I can hear them
+Song Title: "I Don't Wanna Stop" Chords: Chord Sheet Lyrics:
+
+
+I don't know what they're talking about
+E5       G5            D5       C5
+I'm making my own decisions
+E5       G5            D5       C5
+This thing that I found ain't gonna bring me down
+E5       G5            D5       C5
+I'm like a junkie without an addiction
+B5       A5       G5
+Mama, don't cry
+G5       A5       B5
+I just wanna stay high
+G5       A5       B5
+I like the lights in my eyes
+Song Title: "Diary of a Madman" Chords: Chord Sheet Lyrics:
+
+
+Screaming at the window
+E5       G5            D5       C5
+Watch me die another day
+E5       G5            D5       C5
+Hopeless situation
+E5       G5            D5       C5
+Endless price I have to pay
+B5       A5       G5
+Sanity now it's beyond me
+G5       A5       B5
+There's no choice
+G5       A5       B5
+Diary of a madman
+Song Title: "Flying High Again" Chords: Chord Sheet Lyrics:
+
+
+Got a crazy feeling I don't understand
+E5       G5            D5       C5
+Gotta get away from here
+E5       G5            D5       C5
+Feelin' like I should've kept my feet on the ground
+E5       G5            D5       C5
+Waitin' for the sun to appear
+B5       A5       G5
+Mama's gonna worry
+G5       A5       B5
+I been a bad, bad boy
+G5       A5       B5
+No use sayin' sorry
+Song Title: "Over the Mountain" Chords: Chord Sheet Lyrics:
+
+
+Over the mountain, take me across the sky
+E5       G5            D5       C5
+Something in my vision, something deep inside
+E5       G5            D5       C5
+Where did I wander? Where'd you think I wandered to?
+E5       G5            D5       C5
+I've seen life's magic, astral plane I travel through
+B5       A5       G5
+I heard them tell me
+That this land of dreams was now
+G5       A5       B5
+I told them I had ridden shooting stars
+G5       A5       B5
+And said I'd show them how
+
+
+
+
+...
+
+1. List top ten hit songs by John Lennon as numbered markdown outline with emojis.
+2. For each song list a chord sheet that shows the chords and lyrics for the song.
+3. Use alternating lines of lyrics then chords.  For the alternating lines show them as emojis and the line with either lyric or chord in around 80 characters per line maximum.  
+4. For sections like Into, Verse, Chorus, Outro show section titles as a seperate line in markdown table with emojis for section title along with easy to read description.
+5. For each song chord sheet, try to make information dense as markdown table so it fits on one page per song.
+6. Show emojis around each chord to easily spot it at a glance while playing music.
+7. Try to keep all lines in a section together in markdown table to minimize length and maximize keeping whole line of lyric and chords close together vertically.
+8. Condense each section into a single markdown table.  Use markdown outline too if it makes the whole lyric line appear in one line.  Do not omit any lyrics!
+9. For the markdown table sections include the chords playing as another column.  Boldface whenever chord changes from a previous line to easily see transitions of new chords.
+10. Use emojis around the chord transitions to visually see when they come up easily at a glance.  Use different emojis on either side of each chord and be consistent picking Emojis easily recognized as beginning with that letter (E for example would be an egg emoji).
+
+Use the template below as ideal output example:
+Artist: The Struts
+Song: I Always Knew/Hotline Bling
+Tabbed by: Aaron Wacker
+URL: https://youtu.be/sA7LPE4isxM
+BPM: 140
+Notes: 16 Beat measures alternating Bb, Gm, Eb, F
+ 
+[Intro]
+Bb    Bb   F    Gm         Gm   Gm
+Eb    Eb   F    F          F    F
+ 
+ 
+[Verse 1]
+Bb       Bb       Cm
+Down, down in my bones
+Gm  Gm               Eb
+Somewhere I'd never have known
+Eb    Eb     F          Bb
+Right in the back of my head
+F                Gm  Gm  Gm
+It hit me like a beam of light
+Eb Eb
+Hit me like a hook of the right
+F F
+And I could have fell to the floor cause
+ 
+[Verse 2]
+Bb    Bb  Bb    Bb
+you talk to me and
+Gm    Gm  Gm     Gm
+It comes off the wall
+Eb  Eb         Eb     Eb
+You talk to me and it goes over my
+F F F F
+head So let's
+ 
+[Verse 3]
+Bb    Bb  Bb    Bb
+go to bed before you say something
+Gm  Gm Gm Gm
+real
+Eb  Eb         Eb     Eb
+Let's go to bed before you say how you
+F F F F
+feel
+ 
+[Verse 4]
+Bb    Bb Bb Bb
+'Cause it's you
+Gm  Gm Gm Gm
+Oh, it's always you
+Eb Eb Eb Eb
+Oh, I always knew
+F F F F
+Oh baby, it's you
+ 
+[Verse 5]
+Bb    Bb  Bb    Bb
+I try my best to unwind
+Gm  Gm Gm Gm
+Nothing on my mind
+Eb Eb Eb Eb
+Nothing at all but
+F F F F
+you
+ 
+[Verse 6]
+Bb    Bb  Bb    Bb
+Oblivious to all that I
+Gm  Gm Gm Gm
+owe
+Eb Eb Eb Eb
+I'm hanging on to what I
+F F F F
+don't know
+ 
+[Verse 7]
+Bb    Bb  Bb    Bb
+So let's go to bed before you say something
+Gm  Gm Gm Gm
+real
+Eb    Eb    Eb                     Eb
+Let's go to bed before you say how you
+F F F F
+feel
+ 
+[Verse 8]
+Bb    Bb  Bb    Bb
+And I knew Always
+Gm  Gm Gm Gm
+always you Oh oh oh
+Eb Eb Eb Eb
+I always knew
+F F F F
+Oh baby, it's you Yeah
+ 
+[Verse 9]
+Bb    Bb Bb Bb
+And I knew
+Gm  Gm Gm Gm
+Yes I always knew
+Eb Eb Eb Eb
+Yes I always knew
+F F F F
+Oh baby it's you
+ 
+[Bridge]
+F  F
+ 
+[Chorus]
+B    B      B             B
+You used to call me on my cell phone
+B    B      Gm            Gm
+Late night when you need my love
+Gm  Gm Gm Gm
+Call me on my cell phone
+Eb Eb Eb Eb
+Late night when you
+F F F F
+need my love
+ 
+[Verse 10]
+Bb Bb
+I know when that hotline bling
+Bb   Cm       Gm       Bb
+That can only mean one thing
+Eb  Eb  Eb       Eb
+I know when that hotline bling
+F    F        F        F
+That can only mean one thing
+ 
+[Verse 11]
+F F F F
+Ever since I left the city
+Bb    Bb Bb Bb
+You got a reputation for yourself now
+Gm        Gm          Gm        Gm
+Everybody knows and I feel left out
+Eb Eb Eb Eb
+Girl you got me down
+F F F F
+You got me stressed out
+ 
+[Verse 12]
+Bb    Bb Bb Bb
+'Cause ever since I left the city
+Gm          Gm      Gm                         Gm
+You you you started wearing Less and goin' out more
+Eb      Eb  Eb                     Eb
+Glasses of champagne on the dance floor
+F            F          F               F
+Hangin' with some girls I've never seen before
+ 
+[Outro]
+F   Bb      Bb         Bb     Bb
+You used to call me on my cell phone
+Gm  Gm Gm Gm
+Late night when you need my love
+Eb Eb Eb Eb
+Call me on my cell phone
+F    F              F              F
+Late night when you need my love.  Yeah
+
+
+Artist: John Lennon
+
+Song: Imagine
+[Intro] C Cmaj7 F C/E Dm7 F/G C
+
+[Verse 1] C Cmaj7 F Imagine there's no heaven C/E Dm7 F/G It's easy if you try C Cmaj7 F No hell below us C/E Dm7 F/G Above us only sky
+
+[Chorus] F G C E7 Imagine all the people F G C Living for today... Ahhh...
+
+[Verse 2] C Cmaj7 F Imagine there's no countries C/E Dm7 F/G It isn't hard to do C Cmaj7 F Nothing to kill or die for C/E Dm7 F/G And no religion too
+
+[Chorus] F G C E7 Imagine all the people F G C Living life in peace... Ahhh...
+
+[Bridge] F G C E7 You may say I'm a dreamer F G C But I'm not the only one F G C E7 I hope someday you'll join us F G C And the world will be as one
+
+[Verse 3] C Cmaj7 F Imagine no possessions C/E Dm7 F/G I wonder if you can C Cmaj7 F No need for greed or hunger C/E Dm7 F/G A brotherhood of man
+
+[Chorus] F G C E7 Imagine all the people F G C Sharing all the world... Ahhh...
+
+[Outro] C Cmaj7 F C/E Dm7 F/G C
+
+Song: Instant Karma!
+[Intro] C Cmaj7 F C/E Dm7 F/G C
+
+[Verse 1] C Cmaj7 F Instant Karma's gonna get you C/E Dm7 F/G Gonna knock you right on the head C Cmaj7 F You better get yourself together C/E Dm7 F/G Pretty soon you're gonna be dead
+
+[Chorus] F G C E7 What in the world you thinking of? F G C Laughing in the face of love F G C E7 What on earth you tryin' to do? F G C It's up to you, yeah you
+
+[Verse 2] C Cmaj7 F Instant Karma's gonna get you C/E Dm7 F/G Gonna look you right in the face C Cmaj7 F Better get yourself together, darlin' C/E Dm7 F/G Join the human race
+
+[Chorus] F G C E7 What in the world you thinking of? F G C Laughing in the face of love F G C E7 What on earth you tryin' to do? F G C It's up to you, yeah you
+
+[Bridge] F G C E7 Instant Karma's gonna get you F G C Gonna knock you off your feet F G C E7 Better recognize your brothers F G C Everyone you meet
+
+[Chorus] F G C E7 Why in the world are we here? F G C Surely not to live in pain and fear F G C E7 Why on earth are you there? F G C When you're everywhere, come and get your share
+
+[Outro] C Cmaj7 F C/E Dm7 F/G C
+
+Song: Woman
+[Intro] C G/B Am F C G F
+
+[Verse 1] C G/B Am Woman, I can hardly express F C G F My mixed emotions and my thoughtlessness C G/B Am After all, I'm forever in your debt F C G F And woman, I will try to express C G/B Am My inner feelings and thankfulness F C G F For showing me the meaning of success
+
+[Chorus] F G Ooh, well, well C G/B Am F Doo, doo, doo, doo, doo
+
+[Verse 2] C G/B Am Woman, I know you understand F C G F The little child inside the man C G/B Am Please remember my life is in your hands F C G F And woman, hold me close to your heart C G/B Am However distant, don't keep us apart F C G F After all, it is written in the stars
+
+[Chorus] F G Ooh, well, well C G/B Am F Doo, doo, doo, doo, doo
+
+[Bridge] Am G/B C Well, well Am G/B C Well, well
+
+[Verse 3] C G/B Am Woman, please let me explain F C G F I never meant to cause you sorrow or pain C G/B Am So let me tell you again and again and again F C G F I love you, yeah, yeah, now and forever
+
+[Chorus] F G Ooh, well, well C G/B Am F Doo, doo, doo, doo, doo
+
+[Outro] C G/B Am F C G F
+
+Song: Jealous Guy
+[Intro] G D C Cm G D C Cm
+
+[Verse 1] G D C I was dreaming of the past Cm G D C Cm And my heart was beating fast G D C I began to lose control Cm G D C Cm I began to lose control
+
+[Chorus] G D C I didn't mean to hurt you Cm G D C Cm I'm sorry that I made you cry G D C Oh no, I didn't want to hurt you Cm G D C Cm I'm just a jealous guy
+
+[Verse 2] G D C I was feeling insecure Cm G D C Cm You might not love me anymore G D C I was shivering inside Cm G D C Cm I was shivering inside
+
+[Chorus] G D C I didn't mean to hurt you Cm G D C Cm I'm sorry that I made you cry G D C Oh no, I didn't want to hurt you Cm G D C Cm I'm just a jealous guy
+
+[Bridge] Em Em/D C I was trying to catch your eyes Em Em/D C Thought that you were trying to hide Em Em/D C I was swallowing my pain Em Em/D C I was swallowing my pain
+
+[Chorus] G D C I didn't mean to hurt you Cm G D C Cm I'm sorry that I made you cry G D C Oh no, I didn't want to hurt you Cm G D C Cm I'm just a jealous guy
+
+[Outro] G D C Cm G D C Cm
+
+Song: Stand by Me
+[Intro] C Am F G
+
+[Verse 1] C Am F G When the night has come C Am F G And the land is dark C Am F G And the moon is the only light we'll see C Am F G No, I won't be afraid C Am F G No, I won't be afraid C Am F G C Just as long as you stand, stand by me
+
+[Verse 2] C Am F G And darling, darling, stand by me C Am F G Oh, stand by me C Am F G Oh, stand, stand by me C Am F G C Stand by me
+
+[Bridge] Am G Em F If the sky that we look upon Am G Em F Should tumble and fall Am G Em F Or the mountain should crumble to the sea Am G Em F I won't cry, I won't cry Am G Em F No, I won't shed a tear Am G Em F C Just as long as you stand, stand by me
+
+[Verse 3] C Am F G And darling, darling, stand by me C Am F G Oh, stand by me C Am F G Oh, stand, stand by me C Am F G C Stand by me
+
+[Outro] C Am F G C Am F G C Am F G C Am F G C
+
+Song: Watching the Wheels
+[Intro] C G F C/E G F
+
+[Verse 1] C G F People say I'm crazy C/E G F Doing what I'm doing C G F Well, they give me all kinds of warnings C/E G F To save me from ruin
+
+[Chorus] F G C F When I say that I'm okay, well,*
+
+Elapsed time:
+
+79.94477677345276
+
+
+
+
 1. Top Ten Hit Songs by AC/DC:
 
 "Back in Black" 🎸
