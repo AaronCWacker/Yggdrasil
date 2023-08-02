@@ -1,6 +1,189 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Gamification Source That LLM's in 2023 Can Generate:
+
+The support to be able to pair program with LLMs can be used to generate code in different languages based on examples from github and internet content trained on that can understand nuances of programming languages used.
+
+This list shows languages used by each engine:
+
+| Engine           | Programming Languages  |
+|------------------|------------------------|
+| Panda3D          | Python, C++            |
+| Phaser           | JavaScript             |
+| RPG Maker        | JavaScript             |
+| Babylon.js       | JavaScript, TypeScript |
+| Three.js         | JavaScript             |
+| Unity            | C#                     |
+| MonoGame         | C#                     |
+| StratusCore      | C#, JavaScript         |
+| SFML             | C++, .NET languages    |
+| Unreal Engine    | C++, Blueprints        |
+| Godot Engine     | GDScript, C#, C++      |
+| CryEngine        | C++, C# (with plugins)  |
+| Amazon Lumberyard| C++, Lua               |
+| GameMaker Studio | GameMaker Language     |
+| Cocos2d-x        | C++, Lua, JavaScript   |
+| Torque3D         | TorqueScript, C++      |
+| Urho3D           | C++, AngelScript       |
+| jMonkeyEngine    | Java                   |
+| Corona (Solar2D) | Lua                    |
+| LibGDX           | Java                   |
+
+
+Below is a summary of which engines support code known in LLMs shown by a small short example of code for that platform.
+
+# Unity (C#)
+```
+csharp
+Copy code
+using UnityEngine;
+public class MoveObject : MonoBehaviour
+{
+    public float speed = 10.0f;
+    void Update()
+    {
+        float moveHorizontal = Input.GetAxis("Horizontal");
+        float moveVertical = Input.GetAxis("Vertical");
+        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+        transform.Translate(movement * speed * Time.deltaTime);
+    }
+}
+```
+
+# Godot Engine (GDScript)
+```
+gdscript
+Copy code
+extends KinematicBody2D
+var speed = 200
+func _physics_process(delta):
+    var velocity = Vector2()
+    if Input.is_action_pressed('ui_right'):
+        velocity.x += 1
+    if Input.is_action_pressed('ui_left'):
+        velocity.x -= 1
+    if Input.is_action_pressed('ui_down'):
+        velocity.y += 1
+    if Input.is_action_pressed('ui_up'):
+        velocity.y -= 1
+    velocity = velocity.normalized() * speed
+    move_and_slide(velocity)
+```
+
+# GameMaker Studio (GML)
+```
+gml
+Copy code
+if (keyboard_check(vk_right))
+{
+    x += 5;
+}
+if (keyboard_check(vk_left))
+{
+    x -= 5;
+}
+```
+
+# Phaser (JavaScript)
+Phaser is a framework for 2D game development for the web. Here's a simple example:
+```
+javascript
+Copy code
+var game = new Phaser.Game(800, 600, Phaser.AUTO, '', { preload: preload, create: create, update: update });
+function preload() { /* load assets here */ }
+function create() { /* initialization here */ }
+function update() { /* game logic here */ }
+```
+
+# Unreal Engine 
+
+```
+primarily uses C++ and its visual scripting system called Blueprints, I'll show you a simple example using Blueprints that could be part of an easy game.
+
+Let's say you want to create a basic movement functionality for a character within Unreal Engine using Blueprints:
+
+Create a new Blueprint Class: Select "File" > "New Blueprint Class..." and choose "Character" as the parent class. Name it "SimpleCharacter."
+
+Open the Blueprint Editor: Double-click your new class to open the Blueprint Editor.
+
+Add Movement Input: In the event graph, you'll handle the character's movement by:
+
+Right-click to open the context menu and type "Input Axis" to find the "Input Axis" nodes for horizontal and vertical movement. These could be "InputAxis MoveForward" and "InputAxis MoveRight."
+Add "Add Movement Input" nodes for both forward and right movement.
+Connect the "Input Axis" nodes to the "Add Movement Input" nodes.
+Set the appropriate World Direction for each (e.g., X for forward, Y for right).
+Here's a diagram representation of how it might look:
+
+css
+Copy code
+InputAxis MoveForward ----> Add Movement Input (Direction X)
+InputAxis MoveRight    ----> Add Movement Input (Direction Y)
+```
+
+# CryEngine
+
+```
+CryEngine can be quite complex, but I'll provide an example of a simple component that could be part of a basic game. CryEngine uses C++ for its primary programming, so we'll create a basic entity that responds to player input.
+
+Suppose we want to make an entity that moves forward when the player presses a key. Here's how you might start:
+
+Include Headers:
+cpp
+Copy code
+#include <CryEntitySystem/IEntityClass.h>
+#include <CryInput/IInput.h>
+Create a Simple Entity Class:
+cpp
+Copy code
+class CSimpleEntity : public IEntityComponent
+{
+public:
+    static void ReflectType(Schematyc::CTypeDesc<CSimpleEntity>& desc)
+    {
+        desc.SetGUID("{A99A881F-3CFA-4D18-8B83-B6D1E8F40959}"_cry_guid);
+    }
+
+    virtual void Initialize() override
+    {
+        // Register an action to the "move" action map
+        gEnv->pInput->AddActionListener(this);
+        GetGameObject()->CaptureActions(this);
+        GetGameObject()->EnableUpdateSlot(this, 0);
+    }
+
+    // Implement the update function, called every frame
+    virtual void Update(SEntityUpdateContext& ctx) override
+    {
+        // Handle logic, such as moving the entity forward
+        Vec3 position = GetEntity()->GetPos();
+        position += Vec3(0, 0, m_speed * ctx.fFrameTime);
+        GetEntity()->SetPos(position);
+    }
+
+    virtual bool OnActionTriggered(int actionId, int activationMode, float value) override
+    {
+        // Handle the "move" action
+        if (actionId == eAID_Move)
+        {
+            m_speed = value * 5.0f; // Set speed based on input value
+        }
+        return false;
+    }
+
+protected:
+    float m_speed = 0; // Movement speed
+};
+Register the Entity:
+cpp
+Copy code
+CryREGISTER_Component(CSimpleEntity);
+```
+
+
+
+
+
 
 # Chords and Lyrics
 
