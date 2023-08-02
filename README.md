@@ -30,6 +30,120 @@ This list shows languages used by each engine:
 | Corona (Solar2D) | Lua                    |
 | LibGDX           | Java                   |
 
+# By Languages
+Create a new list of twenty game engines but also include 3d engines such as PlayCanvas, Aframe, and Three.JS.   Cluster the rows of the table to also follow this order 1) Games that use Python, 2) Games that use Javascript, 3) Games that use .NET, 4) Games that use C++.  Try to show at least five engines for each language (Python, Javascript, .NET, C++.  Also include ones similar to Python or Javascript like Godot for instance which features a python like language.
+
+ChatGPT
+Certainly! Here's a markdown table that includes 20 game engines, including 3D engines like PlayCanvas, A-Frame, and Three.js, and clusters them by the requested order:
+
+markdown
+Copy code
+| Engine           | Programming Languages  |
+|------------------|------------------------|
+| Panda3D          | Python, C++            |
+| Godot Engine     | GDScript (Python-like), C#, C++ |
+| Three.js         | JavaScript             |
+| Babylon.js       | JavaScript, TypeScript |
+| A-Frame          | JavaScript             |
+| PlayCanvas       | JavaScript             |
+| Phaser           | JavaScript             |
+| Unity            | C#                     |
+| MonoGame         | C#                     |
+| StratusCore      | C#, JavaScript         |
+| Unreal Engine    | C++, Blueprints        |
+| CryEngine        | C++, C# (with plugins)  |
+| Amazon Lumberyard| C++, Lua               |
+| Cocos2d-x        | C++, Lua, JavaScript   |
+| Torque3D         | TorqueScript, C++      |
+| SFML             | C++, .NET languages    |
+| Urho3D           | C++, AngelScript       |
+| GameMaker Studio | GameMaker Language     |
+| jMonkeyEngine    | Java                   |
+| Corona (Solar2D) | Lua                    |
+Note that some of these engines support multiple languages that may span more than one of the requested clusters. Also, the availability of certain languages might be contingent upon specific plugins or additional configurations. Always refer to the specific engine's documentation for the most accurate and up-to-date information.
+
+
+```
+User
+add ten top game engines to the list that feature their own programming language but there are many examples you can find of code for that game engine.  Show top 30 markdown code for markdown table.  Create an emoji for each one.
+
+ChatGPT
+Certainly! Here's an extended markdown table with 30 game engines, including those with their own unique programming languages, clustered according to your requirements, and including emojis for each one:
+```
+
+| Engine             | Programming Languages         | Emoji    |
+|--------------------|-------------------------------|----------|
+| Panda3D 🐼         | Python, C++                   | 🐼       |
+| Godot Engine 🎮    | GDScript (Python-like), C#, C++| 🎮      |
+| Three.js 🌐        | JavaScript                    | 🌐       |
+| Babylon.js 🏰      | JavaScript, TypeScript        | 🏰      |
+| A-Frame 🖼         | JavaScript                    | 🖼       |
+| PlayCanvas 🎨     | JavaScript                    | 🎨      |
+| Phaser 🕹          | JavaScript                    | 🕹       |
+| Unity 🦄           | C#                            | 🦄       |
+| MonoGame 🎵        | C#                            | 🎵       |
+| StratusCore ☁️     | C#, JavaScript                | ☁️      |
+| Unreal Engine 🚀   | C++, Blueprints               | 🚀      |
+| CryEngine 🐺       | C++, C# (with plugins)         | 🐺      |
+| Amazon Lumberyard 🌲| C++, Lua                      | 🌲      |
+| Cocos2d-x 🍏       | C++, Lua, JavaScript          | 🍏      |
+| Torque3D 🛠        | TorqueScript, C++             | 🛠       |
+| SFML 🎼            | C++, .NET languages           | 🎼      |
+| Urho3D 🦌          | C++, AngelScript              | 🦌      |
+| GameMaker Studio 🕶 | GameMaker Language            | 🕶      |
+| jMonkeyEngine 🐵   | Java                          | 🐵      |
+| Corona (Solar2D) ☀️| Lua                           | ☀️      |
+| RPG Maker ⚔️      | JavaScript (for custom scripting)| ⚔️    |
+| OGRE3D 📦          | C++                           | 📦      |
+| PICO-8 🎮          | Lua (PICO-8 specific)         | 🎮      |
+| Ren'Py 💌         | Python-like scripting         | 💌      |
+| Construct 3 🔨    | Event-Based Programming       | 🔨      |
+| LÖVE ❤️           | Lua                           | ❤️      |
+| Blender Game Engine 🎥 | Python                   | 🎥      |
+| Stencyl 🎲         | Stencyl Language (blocks)      | 🎲      |
+| Twine 🧶           | TwineScript                    | 🧶      |
+Note that some engines are geared more towards specific genres or media types, and the programming languages may be specific to that engine or tailored versions of more widely-used languages. Always refer to the specific engine's documentation for the most accurate information.
+
+
+
+
+
+
+
+This table includes a few more engine titles but also includes programming languages that are unique:
+
+| Engine             | Programming Languages         | Emoji    |
+|--------------------|-------------------------------|----------|
+| Panda3D 🐼         | Python, C++                   | 🐼       |
+| Godot Engine 🎮    | GDScript (Python-like), C#, C++| 🎮      |
+| Three.js 🌐        | JavaScript                    | 🌐       |
+| Babylon.js 🏰      | JavaScript, TypeScript        | 🏰      |
+| A-Frame 🖼         | JavaScript                    | 🖼       |
+| PlayCanvas 🎨     | JavaScript                    | 🎨      |
+| Phaser 🕹          | JavaScript                    | 🕹       |
+| Unity 🦄           | C#                            | 🦄       |
+| MonoGame 🎵        | C#                            | 🎵       |
+| StratusCore ☁️     | C#, JavaScript                | ☁️      |
+| Unreal Engine 🚀   | C++, Blueprints               | 🚀      |
+| CryEngine 🐺       | C++, C# (with plugins)         | 🐺      |
+| Amazon Lumberyard 🌲| C++, Lua                      | 🌲      |
+| Cocos2d-x 🍏       | C++, Lua, JavaScript          | 🍏      |
+| Torque3D 🛠        | TorqueScript, C++             | 🛠       |
+| SFML 🎼            | C++, .NET languages           | 🎼      |
+| Urho3D 🦌          | C++, AngelScript              | 🦌      |
+| GameMaker Studio 🕶 | GameMaker Language            | 🕶      |
+| jMonkeyEngine 🐵   | Java                          | 🐵      |
+| Corona (Solar2D) ☀️| Lua                           | ☀️      |
+| RPG Maker ⚔️      | JavaScript (for custom scripting)| ⚔️    |
+| OGRE3D 📦          | C++                           | 📦      |
+| PICO-8 🎮          | Lua (PICO-8 specific)         | 🎮      |
+| Ren'Py 💌         | Python-like scripting         | 💌      |
+| Construct 3 🔨    | Event-Based Programming       | 🔨      |
+| LÖVE ❤️           | Lua                           | ❤️      |
+| Blender Game Engine 🎥 | Python                   | 🎥      |
+| Stencyl 🎲         | Stencyl Language (blocks)      | 🎲      |
+| Twine 🧶           | TwineScript                    | 🧶      |
+
 
 Below is a summary of which engines support code known in LLMs shown by a small short example of code for that platform.
 
