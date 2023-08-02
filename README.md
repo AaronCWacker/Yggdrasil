@@ -1,6 +1,80 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# How to Multi-Replicate Generated Prompts to Perform Same Action Across a List:
+
+```
+Generate a list of sentences that fill in the blank.  Use the list below to fill in the blank.  Use the sentence: "Show a _______ game as source code only."  For the list use this table and show output as the list of 30 sentences with the engine name below filled in the blank:  Engine	Programming Languages	Emoji
+Panda3D 🐼	Python, C++	🐼
+Godot Engine 🎮	GDScript (Python-like), C#, C++	🎮
+Three.js 🌐	JavaScript	🌐
+Babylon.js 🏰	JavaScript, TypeScript	🏰
+A-Frame 🖼	JavaScript	🖼
+PlayCanvas 🎨	JavaScript	🎨
+Phaser 🕹	JavaScript	🕹
+Unity 🦄	C#	🦄
+MonoGame 🎵	C#	🎵
+StratusCore ☁️	C#, JavaScript	☁️
+Unreal Engine 🚀	C++, Blueprints	🚀
+CryEngine 🐺	C++, C# (with plugins)	🐺
+Amazon Lumberyard 🌲	C++, Lua	🌲
+Cocos2d-x 🍏	C++, Lua, JavaScript	🍏
+Torque3D 🛠	TorqueScript, C++	🛠
+SFML 🎼	C++, .NET languages	🎼
+Urho3D 🦌	C++, AngelScript	🦌
+GameMaker Studio 🕶	GameMaker Language	🕶
+jMonkeyEngine 🐵	Java	🐵
+Corona (Solar2D) ☀️	Lua	☀️
+RPG Maker ⚔️	JavaScript (for custom scripting)	⚔️
+OGRE3D 📦	C++	📦
+PICO-8 🎮	Lua (PICO-8 specific)	🎮
+Ren'Py 💌	Python-like scripting	💌
+Construct 3 🔨	Event-Based Programming	🔨
+LÖVE ❤️	Lua	❤️
+Blender Game Engine 🎥	Python	🎥
+Stencyl 🎲	Stencyl Language (blocks)	🎲
+Twine 🧶	TwineScript	🧶
+```
+
+# Generated Results:
+
+Show a Panda3D 🐼 game as source code only.
+Show a Godot Engine 🎮 game as source code only.
+Show a Three.js 🌐 game as source code only.
+Show a Babylon.js 🏰 game as source code only.
+Show a A-Frame 🖼 game as source code only.
+Show a PlayCanvas 🎨 game as source code only.
+Show a Phaser 🕹 game as source code only.
+Show a Unity 🦄 game as source code only.
+Show a MonoGame 🎵 game as source code only.
+Show a StratusCore ☁️ game as source code only.
+Show a Unreal Engine 🚀 game as source code only.
+Show a CryEngine 🐺 game as source code only.
+Show a Amazon Lumberyard 🌲 game as source code only.
+Show a Cocos2d-x 🍏 game as source code only.
+Show a Torque3D 🛠 game as source code only.
+Show a SFML 🎼 game as source code only.
+Show a Urho3D 🦌 game as source code only.
+Show a GameMaker Studio 🕶 game as source code only.
+Show a jMonkeyEngine 🐵 game as source code only.
+Show a Corona (Solar2D) ☀️ game as source code only.
+Show a RPG Maker ⚔️ game as source code only.
+Show a OGRE3D 📦 game as source code only.
+Show a PICO-8 🎮 game as source code only.
+Show a Ren'Py 💌 game as source code only.
+Show a Construct 3 🔨 game as source code only.
+Show a LÖVE ❤️ game as source code only.
+Show a Blender Game Engine 🎥 game as source code only.
+Show a Stencyl 🎲 game as source code only.
+Show a Twine 🧶 game as source code only.
+Show a __________ game as source code only. (It looks like there are only 29 entries in the table, so I've left the 30th one blank.)
+
+
+
+
+
+
+
 # Gamification Source That LLM's in 2023 Can Generate:
 
 The support to be able to pair program with LLMs can be used to generate code in different languages based on examples from github and internet content trained on that can understand nuances of programming languages used.
