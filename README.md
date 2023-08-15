@@ -1,6 +1,131 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# High Information Word Knowledge Distiller Tool Maker
+```
+import streamlit as st
+import re
+import nltk
+from nltk.corpus import stopwords
+from nltk import FreqDist
+from graphviz import Digraph
+from collections import Counter
+import datetime
+import pandas as pd
+from PyPDF2 import PdfFileReader
+from io import StringIO, BytesIO
+
+nltk.download('punkt')
+nltk.download('stopwords')
+
+
+def remove_timestamps(text):
+    return re.sub(r'\d{1,2}:\d{2}\n', '', text)
+
+
+def process_text(text):
+    lines = text.split("\n")
+    processed_lines = []
+
+    for line in lines:
+        if line:
+            processed_lines.append(line)
+
+    outline = ""
+    for i, line in enumerate(processed_lines):
+        if i % 2 == 0:
+            outline += f"**{line}**\n"
+        else:
+            outline += f"- {line} 😄\n"
+
+    return outline
+
+
+def extract_high_information_words(text, top_n=10):
+    words = nltk.word_tokenize(text)
+    words = [word.lower() for word in words if word.isalpha()]
+
+    stop_words = set(stopwords.words('english'))
+    filtered_words = [word for word in words if word not in stop_words]
+
+    freq_dist = FreqDist(filtered_words)
+    high_information_words = [word for word, _ in freq_dist.most_common(top_n)]
+
+    return high_information_words
+
+
+def create_relationship_graph(words):
+    graph = Digraph()
+
+    for index, word in enumerate(words):
+        graph.node(str(index), word)
+
+        if index > 0:
+            graph.edge(str(index - 1), str(index), label=str(index))
+
+    return graph
+
+
+def display_relationship_graph(words):
+    graph = create_relationship_graph(words)
+    st.graphviz_chart(graph)
+
+
+def save_text_file(text):
+    date_str = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')
+    file_name = f"{date_str}.txt"
+    with open(file_name, 'w') as f:
+        f.write(text)
+    return file_name
+
+
+def extract_text_from_uploaded_files(uploaded_files):
+    merged_text = ""
+
+    for uploaded_file in uploaded_files:
+        extension = uploaded_file.name.split('.')[-1]
+
+        if extension == "txt":
+            merged_text += uploaded_file.read().decode()
+
+        elif extension == "pdf":
+            pdf = PdfFileReader(uploaded_file)
+            for page_num in range(pdf.numPages):
+                page = pdf.getPage(page_num)
+                merged_text += page.extractText()
+
+        elif extension == "csv":
+            df = pd.read_csv(uploaded_file)
+            merged_text += '\n'.join(df.applymap(str).agg(' '.join, axis=1))
+
+    return merged_text
+
+
+uploaded_files = st.file_uploader("Choose files", type=['txt', 'pdf', 'csv'], accept_multiple_files=True)
+
+if uploaded_files:
+    merged_text = extract_text_from_uploaded_files(uploaded_files)
+    save_text_file(merged_text)
+
+    text_without_timestamps = remove_timestamps(merged_text)
+
+    st.markdown("**Text without Timestamps:**")
+    st.write(text_without_timestamps)
+
+    processed_text = process_text(text_without_timestamps)
+    st.markdown("**Markdown Outline with Emojis:**")
+    st.markdown(processed_text)
+
+    top_words = extract_high_information_words(text_without_timestamps, 10)
+    st.markdown("**Top 10 High Information Words:**")
+    st.write(top_words)
+
+    st.markdown("**Relationship Graph:**")
+    display_relationship_graph(top_words)
+
+```
+
+
 # Quote Writing Program
 
 Completed code listing:
