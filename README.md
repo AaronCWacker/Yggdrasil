@@ -3,22 +3,22 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 
 # Peeking Rhyme - Song
-
-C			A
-You can, can, you can, it sounds like a lot, but make a peeking rhyme.
-G						F
-*You can, can, you can, it's easy as can be, Just take a look and see, what you can see.
-C			A
-You can see the sky, so blue and bright, You can see the trees, they're standing tall and tight.
-G						F
-You can see the birds, they're flying high, You can see the flowers, they're blooming in the sky.
-C			A
-You can see the sun, it's shining bright, You can see the moon, it's glowing with delight.
-G						F
-You can see the world, it's full of wonder, You can see the beauty, it's all around you, thunder.
-C			A
-So take a look, and see what you can see, It's easy as can be, just look around, you'll see.*
-
+Chord1                  |Chord2  
+------------------------|----------------------------------------------
+C			|A
+You can, can, you can,  | it sounds like a lot, but make a peeking rhyme.
+G			|			F
+You can, can, you can,  | it's easy as can be, Just take a look and see, what you can see.
+C			|A
+You can see the sky, so |blue and bright, You can see the trees, they're standing tall and tight.
+G			|			F
+You can see the birds,  | they're flying high, You can see the flowers, they're blooming in the sky.
+C		 	|	A
+You can see the sun,    | it's shining bright, You can see the moon, it's glowing with delight.
+G			|			F
+You can see the world,  | it's full of wonder, You can see the beauty, it's all around you, thunder.
+C			|A
+So take a look, and see | what you can see, It's easy as can be, just look around, you'll see.
 
 # High Information Word Knowledge Distiller Tool Maker
 ```
