@@ -1,6 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Three Minute MS Technology Demo - 20 Seconds Each
+
+1. GAIA - Generative AI Intelligence Augmenter - Idea and Team
+2. Promptflow
+3. ACR->ACA VSCode Deploy
+4. Speech to Text using Whisper
+5. Text to Llama Response
+6. Text to GPT Response, Embeddings, VectorDB, Documents
+7. Flashcards Game for Memory
+8. Promptflow
+9. AutoGen
+
 
 # Peeking Rhyme - Song
 Chord1                  |Chord2  
