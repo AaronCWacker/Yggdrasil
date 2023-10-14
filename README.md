@@ -1,6 +1,77 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# R Prime:
+
+Certainly! Below is a Python code example using Streamlit to create an emoji button label program that generates prompts. This code includes a button for each mental function (Long Term Memory, Working Memory, etc.) that changes with age. When you press the button, it outputs both a random emoji and a corresponding prompt.
+
+python
+Copy code
+import streamlit as st
+import random
+
+# Define list of emojis and prompts
+emoji_list = ["😊", "🤔", "😄", "😎", "👀", "🧠", "💡", "📚"]
+prompts_list = [
+    "Use 'You' talking to AI in first person.",
+    "Pick 3-4 things you would instruct or coach on about proficiency.",
+    "Describe the opportunity - I am giving you a chance to __ fix -- X --",
+    "Pick your X"
+]
+
+# Define list of mental functions that change with age
+mental_functions = [
+    "Long Term Memory (LTM)",
+    "Working Memory",
+    "Executive Functioning",
+    "Attention to Detail",
+    "Multitasking",
+    "Processing Speed"
+]
+
+st.title("Emoji & Prompt Generator 🧠")
+
+# Text areas to display the outputs
+st.write("## Generated Emoji:")
+emoji_output = st.empty()
+st.write("## Generated Prompt:")
+prompt_output = st.empty()
+
+# Loop through each mental function and create a button
+for function in mental_functions:
+    if st.button(f"Generate for {function}"):
+        # Randomly pick an emoji and a prompt
+        selected_emoji = random.choice(emoji_list)
+        selected_prompt = random.choice(prompts_list)
+        
+        # Display the selected emoji and prompt
+        emoji_output.write(f"{selected_emoji}")
+        prompt_output.write(f"{selected_prompt}")
+To run this code, save it in a Python file and run it using Streamlit. Each time you click one of the mental function buttons, the program will randomly generate an emoji and a prompt. These will be displayed in text areas labeled "Generated Emoji" and "Generated Prompt".
+
+I hope this serves as a fun and engaging way to interact with the topics of mental functions that change with age!
+
+
+
+
+# If R was previous intput and R Prime is result of transformational inputs that update memory:
+
+Create a streamlit emoji button label program that generates prompts.  Feature output of prompt and emoji label generator into text areas.  Inclusive of mental functions that change with age we have:
+Long term memory or LTM
+Working Memory
+Executive Functioning
+Attention to Detail
+Multitasking
+and Processing Speed
+Prompts
+Use 'You' talking to AI in first person.
+Pick 3 - 4 things you would instruct or coach on about proficiency
+Describe the opportunity - I am giving you a chance to __ fix -- X --
+Pick your X  
+
+
+
+
 # James Gunn
 
 # Critical Mental Functions for Healthy Brain Aging
