@@ -1,6 +1,22 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# James Gunn
+
+# Critical Mental Functions for Healthy Brain Aging
+1. Inclusive of mental functions that change with age we have:
+   - Long term memory or LTM
+   - Working Memory
+   - Executive Functioning
+   - Attention to Detail
+   - Multitasking
+   - and Processing Speed
+2. Prompts
+	- Use 'You' talking to AI in first person.
+ - Pick 3 - 4 things you would instruct or coach on about proficiency
+ - Describe the opportunity - I am giving you a chance to __ fix  --  X  --
+ - Pick your X
+
 # Three Minute MS Technology Demo - 20 Seconds Each
 
 1. GAIA - Generative AI Intelligence Augmenter - Idea and Team
