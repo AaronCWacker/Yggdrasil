@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Captain's Log, Stardate 10/18/2023 5:39 AM
+
+## Premise - Making a Modification using language and creative intent.
+
+### Prompt:
+
+Replace the code starting at line 188+ which has the word key in it - it has an error of duplicate keys.  Rather than that remove that code, keeping the voting buttons.  For the content which works right now modify the dataset in the program to add three stories to vote for and disassemble these into sentences and create emojis for the high information words in the text.  Provide a code listing of the update which only adds data into the program and removes the duplicate key functionality:    "A 45-year-old man presents with a long history of ulcers on the bottom of his feet. He recalls having a similar looking ulcer on the side of his penis when he was 19 years old for which he never sought treatment. The patient denies any fever, chills, or constitutional symptoms. He reports multiple sexual partners and a very promiscuous sexual history. He has also traveled extensively as a writer since he was 19. The patient is afebrile, and his vital signs are within normal limits. A rapid plasma reagin (RPR) test is positive, and the result of a Treponema pallidum particle agglutination (TP-PA) is pending. Which of the following findings would most likely be present in this patient?"
+"A 24-year-old man, an information technology professional, gets himself tested for serum immunoglobulin M (IgM) levels because he wants to know more about his immunity. He knows that IgM levels reflect the status of his immunity, based on the internet. Although the laboratory report is normal, he consults a physician. The physician discusses human immunity and its important components. He also tells him that most circulating IgM antibodies in the blood of normal persons are produced by a specific type of B cell, which is present mostly in the peritoneal cavity and in mucosal tissues. He also mentions that these cells are components of innate immunity. Which of the following types of B cells is the physician referring to?"
+"A 33-year-old woman who was recently involved in a motor vehicle accident presents to a medical clinic for a follow-up visit. She was in the front passenger seat when the vehicle swerved off the road and struck 2 pedestrians. She was restrained by her seatbelt and did not suffer any significant physical injury. Since then she has had 1 outpatient visit and is recovering well. She is here today upon the request of her family members who insist that she has not come to terms with the incident. They have noted that she has significant distress while riding in her car; however, she does not seem particularly worried and she cannot remember many of the details of the accident. On a mini-mental examination, she scores 27/30. Which of the following best describes this patient’s condition?"
+
+
 # Captain's Log, Stardate 10/18/2023 5:12 AM
 
 ## Premise - We can perform multiple vector memory streams which store and act based on contextual information.
