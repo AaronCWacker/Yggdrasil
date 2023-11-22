@@ -1,15 +1,79 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+
+
+# Captain's Log, Stardate 11/21/2023 9:42 PM
+
+
+## Summarized Using Mistral and Answered US Medical License Exam questions: 
+
+"A 33-year-old woman who was recently involved in a motor vehicle accident presents to a medical clinic for a follow-up visit. She was in the front passenger seat when the vehicle swerved off the road and struck 2 pedestrians. She was restrained by her seatbelt and did not suffer any significant physical injury. Since then she has had 1 outpatient visit and is recovering well. She is here today upon the request of her family members who insist that she has not come to terms with the incident. They have noted that she has significant distress while riding in her car; however, she does not seem particularly worried and she cannot remember many of the details of the accident.
+
+On a mini-mental examination, she scores 27/30.
+
+Which of the following best describes this patient’s condition?"
+
+
+Based on the description provided, it is possible that the patient may be experiencing post-traumatic stress disorder (PTSD). Post-traumatic stress disorder is a mental health condition that can develop after experiencing or witnessing a traumatic event, such as a motor vehicle accident. Symptoms may include intrusive thoughts or memories, avoidance behaviors, negative changes in mood or cognitive functioning, and hyperarousal symptoms like increased startle response or irritability. Even though the patient did not sustain significant physical injuries and scored well on the mini-mental examination, the fact that she experiences significant distress while riding in her car and struggles to recall details of the accident suggests that PTSD may be a possibility.
+
+However, it is worth noting that there may be other factors contributing to the patient's symptoms, so further evaluation and assessment would be required to determine the underlying cause of her distress.
+
+## Lyrics!  Chords!  Are They Right?  https://huggingface.co/spaces/awacke1/Mistral_Ultimate_Chords_and_Lyrics_Writer
+
+🎸 List top 3 songs by Everclear and also list top 3 songs from when they were top ten on the charts. For each song, list the song name and chords and lyrics as well as the artist. 🎤
+
+
+Here are the top 3 songs by Everclear and their respective chords, lyrics, and release date (if available):
+
+Top 3 Songs by Everclear:
+
+Santa Monica - Chord progression: Dm - Em - Bm - G
+Lyrics: She walks around Santa Monica at three o'clock in the morning
+Her hair falls in waves across her face, looking so pretty, oh what a sight
+She dreams of living somewhere else
+Maybe under neon lights
+My favorite place in the whole wide world
+Where time stands still and nothing ever hurts
+And everything just feels kind of okay
+In Santa Monica, California, where I spend my days
+
+Rollin' With the Homies - Chord progression: F - G - Am - C
+Lyrics: It's Friday night, I'm rolling with the homies
+Got the radio loud and nobody worries 'bout me
+It's Saturday morning, we're cruisin', no worries 'bout me
+Just chillin', chillin
+
+
+
+
 # Captain's Log, Stardate 10/18/2023 5:39 AM
 
 ## Premise - Making a Modification using language and creative intent.
 
 ### Prompt:
 
-Replace the code starting at line 188+ which has the word key in it - it has an error of duplicate keys.  Rather than that remove that code, keeping the voting buttons.  For the content which works right now modify the dataset in the program to add three stories to vote for and disassemble these into sentences and create emojis for the high information words in the text.  Provide a code listing of the update which only adds data into the program and removes the duplicate key functionality:    "A 45-year-old man presents with a long history of ulcers on the bottom of his feet. He recalls having a similar looking ulcer on the side of his penis when he was 19 years old for which he never sought treatment. The patient denies any fever, chills, or constitutional symptoms. He reports multiple sexual partners and a very promiscuous sexual history. He has also traveled extensively as a writer since he was 19. The patient is afebrile, and his vital signs are within normal limits. A rapid plasma reagin (RPR) test is positive, and the result of a Treponema pallidum particle agglutination (TP-PA) is pending. Which of the following findings would most likely be present in this patient?"
-"A 24-year-old man, an information technology professional, gets himself tested for serum immunoglobulin M (IgM) levels because he wants to know more about his immunity. He knows that IgM levels reflect the status of his immunity, based on the internet. Although the laboratory report is normal, he consults a physician. The physician discusses human immunity and its important components. He also tells him that most circulating IgM antibodies in the blood of normal persons are produced by a specific type of B cell, which is present mostly in the peritoneal cavity and in mucosal tissues. He also mentions that these cells are components of innate immunity. Which of the following types of B cells is the physician referring to?"
-"A 33-year-old woman who was recently involved in a motor vehicle accident presents to a medical clinic for a follow-up visit. She was in the front passenger seat when the vehicle swerved off the road and struck 2 pedestrians. She was restrained by her seatbelt and did not suffer any significant physical injury. Since then she has had 1 outpatient visit and is recovering well. She is here today upon the request of her family members who insist that she has not come to terms with the incident. They have noted that she has significant distress while riding in her car; however, she does not seem particularly worried and she cannot remember many of the details of the accident. On a mini-mental examination, she scores 27/30. Which of the following best describes this patient’s condition?"
+Replace the code starting at line 188+ which has the word key in it - it has an error of duplicate keys.  Rather than that remove that code, keeping the voting buttons.  For the content which works right now modify the dataset in the program to add three stories to vote for and disassemble these into sentences and create emojis for the high information words in the text.  Provide a code listing of the update which only adds data into the program and removes the duplicate key functionality:    "A 45-year-old man presents with a long history of ulcers on the bottom of his feet....
+
+
+Which of the following findings would most likely be present in this patient?"
+
+"
+A 24-year-old man, an information technology professional, gets himself tested for serum immunoglobulin M (IgM) levels because he wants to know more about his immunity.
+He knows that IgM levels reflect the status of his immunity, based on the internet. 
+Although the laboratory report is normal, he consults a physician. 
+The physician discusses human immunity and its important components. 
+He also tells him that most circulating IgM antibodies in the blood of normal persons are produced by a specific type of B cell, which is present mostly in the peritoneal cavity and in mucosal tissues. 
+He also mentions that these cells are components of innate immunity. 
+Which of the following types of B cells is the physician referring to?"
+
+
+"A 33-year-old woman who was recently involved in a motor vehicle accident presents to a medical clinic for a follow-up visit. She was in the front passenger seat when the vehicle swerved off the road and struck 2 pedestrians. She was restrained by her seatbelt and did not suffer any significant physical injury. Since then she has had 1 outpatient visit and is recovering well. She is here today upon the request of her family members who insist that she has not come to terms with the incident. They have noted that she has significant distress while riding in her car; however, she does not seem particularly worried and she cannot remember many of the details of the accident. 
+
+On a mini-mental examination, she scores 27/30. 
+
+Which of the following best describes this patient’s condition?"
 
 
 # Captain's Log, Stardate 10/18/2023 5:12 AM
