@@ -1,6 +1,61 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# IJEPA:
+```mermaid
+graph TD
+    A[IJEPA: Self-supervised learning paradigm] --> B(🖼️ I-JEPA)
+    A --> C(🌍 IWM)
+    A --> D(🎧 A-JEPA)
+    
+    B --> B1(🔍 Non-generative approach)
+    B1 --> B2(🎯 Predicts target block representations)
+    B2 --> B3(🍳 Masking strategy)
+    B3 --> B4(🧩 Large-scale target blocks)
+    B3 --> B5(🗺️ Informative context block)
+    B1 --> B6(🏗️ Scalable with Vision Transformers)
+    B6 --> B7(⚡ Fast training on ImageNet)
+    B6 --> B8(🏅 Strong downstream performance)
+    B8 --> B9(📊 Linear classification)
+    B8 --> B10(🔢 Object counting)
+    B8 --> B11(📏 Depth prediction)
+    
+    C --> C1(🌉 Builds upon JEPA)
+    C1 --> C2(🎨 Beyond masked image modeling)
+    C2 --> C3(🔮 Predicts photometric transformations)
+    C1 --> C4(🍳 Learning recipe)
+    C4 --> C5(🎛️ Conditioning)
+    C4 --> C6(🔧 Prediction difficulty)
+    C4 --> C7(💪 Capacity)
+    C1 --> C8(🎓 Matches/surpasses self-supervised methods)
+    C8 --> C9(🕹️ Adaptable to diverse tasks)
+    C1 --> C10(🎚️ Controllable abstraction level)
+    C10 --> C11(🔒 Invariant representations)
+    C10 --> C12(🔄 Equivariant representations)
+    
+    D --> D1(🔊 Extends I-JEPA to audio)
+    D1 --> D2(🎵 Encodes audio spectrogram patches)
+    D2 --> D3(🎯 Predicts region representations)
+    D3 --> D4(🧠 Target representations by context encoder)
+    D1 --> D5(⏰ Time-frequency aware masking)
+    D5 --> D6(📚 Considers local correlations)
+    D1 --> D7(🎛️ Fine-tuning with regularized masking)
+    D7 --> D8(🚫 Instead of input dropping/zeroing)
+    D1 --> D9(🏗️ Scalable with Vision Transformers)
+    D9 --> D10(🏆 SOTA performance on audio/speech tasks)
+    D10 --> D11(💪 Outperforms supervised pre-training)
+    
+    A --> E(Key Components)
+    E --> F(🧩 Masking strategies)
+    E --> G(🏗️ Scalability with Vision Transformers)
+    E --> H(🕹️ Adaptability to modalities)
+    H --> I(🖼️ Images)
+    H --> J(🌍 World models)
+    H --> K(🎧 Audio)
+    E --> L(🎚️ Controllable abstraction levels)
+```
+
+
 # 03/22/2024 Streamlit and Gradio for MoE + MAS + Semantic+Episodic Memory + Self Rewarding AMI.
 
 ```python
