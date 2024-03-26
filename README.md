@@ -1,5 +1,59 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
+# PIR Group Assignment
+
+```markdown
+
+PIR Research Assignment: Systems Development Process
+Overview
+In this research assignment of the post-implementation review, student teams describe the process of systems development for the information systems project that is being studied and report (about 5-6 pages or so) in detail on the following questions. Typically, these questions will have to be addressed to your research informants (those working in the organization whose information system development project you investigating).
+1.  Development Policy and Procedures or Standards
+Development Policy, Procedures and/or Standards are published documents describing a prescribed development methodology that anyone within the company or within the IT organization must use for new IT application development, application upgrade, or application acquisition. Policies are the highest level of organization directive, usually encompassing mandatory staff behaviors, i.e., actions that must be taken while developing or acquiring an application. Procedures are typically step-by-step instructions to perform a specific business process or task. Standards usually are minimum performance models that maybe used as a basis for comparison or judgment.
+1.1.          Does the organization have a published policy and/or procedures covering outsourcing or service level agreements with outside vendors? If the policy and/or procedures exist, please obtain a copy of the relevant policy and/or procedures and summarize them in the report.  Researchers can find information online about what service level agreements are and why they are important to have.  Being this is a cloud solution with a vendor product, no organization would go into this without some type of SLA.  Researchers should provide definition on SLA’s and in your paper note that an SLA would be advised
+As an example of this, let's say the organization is using one or more Cloud providers to host its business software applications. Is there a policy defined for contracting to Cloud providers?
+1.2.          If there are no published application development/acquisition policy and/or procedures, are there standards or a "best practices" that the IT organization follows to ensure that development and/or acquisition activities are performed uniformly and completely? If yes, are they written? If they are written, please obtain a copy and, again, summarize them in your report. If they are not written (i.e. they exist but are informal), what are they and how are they conveyed to the project manager and application designer?  Researchers should do internet searches against ITIL.  ITIL is the IT industry standard that drives process and procedures.  IT is the ITIL or ITSM process that would apply to ensuring deployments are managed methodically.  Again, in your paper this should be noted as a process they would have followed to ensure a smooth implementation.  
+1.3.          If no development/acquisition procedures or standards exist, are application designers or development/acquisition project managers expected to use a particular process or methodology? If yes, what is that process and how is that information conveyed to the project manager and application designer?  SKIP THIS QUESTION
+1.4.          Was the methodology used similar to any of the methodologies mentioned in the readings on Systems Development (i.e. Waterfall/Agile/Scrum/RUP ) [See pages 345-354] FOR THIS ONE:  make sure your paper uses the textbook as a reference in defining these two methodologies and it is okay to note that you don’t know which was used.  
+1.5.  Does the organization have IT Governance, Risk and Compliance Requirements in place? FOR THIS ONE:  IT Governance is the Change Management process as you define this in the question above that will apply to this question. 
+2.  Establishing the requirements / project leadership
+2.1.          How was the need for the subject application established? You will address this one in a hypothetical.  The next few questions are examples of needs assessments and are in the textbook but also can be defined on the internet.  Your researches can start defining these terms again noting that one or all of these were used to determine Quickbooks need. 
+2.1.1.     Was a formal needs analysis performed? Applies to 2.1
+2.1.2.     Who made the initial request for the activity that culminated in this application development/acquisition? Was a feasibility study performed? Applies to 2.1
+2.2.          Describe the process of gathering the business requirements for the information system? Researchers should be able to find definitions and examples what business requirements are.  More information around business requirements will be on a project management website.  Check out PMI.org as a resource.
+2.2.1.     Did the requirements gathering effort for the application include all the people who could have been included? Were all stakeholders represented? Define stakeholders and again as a hypothetical note who might have been part of the requirement gathering efforts – think about who would be using this application and what they need from it. 
+2.2.2.     Who were the participants? How did they contribute? SKIP THIS ONE as you will note the hypothetical in 2.2.1
+2.2.3.     What formal documentation was developed during the requirements gathering process?  SKIP THIS ONE
+2.3.          Who reviewed the requirements? Who signed off on them? Who was (were) the executive sponsor(s) for the project?  Define executive sponsorship from a project standpoint.  Again, I would more to pmi.org for this level of information/definition.  But it is likely safe to note that in a smaller company often times the executive sponsor is likely upper leadersip.
+2.4.          Who were the real champions of the project? What motivated them?  SKIP THIS ONE
+2.5.          How did the project leader(s) manage overall communications to all stakeholders?  This will also be a hypothetical notation in your paper.  Research of think about ways an organization communicates projects and deployments. 
+2.6.          Were there issues associated with the project development / acquisition and implementation that generated disagreements within the organization's project team? If so, how were these issues resolved?  SKIP THIS ONE.  The organization is small and likely don’t have a dedication project management team which would manage these things.  
+2.7.          Change Management – How were the changes managed? If you thoroughly define change management up above that will cover this question. 
+                 
+3.  Systems development options and decisions
+3.1.        Does the organization you are studying have a viable IT application development staff?  SKIP THIS ONE – again the size of the company leads me to believe they do not and could be part of why they are moving to cloud supported services.  I think it is okay to note something like that in your paper.  There may even be internet articles on why IT departments are reducing App Dev teams as they move to cloud supported solutions. 
+3.2.        What were the options considered for developing or purchasing the application?  
+3.2.1.     Was a decision made to develop the application in-house or to outsource the development? You can re-iterate in your paper that this implementation was to move from in house applications to an outsources solution
+3.2.2.     Was a decision made to purchase an existing commercially available application?  SKIP
+3.2.3.     Which of these options were considered prior to this decision?  SKIP
+3.3.          Who made the decision? When was it made? If justification for the decision was announced, how was it justified?  SKIP
+3.4.          Is the decision about how to develop (or outsource/purchase) the application part of a larger movement by this organization "to the cloud" or even just part of a shift towards using more purchased applications?  
+3.5.          What kind of RFP (Request for Proposal) process was followed (if any)?  Researchers should be able to find information on the internet or in the book on what an RFP is and why they are important.  Again, you will hypothetically note if this is something they did as part of the cloud solution decision making process.  With smaller companies, especially unregulated or private companies, they don’t always do this so its okay to note that, but to also further define the importance in having an RFP (even if not regulated to or required to)
+3.6.          If an external vendor was engaged was a service level agreement executed with that vendor?  May be defined up above. 
+3.7.          Did the application need to be customized to meet all the business requirements?  Who was responsible for the customizing? Almost all cloud solutions have to be customized to meet the needs outlined during the requirements gathering.  You can maybe get more information form new point of contact about this.  
+3.8.          Were any business requirements changed to fit the application? Who was responsible for approving the changes?  SKIP THIS ONE
+Application implementation  The questions below can be further explained with your new contact.  Again they will be hypothetical as we don’t know exactly how Raymark completed these. 
+The work of the development or acquisition team doesn't end with the delivery of a completed application. There is a lot left to do. Implementing the information system is a complex process that includes testing, training, documentation, acceptance, integration with existing systems, and cutover to production.
+4.1.  How did the project participants know that the development process was completed?
+4.2.  Who managed the implementation process (IT staff, business user, or vendor)?
+4.3.  Who participated in the implementation process (testing, installation, acceptance, training, ready for use, cutover)? Include names and organizations?
+4.4.  What additional testing was performed during implementation? System testing? Stress Testing? Beta testing? Acceptance testing? Who prepared the test scripts?
+4.5.  How was system acceptance accomplished? What acceptance criteria were used? Who defined the criteria? Was there any concern that the application wouldn't be accepted? Please explain.
+4.6.  How was the cutover to the new application accomplished? When was it accomplished?Was any consideration given to whether the application could accommodate projected horizontal and/or vertical growth? Could it? 
+4.7.  Are any special skills, training, or expertise necessary to install, implement (and customize) this application?  Does the organization staff have those skills and expertise? If not, what actions have the organization taken to acquire them? 
+4.8.  How were users and operators trained for the new system?
+
+
+```
 
 # PIR Research --  
 
