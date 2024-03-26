@@ -109,36 +109,33 @@ Throughout the process, QuickBooks ensures that the multi-tenant architecture ma
 
 By following ITIL change management best practices, QuickBooks can effectively manage and deploy changes to its cloud services while maintaining the integrity and quality of service for its multi-tenant customer base.
 
-Copy
+How is Quickbooks cloud hosted?
 
-
-AW
-how is Quickbooks cloud hosted
-
-QuickBooks cloud hosting is a deployment model where QuickBooks accounting software and its associated data are hosted on remote servers, typically in a data center managed by a third-party hosting provider. This allows users to access QuickBooks and their financial data securely over the internet, without the need for local installation or maintenance of the software.
+**QuickBooks cloud hosting** is a **deployment model** where QuickBooks accounting software and its associated data are hosted on **remote servers**, typically in a **data center** managed by a third-party **hosting provider**. This allows users to access QuickBooks and their financial data securely over the internet, without the need for local installation or maintenance of the software.
 
 Here's how QuickBooks cloud hosting works:
 
-Infrastructure: The hosting provider maintains a robust infrastructure consisting of servers, storage systems, and networking equipment in secure data centers. These data centers are designed to ensure high availability, redundancy, and performance.
-Virtualization: The hosting provider uses virtualization technology to create separate virtual environments for each customer. Each virtual environment runs its own instance of the QuickBooks software and has dedicated resources allocated to it, ensuring data isolation and security.
-Remote Access: Users can access their QuickBooks software and data remotely using a web browser or a remote desktop connection. They log in to their virtual environment using secure authentication methods, such as usernames and passwords or multi-factor authentication.
-Data Storage and Backup: All QuickBooks data is stored on the hosting provider's servers, which are regularly backed up to ensure data integrity and availability. The hosting provider implements data backup and disaster recovery mechanisms to protect customer data.
-Maintenance and Updates: The hosting provider takes care of software updates, patches, and maintenance tasks. They ensure that the QuickBooks software is up to date and compatible with the latest security and performance enhancements.
-Scalability and Customization: QuickBooks cloud hosting allows for easy scalability, as resources can be allocated or adjusted based on the customer's requirements. Customers can also customize their QuickBooks environment by integrating third-party applications or plugins.
-Security Measures: The hosting provider implements various security measures to protect customer data, such as firewalls, encryption, intrusion detection systems, and access controls. They adhere to industry standards and compliance requirements to ensure the confidentiality, integrity, and availability of customer data.
+**Infrastructure**: The hosting provider maintains a robust infrastructure consisting of servers, storage systems, and networking equipment in secure data centers. These data centers are designed to ensure high availability, redundancy, and performance.
+
+**Virtualization**: The hosting provider uses virtualization technology to create separate virtual environments for each customer. Each virtual environment runs its own instance of the QuickBooks software and has dedicated resources allocated to it, ensuring data isolation and security.
+
+**Remote Access**: Users can access their QuickBooks software and data remotely using a web browser or a remote desktop connection. They log in to their virtual environment using secure authentication methods, such as usernames and passwords or multi-factor authentication.
+
+**Data Storage and Backup**: All QuickBooks data is stored on the hosting provider's servers, which are regularly backed up to ensure data integrity and availability. The hosting provider implements data backup and disaster recovery mechanisms to protect customer data
+
+**Maintenance and Updates**: The hosting provider takes care of software updates, patches, and maintenance tasks. They ensure that the QuickBooks software is up to date and compatible with the latest security and performance enhancements.
+
+**Scalability and Customization**: QuickBooks cloud hosting allows for easy scalability, as resources can be allocated or adjusted based on the customer's requirements. Customers can also customize their QuickBooks environment by integrating third-party applications or plugins.
+
+**Security Measures**: The hosting provider implements various security measures to protect customer data, such as firewalls, encryption, intrusion detection systems, and access controls. They adhere to industry standards and compliance requirements to ensure the confidentiality, integrity, and availability of customer data.
+
 By leveraging cloud hosting, QuickBooks users can access their accounting software and financial data from anywhere with an internet connection. This eliminates the need for local IT infrastructure, reduces maintenance costs, and provides flexibility and scalability for businesses of different sizes.
 
-It's important to note that QuickBooks offers its own cloud-based solution called QuickBooks Online, which is a separate product from the traditional QuickBooks Desktop software. QuickBooks Online is a fully cloud-based accounting platform hosted and managed directly by Intuit, the company behind QuickBooks.
+It's important to note that QuickBooks offers its own cloud-based solution called **QuickBooks Online**, which is a separate product from the traditional QuickBooks Desktop software. QuickBooks Online is a **fully cloud-based accounting platform** hosted and managed directly by Intuit, the company behind QuickBooks.
 
-Copy
 
 
 1. Application architecture (& integration) 1.1. Please briefly review and describe the application (as you did in your project proposal). 1.2. If the application was purchased (or was licensed
-PASTED
-AW
-Structure this as simple to read emoji filled markdown outline to read it easier:
-
-Here's a simple, emoji-filled markdown outline to make the document easier to read:
 
 📂 Application Architecture & Integration
 📝 Application Review & Description
@@ -171,38 +168,29 @@ Here's a simple, emoji-filled markdown outline to make the document easier to re
 📦 Software & Database Component Tracking Process
 🚀 Technical Capacity Usage Measurement & Metrics
 👨‍💼 Staff Capacity Requirements Measurement & Metrics
-Note:
 
 The assignment grade will be adjusted by the final peer evaluation.
 Consult the PIR Assignment Rubric for the instructor's assessment of your team's submission.
-Copy
-
-
-AW
-Restructure it and make it multilevel numbered outline with emojis and give definitions
-
-Here's the restructured multilevel numbered outline with emojis and definitions:
 
 📂 Application Architecture & Integration 1.1. 📝 Application Review & Description - Review and describe the application as presented in the project proposal. 1.2. 🛒 Purchased or Licensed Application Details - If the application was purchased or licensed from an external vendor, provide the name of the application and the vendor who provides and supports it. - Describe the configuration process required to tailor the application to the target organization's requirements. 1.3. 📜 Software, Hardware, & Network Acquisition Policy - Describe the organization's published policy and/or procedures covering the acquisition of software, hardware, or network/telecommunication components. 1.4. ☁️ Cloud-based Application Synchronization - If the application is not cloud-based, explain how the application is run in a synchronized manner at multiple sites within the organization. 1.5. 🗄️ Database Management System - Specify the database management system used by the application (e.g., Oracle, MS SQL Server, MySQL). 1.6. 🧩 Integration with Existing Systems - Describe how the new information system fits into the organization's overall portfolio of information systems. - Explain any integration of the application with existing information systems in terms of which systems are integrated and how they are integrated (processes and/or data). 1.7. 🚫 Reasons for Stand-alone Application - If the application is completely separate (stand-alone), provide the reasons why it isn't integrated with any of the organization's other information systems.
+
 🖥️ Application Hosting & Capacity Requirements 2.1. ☁️ Cloud or On-premises Hosting - Specify whether the application is hosted in the cloud or on-premises (locally by the organization itself). 2.2. 🌐 IaaS, PaaS, SaaS, Private/Public Cloud - If the application is hosted in the cloud, identify whether it is hosted as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), or Software as a Service (SaaS). - Specify if the application is on a private or public cloud. 2.3. 🔒 Intranet or Extranet Usage - If the application is hosted on-premises, specify whether an intranet or extranet is being used. 2.4. 📈 Capacity Requirements: Scalability, Availability, Maintainability - Regardless of how the application is hosted, describe the capacity requirements for the application in terms of Scalability, Availability, and Maintainability.
+
 🔒 Application Security & Backup/Recovery 3.1. 🛡️ Security Standards & Policies - Describe any standards or policies of the organization that address security requirements for the application. 3.2. 🔑 User Identification & Authentication - Explain the standard identification/authentication procedure that must be integrated with the new application. - Specify whether application users are fully identified and authenticated before access is allowed (e.g., via validated access to an intranet or extranet). 3.3. 🔐 Additional Application Protections - Describe any other protections in place for the application and the organization's online applications in general. 3.4. 💾 Data Backup & Recovery Plans - Explain how data backup requirements for the application are being addressed. - Describe the backup and recovery plans developed for the application in the event of system failure (i.e., how the organization would accomplish the same business tasks). - Specify whether the application is included within an organizational contingency or disaster recovery plan.
+
 🔧 Application Maintenance & Performance Monitoring 4.1. 👥 Maintenance Responsibility & Support Plan - Identify who is responsible for system maintenance. - Describe the ongoing maintenance and support plan. - If the application is hosted by a cloud provider, explain how the provider coordinates service continuity and uptime. 4.2. 📞 Help Desk Support - Specify whether the initial support contact for the application is done through the Help Desk. 4.3. 🩹 Fix Incorporation & Security - Explain how fixes are incorporated into the application and how the security of fixes is maintained. 4.4. 📅 Release Plan for Updates & Enhancements - Describe the release plan for updated versions of the application. - Specify if there are any enhancements and/or additional functions pending. 4.5. 🔄 Change Request Handling - Explain how requests for change are handled. 4.6. 📊 Database Protection: Logs & Audit Trails - Specify whether the database is protected by logs and audit trails.
+
 📋 Tracking Components & Performance 5.1. 🔍 Hardware Component Tracking Process - Describe the organization's formal process for tracking hardware components (e.g., bar coding hardware or RFID tracking). 5.2. 📦 Software & Database Component Tracking Process - Describe the organization's formal process for tracking software and database components (e.g., an inventory list of software licenses). 5.3. 🚀 Technical Capacity Usage Measurement & Metrics - Explain if the IT department/organization measures the technical capacity usage for its information systems in general. - Specify the metrics (measures) used to track technical capacity usage. 5.4. 👨‍💼 Staff Capacity Requirements Measurement & Metrics - Describe whether the organization's IT staff measures the staff capacity requirements for IT projects as a planning issue. - Specify the metrics (measures) used to track staff capacity requirements.
 Note:
-
 The assignment grade will be adjusted by the final peer evaluation.
 Consult the PIR Assignment Rubric for the instructor's assessment of your team's submission.
-Copy
-
-
-AW
-Restruccture it according to ITIL. list definitions at bottom. Explain it in terms of sample app of Quickbooks cloud hosted on AWS and for each line create a sample answer with emojis:
-
-Here's the restructured outline according to ITIL, with definitions at the bottom and sample answers for each line using QuickBooks cloud hosted on AWS:
 
 📂 Service Design 1.1. 📝 Service Catalog Management - 📘 Sample: QuickBooks cloud hosted on AWS is listed in the service catalog as a SaaS offering for financial management. 📊💰 1.2. 🎯 Service Level Management - 📈 Sample: The service level agreement (SLA) for QuickBooks cloud ensures 99.9% uptime and 24/7 support. 🚀🔧 1.3. 🔒 Information Security Management - 🔐 Sample: QuickBooks cloud on AWS complies with industry security standards like SOC 1, SOC 2, and PCI DSS. 🛡️✅ 1.4. 🌐 Supplier Management - 🤝 Sample: AWS is the main supplier for hosting QuickBooks cloud, and their performance is regularly reviewed. ☁️📋
+
 🚀 Service Transition 2.1. 🔄 Change Management - 🔧 Sample: All changes to QuickBooks cloud, such as updates or new features, follow a strict change management process. 📅✅ 2.2. 🔍 Asset and Configuration Management - 📦 Sample: All AWS resources used for QuickBooks cloud are tracked in a configuration management database (CMDB). 🗄️🔍 2.3. 🔐 Release and Deployment Management - 📤 Sample: New versions of QuickBooks cloud are thoroughly tested before being deployed to production. 🧪✅
+
 🌟 Service Operation 3.1. 📞 Incident Management - 🚨 Sample: Any incidents affecting QuickBooks cloud availability or performance are promptly addressed by the support team. 🔧💨 3.2. 🔍 Problem Management - 🔎 Sample: Root cause analysis is conducted for recurring issues with QuickBooks cloud to prevent future incidents. 🌿🔍 3.3. 📈 Event Management - 📊 Sample: AWS CloudWatch is used to monitor QuickBooks cloud for any unusual events or performance issues. 📈🚨
+
 🎯 Continual Service Improvement 4.1. 📊 Service Measurement and Reporting - 📉 Sample: Key performance indicators (KPIs) for QuickBooks cloud are regularly measured and reported to stakeholders. 📊👥 4.2. 🔄 Service Improvement Plan - 🌟 Sample: Based on performance data and user feedback, continuous improvements are made to QuickBooks cloud. 📈🗳️
 Definitions:
 
@@ -218,28 +206,22 @@ Problem Management: Identifying and resolving the root causes of incidents to pr
 Event Management: Monitoring and managing events that could impact service delivery.
 Service Measurement and Reporting: Measuring and reporting on service performance and effectiveness.
 Service Improvement Plan: Continuously improving services based on performance data and feedback.
-Copy
-
 
 1. Application architecture (& integration) 1.1. Please briefly review and describe the application (as you did in your project proposal). 1.2. If the application was purchased (or was licensed
-PASTED
-AW
-Answer this for Quickbooks Online cloud based product:
 
-Here's the answer for QuickBooks Online, a cloud-based product, structured according to ITIL:
+---
 
 📂 Service Design 1.1. 📝 Service Catalog Management - 📘 QuickBooks Online is listed in the service catalog as a SaaS offering for financial management, provided by Intuit. 📊💰 1.2. 🎯 Service Level Management - 📈 The SLA for QuickBooks Online ensures 99.9% uptime and 24/7 support, as outlined by Intuit. 🚀🔧 1.3. 🔒 Information Security Management - 🔐 QuickBooks Online complies with industry security standards like SOC 1, SOC 2, and PCI DSS. 🛡️✅ 1.4. 🌐 Supplier Management - 🤝 Intuit is the main supplier for QuickBooks Online, and their performance is regularly reviewed. ☁️📋
+
 🚀 Service Transition 2.1. 🔄 Change Management - 🔧 All changes to QuickBooks Online, such as updates or new features, follow Intuit's change management process. 📅✅ 2.2. 🔍 Asset and Configuration Management - 📦 All resources used for QuickBooks Online are tracked in Intuit's configuration management database (CMDB). 🗄️🔍 2.3. 🔐 Release and Deployment Management - 📤 New versions of QuickBooks Online are thoroughly tested by Intuit before being deployed to production. 🧪✅
+
 🌟 Service Operation 3.1. 📞 Incident Management - 🚨 Any incidents affecting QuickBooks Online availability or performance are promptly addressed by Intuit's support team. 🔧💨 3.2. 🔍 Problem Management - 🔎 Intuit conducts root cause analysis for recurring issues with QuickBooks Online to prevent future incidents. 🌿🔍 3.3. 📈 Event Management - 📊 Intuit monitors QuickBooks Online for any unusual events or performance issues. 📈🚨
+
 🎯 Continual Service Improvement 4.1. 📊 Service Measurement and Reporting - 📉 Key performance indicators (KPIs) for QuickBooks Online are regularly measured and reported by Intuit to stakeholders. 📊👥 4.2. 🔄 Service Improvement Plan - 🌟 Based on performance data and user feedback, continuous improvements are made to QuickBooks Online by Intuit. 📈🗳️
+
 📋 Additional Considerations 5.1. 🔧 Configuration - 🛠️ After purchasing QuickBooks Online, the organization needs to configure it according to their specific requirements, such as setting up the chart of accounts, users, and preferences. ⚙️📋 5.2. 🔌 Integration - 🌐 QuickBooks Online can integrate with various other cloud-based applications, such as payroll, inventory management, and CRM systems, through APIs and third-party integrations. 🔗🧩 5.3. 🔒 Access and Authentication - 🔑 Users access QuickBooks Online through a web browser with a secure login and password. Multi-factor authentication can be enabled for added security. 🌐🔐 5.4. 💾 Data Backup and Recovery - ☁️ Intuit automatically backs up QuickBooks Online data and ensures its availability. The organization can also export data regularly for local backup. 🗄️🔄
+
 Note: As QuickBooks Online is a fully managed SaaS product, many aspects of the ITIL framework, such as supplier management, change management, and release and deployment management, are primarily handled by Intuit, the service provider.
-
-Copy
-
-
-AW
-provide a glossary and define each term and acronym above especially things like ISO27001
 
 Here's a glossary defining the terms and acronyms used in the context of QuickBooks Online and ITIL:
 
@@ -267,20 +249,10 @@ PCI DSS: Payment Card Industry Data Security Standard, a set of security standar
 ISO 27001: An international standard for information security management systems (ISMS), providing a framework for implementing, operating, monitoring, reviewing, maintaining, and improving an ISMS to protect sensitive information and manage information security risks.
 These definitions should help clarify the terms and acronyms used in the context of QuickBooks Online and ITIL.
 
-Copy
-
 
 PIR Research Assignment: Systems Development Process Overview In this research assignment of the post-implementation review, student teams describe the process of systems development for the informa
-PASTED
-AW
-Create a similar outline with markdown subpoints and includde emojis to answer for Quickbooks Online the survey below. Rephrase each answer and use same format for numbering and ordering yet make the statements very short and organized for SaaS Quickbooks Online as a product with the application implementation taking the role of a Chief Technology Officer implementing QuickBooks for themselves and clients using Virtualization:
 
-Here's a similar outline with markdown subpoints and emojis to answer the survey for QuickBooks Online, taking the role of a Chief Technology Officer implementing the product for themselves and clients using virtualization:
 
-📜 Development Policy and Procedures or Standards 1.1. 📑 SLA policy for cloud vendors - ✅ Establish SLAs with QuickBooks Online to ensure service quality and availability 📈 1.2. 🚀 ITIL best practices for deployment - 🌟 Follow ITIL standards to ensure smooth implementation and management 🔧 1.4. 🌊 Waterfall vs. 🏃‍♂️ Agile methodologies - 📚 Define and compare methodologies, noting uncertainty in QuickBooks' approach 🤔 1.5. 🌐 IT Governance, Risk, and Compliance - 🔄 Implement change management process for governance and compliance 📋
-🎯 Establishing the requirements / project leadership 2.1. 📊 Needs analysis and feasibility study - 🔍 Conduct needs assessment and feasibility study to determine QuickBooks' suitability 📈 2.2. 📝 Business requirements gathering - 🤝 Involve stakeholders in defining business requirements for QuickBooks implementation 👥 2.3. 👔 Executive sponsorship - 🏆 Identify and engage upper leadership as executive sponsors for the project 🚀 2.5. 📣 Stakeholder communication - 💬 Develop a communication plan to keep stakeholders informed throughout the project 📧
-🖥️ Systems development options and decisions 3.2. 🌐 In-house vs. outsourced development - ☁️ Reiterate the decision to move from in-house to outsourced cloud solution 📤 3.4. ☁️ Movement towards the cloud - 🌩️ Align QuickBooks implementation with the organization's overall cloud strategy 📈 3.5. 📜 RFP process - 🔍 Define RFP and its importance, noting potential absence in smaller companies 🏢 3.7. 🛠️ Application customization - 🔧 Collaborate with QuickBooks to customize the solution based on requirements 📝
-🚀 Application implementation 4.1. 🎉 Completion of development process - 📅 Establish criteria for determining when the development process is complete ✅ 4.2. 👨‍💼 Implementation process management - 🧑‍💼 Assign responsibility for managing the implementation process (IT staff, business user, or vendor) 📋 4.3. 👥 Implementation pro
 
 
 
