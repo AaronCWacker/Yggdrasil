@@ -3,6 +3,12 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # PIR Research --  
 
+1. 📜 Development Policy and Procedures or Standards 1.1. 📑 Published policy for SLAs with vendors? 📈 1.2. 🚀 ITIL or ITSM best practices followed? 🔧 1.3. 🚫 SKIP 1.4. 🌊 Waterfall or 🏃‍♂️ Agile methodology used? 📚 1.5. 🌐 IT Governance, Risk, and Compliance in place? 📋
+🎯 Establishing the requirements / project leadership 2.1. 📊 Needs analysis and feasibility study conducted? 📈 2.1.1. 📝 Formal needs analysis performed? 🔍 2.1.2. 🤔 2. Initial request and feasibility study? 📋 2.2. 📝 Business requirements gathering process? 👥 2.2.1. 👥 All stakeholders included in requirements gathering? 🤝 2.2.2. 🚫 SKIP 2.2.3. 🚫 SKIP 2.3. 👔 Executive sponsor(s) reviewed and signed off requirements? 🏆 2.4. 🚫 SKIP 2.5. 📣 Project leader(s) managed stakeholder communication? 💬 2.6. 🚫 SKIP 2.7. 🔄 Change management process followed? 📋
+3. 🖥️ Systems development options and decisions 3.1. 🚫 SKIP 3.2. 🌐 In-house vs. outsourced development options? 📤 3.2.1. ☁️ Decision to move from in-house to outsourced? 📈 3.2.2. 🚫 SKIP 3.2.3. 🚫 SKIP 3.3. 🚫 SKIP 3.4. ☁️ Part of a larger movement towards the cloud? 📈 3.5. 📜 RFP process followed? 🔍 3.6. 📑 SLA executed with the vendor? 📈 3.7. 🛠️ Application customized to meet business requirements? 🔧 3.8. 🚫 SKIP
+4. 🚀 Application implementation 4.1. 🎉 How was the development process completion determined? ✅ 4.2. 👨‍💼 Who managed the implementation process? 📋 4.3. 👥 Who participated in the implementation process? 🚀 4.4. 🧪 Additional testing performed during implementation? 🔍 4.5. ✅ System acceptance criteria and concerns? 🎯 4.6. 🔄 Cutover to the new application and scalability considerations? 📈 4.7. 🎓 Special skills and expertise required for implementation? 👨‍💻 4.8. 👨‍🏫 User and operator training for the new system? 🎓
+
+
 AW
 From an ITL practice cchange management perspective explain how Quickbooks cloud services and development allow production deployment for ccustomers that is multi-tenant?
 
