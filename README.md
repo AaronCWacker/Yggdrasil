@@ -1,6 +1,5 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
-3TOP TEN YOU MISSED
 
 ^_~(❁´◡`❁)(●'◡'●)
 # SDLC in the age of AI and SaaS
