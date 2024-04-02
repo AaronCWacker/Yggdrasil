@@ -24,6 +24,8 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 14. File Memory Operations:  https://huggingface.co/spaces/awacke1/File-Memory-Operations-Human-Feedback-Gradio
 15. Session Memory Streamlit:  https://huggingface.co/spaces/awacke1/Memory-Streamlit
 16. Semantic and Episodic Memory :  https://huggingface.co/spaces/awacke1/RLHF.Cognitive.Episodic.Semantic.Memory
+17. PDF Document Chatbot QA: https://huggingface.co/spaces/awacke1/PDF-Document-QA-Chatbot
+
 
 
 ---
