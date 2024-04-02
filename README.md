@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# 04/02/2024 - Search and Document QA Voice Chat
+1. Model:  impira/layoutlm-document-qa  - Document Image QA to Find elements in Image
+	- https://huggingface.co/spaces/awacke1/Document-Image-Search-and-Query
+	- Document Queries (for example - what is invoice number)
+	- https://huggingface.co/impira/layoutlm-document-qa
+2. Geography City, State, FIPS, Location Search with Zip Code Polygons
+   	- https://huggingface.co/spaces/awacke1/City-State-FIPS-Zip-Search
+3. Image Semantic Search
+   	- https://huggingface.co/spaces/awacke1/Image-Semantic-Search
+4. Arxiv Paper Search And QA RAG Pattern With API
+   	- https://huggingface.co/spaces/awacke1/Arxiv-Paper-Search-And-QA-RAG-Pattern
+5. Wikipedia Answer Search: https://huggingface.co/spaces/awacke1/AI-Wikipedia-Search
+6. Document OCR:  https://huggingface.co/spaces/awacke1/AIDocumentUnderstandingOCR
+7. Semantic and Episodic Memory System: https://huggingface.co/spaces/awacke1/Arxiv-Paper-Search-QA-RAG-Streamlit-Gradio-API
+8. Quote Search:  https://huggingface.co/spaces/awacke1/QuoteOfTheDayWithSearch
+9. BigCode Github Code Search:  https://huggingface.co/spaces/awacke1/BigCodeStackSearch1215
+10. Clinical Terminology Search NER:  https://huggingface.co/spaces/awacke1/Clinical-Terminology-Search-NER-Datasets
+11. Care Team Provider Search:  https://huggingface.co/spaces/awacke1/AIProviderSearchbySpecialtyandState
+12. Wikipedia Transformers Search:  https://huggingface.co/spaces/awacke1/wikipedia-transformers-search
+13. Wikipedia Twitter Memory Chat:  https://huggingface.co/spaces/awacke1/Wikipedia-Twitter-ChatGPT-Memory-Chat
+14. File Memory Operations:  https://huggingface.co/spaces/awacke1/File-Memory-Operations-Human-Feedback-Gradio
+15. Session Memory Streamlit:  https://huggingface.co/spaces/awacke1/Memory-Streamlit
+16. Semantic and Episodic Memory :  https://huggingface.co/spaces/awacke1/RLHF.Cognitive.Episodic.Semantic.Memory
+
+
+---
 ^_~(❁´◡`❁)(●'◡'●)
 
 
