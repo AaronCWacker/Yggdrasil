@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# SMS Verify - MFA that lightens the load for remembering who you are and giving you a history
+
+https://huggingface.co/spaces/awacke1/RT-SMS-Phone-Verify
+
+This SMS Message Me space is able to accept a phone number and password which allow you to receive an SMS message on your phone that also contains a link to the space you are authenticating to.  
+
+Focus is on minimizing burden and clearly indicating rules, yet not requiring added burdensome software or diversions that distract you for more than 5 seconds.
+
+This compared to other MFA methods is the quickest most convenient since it allows you to establish a Phone Link which is vastly more useful to track your history and also provides a way to download the history of your usage locally to your phone which ensures a reviewable security pattern that is personalized to users.
+
+This semantic and episodic memory interface is also an assistive feature that can help those with intellectual and development disability thus seeks to minimize work while maximizing focus and communciation on task at hand.
+
+Antipattern studies:
+1. Azure auth - requires you to change your ID and use an MFA program.
+2. MFA difficult in Github.
+3. MFA difficulty with MS Authenticator
+
+Pain - I keep having to login and MFA distracts me especially when it doesn't work or is locked to one device.
+Joy - At run time you can choose an SMS response number, then it texts you there and stores history which you can review.  
+Superpower - This allows you to keep track of your app links in SMS text and is able to jump into a flow with deep linking and query parameters and could be used for contiguous memory across apps in SMS chat history.
+
+# 
+
+
+
 # 04/02/2024 - Search and Document QA Voice Chat
 1. Model:  impira/layoutlm-document-qa  - Document Image QA to Find elements in Image
 	- https://huggingface.co/spaces/awacke1/Document-Image-Search-and-Query
