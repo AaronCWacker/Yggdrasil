@@ -1,6 +1,44 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# NotebookLM - Add to your long term memory RAG pattern
+
+URL: https://notebooklm.google.com/
+Capability: Upload PDFs files and documents to a RAG engine which indexes as upload supplies a checkbox to pick context with file, then allows RAG QA.
+
+Saved Note Example from question about AI in Health Care:
+AI applications in Healthcare 🧠 💊
+
+1️⃣Medical Imaging 📸
+
+🔬 Image reconstruction and enhancement
+📈 Image classification and segmentation
+👩‍⚕️ Radiology interpretation and diagnosis
+2️⃣Clinical Documentation and Information Extraction 📝
+
+🤖 Automated data entry and extraction
+📋 Text classification and coding
+📊 Data mining and analytics
+3️⃣Diagnostic Assistance 🧑‍⚕️
+
+🔎 Disease detection and diagnosis
+🔬 Risk assessment and prediction
+👩‍🔬 Personalized treatment recommendations
+4️⃣Medical Coding and Billing 💰
+
+🤖 Automatic code assignment and billing
+📈 Data analysis and optimization
+💸 Fraud detection and prevention
+5️⃣Drug Design and Molecular Representation 🧬
+
+🔬 Molecular modeling and simulation
+🧪 Drug discovery and development
+💊 Personalized medicine and treatment
+6️⃣Other Applications 🧪
+
+📱 Wearable health monitoring and tracking
+🤖 Surgical assistance and robotic surgery
+🏥 Hospital management and optimization
 
 # SMS Verify - MFA that lightens the load for remembering who you are and giving you a history
 
