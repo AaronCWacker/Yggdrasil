@@ -40,6 +40,11 @@ AI applications in Healthcare 🧠 💊
 🤖 Surgical assistance and robotic surgery
 🏥 Hospital management and optimization
 
+# NotebookLM Features Review:
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/019928b6-2f81-41b7-8912-fcae229463f3)
+
+
+
 # SMS Verify - MFA that lightens the load for remembering who you are and giving you a history
 
 https://huggingface.co/spaces/awacke1/RT-SMS-Phone-Verify
