@@ -1,6 +1,16 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Workflow for songs
+
+1. GPT or Claude Lyrics Play.  Create Lyrics
+2. Suno render choosing style leading to two generations - offer scoring up or down and workflow of output
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/596941f2-b332-468c-8b4c-57baad5eeac9)
+
+
+
 # Scholarly Article AI - Long Term Memory of Research backed by ArXiv
 
 URL:  https://huggingface.co/spaces/awacke1/Scholarly-Article-Document-Search-With-Memory
