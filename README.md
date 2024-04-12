@@ -1,6 +1,136 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Better Streamlit ServiceNow Interfaces
+
+```python
+
+st.markdown("""
+# Prompt:
+
+Create a streamlit ServiceNow interface which queries Incidents and Problems together using API and streamlit user interface in python. Allow the user to change the list of Assignment Groups to filter on then get both Incidents and Problems all fields with those and display them as pandas dataframes.
+
+Explore the pypi python libraries for doing the same and give a few variations of the code using the different api query techniques for ServiceNow Incidents and Problems..
+
+""")
+
+
+```
+
+```python
+
+import streamlit as st
+import pandas as pd
+from pysnow import Client
+
+# Set up the Streamlit app
+st.title("ServiceNow Incident and Problem Query")
+
+# Get user input for ServiceNow instance URL, username, and password
+instance_url = st.text_input("ServiceNow Instance URL")
+username = st.text_input("Username")
+password = st.text_input("Password", type="password")
+
+# Get user input for Assignment Groups to filter on
+assignment_groups = st.multiselect("Select Assignment Groups", [])
+
+# Create a ServiceNow client
+client = Client(instance_url, user=username, password=password)
+
+# Function to query data from ServiceNow
+def query_data(table_name, assignment_group=None):
+    query = client.resource(api_path=table_name)
+    
+    if assignment_group:
+        response = query.get(query={"assignment_group": assignment_group}, stream=True)
+    else:
+        response = query.get(stream=True)
+    
+    return [dict(record) for record in response]
+
+# Function to display data as a Pandas DataFrame
+def display_data(data, table_name):
+    if data:
+        df = pd.DataFrame(data)
+        st.subheader(f"{table_name} Data")
+        st.dataframe(df)
+    else:
+        st.warning(f"No {table_name} data found for the selected Assignment Groups.")
+
+# Query Incidents and Problems based on selected Assignment Groups
+if instance_url and username and password and assignment_groups:
+    incidents_data = []
+    problems_data = []
+    
+    for group in assignment_groups:
+        incidents_data.extend(query_data("incident", group))
+        problems_data.extend(query_data("problem", group))
+    
+    display_data(incidents_data, "Incident")
+    display_data(problems_data, "Problem")
+else:
+    st.info("Please provide the necessary information and select Assignment Groups.")
+
+```
+
+
+
+
+```python
+import streamlit as st
+import pandas as pd
+from servicenow import ServiceNow
+
+# Set up the Streamlit app
+st.title("ServiceNow Incident and Problem Query")
+
+# Get user input for ServiceNow instance URL, username, and password
+instance_url = st.text_input("ServiceNow Instance URL")
+username = st.text_input("Username")
+password = st.text_input("Password", type="password")
+
+# Get user input for Assignment Groups to filter on
+assignment_groups = st.multiselect("Select Assignment Groups", [])
+
+# Create a ServiceNow client
+client = ServiceNow(instance_url, username, password)
+
+# Function to query data from ServiceNow
+def query_data(table_name, assignment_group=None):
+    query = client.query(table=table_name)
+    
+    if assignment_group:
+        query = query.where(assignment_group=assignment_group)
+    
+    return query.get_all()
+
+# Function to display data as a Pandas DataFrame
+def display_data(data, table_name):
+    if data:
+        df = pd.DataFrame(data)
+        st.subheader(f"{table_name} Data")
+        st.dataframe(df)
+    else:
+        st.warning(f"No {table_name} data found for the selected Assignment Groups.")
+
+# Query Incidents and Problems based on selected Assignment Groups
+if instance_url and username and password and assignment_groups:
+    incidents_data = []
+    problems_data = []
+    
+    for group in assignment_groups:
+        incidents_data.extend(query_data("incident", group))
+        problems_data.extend(query_data("problem", group))
+    
+    display_data(incidents_data, "Incident")
+    display_data(problems_data, "Problem")
+else:
+    st.info("Please provide the necessary information and select Assignment Groups.")
+
+```
+
+
+
 # Research Papers to Code
 
 Create a streamlit UI app with Javascript and HTML5 UI components to provide a user interface to explore the process and method steps in the papers below.  For each paper, translate it into functions in python then parameterize the variables.  Use well named variables that match the language common in the papers.  Use emojis on UI elements such as st.button, st.columns, st.sidebar, st.expander, and dataframes.      
