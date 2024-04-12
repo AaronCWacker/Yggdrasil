@@ -1,6 +1,633 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Research Papers to Code
+
+Create a streamlit UI app with Javascript and HTML5 UI components to provide a user interface to explore the process and method steps in the papers below.  For each paper, translate it into functions in python then parameterize the variables.  Use well named variables that match the language common in the papers.  Use emojis on UI elements such as st.button, st.columns, st.sidebar, st.expander, and dataframes.      
+
+# Video Apps using AI Research Papers
+
+## Video Apps using AI Research Papers
+
+Video apps are becoming increasingly popular, and AI research papers can help developers create more advanced and innovative features. In this article, we will explore some of the top AI research papers that can be used to develop video apps.
+
+1. Object Detection in Videos
+
+Object detection is a crucial feature in video apps, and AI research papers can provide insights into developing more accurate and efficient object detection algorithms. One such paper is "You Only Look Once: Unified, Real-Time Object Detection" by Joseph Redmon et al. This paper introduces the YOLO (You Only Look Once) algorithm, which can detect objects in real-time with high accuracy.
+
+Another paper worth mentioning is "Single Shot Multibox Detector" by Wei Liu et al. This paper proposes a single-shot detector (SSD) that can detect objects in images and videos with high accuracy and speed.
+
+2. Video Segmentation
+
+Video segmentation is the process of dividing a video into distinct segments or regions based on visual cues such as color, texture, and motion. AI research papers can provide insights into developing more accurate and efficient video segmentation algorithms. One such paper is "Unsupervised Video Object Segmentation" by Shugao Ma et al. This paper proposes an unsupervised video object segmentation algorithm that can segment objects in videos without any manual annotation.
+
+Another paper worth mentioning is "Temporal Segment Networks: Towards Good Practices for Deep Action Recognition" by Wan-Chun Ma et al. This paper proposes a temporal segment network (TSN) that can recognize actions in videos with high accuracy.
+
+3. Video Stabilization
+
+Video stabilization is the process of reducing or eliminating camera shake in videos. AI research papers can provide insights into developing more advanced and efficient video stabilization algorithms. One such paper is "Deep Video Stabilization" by Xiaolong Wang et al. This paper proposes a deep learning-based video stabilization algorithm that can stabilize videos in real-time.
+
+Another paper worth mentioning is "Adaptive Video Stabilization using a Learned Model of Hand Motion" by Matthias Grundmann et al. This paper proposes an adaptive video stabilization# 🩺🔍 Search Results
+### 11 Jun 2019 | ["Did You Hear That?" Learning to Play Video Games from Audio Cues](https://arxiv.org/abs/1906.04027) | [⬇️](https://arxiv.org/pdf/1906.04027)
+*Raluca D. Gaina, Matthew Stephenson* 
+
+  Game-playing AI research has focused for a long time on learning to play
+video games from visual input or symbolic information. However, humans benefit
+from a wider array of sensors which we utilise in order to navigate the world
+around us. In particular, sounds and music are key to how many of us perceive
+the world and influence the decisions we make. In this paper, we present
+initial experiments on game-playing agents learning to play video games solely
+from audio cues. We expand the Video Game Description Language to allow for
+audio specification, and the General Video Game AI framework to provide new
+audio games and an API for learning agents to make use of audio observations.
+We analyse the games and the audio game design process, include initial results
+with simple Q~Learning agents, and encourage further research in this area.
+
+---------------
+
+### 10 Nov 2023 | [A Survey of AI Text-to-Image and AI Text-to-Video Generators](https://arxiv.org/abs/2311.06329) | [⬇️](https://arxiv.org/pdf/2311.06329)
+*Aditi Singh* 
+
+  Text-to-Image and Text-to-Video AI generation models are revolutionary
+technologies that use deep learning and natural language processing (NLP)
+techniques to create images and videos from textual descriptions. This paper
+investigates cutting-edge approaches in the discipline of Text-to-Image and
+Text-to-Video AI generations. The survey provides an overview of the existing
+literature as well as an analysis of the approaches used in various studies. It
+covers data preprocessing techniques, neural network types, and evaluation
+metrics used in the field. In addition, the paper discusses the challenges and
+limitations of Text-to-Image and Text-to-Video AI generations, as well as
+future research directions. Overall, these models have promising potential for
+a wide range of applications such as video production, content creation, and
+digital marketing.
+
+---------------
+
+### 23 Apr 2017 | [General Video Game AI: Learning from Screen Capture](https://arxiv.org/abs/1704.06945) | [⬇️](https://arxiv.org/pdf/1704.06945)
+*Kamolwan Kunanusont and Simon M. Lucas and Diego Perez-Liebana* 
+
+  General Video Game Artificial Intelligence is a general game playing
+framework for Artificial General Intelligence research in the video-games
+domain. In this paper, we propose for the first time a screen capture learning
+agent for General Video Game AI framework. A Deep Q-Network algorithm was
+applied and improved to develop an agent capable of learning to play different
+games in the framework. After testing this algorithm using various games of
+different categories and difficulty levels, the results suggest that our
+proposed screen capture learning agent has the potential to learn many
+different games using only a single learning algorithm.
+
+---------------
+
+### 15 Nov 2022 | [Machine Learning enabled models for YouTube Ranking Mechanism and Views  Prediction](https://arxiv.org/abs/2211.11528) | [⬇️](https://arxiv.org/pdf/2211.11528)
+*Vandit Gupta, Akshit Diwan, Chaitanya Chadha, Ashish Khanna, Deepak  Gupta* 
+
+  With the continuous increase of internet usage in todays time, everyone is
+influenced by this source of the power of technology. Due to this, the rise of
+applications and games Is unstoppable. A major percentage of our population
+uses these applications for multiple purposes. These range from education,
+communication, news, entertainment, and many more. Out of this, the application
+that is making sure that the world stays in touch with each other and with
+current affairs is social media. Social media applications have seen a boom in
+the last 10 years with the introduction of smartphones and the internet being
+available at affordable prices. Applications like Twitch and Youtube are some
+of the best platforms for producing content and expressing their talent as
+well. It is the goal of every content creator to post the best and most
+reliable content so that they can gain recognition. It is important to know the
+methods of achieving popularity easily, which is what this paper proposes to
+bring to the spotlight. There should be certain parameters based on which the
+reach of content could be multiplied by a good factor. The proposed research
+work aims to identify and estimate the reach, popularity, and views of a
+YouTube video by using certain features using machine learning and AI
+techniques. A ranking system would also be used keeping the trending videos in
+consideration. This would eventually help the content creator know how
+authentic their content is and healthy competition to make better content
+before uploading the video on the platform will be ensured.
+
+---------------
+
+### 05 Mar 2024 | [Large Language Models and Video Games: A Preliminary Scoping Review](https://arxiv.org/abs/2403.02613) | [⬇️](https://arxiv.org/pdf/2403.02613)
+*Penny Sweetser* 
+
+  Large language models (LLMs) hold interesting potential for the design,
+development, and research of video games. Building on the decades of prior
+research on generative AI in games, many researchers have sped to investigate
+the power and potential of LLMs for games. Given the recent spike in
+LLM-related research in games, there is already a wealth of relevant research
+to survey. In order to capture a snapshot of the state of LLM research in
+games, and to help lay the foundation for future work, we carried out an
+initial scoping review of relevant papers published so far. In this paper, we
+review 76 papers published between 2022 to early 2024 on LLMs and video games,
+with key focus areas in game AI, game development, narrative, and game research
+and reviews. Our paper provides an early state of the field and lays the
+groundwork for future research and reviews on this topic.
+
+---------------
+
+### 23 Mar 2022 | [A Comprehensive Review of Computer Vision in Sports: Open Issues, Future  Trends and Research Directions](https://arxiv.org/abs/2203.02281) | [⬇️](https://arxiv.org/pdf/2203.02281)
+*Banoth Thulasya Naik, Mohammad Farukh Hashmi, Neeraj Dhanraj Bokde* 
+
+  Recent developments in video analysis of sports and computer vision
+techniques have achieved significant improvements to enable a variety of
+critical operations. To provide enhanced information, such as detailed complex
+analysis in sports like soccer, basketball, cricket, badminton, etc., studies
+have focused mainly on computer vision techniques employed to carry out
+different tasks. This paper presents a comprehensive review of sports video
+analysis for various applications high-level analysis such as detection and
+classification of players, tracking player or ball in sports and predicting the
+trajectories of player or ball, recognizing the teams strategies, classifying
+various events in sports. The paper further discusses published works in a
+variety of application-specific tasks related to sports and the present
+researchers views regarding them. Since there is a wide research scope in
+sports for deploying computer vision techniques in various sports, some of the
+publicly available datasets related to a particular sport have been provided.
+This work reviews a detailed discussion on some of the artificial
+intelligence(AI)applications in sports vision, GPU-based work stations, and
+embedded platforms. Finally, this review identifies the research directions,
+probable challenges, and future trends in the area of visual recognition in
+sports.
+
+---------------
+
+### 21 Oct 2023 | [AI-Generated Content (AIGC) for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177) | [⬇️](https://arxiv.org/pdf/2308.14177)
+*Lin Geng Foo, Hossein Rahmani, Jun Liu* 
+
+  AI-generated content (AIGC) methods aim to produce text, images, videos, 3D
+assets, and other media using AI algorithms. Due to its wide range of
+applications and the demonstrated potential of recent works, AIGC developments
+have been attracting lots of attention recently, and AIGC methods have been
+developed for various data modalities, such as image, video, text, 3D shape (as
+voxels, point clouds, meshes, and neural implicit fields), 3D scene, 3D human
+avatar (body and head), 3D motion, and audio -- each presenting different
+characteristics and challenges. Furthermore, there have also been many
+significant developments in cross-modality AIGC methods, where generative
+methods can receive conditioning input in one modality and produce outputs in
+another. Examples include going from various modalities to image, video, 3D
+shape, 3D scene, 3D avatar (body and head), 3D motion (skeleton and avatar),
+and audio modalities. In this paper, we provide a comprehensive review of AIGC
+methods across different data modalities, including both single-modality and
+cross-modality methods, highlighting the various challenges, representative
+works, and recent technical directions in each setting. We also survey the
+representative datasets throughout the modalities, and present comparative
+results for various modalities. Moreover, we also discuss the challenges and
+potential future research directions.
+
+---------------
+
+### 24 Feb 2020 | [From Chess and Atari to StarCraft and Beyond: How Game AI is Driving the  World of AI](https://arxiv.org/abs/2002.10433) | [⬇️](https://arxiv.org/pdf/2002.10433)
+*Sebastian Risi and Mike Preuss* 
+
+  This paper reviews the field of Game AI, which not only deals with creating
+agents that can play a certain game, but also with areas as diverse as creating
+game content automatically, game analytics, or player modelling. While Game AI
+was for a long time not very well recognized by the larger scientific
+community, it has established itself as a research area for developing and
+testing the most advanced forms of AI algorithms and articles covering advances
+in mastering video games such as StarCraft 2 and Quake III appear in the most
+prestigious journals. Because of the growth of the field, a single review
+cannot cover it completely. Therefore, we put a focus on important recent
+developments, including that advances in Game AI are starting to be extended to
+areas outside of games, such as robotics or the synthesis of chemicals. In this
+article, we review the algorithms and methods that have paved the way for these
+breakthroughs, report on the other important areas of Game AI research, and
+also point out exciting directions for the future of Game AI.
+
+---------------
+
+### 22 Feb 2019 | [General Video Game AI: a Multi-Track Framework for Evaluating Agents,  Games and Content Generation Algorithms](https://arxiv.org/abs/1802.10363) | [⬇️](https://arxiv.org/pdf/1802.10363)
+*Diego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D. Gaina,  Julian Togelius, Simon M. Lucas* 
+
+  General Video Game Playing (GVGP) aims at designing an agent that is capable
+of playing multiple video games with no human intervention. In 2014, The
+General Video Game AI (GVGAI) competition framework was created and released
+with the purpose of providing researchers a common open-source and easy to use
+platform for testing their AI methods with potentially infinity of games
+created using Video Game Description Language (VGDL). The framework has been
+expanded into several tracks during the last few years to meet the demand of
+different research directions. The agents are required either to play multiple
+unknown games with or without access to game simulations, or to design new game
+levels or rules. This survey paper presents the VGDL, the GVGAI framework,
+existing tracks, and reviews the wide use of GVGAI framework in research,
+education and competitions five years after its birth. A future plan of
+framework improvements is also described.
+
+---------------
+
+### 17 Sep 2021 | [Detection of GAN-synthesized street videos](https://arxiv.org/abs/2109.04991) | [⬇️](https://arxiv.org/pdf/2109.04991)
+*Omran Alamayreh and Mauro Barni* 
+
+  Research on the detection of AI-generated videos has focused almost
+exclusively on face videos, usually referred to as deepfakes. Manipulations
+like face swapping, face reenactment and expression manipulation have been the
+subject of an intense research with the development of a number of efficient
+tools to distinguish artificial videos from genuine ones. Much less attention
+has been paid to the detection of artificial non-facial videos. Yet, new tools
+for the generation of such kind of videos are being developed at a fast pace
+and will soon reach the quality level of deepfake videos. The goal of this
+paper is to investigate the detectability of a new kind of AI-generated videos
+framing driving street sequences (here referred to as DeepStreets videos),
+which, by their nature, can not be analysed with the same tools used for facial
+deepfakes. Specifically, we present a simple frame-based detector, achieving
+very good performance on state-of-the-art DeepStreets videos generated by the
+Vid2vid architecture. Noticeably, the detector retains very good performance on
+compressed videos, even when the compression level used during training does
+not match that used for the test videos.
+
+---------------
+
+### 03 Dec 2022 | [AI-driven Mobile Apps: an Explorative Study](https://arxiv.org/abs/2212.01635) | [⬇️](https://arxiv.org/pdf/2212.01635)
+*Yinghua Li, Xueqi Dang, Haoye Tian, Tiezhu Sun, Zhijie Wang, Lei Ma,  Jacques Klein, Tegawende F. Bissyande* 
+
+  Recent years have witnessed an astonishing explosion in the evolution of
+mobile applications powered by AI technologies. The rapid growth of AI
+frameworks enables the transition of AI technologies to mobile devices,
+significantly prompting the adoption of AI apps (i.e., apps that integrate AI
+into their functions) among smartphone devices. In this paper, we conduct the
+most extensive empirical study on 56,682 published AI apps from three
+perspectives: dataset characteristics, development issues, and user feedback
+and privacy. To this end, we build an automated AI app identification tool, AI
+Discriminator, that detects eligible AI apps from 7,259,232 mobile apps. First,
+we carry out a dataset analysis, where we explore the AndroZoo large repository
+to identify AI apps and their core characteristics. Subsequently, we pinpoint
+key issues in AI app development (e.g., model protection). Finally, we focus on
+user reviews and user privacy protection. Our paper provides several notable
+findings. Some essential ones involve revealing the issue of insufficient model
+protection by presenting the lack of model encryption, and demonstrating the
+risk of user privacy data being leaked. We published our large-scale AI app
+datasets to inspire more future research.
+
+---------------
+
+### 02 Dec 2020 | [A Framework and Dataset for Abstract Art Generation via CalligraphyGAN](https://arxiv.org/abs/2012.00744) | [⬇️](https://arxiv.org/pdf/2012.00744)
+*Jinggang Zhuo, Ling Fan, Harry Jiannan Wang* 
+
+  With the advancement of deep learning, artificial intelligence (AI) has made
+many breakthroughs in recent years and achieved superhuman performance in
+various tasks such as object detection, reading comprehension, and video games.
+Generative Modeling, such as various Generative Adversarial Networks (GAN)
+models, has been applied to generate paintings and music. Research in Natural
+Language Processing (NLP) also had a leap forward in 2018 since the release of
+the pre-trained contextual neural language models such as BERT and recently
+released GPT3. Despite the exciting AI applications aforementioned, AI is still
+significantly lagging behind humans in creativity, which is often considered
+the ultimate moonshot for AI. Our work is inspired by Chinese calligraphy,
+which is a unique form of visual art where the character itself is an aesthetic
+painting. We also draw inspirations from paintings of the Abstract
+Expressionist movement in the 1940s and 1950s, such as the work by American
+painter Franz Kline. In this paper, we present a creative framework based on
+Conditional Generative Adversarial Networks and Contextual Neural Language
+Model to generate abstract artworks that have intrinsic meaning and aesthetic
+value, which is different from the existing work, such as image captioning and
+text-to-image generation, where the texts are the descriptions of the images.
+In addition, we have publicly released a Chinese calligraphy image dataset and
+demonstrate our framework using a prototype system and a user study.
+
+---------------
+
+### 27 Aug 2019 | [Learning-Based Video Game Development in MLP@UoM: An Overview](https://arxiv.org/abs/1908.10127) | [⬇️](https://arxiv.org/pdf/1908.10127)
+*Ke Chen* 
+
+  In general, video games not only prevail in entertainment but also have
+become an alternative methodology for knowledge learning, skill acquisition and
+assistance for medical treatment as well as health care in education,
+vocational/military training and medicine. On the other hand, video games also
+provide an ideal test bed for AI researches. To a large extent, however, video
+game development is still a laborious yet costly process, and there are many
+technical challenges ranging from game generation to intelligent agent
+creation. Unlike traditional methodologies, in Machine Learning and Perception
+Lab at the University of Manchester (MLP@UoM), we advocate applying machine
+learning to different tasks in video game development to address several
+challenges systematically. In this paper, we overview the main progress made in
+MLP@UoM recently and have an outlook on the future research directions in
+learning-based video game development arising from our works.
+
+---------------
+
+### 06 Sep 2023 | [Comparative Analysis of Deep-Fake Algorithms](https://arxiv.org/abs/2309.03295) | [⬇️](https://arxiv.org/pdf/2309.03295)
+*Nikhil Sontakke, Sejal Utekar, Shivansh Rastogi, Shriraj Sonawane* 
+
+  Due to the widespread use of smartphones with high-quality digital cameras
+and easy access to a wide range of software apps for recording, editing, and
+sharing videos and images, as well as the deep learning AI platforms, a new
+phenomenon of 'faking' videos has emerged. Deepfake algorithms can create fake
+images and videos that are virtually indistinguishable from authentic ones.
+Therefore, technologies that can detect and assess the integrity of digital
+visual media are crucial. Deepfakes, also known as deep learning-based fake
+videos, have become a major concern in recent years due to their ability to
+manipulate and alter images and videos in a way that is virtually
+indistinguishable from the original. These deepfake videos can be used for
+malicious purposes such as spreading misinformation, impersonating individuals,
+and creating fake news. Deepfake detection technologies use various approaches
+such as facial recognition, motion analysis, and audio-visual synchronization
+to identify and flag fake videos. However, the rapid advancement of deepfake
+technologies has made it increasingly difficult to detect these videos with
+high accuracy. In this paper, we aim to provide a comprehensive review of the
+current state of deepfake creation and detection technologies. We examine the
+various deep learning-based approaches used for creating deepfakes, as well as
+the techniques used for detecting them. Additionally, we analyze the
+limitations and challenges of current deepfake detection methods and discuss
+future research directions in this field. Overall, the paper highlights the
+importance of continued research and development in deepfake detection
+technologies in order to combat the negative impact of deepfakes on society and
+ensure the integrity of digital visual media.
+
+---------------
+
+### 03 May 2023 | [Generative AI for learning: Investigating the potential of synthetic  learning videos](https://arxiv.org/abs/2304.03784) | [⬇️](https://arxiv.org/pdf/2304.03784)
+*Daniel Leiker, Ashley Ricker Gyllen, Ismail Eldesouky, Mutlu Cukurova* 
+
+  Recent advances in generative artificial intelligence (AI) have captured
+worldwide attention. Tools such as Dalle-2 and ChatGPT suggest that tasks
+previously thought to be beyond the capabilities of AI may now augment the
+productivity of creative media in various new ways, including through the
+generation of synthetic video. This research paper explores the utility of
+using AI-generated synthetic video to create viable educational content for
+online educational settings. To date, there is limited research investigating
+the real-world educational value of AI-generated synthetic media. To address
+this gap, we examined the impact of using AI-generated synthetic video in an
+online learning platform on both learners content acquisition and learning
+experience. We took a mixed-method approach, randomly assigning adult learners
+(n=83) into one of two micro-learning conditions, collecting pre- and
+post-learning assessments, and surveying participants on their learning
+experience. The control condition included a traditionally produced instructor
+video, while the experimental condition included a synthetic video with a
+realistic AI-generated character. The results show that learners in both
+conditions demonstrated significant improvement from pre- to post-learning
+(p<.001), with no significant differences in gains between the two conditions
+(p=.80). In addition, no differences were observed in how learners perceived
+the traditional and synthetic videos. These findings suggest that AI-generated
+synthetic learning videos have the potential to be a viable substitute for
+videos produced via traditional methods in online educational settings, making
+high quality educational content more accessible across the globe.
+
+---------------
+
+### 05 Mar 2021 | [Extend the FFmpeg Framework to Analyze Media Content](https://arxiv.org/abs/2103.03539) | [⬇️](https://arxiv.org/pdf/2103.03539)
+*Xintian Wu, Pengfei Qu, Shaofei Wang, Lin Xie and Jie Dong* 
+
+  This paper introduces a new set of video analytics plugins developed for the
+FFmpeg framework. Multimedia applications that increasingly utilize the FFmpeg
+media features for its comprehensive media encoding, decoding, muxing, and
+demuxing capabilities can now additionally analyze the video content based on
+AI models. The plugins are thread optimized for best performance overcoming
+certain FFmpeg threading limitations. The plugins utilize the Intel OpenVINO
+Toolkit inference engine as the backend. The analytics workloads are
+accelerated on different platforms such as CPU, GPU, FPGA or specialized
+analytics accelerators. With our reference implementation, the feature of
+OpenVINO as inference backend has been pushed into FFmpeg mainstream
+repository. We plan to submit more patches later.
+
+---------------
+
+### 05 Jan 2022 | [A Survey of Embodied AI: From Simulators to Research Tasks](https://arxiv.org/abs/2103.04918) | [⬇️](https://arxiv.org/pdf/2103.04918)
+*Jiafei Duan, Samson Yu, Hui Li Tan, Hongyuan Zhu and Cheston Tan* 
+
+  There has been an emerging paradigm shift from the era of "internet AI" to
+"embodied AI", where AI algorithms and agents no longer learn from datasets of
+images, videos or text curated primarily from the internet. Instead, they learn
+through interactions with their environments from an egocentric perception
+similar to humans. Consequently, there has been substantial growth in the
+demand for embodied AI simulators to support various embodied AI research
+tasks. This growing interest in embodied AI is beneficial to the greater
+pursuit of Artificial General Intelligence (AGI), but there has not been a
+contemporary and comprehensive survey of this field. This paper aims to provide
+an encyclopedic survey for the field of embodied AI, from its simulators to its
+research. By evaluating nine current embodied AI simulators with our proposed
+seven features, this paper aims to understand the simulators in their provision
+for use in embodied AI research and their limitations. Lastly, this paper
+surveys the three main research tasks in embodied AI -- visual exploration,
+visual navigation and embodied question answering (QA), covering the
+state-of-the-art approaches, evaluation metrics and datasets. Finally, with the
+new insights revealed through surveying the field, the paper will provide
+suggestions for simulator-for-task selections and recommendations for the
+future directions of the field.
+
+---------------
+
+### 09 Jul 2022 | [A Survey of Task-Based Machine Learning Content Extraction Services for  VIDINT](https://arxiv.org/abs/2207.04158) | [⬇️](https://arxiv.org/pdf/2207.04158)
+*Joshua Brunk, Nathan Jermann, Ryan Sharp, Carl D. Hoover* 
+
+  This paper provides a comparison of current video content extraction tools
+with a focus on comparing commercial task-based machine learning services.
+Video intelligence (VIDINT) data has become a critical intelligence source in
+the past decade. The need for AI-based analytics and automation tools to
+extract and structure content from video has quickly become a priority for
+organizations needing to search, analyze and exploit video at scale. With rapid
+growth in machine learning technology, the maturity of machine transcription,
+machine translation, topic tagging, and object recognition tasks are improving
+at an exponential rate, breaking performance records in speed and accuracy as
+new applications evolve. Each section of this paper reviews and compares
+products, software resources and video analytics capabilities based on tasks
+relevant to extracting information from video with machine learning techniques.
+
+---------------
+
+### 23 Jan 2024 | [AIGCBench: Comprehensive Evaluation of Image-to-Video Content Generated  by AI](https://arxiv.org/abs/2401.01651) | [⬇️](https://arxiv.org/pdf/2401.01651)
+*Fanda Fan, Chunjie Luo, Wanling Gao, Jianfeng Zhan* 
+
+  The burgeoning field of Artificial Intelligence Generated Content (AIGC) is
+witnessing rapid advancements, particularly in video generation. This paper
+introduces AIGCBench, a pioneering comprehensive and scalable benchmark
+designed to evaluate a variety of video generation tasks, with a primary focus
+on Image-to-Video (I2V) generation. AIGCBench tackles the limitations of
+existing benchmarks, which suffer from a lack of diverse datasets, by including
+a varied and open-domain image-text dataset that evaluates different
+state-of-the-art algorithms under equivalent conditions. We employ a novel text
+combiner and GPT-4 to create rich text prompts, which are then used to generate
+images via advanced Text-to-Image models. To establish a unified evaluation
+framework for video generation tasks, our benchmark includes 11 metrics
+spanning four dimensions to assess algorithm performance. These dimensions are
+control-video alignment, motion effects, temporal consistency, and video
+quality. These metrics are both reference video-dependent and video-free,
+ensuring a comprehensive evaluation strategy. The evaluation standard proposed
+correlates well with human judgment, providing insights into the strengths and
+weaknesses of current I2V algorithms. The findings from our extensive
+experiments aim to stimulate further research and development in the I2V field.
+AIGCBench represents a significant step toward creating standardized benchmarks
+for the broader AIGC landscape, proposing an adaptable and equitable framework
+for future assessments of video generation tasks. We have open-sourced the
+dataset and evaluation code on the project website:
+https://www.benchcouncil.org/AIGCBench.
+
+---------------
+
+### 19 Jul 2023 | [PyTAG: Challenges and Opportunities for Reinforcement Learning in  Tabletop Games](https://arxiv.org/abs/2307.09905) | [⬇️](https://arxiv.org/pdf/2307.09905)
+*Martin Balla, George E.M. Long, Dominik Jeurissen, James Goodman,  Raluca D. Gaina, Diego Perez-Liebana* 
+
+  In recent years, Game AI research has made important breakthroughs using
+Reinforcement Learning (RL). Despite this, RL for modern tabletop games has
+gained little to no attention, even when they offer a range of unique
+challenges compared to video games. To bridge this gap, we introduce PyTAG, a
+Python API for interacting with the Tabletop Games framework (TAG). TAG
+contains a growing set of more than 20 modern tabletop games, with a common API
+for AI agents. We present techniques for training RL agents in these games and
+introduce baseline results after training Proximal Policy Optimisation
+algorithms on a subset of games. Finally, we discuss the unique challenges
+complex modern tabletop games provide, now open to RL research through PyTAG.
+
+---------------<s>[INST] Context:
+ 1. <b> "Did You Hear That?" Learning to Play Video Games from Audio Cues </b> 
+ Abstract:   Game-playing AI research has focused for a long time on learning to play
+video games from visual input or symbolic information. However, humans benefit
+from a wider array of sensors which we utilise in order to navigate the world
+around us. In particular, sounds and music are key to how many of us perceive
+the world and influence the decisions we make. In this paper, we present
+initial experiments on game-playing agents learning to play video games solely
+from audio cues. We expand the Video Game Description Language to allow for
+audio specification, and the General Video Game AI framework to provide new
+audio games and an API for learning agents to make use of audio observations.
+We analyse the games and the audio game design process, include initial results
+with simple Q~Learning agents, and encourage further research in this area.
+2. <b> A Survey of AI Text-to-Image and AI Text-to-Video Generators </b> 
+ Abstract:   Text-to-Image and Text-to-Video AI generation models are revolutionary
+technologies that use deep learning and natural language processing (NLP)
+techniques to create images and videos from textual descriptions. This paper
+investigates cutting-edge approaches in the discipline of Text-to-Image and
+Text-to-Video AI generations. The survey provides an overview of the existing
+literature as well as an analysis of the approaches used in various studies. It
+covers data preprocessing techniques, neural network types, and evaluation
+metrics used in the field. In addition, the paper discusses the challenges and
+limitations of Text-to-Image and Text-to-Video AI generations, as well as
+future research directions. Overall, these models have promising potential for
+a wide range of applications such as video production, content creation, and
+digital marketing.
+3. <b> General Video Game AI: Learning from Screen Capture </b> 
+ Abstract:   General Video Game Artificial Intelligence is a general game playing
+framework for Artificial General Intelligence research in the video-games
+domain. In this paper, we propose for the first time a screen capture learning
+agent for General Video Game AI framework. A Deep Q-Network algorithm was
+applied and improved to develop an agent capable of learning to play different
+games in the framework. After testing this algorithm using various games of
+different categories and difficulty levels, the results suggest that our
+proposed screen capture learning agent has the potential to learn many
+different games using only a single learning algorithm.
+4. <b> Machine Learning enabled models for YouTube Ranking Mechanism and Views  Prediction </b> 
+ Abstract:   With the continuous increase of internet usage in todays time, everyone is
+influenced by this source of the power of technology. Due to this, the rise of
+applications and games Is unstoppable. A major percentage of our population
+uses these applications for multiple purposes. These range from education,
+communication, news, entertainment, and many more. Out of this, the application
+that is making sure that the world stays in touch with each other and with
+current affairs is social media. Social media applications have seen a boom in
+the last 10 years with the introduction of smartphones and the internet being
+available at affordable prices. Applications like Twitch and Youtube are some
+of the best platforms for producing content and expressing their talent as
+well. It is the goal of every content creator to post the best and most
+reliable content so that they can gain recognition. It is important to know the
+methods of achieving popularity easily, which is what this paper proposes to
+bring to the spotlight. There should be certain parameters based on which the
+reach of content could be multiplied by a good factor. The proposed research
+work aims to identify and estimate the reach, popularity, and views of a
+YouTube video by using certain features using machine learning and AI
+techniques. A ranking system would also be used keeping the trending videos in
+consideration. This would eventually help the content creator know how
+authentic their content is and healthy competition to make better content
+before uploading the video on the platform will be ensured.
+5. <b> Large Language Models and Video Games: A Preliminary Scoping Review </b> 
+ Abstract:   Large language models (LLMs) hold interesting potential for the design,
+development, and research of video games. Building on the decades of prior
+research on generative AI in games, many researchers have sped to investigate
+the power and potential of LLMs for games. Given the recent spike in
+LLM-related research in games, there is already a wealth of relevant research
+to survey. In order to capture a snapshot of the state of LLM research in
+games, and to help lay the foundation for future work, we carried out an
+initial scoping review of relevant papers published so far. In this paper, we
+review 76 papers published between 2022 to early 2024 on LLMs and video games,
+with key focus areas in game AI, game development, narrative, and game research
+and reviews. Our paper provides an early state of the field and lays the
+groundwork for future research and reviews on this topic.
+6. <b> A Comprehensive Review of Computer Vision in Sports: Open Issues, Future  Trends and Research Directions </b> 
+ Abstract:   Recent developments in video analysis of sports and computer vision
+techniques have achieved significant improvements to enable a variety of
+critical operations. To provide enhanced information, such as detailed complex
+analysis in sports like soccer, basketball, cricket, badminton, etc., studies
+have focused mainly on computer vision techniques employed to carry out
+different tasks. This paper presents a comprehensive review of sports video
+analysis for various applications high-level analysis such as detection and
+classification of players, tracking player or ball in sports and predicting the
+trajectories of player or ball, recognizing the teams strategies, classifying
+various events in sports. The paper further discusses published works in a
+variety of application-specific tasks related to sports and the present
+researchers views regarding them. Since there is a wide research scope in
+sports for deploying computer vision techniques in various sports, some of the
+publicly available datasets related to a particular sport have been provided.
+This work reviews a detailed discussion on some of the artificial
+intelligence(AI)applications in sports vision, GPU-based work stations, and
+embedded platforms. Finally, this review identifies the research directions,
+probable challenges, and future trends in the area of visual recognition in
+sports.
+7. <b> AI-Generated Content (AIGC) for Various Data Modalities: A Survey </b> 
+ Abstract:   AI-generated content (AIGC) methods aim to produce text, images, videos, 3D
+assets, and other media using AI algorithms. Due to its wide range of
+applications and the demonstrated potential of recent works, AIGC developments
+have been attracting lots of attention recently, and AIGC methods have been
+developed for various data modalities, such as image, video, text, 3D shape (as
+voxels, point clouds, meshes, and neural implicit fields), 3D scene, 3D human
+avatar (body and head), 3D motion, and audio -- each presenting different
+characteristics and challenges. Furthermore, there have also been many
+significant developments in cross-modality AIGC methods, where generative
+methods can receive conditioning input in one modality and produce outputs in
+another. Examples include going from various modalities to image, video, 3D
+shape, 3D scene, 3D avatar (body and head), 3D motion (skeleton and avatar),
+and audio modalities. In this paper, we provide a comprehensive review of AIGC
+methods across different data modalities, including both single-modality and
+cross-modality methods, highlighting the various challenges, representative
+works, and recent technical directions in each setting. We also survey the
+representative datasets throughout the modalities, and present comparative
+results for various modalities. Moreover, we also discuss the challenges and
+potential future research directions.
+8. <b> From Chess and Atari to StarCraft and Beyond: How Game AI is Driving the  World of AI </b> 
+ Abstract:   This paper reviews the field of Game AI, which not only deals with creating
+agents that can play a certain game, but also with areas as diverse as creating
+game content automatically, game analytics, or player modelling. While Game AI
+was for a long time not very well recognized by the larger scientific
+community, it has established itself as a research area for developing and
+testing the most advanced forms of AI algorithms and articles covering advances
+in mastering video games such as StarCraft 2 and Quake III appear in the most
+prestigious journals. Because of the growth of the field, a single review
+cannot cover it completely. Therefore, we put a focus on important recent
+developments, including that advances in Game AI are starting to be extended to
+areas outside of games, such as robotics or the synthesis of chemicals. In this
+article, we review the algorithms and methods that have paved the way for these
+breakthroughs, report on the other important areas of Game AI research, and
+also point out exciting directions for the future of Game AI.
+9. <b> General Video Game AI: a Multi-Track Framework for Evaluating Agents,  Games and Content Generation Algorithms </b> 
+ Abstract:   General Video Game Playing (GVGP) aims at designing an agent that is capable
+of playing multiple video games with no human intervention. In 2014, The
+General Video Game AI (GVGAI) competition framework was created and released
+with the purpose of providing researchers a common open-source and easy to use
+platform for testing their AI methods with potentially infinity of games
+created using Video Game Description Language (VGDL). The framework has been
+expanded into several tracks during the last few years to meet the demand of
+different research directions. The agents are required either to play multiple
+unknown games with or without access to game simulations, or to design new game
+levels or rules. This survey paper presents the VGDL, the GVGAI framework,
+existing tracks, and reviews the wide use of GVGAI framework in research,
+education and competitions five years after its birth. A future plan of
+framework improvements is also described.
+10. <b> Detection of GAN-synthesized street videos </b> 
+ Abstract:   Research on the detection of AI-generated videos has focused almost
+exclusively on face videos, usually referred to as deepfakes. Manipulations
+like face swapping, face reenactment and expression manipulation have been the
+subject of an intense research with the development of a number of efficient
+tools to distinguish artificial videos from genuine ones. Much less attention
+has been paid to the detection of artificial non-facial videos. Yet, new tools
+for the generation of such kind of videos are being developed at a fast pace
+and will soon reach the quality level of deepfake videos. The goal of this
+paper is to investigate the detectability of a new kind of AI-generated videos
+framing driving street sequences (here referred to as DeepStreets videos),
+which, by their nature, can not be analysed with the same tools used for facial
+deepfakes. Specifically, we present a simple frame-based detector, achieving
+very good performance on state-of-the-art DeepStreets videos generated by the
+Vid2vid architecture. Noticeably, the detector retains very good performance on
+compressed videos, even when the compression level used during training does
+not match that used for the test videos.
+ 
+ Given the following scientific paper abstracts, take a deep breath and lets think step by step to answer the question. Cite the titles of your sources when answering, do not cite links or dates. Question: Video Apps using AI Research Papers[/INST]
+        
+
+
+
+
 
 # Workflow for songs
 
