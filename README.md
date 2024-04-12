@@ -5,7 +5,242 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 Create a streamlit UI app with Javascript and HTML5 UI components to provide a user interface to explore the process and method steps in the papers below.  For each paper, translate it into functions in python then parameterize the variables.  Use well named variables that match the language common in the papers.  Use emojis on UI elements such as st.button, st.columns, st.sidebar, st.expander, and dataframes.      
 
-# Video Apps using AI Research Papers
+# Claude3 Opus Response to Prompt 1
+
+```python
+import streamlit as st
+import pandas as pd
+# Import other necessary libraries (e.g. OpenCV, TensorFlow)
+
+# Load datasets
+# ...
+
+# Define functions for each paper's algorithms
+def run_audio_game(game_type, algorithm):
+    # Implement Q-learning agent playing audio game
+    # Return game video or metrics
+    pass
+
+def run_screen_capture_game(game_type, difficulty):
+    # Implement Deep-Q agent playing game from screen capture 
+    # Return game video or metrics
+    pass
+
+def run_aigc_method(input_type, output_type, model):
+    # Implement AIGC method (e.g. text-to-video)
+    # Return generated video or images
+    pass
+
+def detect_deepstreets(video, compression):
+    # Implement DeepStreets detector
+    # Return detection results, metrics
+    pass
+
+def run_gvgai_agent(game_type, track, algorithm):
+    # Implement GVGAI agent 
+    # Return game video, metrics
+    pass
+
+# Streamlit app
+st.title("🎮📑 Video Apps using AI Research Papers")
+
+# Sidebar 
+papers = ["Audio Games", "Screen Capture Games", "AIGC Methods", "DeepStreets Detection", "GVGAI Framework"]
+selected_paper = st.sidebar.radio("Select a paper", papers)
+
+# Main area
+if selected_paper == "Audio Games":
+    st.header(""Did You Hear That?" Learning to Play Video Games from Audio Cues")
+    st.write("Raluca D. Gaina, Matthew Stephenson")
+    with st.expander("Abstract"):
+        st.write("Game-playing AI research has focused for a long time on learning to play video games from visual input or symbolic information...")
+
+    game_type = st.selectbox("Game Type", ["Game 1", "Game 2"]) 
+    algorithm = st.selectbox("Algorithm", ["Q-Learning"])
+    
+    code = '''
+    def run_audio_game(game_type, algorithm):
+        # Implement Q-learning agent playing audio game
+        pass
+    '''
+    st.code(code, language='python')
+    
+    if st.button("▶️ Run"):
+        video_or_metrics = run_audio_game(game_type, algorithm)
+        # Display video or metrics
+        
+elif selected_paper == "Screen Capture Games":
+    st.header("General Video Game AI: Learning from Screen Capture")
+    st.write("Kamolwan Kunanusont and Simon M. Lucas and Diego Perez-Liebana")
+    with st.expander("Abstract"):
+        st.write("General Video Game Artificial Intelligence is a general game playing framework for Artificial General Intelligence research in the video-games domain...")
+         
+    game_type = st.selectbox("Game Type", ["Game A", "Game B"])
+    difficulty = st.selectbox("Difficulty", ["Easy", "Hard"])
+    
+    code = '''
+    def run_screen_capture_game(game_type, difficulty):
+        # Implement Deep-Q agent playing game from screen capture
+        pass 
+    '''
+    st.code(code, language='python')
+    
+    if st.button("▶️ Run"):
+        video_or_metrics = run_screen_capture_game(game_type, difficulty)
+        # Display video or metrics
+
+elif selected_paper == "AIGC Methods":
+    st.header("AI-Generated Content (AIGC) for Various Data Modalities: A Survey")
+    st.write("Lin Geng Foo, Hossein Rahmani, Jun Liu")
+    with st.expander("Abstract"):
+        st.write("AI-generated content (AIGC) methods aim to produce text, images, videos, 3D assets, and other media using AI algorithms...")
+        
+    input_type = st.selectbox("Input Type", ["Text", "Image", "Audio"])  
+    output_type = st.selectbox("Output Type", ["Image", "Video", "3D Model"])
+    model = st.selectbox("Model", ["Model X", "Model Y"])
+
+    code = '''
+    def run_aigc_method(input_type, output_type, model): 
+        # Implement AIGC method (e.g. text-to-video)
+        pass
+    '''
+    st.code(code, language='python')
+    
+    if st.button("▶️ Run"):
+        generated_content = run_aigc_method(input_type, output_type, model)
+        # Display generated video, images or 3D models
+        
+elif selected_paper == "DeepStreets Detection":  
+    st.header("Detection of GAN-synthesized street videos")
+    st.write("Omran Alamayreh and Mauro Barni")
+    with st.expander("Abstract"):
+        st.write("Research on the detection of AI-generated videos has focused almost exclusively on face videos, usually referred to as deepfakes...")
+
+    uploaded_video = st.file_uploader("Upload Video")
+    compression = st.selectbox("Compression Level", ["Low", "High"])
+    
+    code = '''
+    def detect_deepstreets(video, compression):
+        # Implement DeepStreets detector 
+        pass
+    '''
+    st.code(code, language='python')
+
+    if st.button("🔍 Detect"):
+        detection_results = detect_deepstreets(uploaded_video, compression)  
+        # Display detection results and metrics
+        
+elif selected_paper == "GVGAI Framework":
+    st.header("General Video Game AI: a Multi-Track Framework for Evaluating Agents, Games and Content Generation Algorithms")  
+    st.write("Diego Perez-Liebana, Jialin Liu, Ahmed Khalifa, Raluca D. Gaina, Julian Togelius, Simon M. Lucas")
+    with st.expander("Abstract"): 
+        st.write("General Video Game Playing (GVGP) aims at designing an agent that is capable of playing multiple video games with no human intervention...")
+
+    game_type = st.selectbox("Game", ["Aliens", "Boulderdash"])
+    track = st.selectbox("Track", ["Single-Player", "Two-Player"])  
+    algorithm = st.selectbox("Algorithm", ["MCTS", "RHEA"])
+
+    code = '''
+    def run_gvgai_agent(game_type, track, algorithm):
+        # Implement GVGAI agent
+        pass 
+    '''
+    st.code(code, language='python')
+
+    if st.button("▶️ Run"):
+        game_video_or_metrics = run_gvgai_agent(game_type, track, algorithm)
+        # Display game video or metrics
+
+# Run the Streamlit app
+# streamlit run app.py
+```
+
+continue
+
+```python
+Okay, let's break this down step-by-step to create a Streamlit app that allows users to explore the methods from these AI research papers on video apps:
+
+First, I'll go through each paper and extract the key methods, algorithms and variables that could be implemented as interactive parameters in the app. I'll organize these by paper:
+
+"Did You Hear That?" Learning to Play Video Games from Audio Cues
+Method: Expand Video Game Description Language (VGDL) to specify audio
+Use General Video Game AI (GVGAI) framework to create audio games
+Algorithm: Simple Q-Learning agents using only audio observations
+General Video Game AI: Learning from Screen Capture
+Method: Use screen capture as input for learning agent
+Algorithm: Deep Q-Network to learn to play different games
+Parameters: Different game categories and difficulty levels
+AI-Generated Content (AIGC) for Various Data Modalities: A Survey
+Covers AIGC methods for various data types: image, video, text, 3D shapes, scenes, avatars, motion, audio
+Both single-modality and cross-modality methods (e.g. text-to-image, text-to-video)
+Compares datasets and results across modalities
+Detection of GAN-synthesized street videos
+Method: Detect DeepStreets videos (AI-generated driving videos)
+Algorithm: Simple frame-based detector
+Evaluates performance on compressed videos with mismatched train/test compression
+General Video Game AI: a Multi-Track Framework for Evaluating Agents, Games and Content Generation Algorithms
+Uses Video Game Description Language (VGDL) to specify games
+GVGAI competition framework for testing AI agents on multiple games
+Multiple tracks: playing unknown games with/without simulations, level/rule generation
+Next, I'll design the Streamlit app UI with these components:
+
+Sidebar with buttons to select a paper 📄
+For each selected paper, display key info in the main area using st.expander:
+Paper title, authors, abstract
+Interactive widgets for the paper's key parameters (e.g. game type, algorithm)
+Code snippets of the main methods
+"Run" button to execute selected algorithm with chosen parameters
+Output area to display results (videos, charts, etc)
+Finally, I'll implement the app:
+
+Import libraries
+Load datasets
+Define Python functions for each paper's algorithms
+Create sidebar with paper selection buttons
+In main area, use conditional statements to show relevant UI for selected paper
+Display paper info, parameter widgets, code, run button
+Connect "Run" button to execute the appropriate function with selected parameters
+Display output from the algorithm (e.g. game video, evaluation metrics)
+In summary, the app allows the user to interactively explore the AI video methods from the selected research papers, with informative displays and executable code. The modular design makes it easy to add new papers and techniques.
+
+The key papers used were: "Did You Hear That?" Learning to Play Video Games from Audio Cues, General Video Game AI: Learning from Screen Capture, AI-Generated Content (AIGC) for Various Data Modalities: A Survey, Detection of GAN-synthesized street videos, and General Video Game AI: a Multi-Track Framework for Evaluating Agents, Games and Content Generation Algorithms. Let me know if you would like me to proceed with implementing this!
+
+```
+
+
+# GPT4 Response for Prompt 1 - Score 3/10 - Code is too short, no plan or spec that makes sense with context.
+
+```python
+import streamlit as st
+import cv2
+from yolov3.utils import detect_image
+
+# Load YOLO model function
+def yolo_object_detection(image, model):
+    return detect_image(model, image, input_size=YOLO_INPUT_SIZE, CLASSES=YOLO_CLASSES)
+
+# Streamlit UI
+st.title('AI Video Apps Research Explorer 🎥🤖')
+
+with st.sidebar:
+    st.header('Parameters')
+    confidence_threshold = st.slider('Confidence Threshold', 0.0, 1.0, 0.5, 0.01)
+
+uploaded_file = st.file_uploader("Upload your video", type=["mp4"])
+if uploaded_file is not None:
+    # Assuming a function 'load_model' to load the pre-trained YOLO model
+    model = load_model()
+    video_output = yolo_object_detection(uploaded_file, model)
+    st.video(video_output)
+
+with st.expander("See explanation"):
+    st.write("""
+        This tool applies the YOLO (You Only Look Once) object detection algorithm
+        to detect objects in real-time within videos.
+    """)
+```
+
+# Video Apps using AI Research Papers - Prompt 1
 
 ## Video Apps using AI Research Papers
 
