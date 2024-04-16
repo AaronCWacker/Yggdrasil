@@ -1,29 +1,98 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Grok-1.5V - Lets Check It Out since we have Grok access from Twitter X - the third 
+superpower model.
+
+## Prompt:  Create a diagram model for my new 7 agent stack for a new AI workflow that pairs up multimodal files as one coherent piece of content:  
+1. MMMU 🌍🧩📊 - Multimodal multitask understanding of the world through various data types and tasks.
+2. Mathvista 🧮📐📏 - Mathematical problem-solving using visual and textual information.
+3. AI2D 🖼️💬🤖 - Generating detailed image descriptions and captions using AI.
+4. TextVQA 📜❓🖼️ - Answering questions about images using textual information.
+5. ChartQA 📊❓💡 - Answering questions about data presented in charts and graphs.
+6. DocVQA 📄❓🔍 - Answering questions about information contained in documents.
+7. RealWorldQA 🌍❓🧠 - Answering questions about real-world scenarios using multimodal information.
+
+## Grok:
+
+I like that it pretags itself but it didn't go multi-modal yet - maybe next release - still havent found where I can test the Grok-1.5V aspects inside Twitter X client but there amongst my social media preferred stories about AI, Science, Art - It somehow is stronger as part of the X platform - really looking forward to this and Elon way to go on open sourcing - you do what you say you will do and this sharing of tech is appreciated.
+
+@grok
+To create a diagram model for your new 7-agent stack for a new AI workflow, follow these steps:
+
+Open a drawing or diagramming tool (e.g., Microsoft Visio, Lucidchart, or draw.io).
+Create a new document and set the page orientation to landscape.
+In the center of the page, create a circle labeled "Multimodal AI Workflow."
+Draw 7 smaller circles around the central circle, one for each agent in the stack.
+Label each of the 7 smaller circles with the corresponding agent name (e.g., MMMU, Mathvista, AI2D, TextVQA, ChartQA, DocVQA, RealWorldQA).
+Connect each of the 7 smaller circles to the central circle with a line.
+Add a brief description of each agent's function next to its corresponding circle (e.g., "Multimodal multitask understanding of the world through various data types and tasks" for MMMU).
+Add arrows between the agents to represent the flow of information and interaction between them. For example, you can have arrows from AI2D to RealWorldQA and from RealWorldQA to DocVQA, indicating that AI2D generates image descriptions that can be used by RealWorldQA to answer questions about real-world scenarios, which in turn can be used by DocVQA to answer questions about information in documents.
+Review the diagram and make any necessary adjustments to ensure it accurately represents your AI workflow.
+Save and export the diagram as a PDF or image file for sharing and future reference.
+
+## Claude
+Aside from a tag fix to format Mermaid - this is exactly what I would have wanted in a diagram model.  9/10
+
+```mermaid
+
+graph TD
+A[Multimodal Content] --> B(MMMU 🌍🧩📊)
+B --> C(Mathvista 🧮📐📏)
+C --> D(AI2D 🖼️💬🤖)
+D --> E(TextVQA 📜❓🖼️)
+E --> F(ChartQA 📊❓💡)
+F --> G(DocVQA 📄❓🔍)
+G --> H(RealWorldQA 🌍❓🧠)
+H --> I[Coherent Content Understanding]
+```
+
+In this 7-agent AI workflow diagram:
+
+Multimodal content is input into the MMMU agent for multitask understanding of various data types.
+The output from MMMU is passed to Mathvista for mathematical problem-solving using visual and textual information.
+AI2D then generates detailed image descriptions and captions based on the processed data.
+TextVQA uses the generated captions and descriptions to answer questions about the images.
+ChartQA focuses on answering questions related to data presented in charts and graphs within the content.
+DocVQA handles questions about information contained in the documents.
+RealWorldQA takes all the processed information and answers questions about real-world scenarios related to the content.
+The result is a coherent understanding of the multimodal content, enabling the AI system to provide comprehensive answers and insights based on the various data types and modalities present in the input.
+
+## GPT  
+
+Image is maybe future way to go.  This is quite impressive and worthy of an upscale and edit to make it perfect.  Nice work..  9/10
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/3bf2d89d-6132-4ff7-a7b1-9134a9874fec)
+
+
+## Tests on all three:  Grok, Claude, GPT
+
+### Grok
+
+
 # Benchmarks Multimodalities
 
-Per Claude 3 - The benchmarks below cover multimodal world understanding:
-MMMU 🌍🧩📊 - Multimodal multitask understanding of the world through various data types and tasks.
-Mathvista 🧮📐📏 - Mathematical problem-solving using visual and textual information.
-AI2D 🖼️💬🤖 - Generating detailed image descriptions and captions using AI.
-TextVQA 📜❓🖼️ - Answering questions about images using textual information.
-ChartQA 📊❓💡 - Answering questions about data presented in charts and graphs.
-DocVQA 📄❓🔍 - Answering questions about information contained in documents.
-RealWorldQA 🌍❓🧠 - Answering questions about real-world scenarios using multimodal information.
+## Per Claude 3 - The benchmarks below cover multimodal world understanding:
+1. MMMU 🌍🧩📊 - Multimodal multitask understanding of the world through various data types and tasks.
+2. Mathvista 🧮📐📏 - Mathematical problem-solving using visual and textual information.
+3. AI2D 🖼️💬🤖 - Generating detailed image descriptions and captions using AI.
+4. TextVQA 📜❓🖼️ - Answering questions about images using textual information.
+5. ChartQA 📊❓💡 - Answering questions about data presented in charts and graphs.
+6. DocVQA 📄❓🔍 - Answering questions about information contained in documents.
+7. RealWorldQA 🌍❓🧠 - Answering questions about real-world scenarios using multimodal information.
 
 ![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/1e69e0ae-e161-47c9-afeb-df3372879b43)
 
-Per GPT4 - Benchmarks Multimodalities Descriptions
-MMMU: Assesses AI's understanding of various data types (text, audio, video) simultaneously. 📝🎧🎬
-Mathvista: Evaluates the ability to solve math problems using visual diagrams. 🧮🖼️➕
-AI2D: Tests understanding of complex scientific diagrams and their descriptions. 🔬📊📖
-TextVQA: Measures how well AI can answer questions about text in images. 📸🔠❓
-ChartQA: Focuses on answering questions about data presented in charts. 📉📈🤔
-DocVQA: Challenges AI to interpret and answer questions based on document images. 📄🔍✅
-RealWorldQA: Tests comprehension of real-world scenarios through multimedia content. 🌍🎥
+## Per GPT4 - Benchmarks Multimodalities Descriptions
+1. MMMU: Assesses AI's understanding of various data types (text, audio, video) simultaneously. 📝🎧🎬
+2. Mathvista: Evaluates the ability to solve math problems using visual diagrams. 🧮🖼️➕
+3. AI2D: Tests understanding of complex scientific diagrams and their descriptions. 🔬📊📖
+4. TextVQA: Measures how well AI can answer questions about text in images. 📸🔠❓
+5. ChartQA: Focuses on answering questions about data presented in charts. 📉📈🤔
+6. DocVQA: Challenges AI to interpret and answer questions based on document images. 📄🔍✅
+7. RealWorldQA: Tests comprehension of real-world scenarios through multimedia content. 🌍🎥
 
-# Prompt - For each of the benchmarks below create a small short line describing what it is and use multiple emojis to represent what the content is like:
+## Prompt - For each of the benchmarks below create a small short line describing what it is and use multiple emojis to represent what the content is like:
 
 
 # Simple ServiceNow example in python:
