@@ -1,6 +1,31 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Benchmarks Multimodalities
+
+Per Claude 3 - The benchmarks below cover multimodal world understanding:
+MMMU 🌍🧩📊 - Multimodal multitask understanding of the world through various data types and tasks.
+Mathvista 🧮📐📏 - Mathematical problem-solving using visual and textual information.
+AI2D 🖼️💬🤖 - Generating detailed image descriptions and captions using AI.
+TextVQA 📜❓🖼️ - Answering questions about images using textual information.
+ChartQA 📊❓💡 - Answering questions about data presented in charts and graphs.
+DocVQA 📄❓🔍 - Answering questions about information contained in documents.
+RealWorldQA 🌍❓🧠 - Answering questions about real-world scenarios using multimodal information.
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/1e69e0ae-e161-47c9-afeb-df3372879b43)
+
+Per GPT4 - Benchmarks Multimodalities Descriptions
+MMMU: Assesses AI's understanding of various data types (text, audio, video) simultaneously. 📝🎧🎬
+Mathvista: Evaluates the ability to solve math problems using visual diagrams. 🧮🖼️➕
+AI2D: Tests understanding of complex scientific diagrams and their descriptions. 🔬📊📖
+TextVQA: Measures how well AI can answer questions about text in images. 📸🔠❓
+ChartQA: Focuses on answering questions about data presented in charts. 📉📈🤔
+DocVQA: Challenges AI to interpret and answer questions based on document images. 📄🔍✅
+RealWorldQA: Tests comprehension of real-world scenarios through multimedia content. 🌍🎥
+
+# Prompt - For each of the benchmarks below create a small short line describing what it is and use multiple emojis to represent what the content is like:
+
+
 # Simple ServiceNow example in python:
 
 ```python
