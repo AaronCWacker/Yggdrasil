@@ -25,10 +25,7 @@ Episodic memory is a form of long-term memory that captures personal experiences
 
 Here is a diagram and model for the Semantic and Episodic Memory process, along with a basic AI Streamlit app:
 
-mermaid
-
-
-Copy code
+```mermaid
 graph LR
 A[Experience] --> B(Semantic Memory)
 A --> C(Episodic Memory)
@@ -39,12 +36,9 @@ E --> F
 F --> G[Informed Decision-Making]
 F --> H[Language and Reasoning]
 F --> I[Cognitive Processes]
-And here's a simple Streamlit app that compares and contrasts Semantic and Episodic Memory:
+```
 
-python
-
-
-Copy code
+```python
 import streamlit as st
 
 st.title("Semantic and Episodic Memory Comparison")
@@ -63,12 +57,11 @@ st.write("- Semantic Memory helps us navigate the world and make informed decisi
 
 st.header("Interaction")
 st.write("Despite their differences, Semantic and Episodic Memory interact and influence each other. Our personal experiences (Episodic Memory) can shape and expand our general knowledge (Semantic Memory), and our factual knowledge can provide context and meaning to our personal memories.")
+```
+
 This app presents the key points about Semantic and Episodic Memory, compares and contrasts them, and discusses how they interact. The Streamlit framework allows for a clean and interactive presentation of this information.
 
-Copy
-
-
-Claude does not have the ability to run the code it generates yet.
+---
 AW
 Do the same for 1️⃣ What is Mirroring?
 
