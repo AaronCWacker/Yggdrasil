@@ -1,6 +1,28 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+There are four main AI techniques with method steps that we use for Advanced Machine Intelligence:
+1. Mixture of Experts in Context Datasets and in SFT/MoE Eight Way Models
+2. Multi Agent Systems run AI pipelines where specialized cooperating agents solve different subgoals using different context.
+3. Semantic and Episodic Memory with Mirroring allows Facts, Concepts, World Knowledge to be considered dually with Personal Experiences, Events, and Emotions and train by clone and modify pattern of model making.
+4. Self Rewarding AI produces high fidelity results by tuning towards what is liked scored by either agents or users.  What is not liked has a function to forget.  Multiple agents can review and score eachothers output which orders performance putting priority on what is correct and what user cares about.
+
+# MoE - CHARMSED
+1. Mixture of Experts CHARMSED acronym can help you remember the base eight experts used by many large models.
+2. When an agent flow runs the Gate model runs in front of other model or context and calculates temperature of each given inputs.
+3. Temperature is used for share of use of that specific copy of model plus context datasets.
+
+1. Coder 💻: Craft pythonic solutions with precision.
+2. Humanities 📚: Dive deep into arts, literature, and history.
+3. Analyst 🤔: Derive insights through logical reasoning.
+4. Roleplay 🎭: Mimic behaviors or adopt personas for engaging interactions.
+5. Math ➗: Crunch numbers and solve mathematical enigmas.
+6. STEM 🔬: Navigate through the realms of Science, Technology, Engineering, and Mathematics.
+7. Extractor 🔍: Extract concise information with a laser-focus.
+8. Drafter 📝: Writes and generates textual content and narratives with flair.
+
+
+
 
 # Semantic and Episodic Mirror Memory
 
