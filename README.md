@@ -1,6 +1,91 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+
+# Open Source AI Creates Strong Organizational Intelligence
+
+Create a diagram model for this theory on organizational intelligence:  
+
+By sharing we evolve together to higher organization intelligences of us acting as groups with congruent aligned causes. This makes the groups using open tech more powerful due to knowledge sharing and co-learning where intelligence of one is distributed to many others making the entire group exponentially stronger. The arms race is mostly going to be in the mixture of expert context systems, agential systems, memory, and rewards with everyone's code having ability to interchange to newest, latest and best as a service.
+
+```mermaid
+graph TD
+    A[Individuals] -->|Sharing Knowledge| B(Group Intelligence)
+    B -->|Aligned Causes| C{Higher Organizational Intelligence}
+    C -->|Open Technology| D[Exponentially Stronger Groups]
+    D -->|Knowledge Sharing| E[Co-Learning]
+    E -->|Distributed Intelligence| A
+    C -->|Expert Context Systems| F(Arms Race)
+    C -->|Agential Systems| F
+    C -->|Memory Systems| F
+    C -->|Reward Systems| F
+    F -->|Interchangeable Code| G[Newest, Latest, and Best as a Service]
+    G -->|Continuous Improvement| C
+```
+
+# Insightful Outline by GPT4:
+
+Central Concept: Organizational Intelligence
+Define "Organizational Intelligence" as the central node of the diagram.
+Primary Components:
+Knowledge Sharing and Co-learning: Represent this with a cluster that shows how individual intelligence contributes to group intelligence via sharing and learning mechanisms.
+Open Technology: Link this to the knowledge sharing node to emphasize how open tech facilitates the sharing process and makes the intelligence distribution more effective.
+Agential Systems, Expert Context Systems, Memory, and Rewards: Each of these elements should be depicted as individual nodes that feed into and support the central concept of Organizational Intelligence.
+Agential Systems: Focus on autonomy and decision-making capabilities.
+Expert Context Systems: Highlight the role of specialized knowledge and contextual understanding.
+Memory: Show this as a repository for collective experience and historical data.
+Rewards: Illustrate how incentives align actions towards collective goals.
+Interactions:
+Show arrows and lines to depict the interactions between these components.
+Illustrate how each component contributes to enhancing organizational intelligence through interconnected feedback loops.
+Dynamics of Intelligence Distribution:
+Use arrows from the individual to the group level to show the flow of intelligence.
+Highlight how intelligence of one becomes distributed to many, enhancing the group’s overall capabilities.
+Modularity and Interchangeability of Components:
+Create sub-nodes under each main component that illustrate the modularity and ability to interchange parts (e.g., updating systems with the latest code).
+Link these sub-nodes to a representation of a service model where updates and exchanges are facilitated.
+Outcome: Strengthened Group Capabilities
+At the top or center, culminate with an outcome node showing the group as exponentially stronger due to these interconnected components and their dynamic interplay.
+Environmental Context:
+Optionally, add a surrounding context to show the competitive or cooperative ecosystem in which these organizations operate, suggesting the "arms race" in developing these intelligent systems.
+
+# Image from Text
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/258a4747-b6a9-4772-b733-a4baa5df7e22)
+
+# Insightful Mermaid Code from Claude3 Opus:
+
+graph TD
+    A[Individuals] -->|Sharing Knowledge| B(Group Intelligence)
+    B -->|Aligned Causes| C{Higher Organizational Intelligence}
+    C -->|Open Technology| D[Exponentially Stronger Groups]
+    D -->|Knowledge Sharing| E[Co-Learning]
+    E -->|Distributed Intelligence| A
+    C -->|Expert Context Systems| F(Arms Race)
+    C -->|Agential Systems| F
+    C -->|Memory Systems| F
+    C -->|Reward Systems| F
+    F -->|Interchangeable Code| G[Newest, Latest, and Best as a Service]
+    G -->|Continuous Improvement| C
+
+# Image from Text
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/c9ce8b7d-f535-4170-92cb-1ea7f8344758)
+
+# Synopsis
+
+GPT is best at Text to Image.
+Claude3 is best at Mermaid model from Text for Diagram.
+
+Using them together shows they are independently flawed yet when used together on a problem with self reward of asking the model to one up the other you can see which techniques work and which dont, then optimize multi step workflows to treat each as agent with your content idea as the shared intelligence.  When either gets ahead, have the other add its insight catering to its strengths for composite created code and multi modal content.
+
+
+
+
+
+
+
+
+
 There are four main AI techniques with method steps that we use for Advanced Machine Intelligence:
 1. Mixture of Experts in Context Datasets and in SFT/MoE Eight Way Models
 2. Multi Agent Systems run AI pipelines where specialized cooperating agents solve different subgoals using different context.
