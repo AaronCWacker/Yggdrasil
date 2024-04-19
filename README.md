@@ -94,7 +94,9 @@ As Text in Image generation gets better and can fix labels in text inside images
 ## How about Runway?
 
 1. Text/Image to Video Gen-2
-2. 
+2. https://dnznrvs05pmza.cloudfront.net/7653b343-0491-4c61-9739-3d2789f0317e.mp4?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzFhMGZkYTgwMmFmOTg3OCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTcxMzY1NzYwMH0.kqEum0WOPwUNRUD2aJwRkWpoj88oJIpJCPXt3YufTU8
+
+
 
 ## How about Suno (which means listen in Hindi)
 Create a diagram model for this theory on organizational intelligence:  By sharing we evolve together to higher organization intelligences of us acting as groups with congruent aligned causes.  This makes the groups using open tech more powerful due to knowledge sharing and co-learning where intelligence of one is distributed to many others making the entire group exponentially stronger.  The arms race is mostly going to be in the mixture of expert context systems, agential systems, memory, and rewards with everyone's code having ability to interchange to newest, latest and best as a service.
@@ -102,11 +104,41 @@ Create a diagram model for this theory on organizational intelligence:  By shari
 Shortened:
 dark edm, Sharing evolves us together to higher organization intelligences acting as groups with congruent aligned causes.  This makes groups using open tech more powerful due to knowledge sharing.
 
+Success- produced 8 songs on it in about 15 minutes.  
+
+## How about Midjourney?
+
+## 1. 
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/b25f9b70-2105-43d6-b627-ee3c968c54ec)
+
+## 2. 
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/f5f10445-7182-455a-8bf9-af024275b28f)
+
+## 3. 
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/61dd9c28-b830-4876-8ad2-239aed2be0eb)
+
+## 4. 
+
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/7e6ab062-46ad-4838-a244-9312436f83c1)
+
+
+
+
+# Moe, MAS, Memory, Reward
 There are four main AI techniques with method steps that we use for Advanced Machine Intelligence:
 1. Mixture of Experts in Context Datasets and in SFT/MoE Eight Way Models
 2. Multi Agent Systems run AI pipelines where specialized cooperating agents solve different subgoals using different context.
 3. Semantic and Episodic Memory with Mirroring allows Facts, Concepts, World Knowledge to be considered dually with Personal Experiences, Events, and Emotions and train by clone and modify pattern of model making.
 4. Self Rewarding AI produces high fidelity results by tuning towards what is liked scored by either agents or users.  What is not liked has a function to forget.  Multiple agents can review and score eachothers output which orders performance putting priority on what is correct and what user cares about.
+
+
+
+
+
+
 
 # Mixture of Experts MoE - CHARMSED
 1. CHARMSED acronym can help you remember the base eight experts used by many large models.
