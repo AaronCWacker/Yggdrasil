@@ -78,13 +78,29 @@ Claude3 is best at Mermaid model from Text for Diagram.
 
 Using them together shows they are independently flawed yet when used together on a problem with self reward of asking the model to one up the other you can see which techniques work and which dont, then optimize multi step workflows to treat each as agent with your content idea as the shared intelligence.  When either gets ahead, have the other add its insight catering to its strengths for composite created code and multi modal content.
 
+# How About Image Generator Models?
 
+## Prompt:
+Create a diagram model for this theory on organizational intelligence:  By sharing we evolve together to higher organization intelligences of us acting as groups with congruent aligned causes.  This makes the groups using open tech more powerful due to knowledge sharing and co-learning where intelligence of one is distributed to many others making the entire group exponentially stronger.  The arms race is mostly going to be in the mixture of expert context systems, agential systems, memory, and rewards with everyone's code having ability to interchange to newest, latest and best as a service.
 
+## Leonardo:
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/b7255f05-bc01-47e9-95e5-db1bac658c2b)
 
+![image](https://github.com/AaronCWacker/Yggdrasil/assets/30595158/dd13bddd-f0c4-4def-9b8e-bc0f0147f8bb)
 
+## Synopsis:
+As Text in Image generation gets better and can fix labels in text inside images with the second pass model using the first image generator.  Second pass gate model would resurvy text words and overwrite regions of text in target image as MoE gate model.  This will produce crisp terms in a crisp high fidelity image layout.
 
+## How about Runway?
 
+1. Text/Image to Video Gen-2
+2. 
 
+## How about Suno (which means listen in Hindi)
+Create a diagram model for this theory on organizational intelligence:  By sharing we evolve together to higher organization intelligences of us acting as groups with congruent aligned causes.  This makes the groups using open tech more powerful due to knowledge sharing and co-learning where intelligence of one is distributed to many others making the entire group exponentially stronger.  The arms race is mostly going to be in the mixture of expert context systems, agential systems, memory, and rewards with everyone's code having ability to interchange to newest, latest and best as a service.
+
+Shortened:
+dark edm, Sharing evolves us together to higher organization intelligences acting as groups with congruent aligned causes.  This makes groups using open tech more powerful due to knowledge sharing.
 
 There are four main AI techniques with method steps that we use for Advanced Machine Intelligence:
 1. Mixture of Experts in Context Datasets and in SFT/MoE Eight Way Models
