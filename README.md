@@ -2,6 +2,115 @@
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
 # Mermaid Models of Quantum ML Representations and Methodology
+
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
+
+    subgraph QuantumMechanics
+    B(QM ⚛️ quantum mechanics)
+    end
+
+    subgraph MachineLearning
+    E(ML 🤖 machine learning)
+    end
+
+    subgraph QMMLModel
+    D(QM/ML 🔮 ML model for QM data)
+    end
+
+    subgraph ErrorMetrics
+    G(Error Metrics)
+    AF(MAE ❌ mean absolute error)
+    AG(RMSE 📏 root mean squared error)
+    end
+
+    subgraph Methodology
+    F(Methodology)
+    AC(GPR 📈 Gaussian process regression)
+    AD(HP 🎛️ hyperparameter)
+    AE(KRR 🌉 kernel ridge regression)
+    end
+
+    C{{Representation Types}}
+
+    subgraph AtomCentered[Atom-Centered 🎱]
+    H(ACE 🔬 atomic cluster expansion)
+    M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+    N(SF 🎨 symmetry function)
+    O(SOAP 🧼 smooth overlap of atomic positions)
+    end
+
+    subgraph Global[Global 🌍]
+    P(CM ⚛️ Coulomb matrix)
+    Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+    R(OMF 🔍 overlap matrix fingerprint)
+    end
+
+    subgraph Structural[Structural 🧱]
+    S(BoB 🧪 bag of bonds)
+    T(HDAD 📐 histograms of distances, angles, and dihedral angles)
+    U(MBTR 🧮 many-body tensor representation)
+    V(NICE 🔄 N-body iterative contraction of equivariants)
+    end
+
+    subgraph Basis[Basis 📜]
+    W(BS 📈 bispectrum)
+    X(GM 📊 Gaussian moments)
+    Y(IDMBR 🌌 inverse-distance many-body representation)
+    Z(MOB 🌿 molecular orbital basis)
+    AA(MTP 🔧 moment tensor potential)
+    AB(WST 🌊 wavelet scattering transform)
+    end
+
+    A -->|described by 📜| B
+    A -->|representation choice 🎯| C
+
+    C -.->|local atomic environments 🔬| AtomCentered
+    C -.->|global structure 🌐| Global
+    C -.->|geometric features 📐| Structural
+    C -.->|basis functions 🔢| Basis
+
+    H & M & N & O & P & Q & R & S & T & U & V & W & X & Y & Z & AA & AB -->|used as input for 🔢➡️🤖| E
+
+    B -->|provides reference data for 📊➡️🔮| D
+
+    E -->|trained on QM data to create 🤖🎓📊➡️🔮| D
+    E -->|built using 🔧| F
+
+    D -->|evaluated using 📏| G
+
+    G --> AF & AG
+
+    H -.->|atomic clusters 🏠| M & N & O
+    M -.->|encodes atomic positions 📍| H & N & O
+    N -.->|captures angular information 📐| H & M & O
+    O -.->|density-based 🌫️| H & M & N
+
+    P -.->|pairwise distances 📏| Q & R
+    Q -.->|density-encoded 🎨| P & R
+    R -.->|orbital overlap 🌓| P & Q
+
+    S -.->|bond types 🔗| T & U & V
+    T -.->|geometric features 📐| S & U & V
+    U -.->|higher-order correlations 🌀| S & T & V
+    V -.->|iterative contraction 🔄| S & T & U
+
+    W -.->|radial basis functions 🎡| X & Y & Z & AA & AB
+    X -.->|moment invariants 📊| W & Y & Z & AA & AB
+    Y -.->|inverse distances 📏| W & X & Z & AA & AB
+    Z -.->|molecular orbitals 🌿| W & X & Y & AA & AB
+    AA -.->|tensor moments 🧮| W & X & Y & Z & AB
+    AB -.->|wavelet transform 🌊| W & X & Y & Z & AA
+
+    style AtomCentered fill:#FFD700,stroke:#333,stroke-width:2px
+    style Global fill:#7FFFD4,stroke:#333,stroke-width:2px
+    style Structural fill:#FF69B4,stroke:#333,stroke-width:2px
+    style Basis fill:#90EE90,stroke:#333,stroke-width:2px
+```
+
+
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
