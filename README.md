@@ -32,6 +32,87 @@ graph TD
     AE(KRR 🌉 kernel ridge regression)
     end
 
+    subgraph Representations
+    C{{Representation Types}}
+    H(ACE 🔬 atomic cluster expansion)
+    M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+    N(SF 🎨 symmetry function)
+    O(SOAP 🧼 smooth overlap of atomic positions)
+    P(CM ⚛️ Coulomb matrix)
+    Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+    R(OMF 🔍 overlap matrix fingerprint)
+    S(BoB 🧪 bag of bonds)
+    T(HDAD 📐 histograms of distances, angles, and dihedral angles)
+    U(MBTR 🧮 many-body tensor representation)
+    V(NICE 🔄 N-body iterative contraction of equivariants)
+    W(BS 📈 bispectrum)
+    X(GM 📊 Gaussian moments)
+    Y(IDMBR 🌌 inverse-distance many-body representation)
+    Z(MOB 🌿 molecular orbital basis)
+    AA(MTP 🔧 moment tensor potential)
+    AB(WST 🌊 wavelet scattering transform)
+    end
+
+    A -->|described by 📜| B
+    A -->|representation choice 🎯| C
+
+    C -.->|local atomic environments 🔬| H & M & N & O
+    C -.->|global structure 🌐| P & Q & R
+    C -.->|geometric features 📐| S & T & U & V
+    C -.->|basis functions 🔢| W & X & Y & Z & AA & AB
+
+    H & M & N & O & P & Q & R & S & T & U & V & W & X & Y & Z & AA & AB -->|used as input for 🔢➡️🤖| E
+
+    B -->|provides reference data for 📊➡️🔮| D
+
+    E -->|trained on QM data to create 🤖🎓📊➡️🔮| D
+    E -->|built using 🔧| F
+
+    D -->|evaluated using 📏| G
+
+    G --> AF & AG
+
+    linkStyle 0 stroke:#f9d1d1,stroke-width:2px
+    linkStyle 1 stroke:#d1f9e9,stroke-width:2px
+    linkStyle 2 stroke:#d1d1f9,stroke-width:2px
+    linkStyle 3 stroke:#f9f9d1,stroke-width:2px
+    linkStyle 4 stroke:#f9d1f9,stroke-width:2px
+    linkStyle 5 stroke:#d1f9d1,stroke-width:2px
+    linkStyle 6 stroke:#d1f9f9,stroke-width:2px
+    linkStyle 7 stroke:#f9d1f9,stroke-width:2px
+    linkStyle 8 stroke:#f9f9d1,stroke-width:2px
+    linkStyle 9 stroke:#d1f9d1,stroke-width:2px
+```
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
+
+    subgraph QuantumMechanics
+    B(QM ⚛️ quantum mechanics)
+    end
+
+    subgraph MachineLearning
+    E(ML 🤖 machine learning)
+    end
+
+    subgraph QMMLModel
+    D(QM/ML 🔮 ML model for QM data)
+    end
+
+    subgraph ErrorMetrics
+    G(Error Metrics)
+    AF(MAE ❌ mean absolute error)
+    AG(RMSE 📏 root mean squared error)
+    end
+
+    subgraph Methodology
+    F(Methodology)
+    AC(GPR 📈 Gaussian process regression)
+    AD(HP 🎛️ hyperparameter)
+    AE(KRR 🌉 kernel ridge regression)
+    end
+
     H(ACE 🔬 atomic cluster expansion)
     M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
     N(SF 🎨 symmetry function)
