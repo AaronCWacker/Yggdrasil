@@ -9,19 +9,19 @@ graph TD
     A(System 🧬 poly-atomic system)
     end
 
-    subgraph Quantum Mechanics
+    subgraph QuantumMechanics
     B(QM ⚛️ quantum mechanics)
     end
 
-    subgraph Machine Learning
+    subgraph MachineLearning
     E(ML 🤖 machine learning)
     end
 
-    subgraph QM/ML Model
+    subgraph QMMLModel
     D(QM/ML 🔮 ML model for QM data)
     end
 
-    subgraph Error Metrics
+    subgraph ErrorMetrics
     G(Error Metrics)
     AF(MAE ❌ mean absolute error)
     AG(RMSE 📏 root mean squared error)
@@ -34,7 +34,7 @@ graph TD
     AE(KRR 🌉 kernel ridge regression)
     end
 
-    subgraph Atom-centered Representations
+    subgraph AtomcenteredRepresentations
     H(Atom-centered Representations)
     L(ACE 🔬 atomic cluster expansion)
     M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
@@ -42,14 +42,14 @@ graph TD
     O(SOAP 🧼 smooth overlap of atomic positions)
     end
 
-    subgraph Global Representations
+    subgraph GlobalRepresentations
     I(Global Representations)
     P(CM ⚛️ Coulomb matrix)
     Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
     R(OMF 🔍 overlap matrix fingerprint)
     end
 
-    subgraph Structural Representations
+    subgraph StructuralRepresentations
     J(Structural Representations)
     S(BoB 🧪 bag of bonds)
     T(HDAD 📐 histograms of distances, angles, and dihedral angles)
@@ -57,7 +57,7 @@ graph TD
     V(NICE 🔄 N-body iterative contraction of equivariants)
     end
 
-    subgraph Basis Representations
+    subgraph BasisRepresentations
     K(Basis Representations)
     W(BS 📈 bispectrum)
     X(GM 📊 Gaussian moments)
@@ -89,67 +89,15 @@ graph TD
     G --> AG
 
     style System fill:#f9d1d1
-    style "Quantum Mechanics" fill:#d1f9e9
-    style "Machine Learning" fill:#d1d1f9
-    style "QM/ML Model" fill:#f9f9d1
-    style "Error Metrics" fill:#f9d1f9
+    style QuantumMechanics fill:#d1f9e9
+    style MachineLearning fill:#d1d1f9
+    style QMMLModel fill:#f9f9d1
+    style ErrorMetrics fill:#f9d1f9
     style Methodology fill:#d1f9d1
-    style "Atom-centered Representations" fill:#d1f9f9
-    style "Global Representations" fill:#f9d1f9
-    style "Structural Representations" fill:#f9f9d1
-    style "Basis Representations" fill:#d1f9d1
-```
-
-
-
-```mermaid
-graph TD
-    A(System 🧬 poly-atomic system)
-    A -->|described by| B(QM ⚛️ quantum mechanics)
-    A -->|local atomic environments| H(Atom-centered Representations)
-    A -->|global structure| I(Global Representations)
-    A -->|geometric features| J(Structural Representations)
-    A -->|basis functions| K(Basis Representations)
-
-    B -->|provides reference data for| D(QM/ML 🔮 ML model for QM data)
-
-    H -->|used as input for| E(ML 🤖 machine learning)
-    I -->|used as input for| E
-    J -->|used as input for| E
-    K -->|used as input for| E
-
-    E -->|trained on QM data to create| D
-    E -->|built using| F(Methodology)
-
-    D -->|evaluated using| G(Error Metrics)
-
-    H --> L(ACE 🔬 atomic cluster expansion)
-    H --> M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
-    H --> N(SF 🎨 symmetry function)
-    H --> O(SOAP 🧼 smooth overlap of atomic positions)
-
-    I --> P(CM ⚛️ Coulomb matrix)
-    I --> Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
-    I --> R(OMF 🔍 overlap matrix fingerprint)
-
-    J --> S(BoB 🧪 bag of bonds)
-    J --> T(HDAD 📐 histograms of distances, angles, and dihedral angles)
-    J --> U(MBTR 🧮 many-body tensor representation)
-    J --> V(NICE 🔄 N-body iterative contraction of equivariants)
-
-    K --> W(BS 📈 bispectrum)
-    K --> X(GM 📊 Gaussian moments)
-    K --> Y(IDMBR 🌌 inverse-distance many-body representation)
-    K --> Z(MOB 🌿 molecular orbital basis)
-    K --> AA(MTP 🔧 moment tensor potential)
-    K --> AB(WST 🌊 wavelet scattering transform)
-
-    F --> AC(GPR 📈 Gaussian process regression)
-    F --> AD(HP 🎛️ hyperparameter)
-    F --> AE(KRR 🌉 kernel ridge regression)
-
-    G --> AF(MAE ❌ mean absolute error)
-    G --> AG(RMSE 📏 root mean squared error)
+    style AtomcenteredRepresentations fill:#d1f9f9
+    style GlobalRepresentations fill:#f9d1f9
+    style StructuralRepresentations fill:#f9f9d1
+    style BasisRepresentations fill:#d1f9d1
 ```
 
 
