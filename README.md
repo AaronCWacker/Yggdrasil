@@ -6,6 +6,55 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
+    A -->|described by| B(QM ⚛️ quantum mechanics)
+    A -->|encoded by| C(Representations)
+
+    B -->|provides reference data for| D(QM/ML 🔮 ML model for QM data)
+
+    C -->|used as input for| E(ML 🤖 machine learning)
+
+    E -->|trained on QM data to create| D
+    E -->|built using| F(Methodology)
+
+    D -->|evaluated using| G(Error Metrics)
+
+    C --> H(Atom-centered Representations)
+    C --> I(Global Representations)
+    C --> J(Structural Representations)
+    C --> K(Basis Representations)
+
+    H --> L(ACE 🔬 atomic cluster expansion)
+    H --> M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+    H --> N(SF 🎨 symmetry function)
+    H --> O(SOAP 🧼 smooth overlap of atomic positions)
+
+    I --> P(CM ⚛️ Coulomb matrix)
+    I --> Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+    I --> R(OMF 🔍 overlap matrix fingerprint)
+
+    J --> S(BoB 🧪 bag of bonds)
+    J --> T(HDAD 📐 histograms of distances, angles, and dihedral angles)
+    J --> U(MBTR 🧮 many-body tensor representation)
+    J --> V(NICE 🔄 N-body iterative contraction of equivariants)
+
+    K --> W(BS 📈 bispectrum)
+    K --> X(GM 📊 Gaussian moments)
+    K --> Y(IDMBR 🌌 inverse-distance many-body representation)
+    K --> Z(MOB 🌿 molecular orbital basis)
+    K --> AA(MTP 🔧 moment tensor potential)
+    K --> AB(WST 🌊 wavelet scattering transform)
+
+    F --> AC(GPR 📈 Gaussian process regression)
+    F --> AD(HP 🎛️ hyperparameter)
+    F --> AE(KRR 🌉 kernel ridge regression)
+
+    G --> AF(MAE ❌ mean absolute error)
+    G --> AG(RMSE 📏 root mean squared error)
+```
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
     B(QM ⚛️ quantum mechanics)
     C(ML 🤖 machine learning)
     D(QM/ML 🔮 ML model for QM data)
