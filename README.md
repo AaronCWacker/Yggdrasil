@@ -4,6 +4,65 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # Mermaid Models of Quantum ML Representations and Methodology
 
 ```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
+    B(QM ⚛️ quantum mechanics)
+    C(ML 🤖 machine learning)
+    D(QM/ML 🔮 ML model for QM data)
+    E(Error Metrics)
+    F(Methodology)
+
+    A -->|described by| B
+    B -->|provides reference data for| D
+    C -->|trained on QM data to create| D
+    D -->|evaluated using| E
+    F -->|used to build| C
+
+    G(Atom-centered Representations)
+    H(Global Representations)
+    I(Structural Representations)
+    J(Basis Representations)
+
+    A -->|encoded by| G
+    A -->|encoded by| H
+    A -->|encoded by| I
+    A -->|encoded by| J
+
+    G -->|used as input for| C
+    H -->|used as input for| C
+    I -->|used as input for| C
+    J -->|used as input for| C
+
+    G --> K(ACE 🔬 atomic cluster expansion)
+    G --> L(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+    G --> M(SF 🎨 symmetry function)
+    G --> N(SOAP 🧼 smooth overlap of atomic positions)
+
+    H --> O(CM ⚛️ Coulomb matrix)
+    H --> P(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+    H --> Q(OMF 🔍 overlap matrix fingerprint)
+
+    I --> R(BoB 🧪 bag of bonds)
+    I --> S(HDAD 📐 histograms of distances, angles, and dihedral angles)
+    I --> T(MBTR 🧮 many-body tensor representation)
+    I --> U(NICE 🔄 N-body iterative contraction of equivariants)
+
+    J --> V(BS 📈 bispectrum)
+    J --> W(GM 📊 Gaussian moments)
+    J --> X(IDMBR 🌌 inverse-distance many-body representation)
+    J --> Y(MOB 🌿 molecular orbital basis)
+    J --> Z(MTP 🔧 moment tensor potential)
+    J --> AA(WST 🌊 wavelet scattering transform)
+
+    F --> AB(GPR 📈 Gaussian process regression)
+    F --> AC(HP 🎛️ hyperparameter)
+    F --> AD(KRR 🌉 kernel ridge regression)
+
+    E --> AE(MAE ❌ mean absolute error)
+    E --> AF(RMSE 📏 root mean squared error)
+```
+
+```mermaid
 
 graph TD
     A(Representations)
