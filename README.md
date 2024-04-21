@@ -1,6 +1,53 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Mermaid Model of Quantum ML Representations and Methodology
+
+
+```mermaid
+graph TD
+    A(Representations)
+    B(Methodology)
+    C(System 🧬 poly-atomic system)
+    D(QM ⚛️ quantum mechanics)
+    E(ML 🤖 machine learning)
+    F(QM/ML 🔮 ML model for QM data)
+    G(Error Metrics)
+
+    A --> C
+    B --> C
+    C --> D
+    D --> F
+    E --> F
+
+    A --> H(ACE 🔬 atomic cluster expansion)
+    A --> I(BoB 🧪 bag of bonds)
+    A --> J(BS 📈 bispectrum)
+    A --> K(CM ⚛️ Coulomb matrix)
+    A --> L(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+    A --> M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+    A --> N(GM 📊 Gaussian moments)
+    A --> O(HDAD 📐 histograms of distances, angles, and dihedral angles)
+    A --> P(IDMBR 🌌 inverse-distance many-body representation)
+    A --> Q(MBTR 🧮 many-body tensor representation)
+    A --> R(MOB 🌿 molecular orbital basis)
+    A --> S(MTP 🔧 moment tensor potential)
+    A --> T(NICE 🔄 N-body iterative contraction of equivariants)
+    A --> U(OMF 🔍 overlap matrix fingerprint)
+    A --> V(SF 🎨 symmetry function)
+    A --> W(SOAP 🧼 smooth overlap of atomic positions)
+    A --> X(WST 🌊 wavelet scattering transform)
+
+    B --> Y(GPR 📈 Gaussian process regression)
+    B --> Z(HP 🎛️ hyperparameter)
+    B --> AA(KRR 🌉 kernel ridge regression)
+    
+    G --> AB(MAE ❌ mean absolute error)
+    G --> AC(RMSE 📏 root mean squared error)
+    
+    F --> G
+```
+
 
 # Open Source AI Creates Strong Organizational Intelligence
 
