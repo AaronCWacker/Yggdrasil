@@ -5,6 +5,105 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ```mermaid
 graph TD
+    subgraph System
+    A(System 🧬 poly-atomic system)
+    end
+
+    subgraph Quantum Mechanics
+    B(QM ⚛️ quantum mechanics)
+    end
+
+    subgraph Machine Learning
+    E(ML 🤖 machine learning)
+    end
+
+    subgraph QM/ML Model
+    D(QM/ML 🔮 ML model for QM data)
+    end
+
+    subgraph Error Metrics
+    G(Error Metrics)
+    AF(MAE ❌ mean absolute error)
+    AG(RMSE 📏 root mean squared error)
+    end
+
+    subgraph Methodology
+    F(Methodology)
+    AC(GPR 📈 Gaussian process regression)
+    AD(HP 🎛️ hyperparameter)
+    AE(KRR 🌉 kernel ridge regression)
+    end
+
+    subgraph Atom-centered Representations
+    H(Atom-centered Representations)
+    L(ACE 🔬 atomic cluster expansion)
+    M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+    N(SF 🎨 symmetry function)
+    O(SOAP 🧼 smooth overlap of atomic positions)
+    end
+
+    subgraph Global Representations
+    I(Global Representations)
+    P(CM ⚛️ Coulomb matrix)
+    Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+    R(OMF 🔍 overlap matrix fingerprint)
+    end
+
+    subgraph Structural Representations
+    J(Structural Representations)
+    S(BoB 🧪 bag of bonds)
+    T(HDAD 📐 histograms of distances, angles, and dihedral angles)
+    U(MBTR 🧮 many-body tensor representation)
+    V(NICE 🔄 N-body iterative contraction of equivariants)
+    end
+
+    subgraph Basis Representations
+    K(Basis Representations)
+    W(BS 📈 bispectrum)
+    X(GM 📊 Gaussian moments)
+    Y(IDMBR 🌌 inverse-distance many-body representation)
+    Z(MOB 🌿 molecular orbital basis)
+    AA(MTP 🔧 moment tensor potential)
+    AB(WST 🌊 wavelet scattering transform)
+    end
+
+    A -->|described by| B
+    A -->|local atomic environments| H
+    A -->|global structure| I
+    A -->|geometric features| J
+    A -->|basis functions| K
+
+    B -->|provides reference data for| D
+
+    H -->|used as input for| E
+    I -->|used as input for| E
+    J -->|used as input for| E
+    K -->|used as input for| E
+
+    E -->|trained on QM data to create| D
+    E -->|built using| F
+
+    D -->|evaluated using| G
+
+    G --> AF
+    G --> AG
+
+    style System fill:#f9d1d1
+    style "Quantum Mechanics" fill:#d1f9e9
+    style "Machine Learning" fill:#d1d1f9
+    style "QM/ML Model" fill:#f9f9d1
+    style "Error Metrics" fill:#f9d1f9
+    style Methodology fill:#d1f9d1
+    style "Atom-centered Representations" fill:#d1f9f9
+    style "Global Representations" fill:#f9d1f9
+    style "Structural Representations" fill:#f9f9d1
+    style "Basis Representations" fill:#d1f9d1
+```
+
+
+
+```mermaid
+graph TD
     A(System 🧬 poly-atomic system)
     A -->|described by| B(QM ⚛️ quantum mechanics)
     A -->|local atomic environments| H(Atom-centered Representations)
