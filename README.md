@@ -49,7 +49,7 @@ graph TD
     style AtomCentered fill:#FFD700,stroke:#333,stroke-width:2px
     style AtomCenteredML fill:#FFA07A,stroke:#333,stroke-width:2px
 ```
-
+# Global Representation
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
@@ -93,7 +93,7 @@ graph TD
     style Global fill:#7FFFD4,stroke:#333,stroke-width:2px
     style GlobalML fill:#20B2AA,stroke:#333,stroke-width:2px
 ```
-
+# Structural Representation
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
@@ -140,6 +140,7 @@ graph TD
     style StructuralML fill:#FF1493,stroke:#333,stroke-width:2px
 ```
 
+# Basis Representation
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
