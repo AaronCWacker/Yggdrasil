@@ -6,6 +6,202 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
+    B(QM ⚛️ quantum mechanics)
+    C{{Representation Types}}
+    D(QM/ML 🔮 ML model for QM data)
+    E(Error Metrics)
+    F(Methodology)
+
+    subgraph AtomCentered[Atom-Centered 🎱]
+        H(ACE 🔬 atomic cluster expansion)
+        M(FCHL 👥 Faber-Christensen-Huang-von Lilienfeld)
+        N(SF 🎨 symmetry function)
+        O(SOAP 🧼 smooth overlap of atomic positions)
+    end
+
+    subgraph AtomCenteredML[Atom-Centered ML 🤖]
+        AH(Neural Networks 🧠)
+        AI(Kernel Methods 🌽)
+        AJ(Decision Trees 🌳)
+    end
+
+    A -->|described by| B
+    A -->|representation choice| C
+    C -.->|local atomic environments| AtomCentered
+    AtomCentered -->|used as input for| AtomCenteredML
+    AtomCenteredML -->|combines predictions from| D
+    B -->|provides reference data for| D
+    D -->|evaluated using| E
+    AtomCenteredML -.->|built using| F
+
+    H -.->|atomic clusters| M & N & O
+    M -.->|encodes atomic positions| H & N & O
+    N -.->|captures angular information| H & M & O
+    O -.->|density-based| H & M & N
+
+    linkStyle 0 stroke:#FFD700,stroke-width:2px
+    linkStyle 1 stroke:#FFD700,stroke-width:2px
+    linkStyle 2 stroke:#FFD700,stroke-width:2px
+    linkStyle 3 stroke:#FFA07A,stroke-width:2px
+    linkStyle 4 stroke:#FFA07A,stroke-width:2px
+    
+    style AtomCentered fill:#FFD700,stroke:#333,stroke-width:2px
+    style AtomCenteredML fill:#FFA07A,stroke:#333,stroke-width:2px
+
+    fontSize 18
+```
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
+    B(QM ⚛️ quantum mechanics)
+    C{{Representation Types}}
+    D(QM/ML 🔮 ML model for QM data)
+    E(Error Metrics)
+    F(Methodology)
+
+    subgraph Global[Global 🌍]
+        P(CM ⚛️ Coulomb matrix)
+        Q(DECAF 🖌️ density-encoded canonically-aligned fingerprint)
+        R(OMF 🔍 overlap matrix fingerprint)
+    end
+
+    subgraph GlobalML[Global ML 🤖]
+        AK(Linear Regression 📈)
+        AL(Support Vector Machines 🎛️)
+        AM(Ensemble Methods 🎭)
+    end
+
+    A -->|described by| B
+    A -->|representation choice| C
+    C -.->|global structure| Global
+    Global -->|used as input for| GlobalML
+    GlobalML -->|combines predictions from| D
+    B -->|provides reference data for| D
+    D -->|evaluated using| E
+    GlobalML -.->|built using| F
+
+    P -.->|pairwise distances| Q & R
+    Q -.->|density-encoded| P & R
+    R -.->|orbital overlap| P & Q
+
+    linkStyle 0 stroke:#7FFFD4,stroke-width:2px
+    linkStyle 1 stroke:#7FFFD4,stroke-width:2px
+    linkStyle 2 stroke:#7FFFD4,stroke-width:2px
+    linkStyle 3 stroke:#20B2AA,stroke-width:2px
+    linkStyle 4 stroke:#20B2AA,stroke-width:2px
+    
+    style Global fill:#7FFFD4,stroke:#333,stroke-width:2px
+    style GlobalML fill:#20B2AA,stroke:#333,stroke-width:2px
+
+    fontSize 18
+```
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
+    B(QM ⚛️ quantum mechanics)
+    C{{Representation Types}}
+    D(QM/ML 🔮 ML model for QM data)
+    E(Error Metrics)
+    F(Methodology)
+
+    subgraph Structural[Structural 🧱]
+        S(BoB 🧪 bag of bonds)
+        T(HDAD 📐 histograms of distances, angles, and dihedral angles)
+        U(MBTR 🧮 many-body tensor representation)
+        V(NICE 🔄 N-body iterative contraction of equivariants)
+    end
+
+    subgraph StructuralML[Structural ML 🤖]
+        AN(Graph Neural Networks 📊)
+        AO(Convolutional Neural Networks 🖼️)
+        AP(Recurrent Neural Networks 🔁)
+    end
+
+    A -->|described by| B
+    A -->|representation choice| C
+    C -.->|geometric features| Structural
+    Structural -->|used as input for| StructuralML
+    StructuralML -->|combines predictions from| D
+    B -->|provides reference data for| D
+    D -->|evaluated using| E
+    StructuralML -.->|built using| F
+
+    S -.->|bond types| T & U & V
+    T -.->|geometric features| S & U & V
+    U -.->|higher-order correlations| S & T & V
+    V -.->|iterative contraction| S & T & U
+
+    linkStyle 0 stroke:#FF69B4,stroke-width:2px
+    linkStyle 1 stroke:#FF69B4,stroke-width:2px
+    linkStyle 2 stroke:#FF69B4,stroke-width:2px
+    linkStyle 3 stroke:#FF1493,stroke-width:2px
+    linkStyle 4 stroke:#FF1493,stroke-width:2px
+    
+    style Structural fill:#FF69B4,stroke:#333,stroke-width:2px
+    style StructuralML fill:#FF1493,stroke:#333,stroke-width:2px
+
+    fontSize 18
+```
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
+    B(QM ⚛️ quantum mechanics)
+    C{{Representation Types}}
+    D(QM/ML 🔮 ML model for QM data)
+    E(Error Metrics)
+    F(Methodology)
+
+    subgraph Basis[Basis 📜]
+        W(BS 📈 bispectrum)
+        X(GM 📊 Gaussian moments)
+        Y(IDMBR 🌌 inverse-distance many-body representation)
+        Z(MOB 🌿 molecular orbital basis)
+        AA(MTP 🔧 moment tensor potential)
+        AB(WST 🌊 wavelet scattering transform)
+    end
+
+    subgraph BasisML[Basis ML 🤖]
+        AQ(Bayesian Methods 🎲)
+        AR(Dimensionality Reduction 📉)
+        AS(Clustering 🧩)
+    end
+
+    A -->|described by| B
+    A -->|representation choice| C
+    C -.->|basis functions| Basis
+    Basis -->|used as input for| BasisML
+    BasisML -->|combines predictions from| D
+    B -->|provides reference data for| D
+    D -->|evaluated using| E
+    BasisML -.->|built using| F
+
+    W -.->|radial basis functions| X & Y & Z & AA & AB
+    X -.->|moment invariants| W & Y & Z & AA & AB
+    Y -.->|inverse distances| W & X & Z & AA & AB
+    Z -.->|molecular orbitals| W & X & Y & AA & AB
+    AA -.->|tensor moments| W & X & Y & Z & AB
+    AB -.->|wavelet transform| W & X & Y & Z & AA
+
+    linkStyle 0 stroke:#90EE90,stroke-width:2px
+    linkStyle 1 stroke:#90EE90,stroke-width:2px
+    linkStyle 2 stroke:#90EE90,stroke-width:2px
+    linkStyle 3 stroke:#00FF7F,stroke-width:2px
+    linkStyle 4 stroke:#00FF7F,stroke-width:2px
+    
+    style Basis fill:#90EE90,stroke:#333,stroke-width:2px
+    style BasisML fill:#00FF7F,stroke:#333,stroke-width:2px
+
+    fontSize 18
+```
+
+
+
+```mermaid
+graph TD
+    A(System 🧬 poly-atomic system)
 
     subgraph QuantumMechanics
     B(QM ⚛️ quantum mechanics)
