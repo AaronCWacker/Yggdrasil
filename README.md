@@ -3,6 +3,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Mermaid Models of Quantum ML Representations and Methodology
 
+## Atom Centered Representations:
 ```mermaid
 graph TD
     A(System 🧬 poly-atomic system)
@@ -47,8 +48,6 @@ graph TD
     
     style AtomCentered fill:#FFD700,stroke:#333,stroke-width:2px
     style AtomCenteredML fill:#FFA07A,stroke:#333,stroke-width:2px
-
-    fontSize 18
 ```
 
 ```mermaid
@@ -93,8 +92,6 @@ graph TD
     
     style Global fill:#7FFFD4,stroke:#333,stroke-width:2px
     style GlobalML fill:#20B2AA,stroke:#333,stroke-width:2px
-
-    fontSize 18
 ```
 
 ```mermaid
@@ -141,8 +138,6 @@ graph TD
     
     style Structural fill:#FF69B4,stroke:#333,stroke-width:2px
     style StructuralML fill:#FF1493,stroke:#333,stroke-width:2px
-
-    fontSize 18
 ```
 
 ```mermaid
@@ -193,8 +188,6 @@ graph TD
     
     style Basis fill:#90EE90,stroke:#333,stroke-width:2px
     style BasisML fill:#00FF7F,stroke:#333,stroke-width:2px
-
-    fontSize 18
 ```
 
 
