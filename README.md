@@ -1,6 +1,66 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Mermaid Models on MAS, MOE, SRSB, MMFM
+
+```mermaid
+graph TD
+    A[Central Control Entity] --> B(Expert Agent 1: Task Allocation)
+    A --> C(Expert Agent 2: Data Preprocessing)
+    A --> D(Expert Agent 3: Model Selection)
+    A --> E(Expert Agent 4: Code Generation)
+    A --> F(Expert Agent 5: Specification Generation)
+    A --> G(Expert Agent 6: Model Evaluation)
+    A --> H(Expert Agent 7: Result Aggregation)
+
+    B --> I{Interface Chain 1: User Input}
+    C --> J{Interface Chain 2: Data Pipelines}
+    D --> K{Interface Chain 3: Model Repository}
+    E --> L{Interface Chain 4: Code Generation Engine}
+    F --> M{Interface Chain 5: Specification Templates}
+    G --> N{Interface Chain 6: Evaluation Metrics}
+    H --> O{Interface Chain 7: Output Formatting}
+
+    K --> P(Performance-based Selection)
+    K --> Q(Modality-based Selection)
+    P --> R{{Comparative Models}}
+    Q --> R
+
+    R --> S{{Self-Reward Scoring Battles}}
+    S --> T{{AI Rating System}}
+    T --> U{{Collaboration and Competition}}
+
+    I --> V{{Memory Model Feedback Maker}}
+    V --> W{{User Preference Voting}}
+    W --> X{{Expert Agent Improvement}}
+
+    I --> Y{{Agents}}
+    J --> Y
+    K --> Y
+    L --> Y
+    M --> Y
+    N --> Y
+    O --> Y
+
+    I --> Z{{Communication}}
+    J --> Z
+    K --> Z
+    L --> Z
+    M --> Z
+    N --> Z
+    O --> Z
+
+    I --> AA{{Control}}
+    J --> AA
+    K --> AA
+    L --> AA
+    M --> AA
+    N --> AA
+    O --> AA
+```
+
+
+
 # Mermaid Models of Quantum ML Representations and Methodology
 
 ## Atom Centered Representations:
