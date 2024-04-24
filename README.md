@@ -25,7 +25,7 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ```mermaid
 graph TD
-    subgraph Mixture of Experts (MoE)
+    subgraph Mixture of Experts MoE
         subgraph Experts
             C[🧠 Expert 1<br>Specialized subset<br>of dataset]
             D[🧠 Expert 2<br>Specialized subset<br>of dataset]
