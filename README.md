@@ -8,7 +8,77 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 # SRSB - Self reward score battles
 # MMFM - Memory model feedback maker - edit collaboratively
 
+# Self Reward Output Models on MAS, MOE, SRSB, MMFM
 
+# 🧩 Mixture of Experts (MoE)
+
+## 📊 Experts
+- 📥 Inputs: Data relevant to the expert's specialization
+- 📤 Outputs: Predictions or responses based on the expert's knowledge
+- 💯 Scoring: Measures the expert's confidence or relevance for a given input
+
+## 🚦 Gating Network
+- 🎯 Goal: Route queries to the most suitable expert based on scoring
+
+## 🎓 Learning
+- Experts and gating network learn to optimize performance
+
+```mermaid
+graph TD
+    subgraph Mixture of Experts (MoE)
+        subgraph Experts
+            C[🧠 Expert 1<br>Specialized subset<br>of dataset]
+            D[🧠 Expert 2<br>Specialized subset<br>of dataset]
+            E[🧠 Expert 3<br>Specialized subset<br>of dataset]
+        end
+        subgraph Gating Network
+            B{🚦 Gating Network<br>Routes queries to the most<br>suitable expert based on scoring}
+        end
+        subgraph Learning
+            L[🎓 Learning<br>Experts and gating network<br>learn to optimize performance]
+        end
+    end
+    A[📥 Input<br>Data relevant to the<br>expert's specialization] --> B
+    B --> C
+    B --> D
+    B --> E
+    C --> F[📤 Output 1<br>Predictions or responses<br>based on expert's knowledge]
+    D --> G[📤 Output 2<br>Predictions or responses<br>based on expert's knowledge]
+    E --> H[📤 Output 3<br>Predictions or responses<br>based on expert's knowledge]
+    L -.-> C
+    L -.-> D
+    L -.-> E
+    L -.-> B
+    style A shape:circle,fill:#FFDAB9,stroke:#333,stroke-width:2px
+    style B shape:diamond,fill:#ADD8E6,stroke:#333,stroke-width:2px
+    style C shape:rect,fill:#90EE90,stroke:#333,stroke-width:2px
+    style D shape:rect,fill:#90EE90,stroke:#333,stroke-width:2px
+    style E shape:rect,fill:#90EE90,stroke:#333,stroke-width:2px
+    style F shape:circle,fill:#FFDAB9,stroke:#333,stroke-width:2px
+    style G shape:circle,fill:#FFDAB9,stroke:#333,stroke-width:2px
+    style H shape:circle,fill:#FFDAB9,stroke:#333,stroke-width:2px
+    style L shape:rect,fill:#F0E68C,stroke:#333,stroke-width:2px
+    linkStyle 0 stroke:#333,stroke-width:2px
+    linkStyle 1 stroke:#333,stroke-width:2px
+    linkStyle 2 stroke:#333,stroke-
+```
+
+
+
+```python
+# 🧩 Mixture of Experts (MoE)
+
+## 📊 Experts
+- 📥 Inputs: Data relevant to the expert's specialization
+- 📤 Outputs: Predictions or responses based on the expert's knowledge
+- 💯 Scoring: Measures the expert's confidence or relevance for a given input
+
+## 🚦 Gating Network
+- 🎯 Goal: Route queries to the most suitable expert based on scoring
+
+## 🎓 Learning
+- Experts and gating network learn to optimize performance
+```
 
 # Mermaid Models on MAS, MOE, SRSB, MMFM
 
