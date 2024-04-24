@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Mermaid Model of MAS, MOE, SRSB, MMFM (Fantastic Four of AI)
+# Mermaid Model of MAS, MOE, SRSB, MMFM
 
 # MAS - Solve by swarm of agents
 # MOE - Solve by named experts
