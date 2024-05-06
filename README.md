@@ -3,13 +3,17 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Top Techniques in AI and Neuroscience - 05/06/2024 - Review by Aaron Wacker
 
-1. Principle Self Alignment with Verbose Cloning:  https://arxiv.org/pdf/2305.03047 - Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
-2. Agent Tool Usage:  https://arxiv.org/pdf/2308.03427 - TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage
-3. Action Grounded Agents:  https://arxiv.org/pdf/2312.03664 - Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia
-4. Auto-Agent Architecture:  https://arxiv.org/pdf/2311.13148 - TOWARDS RESPONSIBLE GENERATIVE AI: A REFERENCE ARCHITECTURE FOR DESIGNING FOUNDATION MODEL BASED AGENTS
-5. Gradient Episodic Memory for Continual Learning:  https://arxiv.org/pdf/1706.08840
-6. 
-
+1. **Principle Self Alignment with Verbose Cloning:**  https://arxiv.org/pdf/2305.03047 - Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+2. **Agent Tool Usage:**  https://arxiv.org/pdf/2308.03427 - TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage
+3. **Action Grounded Agents:**  https://arxiv.org/pdf/2312.03664 - Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia
+4. **Auto-Agent Architecture: ** https://arxiv.org/pdf/2311.13148 - TOWARDS RESPONSIBLE GENERATIVE AI: A REFERENCE ARCHITECTURE FOR DESIGNING FOUNDATION MODEL BASED AGENTS
+5.** Gradient Episodic Memory for Continual Learning:**  https://arxiv.org/pdf/1706.08840
+6. **Active-Predictive-Coding:**  https://arxiv.org/pdf/2210.13461 - Active Predictive Coding: A Unified Neural Framework for Learning Hierarchical World Models for Perception and Planning
+7. **ProAgent Verify Belief Correction:**  https://arxiv.org/pdf/2308.11339 - ProAgent: Building Proactive Cooperative Agents with Large Language Models
+8. **Plan Task Decompose:** https://arxiv.org/pdf/2309.14365 - An In-depth Survey of Large Language Model-based Artificial Intelligence Agents
+9.** Ethics Nursing Value Measurement:**  https://arxiv.org/pdf/2303.03929 - Towards Measuring “Ethicality” of an Intelligent Assistive System
+10. **AutoAgents: A Framework for Automatic Agent Generation:**  https://arxiv.org/pdf/2309.17288
+11. **Improving Value Judgements:**  https://arxiv.org/pdf/2311.09230 - Evaluating and Improving Value Judgments in AI: A Scenario-Based Study on Large Language Models' Depiction of Social Conventions
 
 
 # Mermaid Model of MAS, MOE, SRSB, MMFM
