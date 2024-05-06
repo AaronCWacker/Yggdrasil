@@ -3,7 +3,66 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Top Techniques in AI and Neuroscience - 05/06/2024 - Mermaid Models by Aaron Wacker
 
-# AI Agent System Incorporating Top Techniques in AI and Neuroscience
+# AI Agent System - Claude3 Opus:
+
+## Features
+
+1. Principle Self Alignment with Verbose Cloning
+2. Agent Tool Usage
+3. Action Grounded Agents
+4. Auto-Agent Architecture
+5. Gradient Episodic Memory for Continual Learning
+6. Active-Predictive-Coding
+7. ProAgent Verify Belief Correction
+8. Plan Task Decompose
+9. Ethics Nursing Value Measurement
+10. AutoAgents: A Framework for Automatic Agent Generation
+11. Improving Value Judgements
+
+## Model Outline
+
+1. Input Processing
+   - Receive input from the environment
+   - Preprocess and normalize input data
+
+2. Perception and World Modeling
+   - Use Active-Predictive-Coding to learn hierarchical world models
+   - Integrate Gradient Episodic Memory for continual learning and adaptation
+
+3. Goal Setting and Planning
+   - Utilize Principle Self Alignment with Verbose Cloning to align goals with human values
+   - Apply Plan Task Decompose to break down complex tasks into manageable subtasks
+
+4. Action Execution
+   - Employ Agent Tool Usage to select and use appropriate tools for task completion
+   - Implement Action Grounded Agents to ground actions in physical, social, or digital space
+
+5. Belief Correction and Verification
+   - Use ProAgent Verify Belief Correction to update and correct beliefs based on new information
+   - Integrate Ethics Nursing Value Measurement to ensure ethical decision-making
+
+6. Agent Generation and Improvement
+   - Utilize AutoAgents framework for automatic agent generation and customization
+   - Incorporate Improving Value Judgements to refine and enhance the agent's value system
+
+7. Output Generation
+   - Generate appropriate responses or actions based on the processed input and decision-making
+   - Communicate or interact with the environment to complete tasks
+
+## Mermaid Diagram
+
+```mermaid
+graph TD
+    A[Input Processing] --> B[Perception and World Modeling]
+    B --> C[Goal Setting and Planning]
+    C --> D[Action Execution]
+    D --> E[Belief Correction and Verification]
+    E --> F[Agent Generation and Improvement]
+    F --> G[Output Generation]
+    G --> A
+```
+
+# AI Agent System Incorporating Top Techniques in AI and Neuroscience -- ChatGPT:
 
 ## Overview
 This system integrates various cutting-edge techniques in AI and neuroscience to create versatile AI agents capable of performing a wide range of tasks efficiently and responsibly.
