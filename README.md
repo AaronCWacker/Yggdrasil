@@ -5,6 +5,51 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # AI Agent System - Claude3 Opus:
 
+```mermaid
+graph TD
+    subgraph Input Processing
+        A[Receive Input] --> B[Preprocess Data]
+    end
+    
+    subgraph Perception and World Modeling
+        C[Active-Predictive-Coding] --> D[Hierarchical World Models]
+        E[Gradient Episodic Memory] --> F[Continual Learning]
+    end
+    
+    subgraph Goal Setting and Planning
+        G[Principle Self Alignment] --> H[Verbose Cloning]
+        I[Plan Task Decompose] --> J[Subtask Generation]
+    end
+    
+    subgraph Action Execution
+        K[Agent Tool Usage] --> L[Tool Selection]
+        M[Action Grounded Agents] --> N[Action Grounding]
+    end
+    
+    subgraph Belief Correction and Verification
+        O[ProAgent Verify Belief Correction] --> P[Belief Updating]
+        Q[Ethics Nursing Value Measurement] --> R[Ethical Decision-Making]
+    end
+    
+    subgraph Agent Generation and Improvement
+        S[AutoAgents Framework] --> T[Agent Customization]
+        U[Improving Value Judgements] --> V[Value System Refinement]
+    end
+    
+    subgraph Output Generation
+        W[Response Generation] --> X[Environment Interaction]
+    end
+    
+    Input Processing --> Perception and World Modeling
+    Perception and World Modeling --> Goal Setting and Planning
+    Goal Setting and Planning --> Action Execution
+    Action Execution --> Belief Correction and Verification
+    Belief Correction and Verification --> Agent Generation and Improvement
+    Agent Generation and Improvement --> Output Generation
+    Output Generation --> Input Processing
+```
+
+
 ## Features
 
 1. Principle Self Alignment with Verbose Cloning
