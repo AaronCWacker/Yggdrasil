@@ -1,6 +1,10 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Techniques in AI and Neuroscience - 05/06/2024 - Mermaid Models by Aaron Wacker
+
+
+
 # Top Techniques in AI and Neuroscience - 05/06/2024 - Review by Aaron Wacker
 
 1. **Principle Self Alignment with Verbose Cloning:**  https://arxiv.org/pdf/2305.03047 - Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
@@ -14,6 +18,57 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 9.** Ethics Nursing Value Measurement:**  https://arxiv.org/pdf/2303.03929 - Towards Measuring “Ethicality” of an Intelligent Assistive System
 10. **AutoAgents: A Framework for Automatic Agent Generation:**  https://arxiv.org/pdf/2309.17288
 11. **Improving Value Judgements:**  https://arxiv.org/pdf/2311.09230 - Evaluating and Improving Value Judgments in AI: A Scenario-Based Study on Large Language Models' Depiction of Social Conventions
+
+# New Orleans Clubs by Type:
+```python
+🎹🍸  Lafitte's Blacksmith Shop (Piano Bar, Bar & Tavern)
+🎹🍺🎼  Pat O'Brien's Bar (Piano Bar, Bar & Tavern, Dueling Pianos)
+🎹🍸  The Puccini Bar (Live Music, Piano Bar, Cocktail Lounge)
+🎹🍸  Carousel Bar (Piano Bar, Cocktail Lounge, Craft Cocktails, 18+)
+
+🎵🍺  Beach on Bourbon (Bar & Tavern)
+🎵🎧🌴  Bourbon Bandstand (Live Music, DJ, Patio/Outdoor Seating)
+🎵🍸🍽️  Bourbon 'O' (Jazz Club, Cocktail Lounge, Food)
+🎵  Bourbon Street Balcony Music Club (Jazz Club, Live Music, 18+)
+🎵🍺  Tin Roof New Orleans (Live Music, Bar & Tavern)
+🎵🍺  JINX Bar & Grill (Live Music, Bar & Tavern)
+🎵🍺🎯  Kerry Irish Pub (Live Music, Bar & Tavern, Darts, Pool Tables)
+🎵🎧🕺🌴  Krazy Korner (Live Music, DJ, Dance Club, Patio/Outdoor Seating)
+🎵  The Old Opera House (Live Music)
+🎵🍺  Prohibition (Live Music, Bar & Tavern)
+🎵  Sing-Sing Club (Live Music)
+🎵🍺  Snug Harbor Jazz Bistro (Live Music, Bar & Tavern)
+🎵🍺  The Upper Quarter (Live Music, Bar & Tavern)
+🎵🍺  Funky Pirate (Live Music, Bar & Tavern, Patio/Outdoor Seating)
+🎵🍺  Santos Bar (Live Music)
+🎵🎧🔞🌴  Dragon's Den (Live Music, DJ, 18+, Patio/Outdoor Seating)
+🎵🍽️🌴🍺  Tropical Isle Bayou Club (Live Music, Cajun Dancing, Food)
+🎵🎹🍺🍽️🕺  Chris Owens Club (Live Music, DJ, Dance Club, Cabaret, 18+)
+🎵🍽️🌴🕺🎧🔞  The Parish Room (Live Music, DJ, Dance Club, Food, Patio/Outdoor Seating, 18+)
+🎷  Fritzel's Jazz Club (Jazz Club, Live Music)
+🎷  Preservation Hall (Jazz Club, Live Music)
+🎷  21st Amendment Jazz Club at La Louisiane (Jazz Club, Cocktail Lounge, Craft Cocktails)
+🎷  Maison Bourbon Jazz Club (Jazz Club, Venue)
+🎷🎧🔞🌴  The Jazz Playhouse (Jazz Club, Cocktail Lounge, Food, 18+)
+🎷🍺🎼  Lafitte's Blacksmith Shop (Piano Bar, Bar & Tavern)
+🎷🎧🌴🔞  Mahogany Jazz Hall (DJ, Burlesque)
+🎷🎹🍸🍽️🌴  The Davenport Lounge (Jazz Club, Piano Bar, Cocktail Lounge, Food, Patio/Outdoor Seating)
+
+🎧  Babe's Cabaret (DJ, Adult Entertainment, 18+, Food)
+🎧🌴🌈🎤🎯  Cafe Lafitte In Exile (DJ, Gay Bar, Karaoke, Patio/Outdoor Seating, Pool Tables)
+🎧🌈  The Corner Pocket (DJ, Gay Bar)
+🎧🎪🔞🍺  Stiletto's Cabaret (DJ, Cabaret, Adult Entertainment, Food, 18+)
+🎧🎪🔞🍺  Temptations (DJ, Adult Entertainment, 18+)
+🎧🎪  Scores Gentlemen's Club (DJ, Adult Entertainment)
+🎧🌈  The Voodoo Lounge (DJ, Gay Bar)
+
+🍽️  New Orleans Creole Cookery (Creole, Cajun, Seafood)
+🍽️  Orleans Grapevine Bar & Bistro (Cajun, French)
+🍽️  Palm Court Jazz Cafe (Creole)
+🎭  House of Blues (Venue)
+🎭  My Bar @ 635 (Venue)
+🎭  Toulouse Theatre (Venue)
+```
 
 
 # Mermaid Model of MAS, MOE, SRSB, MMFM
