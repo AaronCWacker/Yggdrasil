@@ -1,6 +1,17 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Top Techniques in AI and Neuroscience - 05/06/2024 - Review by Aaron Wacker
+
+1. Principle Self Alignment with Verbose Cloning:  https://arxiv.org/pdf/2305.03047 - Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision
+2. Agent Tool Usage:  https://arxiv.org/pdf/2308.03427 - TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage
+3. Action Grounded Agents:  https://arxiv.org/pdf/2312.03664 - Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia
+4. Auto-Agent Architecture:  https://arxiv.org/pdf/2311.13148 - TOWARDS RESPONSIBLE GENERATIVE AI: A REFERENCE ARCHITECTURE FOR DESIGNING FOUNDATION MODEL BASED AGENTS
+5. Gradient Episodic Memory for Continual Learning:  https://arxiv.org/pdf/1706.08840
+6. 
+
+
+
 # Mermaid Model of MAS, MOE, SRSB, MMFM
 
 # MAS - Solve by swarm of agents
