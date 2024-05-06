@@ -3,6 +3,71 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Top Techniques in AI and Neuroscience - 05/06/2024 - Mermaid Models by Aaron Wacker
 
+# AI Agent System Incorporating Top Techniques in AI and Neuroscience
+
+## Overview
+This system integrates various cutting-edge techniques in AI and neuroscience to create versatile AI agents capable of performing a wide range of tasks efficiently and responsibly.
+
+## Features
+1. Principle Self Alignment with Verbose Cloning
+   - Incorporates principle-driven self-alignment of language models with minimal human supervision.
+   - Source: [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision](https://arxiv.org/pdf/2305.03047)
+
+2. Agent Tool Usage
+   - Utilizes large language model-based AI agents for task planning and tool usage.
+   - Source: [TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage](https://arxiv.org/pdf/2308.03427)
+
+3. Action Grounded Agents
+   - Implements generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia.
+   - Source: [Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia](https://arxiv.org/pdf/2312.03664)
+
+4. Auto-Agent Architecture
+   - Adopts a reference architecture for designing foundation model-based agents with a focus on responsible generative AI.
+   - Source: [TOWARDS RESPONSIBLE GENERATIVE AI: A REFERENCE ARCHITECTURE FOR DESIGNING FOUNDATION MODEL BASED AGENTS](https://arxiv.org/pdf/2311.13148)
+
+5. Gradient Episodic Memory for Continual Learning
+   - Incorporates gradient episodic memory for continual learning.
+   - Source: [Gradient Episodic Memory for Continual Learning](https://arxiv.org/pdf/1706.08840)
+
+6. Active-Predictive-Coding
+   - Utilizes active predictive coding, a unified neural framework for learning hierarchical world models for perception and planning.
+   - Source: [Active Predictive Coding: A Unified Neural Framework for Learning Hierarchical World Models for Perception and Planning](https://arxiv.org/pdf/2210.13461)
+
+7. ProAgent Verify Belief Correction
+   - Implements ProAgent for building proactive cooperative agents with large language models.
+   - Source: [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://arxiv.org/pdf/2308.11339)
+
+8. Plan Task Decompose
+   - Utilizes large language model-based artificial intelligence agents for task decomposition.
+   - Source: [An In-depth Survey of Large Language Model-based Artificial Intelligence Agents](https://arxiv.org/pdf/2309.14365)
+
+9. Ethics Nursing Value Measurement
+   - Implements methods for measuring the "ethicality" of an intelligent assistive system.
+   - Source: [Towards Measuring “Ethicality” of an Intelligent Assistive System](https://arxiv.org/pdf/2303.03929)
+
+10. AutoAgents: A Framework for Automatic Agent Generation
+    - Utilizes the AutoAgents framework for automatic agent generation.
+    - Source: [AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/pdf/2309.17288)
+
+11. Improving Value Judgements
+    - Evaluates and improves value judgments in AI through scenario-based studies on large language models' depiction of social conventions.
+    - Source: [Evaluating and Improving Value Judgments in AI: A Scenario-Based Study on Large Language Models' Depiction of Social Conventions](https://arxiv.org/pdf/2311.09230)
+
+## System Model
+```mermaid
+graph TD;
+    A[Principle Self Alignment] --> B[Agent Tool Usage];
+    A --> C[Action Grounded Agents];
+    B --> D[Auto-Agent Architecture];
+    C --> E[Active-Predictive-Coding];
+    D --> F[Gradient Episodic Memory];
+    E --> G[ProAgent Verify Belief Correction];
+    F --> H[Plan Task Decompose];
+    G --> I[Ethics Nursing Value Measurement];
+    H --> J[AutoAgents];
+    I --> J;
+    J --> K[Improving Value Judgements];
+
 
 
 # Top Techniques in AI and Neuroscience - 05/06/2024 - Review by Aaron Wacker
