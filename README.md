@@ -3,8 +3,6 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Top Techniques in AI and Neuroscience - 05/06/2024 - Mermaid Models by Aaron Wacker
 
-# AI Agent System - Claude3 Opus:
-
 ```mermaid
 graph TD
     subgraph InputProcessing[Input Processing]
@@ -49,7 +47,6 @@ graph TD
     OutputGeneration --> InputProcessing
 
 ```
-
 
 ## Features
 
@@ -108,7 +105,7 @@ graph TD
     G --> A
 ```
 
-# AI Agent System Incorporating Top Techniques in AI and Neuroscience -- ChatGPT:
+# AI Agent System Incorporating Top Techniques in AI and Neuroscience -- Overview
 
 ## Overview
 This system integrates various cutting-edge techniques in AI and neuroscience to create versatile AI agents capable of performing a wide range of tasks efficiently and responsibly.
