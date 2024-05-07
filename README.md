@@ -1,7 +1,7 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Top Techniques in AI and Neuroscience - 05/06/2024 - Mermaid Models by Aaron Wacker
+# Top Techniques in AI - 05/06/2024 - Mermaid Models by Aaron Wacker
 
 ```mermaid
 graph TD
