@@ -54,6 +54,43 @@ F --> G[🏁 End]
 
 ## Process for Documenting What Invention Solves
 
+#### our main parts inside boxes and laid out horizontally to fit on one wide page
+
+```mermaid
+graph LR
+subgraph Part 1
+A[🚀 Start] --> B[📝 List top Problems your invention solves]
+B --> C{❓ Are the problems significant?}
+C -->|Yes| D[😖 Identify the pain points]
+C -->|No| E[🔄 Refine the problem statement]
+E --> B
+end
+
+subgraph Part 2
+D --> F[📋 Explain how it works in Method Steps]
+F --> G{🤔 Are the method steps clear and concise?}
+G -->|Yes| H[⚡ Identify the Novel Steps of invention]
+G -->|No| I[🔄 Refine the method steps]
+I --> F
+end
+
+subgraph Part 3
+H --> J{🆕 Are the novel steps truly unique?}
+J -->|Yes| K[🏗️ Identify alternate Ways of Structuring]
+J -->|No| L[🔄 Refine the novel steps]
+L --> H
+end
+
+subgraph Part 4
+K --> M{🌈 Are the alternate structures feasible?}
+M -->|Yes| N[✅ Finalize the invention disclosure]
+M -->|No| O[🔄 Refine the alternate structures]
+O --> K
+N --> P[🏁 End]
+end
+```
+
+
 ```mermaid
 graph TD
 A[🚀 Start] --> B[📝 List top Problems your invention solves]
