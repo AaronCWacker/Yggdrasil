@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Four steps
+
+```mermaid
+graph TD
+A[🚀 Start] --> B[📝 List top Problems your invention solves]
+B --> C{❓ Are the problems significant?}
+C -->|Yes| D[😖 Identify the pain points]
+C -->|No| E[🔄 Refine the problem statement]
+E --> B
+D --> F[📋 Explain how it works in Method Steps]
+F --> G{🤔 Are the method steps clear and concise?}
+G -->|Yes| H[⚡ Identify the Novel Steps of invention]
+G -->|No| I[🔄 Refine the method steps]
+I --> F
+H --> J{🆕 Are the novel steps truly unique?}
+J -->|Yes| K[🏗️ Identify alternate Ways of Structuring]
+J -->|No| L[🔄 Refine the novel steps]
+L --> H
+K --> M{🌈 Are the alternate structures feasible?}
+M -->|Yes| N[✅ Finalize the invention disclosure]
+M -->|No| O[🔄 Refine the alternate structures]
+O --> K
+N --> P[🏁 End]
+```
+
+
 # Marketing and Product - The "Whys"  inform Whats and Marketing
 
 When inventing and building a product that people need it is important to keep an idea of the visceral pain you are solving, the joy of what the customer wants, and the superpower of how it looks when done right.
