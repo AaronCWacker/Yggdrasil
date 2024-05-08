@@ -6,9 +6,9 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 When inventing and building a product that people need it is important to keep an idea of the visceral pain you are solving, the joy of what the customer wants, and the superpower of how it looks when done right.
 
 1. List top **Problem(s)** your invention solves.
-2. Explain how it works in Method Steps.
-3. Identify what are the novel steps of invention.
-4. Identify alternate ways of structuring the invention.
+2. Explain how it works in **Method Steps**.
+3. Identify what are the **Novel Steps** of invention.
+4. Identify alternate **Ways of Structuring** the invention.
 
 ```mermaid
 graph TD
