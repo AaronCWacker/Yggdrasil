@@ -17,7 +17,7 @@ B --> C{Does it solve a visceral pain?}
 C -->|Yes| D[Identify the visceral pain]
 C -->|No| E[Refine the problem statement]
 E --> B
-D --> F[Explain how it works in Method Steps]
+D --> F[Explain how it works solving pain in Method Steps]
 F --> G{Does it bring joy to the customer?}
 G -->|Yes| H[Highlight the joyful experience]
 G -->|No| I[Refine the method steps]
