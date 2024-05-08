@@ -1,6 +1,204 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# How to Know if an Idea is Brilliant
+
+1. Tony Fadell, co inventor of the iPhone, iPod, Nest thermostat has a Method
+2. Pain, Joy, Superpower
+3. Transcript Insight:  https://www.youtube.com/watch?v=4oDZyOf6CW4&t=2703s
+
+Here is an outline that quotes what Tony Fadell says about Pain, Joy and Superpower:
+I. Tony Fadell's Method for Knowing if an Idea is Brilliant
+A. Look for three key elements:
+1. Pain
+- Fadell: "i always had pain the pain of carrying these cds everywhere right"
+2. Joy
+- Fadell: "and i had the joy of music right"
+3. Superpower
+- Fadell: "if you could say all of a sudden i could get the music i love all the time in a portable package and i can have all the music i love all the time i was solving a pain which was for me it was thousands of these other people might be 10 or 15 cds right and then i can have the joy of all this music uninterrupted that was that was taking the pain making a painkiller for it and then at the end was a superpower an emotional superpower that said oh my this is something different"
+
+```python
+i always had pain the pain of carrying these cds everywhere right
+
+and i had the joy of music right
+	if you could say all of a sudden i could get the music i love all the time in a portable package
+	and i can have all the music i love all the time i was solving a pain which was for me
+	it was thousands of these other people might be 10 or 15 cds right and then i can have
+	the joy of all this music uninterrupted that was that was taking the pain making a painkiller for it and then at
+
+the end was a superpower an emotional superpower that said oh my this is something different so when you
+can actually focus on a pain not of not and and get a painkiller for it not a
+vitamin so the difference between a painkiller and a vitamin is very clear
+one you need i got to get rid of this pain a vitamin maybe it works maybe it
+doesn't maybe somebody needs it maybe
+
+47:06
+not it's all marketing story right
+
+47:08
+so you start with the pain give them a
+
+47:10
+painkiller and hopefully if you can do
+
+47:12
+it in the right way you give them a
+
+47:14
+superpower an emotional superpower
+
+47:17
+that is always and that's the way to to
+
+47:20
+to know that you're hitting on something
+
+47:22
+that's really powerful the pain and the
+
+47:24
+joy exactly um are you always aware
+
+47:28
+of the pain
+
+47:31
+so it seems like a lot of great products
+
+47:34
+it's like we do a lot of painful things
+
+47:36
+and we just kind of assume
+
+47:38
+that's the way
+
+47:39
+it's supposed to be like with much
+
+47:41
+autonomous vehicles we'll all assume
+
+47:43
+we're supposed to be driving
+
+47:45
+right like and it doesn't
+
+47:48
+you don't think of it as a pain
+
+47:50
+right
+
+47:51
+well you've you've habituated it away
+
+47:53
+yeah you've habituated way for me you
+
+47:55
+know when i go uh to other places
+
+47:58
+living in bali or living in paris or
+
+48:00
+whatever and i'm not driving
+
+48:03
+i'm walking or reusing a scooter or what
+
+48:05
+have you different thing and you go oh
+
+48:07
+my god when you left that environment
+
+48:10
+because everyone else is driving all the
+
+48:12
+time you're like that's what you do and
+
+48:13
+you find out there's other ways of
+
+48:15
+living and there's freedom when you get
+
+48:16
+rid of that you're like oh my god i
+
+48:19
+didn't know
+
+48:20
+that this was so much better so there's
+
+48:22
+there's something in the book that's
+
+48:24
+called i i deemed it the virus of doubt
+
+48:27
+and what the virus of doubt is is when
+
+48:29
+there's pain and it's been habituated
+
+48:32
+away
+
+48:33
+you use the right marketing messages
+
+48:35
+to
+
+48:36
+to bring people back to that initial
+
+48:38
+experience they had or the initial
+
+48:39
+experience that they had of that pain do
+
+48:42
+you remember when the first time you did
+
+48:44
+blah and it felt like this
+
+48:48
+right and then you reawaken
+
+48:51
+that habituated pain
+
+48:54
+and people it becomes visceral and then
+
+48:57
+they're like oh
+
+48:59
+yes i hate that
+
+49:01
+and then you go now i have the
+
+49:02
+painkiller and the joy for you yes
+
+49:05
+that's when it all comes together
+```
+
+
 # Top Techniques in AI - 05/06/2024 - Mermaid Models by Aaron Wacker
 
 ```mermaid
