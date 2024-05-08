@@ -5,6 +5,17 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 ```mermaid
 graph TD
+A[🚀 Start] --> B[📝 List top Problems]
+B --> C[📋 Explain Method Steps]
+C --> D[⚡ Identify Novel Steps]
+D --> E[🏗️ Identify alternate Ways of Structuring]
+E --> F[🎯 Finalize invention disclosure]
+F --> G[🏁 End]
+```
+
+
+```mermaid
+graph TD
 A[🚀 Start] --> B[📝 List top Problems your invention solves]
 B --> C{❓ Are the problems significant?}
 C -->|Yes| D[😖 Identify the pain points]
