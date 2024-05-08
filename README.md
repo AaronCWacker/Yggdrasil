@@ -54,6 +54,46 @@ F --> G[🏁 End]
 
 ## Process for Documenting What Invention Solves
 
+#### Customer Experience Model
+
+```mermaid
+graph LR
+subgraph Awareness
+A[📣 Customer learns about the product/service] --> B{🤔 Is the customer interested?}
+B -->|Yes| C[🔍 Customer researches more information]
+B -->|No| D[🚫 Customer moves on]
+end
+
+subgraph Consideration
+C --> E{💭 Does the product/service meet the customer's needs?}
+E -->|Yes| F[💸 Customer compares prices and options]
+E -->|No| D[🚫 Customer moves on]
+end
+
+subgraph Purchase
+F --> G{🛒 Is the customer ready to buy?}
+G -->|Yes| H[💳 Customer makes the purchase]
+G -->|No| I[🔄 Customer continues researching]
+I --> E
+end
+
+subgraph Post-Purchase
+H --> J[📦 Customer receives the product/service]
+J --> K{😊 Is the customer satisfied?}
+K -->|Yes| L[💌 Customer leaves a positive review]
+K -->|No| M[😔 Customer seeks support or returns the product]
+end
+
+subgraph Loyalty
+L --> N{🔁 Would the customer buy again?}
+N -->|Yes| O[🏆 Customer becomes a loyal advocate]
+N -->|No| P[🔄 Customer looks for alternatives]
+P --> A
+end
+```
+
+
+
 #### our main parts inside boxes and laid out horizontally to fit on one wide page
 
 ```mermaid
