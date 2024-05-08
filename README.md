@@ -1,6 +1,41 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Marketing and Product - The "Whys"  inform Whats and Marketing
+
+When inventing and building a product that people need it is important to keep an idea of the visceral pain you are solving, the joy of what the customer wants, and the superpower of how it looks when done right.
+
+1. List top **Problem(s)** your invention solves.
+2. Explain how it works in Method Steps.
+3. Identify what are the novel steps of invention.
+4. Identify alternate ways of structuring the invention.
+
+```mermaid
+graph TD
+A[Start] --> B[List top Problems your invention solves]
+B --> C{Does it solve a visceral pain?}
+C -->|Yes| D[Identify the visceral pain]
+C -->|No| E[Refine the problem statement]
+E --> B
+D --> F[Explain how it works in Method Steps]
+F --> G{Does it bring joy to the customer?}
+G -->|Yes| H[Highlight the joyful experience]
+G -->|No| I[Refine the method steps]
+I --> F
+H --> J[Identify what are the novel steps of invention]
+J --> K{Does it offer a superpower when done right?}
+K -->|Yes| L[Emphasize the superpower]
+K -->|No| M[Refine the novel steps]
+M --> J
+L --> N[Identify alternate ways of structuring the invention]
+N --> O{Are the alternate structures feasible?}
+O -->|Yes| P[Include the alternate structures]
+O -->|No| Q[Refine the alternate structures]
+Q --> N
+P --> R[Finalize the invention disclosure]
+R --> S[End]
+```
+
 # Pain, Joy Superpower Mermaid Model
 
 ```mermaid
