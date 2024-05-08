@@ -3,6 +3,33 @@ Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Mach
 
 # Four steps of invention
 
+When inventing and building a product that people need it is important to keep an idea of the visceral pain you are solving, the joy of what the customer wants, and the superpower of how it looks when done right.
+
+1. List top **Problem(s)** your invention solves.
+2. Explain how it works in **Method Steps**.
+3. Identify what are the **Novel Steps** of invention.
+4. Identify alternate **Ways of Structuring** the invention.
+
+
+## Product Press Release - Engineering Inventions
+
+1. Tony Fadell, **co-inventor** of the **iPhone, iPod, Nest** thermostat has a Method
+2. Pain, Joy, Superpower methodology of understanding what customers care about.
+3. Transcript Insight:  https://www.youtube.com/watch?v=4oDZyOf6CW4&t=2703s
+
+## Outline on what Tony Fadell says about Pain, Joy and Superpower:
+
+I. Tony Fadell's Method for Knowing if an Idea is Brilliant
+A. Look for three key elements:
+1. Pain
+- Fadell: "i always had pain the pain of carrying these cds everywhere right"
+2. Joy
+- Fadell: "and i had the joy of music right"
+3. Superpower
+- Fadell: "if you could say all of a sudden i could get the music i love all the time in a portable package and i can have all the music i love all the time i was solving a pain which was for me it was thousands of these other people might be 10 or 15 cds right and then i can have the joy of all this music uninterrupted that was that was taking the pain making a painkiller for it and then at the end was a superpower an emotional superpower that said oh my this is something different"
+
+## Virus of Doubt - Understanding Your Customer
+
 ```mermaid
 graph TD
 A[🚀 Start] --> B[🦠 Virus of Doubt]
@@ -13,6 +40,7 @@ E --> F[💊 Now you have the painkiller and joy for your customer]
 F --> G[🏁 End]
 ```
 
+## Problems, Method Steps, What is Novel and Unique, Ways of Structuring
 
 ```mermaid
 graph TD
@@ -20,10 +48,11 @@ A[🚀 Start] --> B[📝 List top Problems]
 B --> C[📋 Explain Method Steps]
 C --> D[⚡ Identify Novel Steps]
 D --> E[🏗️ Identify alternate Ways of Structuring]
-E --> F[🎯 Finalize invention]
+E --> F[🎯 Create and disclose invention]
 F --> G[🏁 End]
 ```
 
+## Process for Documenting What Invention Solves
 
 ```mermaid
 graph TD
@@ -49,14 +78,7 @@ N --> P[🏁 End]
 ```
 
 
-# Marketing and Product - The "Whys"  inform Whats and Marketing
-
-When inventing and building a product that people need it is important to keep an idea of the visceral pain you are solving, the joy of what the customer wants, and the superpower of how it looks when done right.
-
-1. List top **Problem(s)** your invention solves.
-2. Explain how it works in **Method Steps**.
-3. Identify what are the **Novel Steps** of invention.
-4. Identify alternate **Ways of Structuring** the invention.
+## Marketing and Product - Why should I care?  The "Whys" inform Whats and Marketing & Engineering Together
 
 ```mermaid
 graph TD
@@ -75,6 +97,8 @@ J --> K[🏗️ Identify alternate Ways of Structuring]
 K --> L[🎯 Finalize the invention disclosure]
 L --> M[🏁 End]
 ```
+
+##  Specifying Invention with Pain/Joy/Superpower and Problems/Method Steps/Novel-Unique/Ways of Structuring
 
 ```mermaid
 graph TD
@@ -156,22 +180,6 @@ K --> Q
 N --> Q
 ```
 
-
-# How to Know if an Idea is Brilliant
-
-1. Tony Fadell, co inventor of the iPhone, iPod, Nest thermostat has a Method
-2. Pain, Joy, Superpower
-3. Transcript Insight:  https://www.youtube.com/watch?v=4oDZyOf6CW4&t=2703s
-
-Here is an outline that quotes what Tony Fadell says about Pain, Joy and Superpower:
-I. Tony Fadell's Method for Knowing if an Idea is Brilliant
-A. Look for three key elements:
-1. Pain
-- Fadell: "i always had pain the pain of carrying these cds everywhere right"
-2. Joy
-- Fadell: "and i had the joy of music right"
-3. Superpower
-- Fadell: "if you could say all of a sudden i could get the music i love all the time in a portable package and i can have all the music i love all the time i was solving a pain which was for me it was thousands of these other people might be 10 or 15 cds right and then i can have the joy of all this music uninterrupted that was that was taking the pain making a painkiller for it and then at the end was a superpower an emotional superpower that said oh my this is something different"
 
 ```python
 i always had pain the pain of carrying these cds everywhere right
