@@ -1,7 +1,18 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
-# Four steps
+# Four steps of invention
+
+```mermaid
+graph TD
+A[🚀 Start] --> B[🦠 Virus of Doubt]
+B --> C[😖 Pain and its been habituated away]
+C --> D[📣 Use marketing messages to bring people back to that initial experience]
+D --> E[💭 Do you remember the first time you did __ and it felt like __?]
+E --> F[💊 Now you have the painkiller and joy for your customer]
+F --> G[🏁 End]
+```
+
 
 ```mermaid
 graph TD
@@ -9,7 +20,7 @@ A[🚀 Start] --> B[📝 List top Problems]
 B --> C[📋 Explain Method Steps]
 C --> D[⚡ Identify Novel Steps]
 D --> E[🏗️ Identify alternate Ways of Structuring]
-E --> F[🎯 Finalize invention disclosure]
+E --> F[🎯 Finalize invention]
 F --> G[🏁 End]
 ```
 
