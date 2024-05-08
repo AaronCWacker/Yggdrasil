@@ -12,6 +12,24 @@ When inventing and building a product that people need it is important to keep a
 
 ```mermaid
 graph TD
+A[🚀 Start] --> B[📝 List top Problems your invention solves]
+B --> C{❓ Does it solve a visceral pain?}
+C -->|Yes| D[😖 Identify the visceral pain]
+C -->|No| E[🔄 Refine the problem statement]
+E --> B
+D --> F[📋 Explain how it works in Method Steps]
+F --> G{😊 Does it bring joy to the customer?}
+G -->|Yes| H[🎉 Highlight the joyful experience]
+G -->|No| I[🔄 Refine the method steps]
+I --> F
+H --> J[⚡ Identify the Novel Steps of invention]
+J --> K[🏗️ Identify alternate Ways of Structuring]
+K --> L[🎯 Finalize the invention disclosure]
+L --> M[🏁 End]
+```
+
+```mermaid
+graph TD
 A[Start] --> B[List top Problems your invention solves]
 B --> C{Does it solve a visceral pain?}
 C -->|Yes| D[Identify the visceral pain]
