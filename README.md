@@ -1,6 +1,34 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Pain, Joy Superpower Mermaid Model
+
+```mermaid
+graph TD
+A[Idea] --> B{Does it have?}
+B --> C[Pain]
+B --> D[Joy]
+B --> E[Superpower]
+C --> F{How many people have this pain?}
+F -->|Many| G[Significant Pain Point]
+F -->|Few| H[Not a Significant Pain Point]
+D --> I{Does it bring joy to the user?}
+I -->|Yes| J[Joyful Experience]
+I -->|No| K[Lacks Joyful Experience]
+E --> L{Does it provide a unique superpower?}
+L -->|Yes| M[Emotional Superpower]
+L -->|No| N[Lacks Emotional Superpower]
+G --> O{Joyful Experience and Emotional Superpower?}
+J --> O
+M --> O
+O -->|Yes| P[Brilliant Idea]
+O -->|No| Q[Needs Improvement]
+H --> Q
+K --> Q
+N --> Q
+```
+
+
 # How to Know if an Idea is Brilliant
 
 1. Tony Fadell, co inventor of the iPhone, iPod, Nest thermostat has a Method
