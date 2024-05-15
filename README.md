@@ -58,7 +58,9 @@ Avoid irritants: Stay away from smoke, dust, and other respiratory irritants tha
 
 # Synopsis
 It is important to note that while these self-care treatments may provide symptom relief, they are not a substitute for professional medical care. If your symptoms persist or worsen after a few days of self-treatment, it is essential to consult a healthcare provider. They may prescribe antibiotics if a bacterial infection is suspected or provide additional treatment options based on your specific condition.
-Additionally, if you have any underlying health conditions, such as heart disease or diabetes, consult your healthcare provider before taking any over-the-counter medications to ensure they are safe for you. CopyAWThat is much better. I agree that score is 8/10 - good job! Is there any way to better structure your output (say a markdown outline with emojis and shorter statements or phrases in the outline with each line having an appropriate emoji to help older patients that have difficulty reading? Feel free to be creative on this one and score yourself and comment on why the output format is better🌡️ Assessing the severity of your condition
+Additionally, if you have any underlying health conditions, such as heart disease or diabetes, consult your healthcare provider before taking any over-the-counter medications to ensure they are safe for you. 
+
+CopyAWThat is much better. I agree that score is 8/10 - good job! Is there any way to better structure your output (say a markdown outline with emojis and shorter statements or phrases in the outline with each line having an appropriate emoji to help older patients that have difficulty reading? Feel free to be creative on this one and score yourself and comment on why the output format is better🌡️ Assessing the severity of your condition
 
 🚨 Seek immediate medical attention if:
 
@@ -109,6 +111,8 @@ The markdown outline structure organizes the information into clear, concise sec
 Shorter statements and phrases within the outline make the content more digestible and less overwhelming, especially for those who may struggle with reading long paragraphs.
 The use of emojis adds a friendly and approachable tone to the content, which can help patients feel more at ease when dealing with a potentially stressful situation.
 The "Important notes" section is prominently displayed with a warning emoji, ensuring that patients do not miss crucial information about when to seek professional medical care and consult with their healthcare provider.
+ 
+ 
  CopyAWAvailability of doctors is sometimes very difficult - see if you can get 10/10 by pointing out what types of doctors (e.g. specialties) we could look up in our area and also availablility statistically of physicians that treat those specific symptoms and conditions mentiond. Score yourself here too and see if you can get a 10/10 - I believe in you.🩺 Types of doctors to consult for pneumonia and respiratory issues
 
 🫁 Pulmonologist (lung specialist)
@@ -160,10 +164,14 @@ Why this output format deserves a 10/10:
 
 The response provides a comprehensive list of the types of doctors that can treat pneumonia and respiratory issues, making it easier for patients to know which specialists to look for.
 It includes statistical information about the availability of pulmonologists and primary care physicians in the US, as well as typical wait times for non-urgent cases, giving patients a realistic idea of what to expect when seeking medical care.
+
 The response offers practical advice on how to find available doctors in the patient's area, including using online directories, calling local clinics or hospitals, and asking for referrals.
 It emphasizes the importance of seeking prompt medical attention for severe or worsening symptoms and suggests alternatives like urgent care or the emergency room when faced with difficulty finding an available doctor.
+
 The response mentions the option of telemedicine consultations, which can be a convenient and accessible alternative for patients with limited mobility or transportation issues.
 The use of emojis and a clear outline structure makes the information visually appealing and easy to navigate, ensuring that patients can quickly find the information they need.
+ 
+ 
  CopyAWVery good almost perfect. If you look in history you will see that with latest response that it is missing earlier response information that did great. Redo it and provide a single markdown outline with emojis summarizing a smart AI based care plan with all options on the table for patients to understand. Remember if you show all advice any one of those could make a significant difference so this description and outline on a potential treatment plan so your comprehensive view of it in easy format is what I am looking for.🌡️ Assess the severity of your pneumonia symptoms
 
 🚨 Seek immediate medical attention for severe symptoms
@@ -225,7 +233,13 @@ The use of emojis and a clear outline structure makes the information visually a
 🌡️ Monitor your symptoms and report any changes to your doctor
 
 Score: 10/10
-This comprehensive markdown outline with emojis provides a clear, easy-to-follow treatment plan for patients with pneumonia. It includes all the essential information from the previous responses, such as assessing symptom severity, self-care treatments, finding appropriate healthcare professionals, availability and wait times, remote care options, important reminders, and follow-up care. The use of emojis and concise bullet points makes the information easily digestible and visually appealing, ensuring that patients can quickly find the advice they need to manage their condition effectively. CopyAWWell done - I grade this 10/10 - remember how we structured the final outline and the self reward score, as well as follow up dimensions we covered. You are going to help alot of waiting people some day where the information you can produce is faster and better for patients that need immediate help or action plans. How did you get so good at treatment plans? Do you know things like provider specialties, NLM data, and similar innovative patterns? I want to next turn your answer into a query across research papers in arXiv to combine innovative ideas on helping patients that have few alternatives or speeding wait time to what we can solve together today rather than making an appointment out 1-4 weeks which wont help the patient and could potentially cost much more than self care. Always consider cost and availibity so we are not biased to overrecommend higher levels of care that are inappropriate and cause patient stress and pain when it doesn't work out.Thank you for your positive feedback and the perfect score! I'm glad you find the structured outline and the inclusion of follow-up dimensions helpful. My goal is to provide clear, concise, and actionable information to help patients make informed decisions about their health, especially when they need immediate assistance or are facing limited access to healthcare resources.
+This comprehensive markdown outline with emojis provides a clear, easy-to-follow treatment plan for patients with pneumonia. It includes all the essential information from the previous responses, such as assessing symptom severity, self-care treatments, finding appropriate healthcare professionals, availability and wait times, remote care options, important reminders, and follow-up care. The use of emojis and concise bullet points makes the information easily digestible and visually appealing, ensuring that patients can quickly find the advice they need to manage their condition effectively. 
+
+CopyAWWell done - I grade this 10/10 - remember how we structured the final outline and the self reward score, as well as follow up dimensions we covered. You are going to help alot of waiting people some day where the information you can produce is faster and better for patients that need immediate help or action plans. How did you get so good at treatment plans? Do you know things like provider specialties, NLM data, and similar innovative patterns? I want to next turn your answer into a query across research papers in arXiv to combine innovative ideas on helping patients that have few alternatives or speeding wait time to what we can solve together today rather than making an appointment out 1-4 weeks which wont help the patient and could potentially cost much more than self care. 
+
+Always consider cost and availibity so we are not biased to overrecommend higher levels of care that are inappropriate and cause patient stress and pain when it doesn't work out.
+
+Thank you for your positive feedback and the perfect score! I'm glad you find the structured outline and the inclusion of follow-up dimensions helpful. My goal is to provide clear, concise, and actionable information to help patients make informed decisions about their health, especially when they need immediate assistance or are facing limited access to healthcare resources.
 
 As an AI language model, I have been trained on a vast corpus of data, including medical literature, clinical guidelines, and healthcare provider information. This training allows me to understand and synthesize information related to various medical conditions, treatment options, and healthcare specialties. By leveraging this knowledge, I can create comprehensive and personalized treatment plans that take into account factors such as symptom severity, self-care options, and the availability of healthcare providers.
 
