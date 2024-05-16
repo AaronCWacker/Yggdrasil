@@ -8,6 +8,7 @@ To know how to find doctors in my area it was recommended to me to check online 
 
 Here's a markdown outline with short language and emojis to help you find doctors quickly and educate yourself using reliable resources:
 
+```markdown
 🩺 Finding Doctors Fast
 🌐 Online Directories
 Use Healthgrades, Vitals, or insurance provider's website
@@ -37,6 +38,7 @@ Access peer-reviewed articles on PubMed or Google Scholar
 Discuss your condition and self-care options with your doctor
 💡 Ask for recommendations on reliable resources and support groups
 Remember to always consult with a healthcare professional for personalized advice and treatment plans. 🩺💊
+```
 
 Copy
 
