@@ -1,6 +1,32 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Open ChatBot Components in Streamlit and Gradio for Modern LLM ChatBots
+
+## Streamlit
+1. https://pypi.org/project/streamlit-chatbox/
+2. https://pypi.org/project/streamlit-chat/
+3. https://pypi.org/project/streamlit-chatbot/
+4. https://discuss.streamlit.io/t/pyrobbot-gpt-chatbot-streamlit-app-supports-voice-interaction/55323
+5. https://pypi.org/project/streamlit-chatbox/0.1.2/
+6. https://discuss.streamlit.io/t/make-chatbot-to-read-and-answer-from-pdf-files/51826
+7. https://discuss.streamlit.io/t/new-component-streamlit-chat-a-new-way-to-create-chatbots/20412
+8. https://www.geeksforgeeks.org/create-a-chatbot-with-openai-and-streamlit-in-python/
+9. https://kavitmht.medium.com/create-a-chatbot-using-hugging-face-and-streamlit-9cbd9b90052b
+
+## Gradio
+1. https://pypi.org/project/gradio/
+2. https://pypi.org/project/gradio-multimodalchatbot/
+3. https://pypi.org/project/gradio-gptchatbot/
+4. https://www.gradio.app/guides/creating-a-chatbot-fast
+5. https://www.gradio.app/guides/multimodal-chatbot-part1
+6. https://pypi.org/project/gradio-client/
+7. https://www.gradio.app/guides/creating-a-custom-chatbot-with-blocks
+8. https://www.geeksforgeeks.org/create-a-chatbot-with-openai-and-gradio-in-python/
+9. https://medium.com/@anu.surabhi1980/building-a-simple-chatbot-with-transformers-and-gradio-c7913c21217f
+
+
+
 # QA Demonstration with Claude3 Opus - Experiment on How to Understand Care Options and Tools Available
 
 AW
