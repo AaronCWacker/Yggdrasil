@@ -1,6 +1,109 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# AI Pair Programming - App Architecture
+
+```mermaid
+graph TD
+A[Streamlit App 🚀] --> B[Configuration 🛠️]
+A --> C[Sidebar 📁]
+A --> D[Main Content 📊]
+
+B --> B1[Set Page Config 🎨]
+B --> B2[Load Environment Variables 🔒]
+B --> B3[Define Global Variables 🌐]
+
+C --> C1[File Sidebar 📂]
+C1 --> C1A[View Files 👀]
+C1 --> C1B[Open Files 📂]
+C1 --> C1C[Run Files ▶️]
+C1 --> C1D[Delete Files 🗑️]
+
+C --> C2[Art Card Sidebar 🎨]
+C2 --> C2A[Random Image Selection 🔀]
+
+D --> D1[Search Functionality 🔍]
+D1 --> D1A[ArXiv Search 📚]
+D1 --> D1B[Glossary Search 📖]
+
+D --> D2[Audio Processing 🎙️]
+D2 --> D2A[Speech Transcription 🗣️]
+D2 --> D2B[Audio Recording 🎤]
+D2 --> D2C[Audio Playback 🔊]
+
+D --> D3[Chatbot Interaction 💬]
+D3 --> D3A[GPT-4o Model Selection 🤖]
+D3 --> D3B[Text Input Processing 📝]
+D3 --> D3C[Image Input Processing 🖼️]
+D3 --> D3D[Audio Input Processing 🎧]
+D3 --> D3E[Video Input Processing 📹]
+
+D --> D4[File Processing 📁]
+D4 --> D4A[File Upload 📥]
+D4 --> D4B[File Content Display 📖]
+D4 --> D4C[File Download 📥]
+
+D --> D5[UI Components 🎨]
+D5 --> D5A[Image Gallery 🖼️]
+D5 --> D5B[Video Gallery 📹]
+D5 --> D5C[Text Buttons with Scores 🔢]
+```
+
+```python
+Functions:
+
+SpeechSynthesis: Generates HTML5-based speech synthesis (text-to-speech) in the browser.
+parse_to_markdown: Parses text to Markdown format.
+load_file: Loads the content of a file.
+extract_urls: Extracts URLs from text and generates Markdown with the extracted fields.
+download_pdfs: Downloads PDF files from a list of URLs.
+generate_html: Generates HTML links for a list of local files.
+search_arxiv: Searches ArXiv using the provided query and returns the results.
+download_pdfs_and_generate_html: Downloads PDF files from URLs and generates HTML links.
+download_pdf: Downloads a PDF file from a URL.
+display_glossary_entity: Displays a glossary entity with search links.
+display_glossary_grid: Displays the entire glossary in a grid format with links.
+get_all_query_params: Retrieves all query parameters for a given key.
+clear_query_params: Clears the query parameters.
+display_content_or_image: Displays content or an image based on a query.
+display_buttons_with_scores: Displays buttons with scores for the roleplaying glossary.
+StreamLLMChatResponse: Streams the response from the GPT-4o model.
+query: Sends a query payload to the GPT-4o API.
+get_output: Retrieves the output from the GPT-4o API for a given prompt.
+generate_filename: Generates a filename based on the current time and content.
+transcribe_audio: Transcribes audio using the OpenAI API.
+save_and_play_audio: Saves and plays the recorded audio.
+create_file: Creates a file based on the input type (text, Markdown, code).
+truncate_document: Truncates a document to a specified length.
+divide_document: Divides a document into chunks of a specified length.
+CompressXML: Compresses an XML string by removing comment elements.
+read_file_content: Reads the content of a file based on its type.
+chat_with_model: Chats with the GPT-4o model using the provided prompt and document section.
+chat_with_file_contents: Chats with the GPT-4o model using the provided prompt and file content.
+extract_mime_type: Extracts the MIME type from a file.
+extract_file_extension: Extracts the file extension from a file.
+pdf2txt: Converts PDF files to text.
+txt2chunks: Splits text into chunks of a specified size.
+vector_store: Creates a vector store using FAISS from text chunks.
+get_chain: Retrieves a conversational retrieval chain using the vector store.
+process_user_input: Processes user input and generates a response using the GPT-4o model.
+divide_prompt: Divides a prompt into chunks of a specified length.
+transcribe_canary: Transcribes audio using the Canary API.
+process_text2: Processes text input using the GPT-4o model and saves the response to a file.
+save_image: Saves an uploaded image file.
+process_image: Processes an uploaded image using the GPT-4o model and saves the response to a file.
+process_audio: Processes an uploaded audio file using the GPT-4o model.
+process_audio_for_video: Processes audio from a video file using the GPT-4o model.
+save_video: Saves an uploaded video file.
+process_video: Processes a video file by extracting frames and audio.
+process_audio_and_video: Processes an uploaded video file using the GPT-4o model.
+main: The main function that handles user interactions and calls the appropriate processing functions.
+
+The architecture model shows the main components of the Streamlit app, including the configuration, sidebar, and main content sections. The sidebar contains file management and art card functionality, while the main content includes search functionality, audio processing, chatbot interaction, file processing, and various UI components. The numbered functions are used throughout the app to handle specific tasks related to speech transcription, chatbot interactions, ArXiv research, and more.
+```
+
+
+
 # Open ChatBot Components in Streamlit and Gradio for Modern LLM ChatBots
 
 ## Streamlit
