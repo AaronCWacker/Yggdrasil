@@ -1,0 +1,17 @@
+gradio_client
+huggingface_hub
+audio-recorder-streamlit
+beautifulsoup4
+faiss-cpu
+langchain
+mistune
+#openai==0.28
+PyPDF2
+python-dotenv
+pytz
+streamlit
+tiktoken
+textract
+openai
+opencv-python
+moviepy
