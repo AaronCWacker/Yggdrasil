@@ -1276,20 +1276,39 @@ def get_audio_download_link(file_path):
 
 
 
-
-
 # 🎵 Wav Audio files - Transcription History in Wav
-all_files = glob.glob("*.wav")
-all_files = [file for file in all_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
-all_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
+audio_files = glob.glob("*.wav")
+audio_files = [file for file in audio_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
+audio_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
 
-filekey = 'delall'
-if st.sidebar.button("🗑 Delete All Audio", key=filekey):
-    for file in all_files:
+# 🖼 PNG Image files
+image_files = glob.glob("*.png")
+image_files = [file for file in image_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
+image_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
+
+# 🎥 MP4 Video files
+video_files = glob.glob("*.mp4")
+video_files = [file for file in video_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
+video_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
+
+# Delete All button for each file type
+if st.sidebar.button("🗑 Delete All Audio"):
+    for file in audio_files:
         os.remove(file)
     st.rerun()
 
-for file in all_files:
+if st.sidebar.button("🗑 Delete All Images"):
+    for file in image_files:
+        os.remove(file)
+    st.rerun()
+
+if st.sidebar.button("🗑 Delete All Videos"):
+    for file in video_files:
+        os.remove(file)
+    st.rerun()
+
+# Display and handle audio files
+for file in audio_files:
     col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
     with col1:
         st.markdown(file)
@@ -1297,8 +1316,33 @@ for file in all_files:
             audio_file = open(file, 'rb')
             audio_bytes = audio_file.read()
             st.audio(audio_bytes, format='audio/wav')
-            #st.markdown(get_audio_download_link(file), unsafe_allow_html=True)
-            #st.text_input(label="", value=file)
+    with col2:
+        if st.button("🗑", key="delete_" + file):
+            os.remove(file)
+            st.rerun()
+
+# Display and handle image files
+for file in image_files:
+    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
+    with col1:
+        st.markdown(file)
+        if st.button("🖼", key="show_" + file):  # show emoji button
+            image = open(file, 'rb').read()
+            st.image(image)
+    with col2:
+        if st.button("🗑", key="delete_" + file):
+            os.remove(file)
+            st.rerun()
+
+# Display and handle video files
+for file in video_files:
+    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
+    with col1:
+        st.markdown(file)
+        if st.button("🎥", key="play_" + file):  # play emoji button
+            video_file = open(file, 'rb')
+            video_bytes = video_file.read()
+            st.video(video_bytes)
     with col2:
         if st.button("🗑", key="delete_" + file):
             os.remove(file)
@@ -1531,10 +1575,20 @@ def create_file(filename, prompt, response, is_image=False):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(prompt + "\n\n" + response)
 
-def save_image(image, filename):
+def save_image_old2(image, filename):
     with open(filename, "wb") as f:
         f.write(image.getbuffer())
 
+# Now filename length protected for linux and windows filename lengths
+def save_image(image, filename):
+    max_filename_length = min(os.pathconf('/', 'PC_NAME_MAX'), 255, 260)  # Linux: 255, Windows: 260 (including path)
+    filename_stem, extension = os.path.splitext(filename)
+    truncated_stem = filename_stem[:max_filename_length - len(extension)] if len(filename) > max_filename_length else filename_stem
+    filename = f"{truncated_stem}{extension}"
+    with open(filename, "wb") as f:
+        f.write(image.getbuffer())
+    return filename
+        
 def extract_boldface_terms(text):
     return re.findall(r'\*\*(.*?)\*\*', text)
 
@@ -1569,16 +1623,12 @@ def process_image(image_input):
             with open(filename_md, "w", encoding="utf-8") as f:
                 f.write(image_response)
 
-            # Save copy of image with original filename
-            #filename_img = image_input.name
-            #save_image(image_input, filename_img)
-
             # Extract boldface terms from image_response then autoname save file
             boldface_terms = extract_boldface_terms(image_response)
             filename_stem, extension = os.path.splitext(image_input.name)
             filename_img = f"{filename_stem}_{' '.join(boldface_terms)}{extension}"
-            save_image(image_input, filename_img)
-            filename_md = f"{filename_stem}_{'_'.join(boldface_terms)}.md"
+            newfilename = save_image(image_input, filename_img)
+            filename_md = newfilename.replace('.png', '.md')
             create_file(filename_md, '', image_response, True)
             
             return image_response
@@ -1796,74 +1846,3 @@ if prompt := st.chat_input("GPT-4o Multimodal ChatBot - What can I help you with
 
 if __name__ == "__main__":
     main()
-```
-
-requirements.txt:
-```markdown
-gradio_client
-huggingface_hub
-audio-recorder-streamlit
-beautifulsoup4
-faiss-cpu
-langchain
-mistune
-#openai==0.28
-PyPDF2
-python-dotenv
-pytz
-streamlit
-tiktoken
-textract
-openai
-opencv-python
-moviepy
-```
-
-templates.py  (chatbot css)
-
-```python
-css = '''
-<style>
-.chat-message {
-    padding: 1.5rem; border-radius: 0.5rem; margin-bottom: 1rem; display: flex
-}
-.chat-message.user {
-    background-color: #2b313e
-}
-.chat-message.bot {
-    background-color: #475063
-}
-.chat-message .avatar {
-  width: 20%;
-}
-.chat-message .avatar img {
-  max-width: 78px;
-  max-height: 78px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-.chat-message .message {
-  width: 80%;
-  padding: 0 1.5rem;
-  color: #fff;
-}
-'''
-
-bot_template = '''
-<div class="chat-message bot">
-    <div class="avatar">
-        <img src="https://cdna.artstation.com/p/assets/images/images/054/910/878/large/aaron-wacker-cyberpunk-computer-devices-iot.jpg?1665656564" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
-    </div>
-    <div class="message">{{MSG}}</div>
-</div>
-'''
-
-user_template = '''
-<div class="chat-message user">
-    <div class="avatar">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/054/910/875/large/aaron-wacker-cyberpunk-computer-brain-design.jpg?1665656558">
-    </div>    
-    <div class="message">{{MSG}}</div>
-</div>
-'''
-```
