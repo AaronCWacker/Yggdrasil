@@ -44,3 +44,7 @@ The intent is to demonstrate SOTA AI/ML and combinations of Function-Input-Outpu
 This space also serves as an experimental test bed for new technologies mixing it in with old for comparison and integration.
 
 --Aaron
+
+
+
+GAR - Generative Augmented Retrieval = Science and Math it is useful to provide more inference time for 'contemplation' which generates content used to query augmenting with what the LLM knows.
