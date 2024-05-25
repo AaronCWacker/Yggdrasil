@@ -53,7 +53,14 @@ st.set_page_config(
     }
 )
 
-
+client = OpenAI(api_key= os.getenv('OPENAI_API_KEY'), organization=os.getenv('OPENAI_ORG_ID'))
+MODEL = "gpt-4o-2024-05-13"
+if "openai_model" not in st.session_state:
+    st.session_state["openai_model"] = MODEL
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+if st.button("Clear Session"):
+    st.session_state.messages = []
 
 # HTML5 based Speech Synthesis (Text to Speech in Browser)
 @st.cache_resource
@@ -359,6 +366,19 @@ def display_glossary_grid(roleplaying_glossary):
                     st.markdown(f"**{term}** <small>{links_md}</small>", unsafe_allow_html=True)
 
 
+# ChatBot client chat completions -------------------------  !!
+def process_text2(MODEL='gpt-4o-2024-05-13', text_input='What is 2+2 and what is an imaginary number'):
+    if text_input:
+        completion = client.chat.completions.create(
+            model=MODEL,
+            messages=st.session_state.messages
+        )
+        return_text = completion.choices[0].message.content
+        st.write("Assistant: " + return_text)
+        filename = generate_filename(text_input, "md")
+        create_file(filename, text_input, return_text, should_save)
+        return return_text
+    
 @st.cache_resource
 def get_table_download_link(file_path):
 
@@ -576,10 +596,26 @@ def FileSidebar():
 
         if next_action=='md':
             st.markdown(file_contents)
+            SpeechSynthesis(file_contents)
+
             buttonlabel = '🔍Run'
             if st.button(key='Runmd', label = buttonlabel):
-                user_prompt = file_contents
-            #try:
+                MODEL = "gpt-4o-2024-05-13"
+                openai.api_key = os.getenv('OPENAI_API_KEY')
+                openai.organization = os.getenv('OPENAI_ORG_ID')
+                client = OpenAI(api_key= os.getenv('OPENAI_API_KEY'), organization=os.getenv('OPENAI_ORG_ID'))
+                st.session_state.messages.append({"role": "user", "content": transcript})
+                with st.chat_message("user"):
+                    st.markdown(transcript)
+                with st.chat_message("assistant"):
+                    completion = client.chat.completions.create(
+                        model=MODEL,
+                        messages = st.session_state.messages,
+                        stream=True
+                    )
+                    response = process_text2(text_input=prompt)
+                st.session_state.messages.append({"role": "assistant", "content": response})
+                #try:
                 #search_glossary(file_contents)
             #except:
                 #st.markdown('GPT is sleeping.  Restart ETA 30 seconds.')
@@ -1241,79 +1277,6 @@ def get_audio_download_link(file_path):
 
 
 
-# 🎵 Wav Audio files - Transcription History in Wav
-audio_files = glob.glob("*.wav")
-audio_files = [file for file in audio_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
-audio_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
-
-# 🖼 PNG Image files
-image_files = glob.glob("*.png")
-image_files = [file for file in image_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
-image_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
-
-# 🎥 MP4 Video files
-video_files = glob.glob("*.mp4")
-video_files = [file for file in video_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
-video_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
-
-# Delete All button for each file type
-if st.sidebar.button("🗑 Delete All Audio"):
-    for file in audio_files:
-        os.remove(file)
-    st.rerun()
-
-if st.sidebar.button("🗑 Delete All Images"):
-    for file in image_files:
-        os.remove(file)
-    st.rerun()
-
-if st.sidebar.button("🗑 Delete All Videos"):
-    for file in video_files:
-        os.remove(file)
-    st.rerun()
-
-# Display and handle audio files
-for file in audio_files:
-    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
-    with col1:
-        st.markdown(file)
-        if st.button("🎵", key="play_" + file):  # play emoji button
-            audio_file = open(file, 'rb')
-            audio_bytes = audio_file.read()
-            st.audio(audio_bytes, format='audio/wav')
-    with col2:
-        if st.button("🗑", key="delete_" + file):
-            os.remove(file)
-            st.rerun()
-
-# Display and handle image files
-for file in image_files:
-    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
-    with col1:
-        st.markdown(file)
-        if st.button("🖼", key="show_" + file):  # show emoji button
-            image = open(file, 'rb').read()
-            st.image(image)
-    with col2:
-        if st.button("🗑", key="delete_" + file):
-            os.remove(file)
-            st.rerun()
-
-# Display and handle video files
-for file in video_files:
-    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
-    with col1:
-        st.markdown(file)
-        if st.button("🎥", key="play_" + file):  # play emoji button
-            video_file = open(file, 'rb')
-            video_bytes = video_file.read()
-            st.video(video_bytes)
-    with col2:
-        if st.button("🗑", key="delete_" + file):
-            os.remove(file)
-            st.rerun()
-
-
 
 GiveFeedback=False
 if GiveFeedback:
@@ -1380,18 +1343,6 @@ def transcribe_canary(filename):
     st.write(result)
     return result
 
-# ChatBot client chat completions -------------------------  !!
-def process_text2(MODEL='gpt-4o-2024-05-13', text_input='What is 2+2 and what is an imaginary number'):
-    if text_input:
-        completion = client.chat.completions.create(
-            model=MODEL,
-            messages=st.session_state.messages
-        )
-        return_text = completion.choices[0].message.content
-        st.write("Assistant: " + return_text)
-        filename = generate_filename(text_input, "md")
-        create_file(filename, text_input, return_text, should_save)
-        return return_text
 
 # Transcript to arxiv and client chat completion -------------------------  !!
 filename = save_and_play_audio(audio_recorder)
@@ -1441,12 +1392,12 @@ if example_input:
 for example_input in session_state["search_queries"]:
     st.write(example_input)
 
-if st.button("Run Prompt", help="Click to run."):
-    try:
-        response=StreamLLMChatResponse(example_input)
-        create_file(filename, example_input, response, should_save)
-    except:
-        st.write('model is asleep. Starting now on A10 GPU.  Please wait one minute then retry.  KEDA triggered.')
+#if st.button("Run Prompt", help="Click to run."):
+#    try:
+#        response=StreamLLMChatResponse(example_input)
+#        create_file(filename, example_input, response, should_save)
+#    except:
+#        st.write('model is asleep. Starting now on A10 GPU.  Please wait one minute then retry.  KEDA triggered.')
         
 openai.api_key = os.getenv('OPENAI_API_KEY')
 if openai.api_key == None: openai.api_key = st.secrets['OPENAI_API_KEY']
@@ -1490,7 +1441,7 @@ if AddAFileForContext:
                     st.sidebar.markdown(get_table_download_link(filename), unsafe_allow_html=True)
 
 
-# documentation
+# GPT4o documentation
 # 1. Cookbook:  https://cookbook.openai.com/examples/gpt4o/introduction_to_gpt4o
 # 2. Configure your Project and Orgs to limit/allow Models:  https://platform.openai.com/settings/organization/general
 # 3. Watch your Billing!  https://platform.openai.com/settings/organization/billing/overview
@@ -1531,11 +1482,6 @@ def process_text(text_input):
 
         #st.write("Assistant: " + completion.choices[0].message.content)
 
-
-
-
-
-
 def create_file(filename, prompt, response, is_image=False):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(prompt + "\n\n" + response)
@@ -1546,7 +1492,7 @@ def save_image_old2(image, filename):
 
 # Now filename length protected for linux and windows filename lengths
 def save_image(image, filename):
-    max_filename_length = min(os.pathconf('/', 'PC_NAME_MAX'), 255, 260)  # Linux: 255, Windows: 260 (including path)
+    max_filename_length = 250
     filename_stem, extension = os.path.splitext(filename)
     truncated_stem = filename_stem[:max_filename_length - len(extension)] if len(filename) > max_filename_length else filename_stem
     filename = f"{truncated_stem}{extension}"
@@ -1557,7 +1503,15 @@ def save_image(image, filename):
 def extract_boldface_terms(text):
     return re.findall(r'\*\*(.*?)\*\*', text)
 
-def process_image(image_input):
+def extract_title(text):
+    boldface_terms = re.findall(r'\*\*(.*?)\*\*', text)
+    if boldface_terms:
+        title = ' '.join(boldface_terms)
+    else:
+        title = re.sub(r'[^a-zA-Z0-9_\-]', ' ', text[-200:])
+    return title[-200:]
+
+def process_image(image_input, user_prompt):
     if image_input:
         st.markdown('Processing image:  ' + image_input.name )
         if image_input:
@@ -1567,7 +1521,7 @@ def process_image(image_input):
                 messages=[
                     {"role": "system", "content": "You are a helpful assistant that responds in Markdown."},
                     {"role": "user", "content": [
-                        {"type": "text", "text": "Help me understand what is in this picture and list ten facts as markdown outline with appropriate emojis that describes what you see."},
+                        {"type": "text", "text": user_prompt},
                         {"type": "image_url", "image_url": {
                             "url": f"data:image/png;base64,{base64_image}"}
                         }
@@ -1589,65 +1543,44 @@ def process_image(image_input):
                 f.write(image_response)
 
             # Extract boldface terms from image_response then autoname save file
-            boldface_terms = extract_boldface_terms(image_response)
+            #boldface_terms = extract_boldface_terms(image_response)
+            boldface_terms = extract_title(image_response).replace(':','')
             filename_stem, extension = os.path.splitext(image_input.name)
-            filename_img = f"{filename_stem}_{' '.join(boldface_terms)}{extension}"
+            filename_img = f"{filename_stem}  {''.join(boldface_terms)}{extension}"
             newfilename = save_image(image_input, filename_img)
             filename_md = newfilename.replace('.png', '.md')
             create_file(filename_md, '', image_response, True)
             
             return image_response
 
-def save_imageold(image_input, filename_txt):
-    # Save the uploaded video file
-    with open(filename_txt, "wb") as f:
-        f.write(image_input.getbuffer())
-    return image_input.name
+def create_audio_file(filename, audio_data, should_save):
+    if should_save:
+        with open(filename, "wb") as file:
+            file.write(audio_data.getvalue())
+        st.success(f"Audio file saved as {filename}")
+    else:
+        st.warning("Audio file not saved.")
 
-def process_imageold(image_input):
-    if image_input:
-        base64_image = base64.b64encode(image_input.read()).decode("utf-8")
-        response = client.chat.completions.create(
-            model=MODEL,
-            messages=[
-                {"role": "system", "content": "You are a helpful assistant that responds in Markdown."},
-                {"role": "user", "content": [
-                    {"type": "text", "text": "Help me understand what is in this picture and list ten facts as markdown outline with appropriate emojis that describes what you see."},
-                    {"type": "image_url", "image_url": {
-                        "url": f"data:image/png;base64,{base64_image}"}
-                    }
-                ]}
-            ],
-            temperature=0.0,
-        )
-        image_response = response.choices[0].message.content
-        st.markdown(image_response)
-        
-        filename_txt = generate_filename(image_response, "md")  # Save markdown on image AI output from gpt4o
-        create_file(filename_txt, image_response, '', True)          #create_file() # create_file()  3 required positional arguments: 'filename', 'prompt', and 'response'
-
-        filename_txt = generate_filename(image_response, "png")
-        save_image(image_input, filename_txt)     # Save copy of image with new filename   
-        #st.rerun() # rerun to show new image and new markdown files
-
-        return image_response
-
-
-def process_audio(audio_input):
+def process_audio(audio_input, text_input):
     if audio_input:
         transcription = client.audio.transcriptions.create(
             model="whisper-1",
             file=audio_input,
         )
-        response = client.chat.completions.create(
-            model=MODEL,
-            messages=[
-            {"role": "system", "content":"""You are generating a transcript summary. Create a summary of the provided transcription. Respond in Markdown."""},
-            {"role": "user", "content": [{"type": "text", "text": f"The audio transcription is: {transcription.text}"}],}
-            ],
-            temperature=0,
-        )
-        st.markdown(response.choices[0].message.content)
+        st.session_state.messages.append({"role": "user", "content": transcription.text})
+        with st.chat_message("assistant"):
+            st.markdown(transcription.text)
+
+            SpeechSynthesis(transcription.text)
+            filename = generate_filename(transcription.text, "wav")
+
+            create_audio_file(filename, audio_input, should_save)
+
+        #SpeechSynthesis(transcription.text)
+            
+        filename = generate_filename(transcription.text, "md")
+        create_file(filename, transcription.text, transcription.text, should_save)
+        #st.markdown(response.choices[0].message.content)
 
 def process_audio_for_video(video_input):
     if video_input:
@@ -1747,53 +1680,139 @@ def main():
         if (text_input > ''):
             textResponse = process_text(text_input)
     elif option == "Image":
+        text = "Help me understand what is in this picture and list ten facts as markdown outline with appropriate emojis that describes what you see."
+        text_input = st.text_input(label="Enter text prompt to use with Image context.", value=text)
         image_input = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
-        image_response = process_image(image_input)
-
-
+        image_response = process_image(image_input, text_input)
 
     elif option == "Audio":
-        audio_input = st.file_uploader("Upload an audio file", type=["mp3", "wav"])
-        process_audio(audio_input)
+        text = "You are generating a transcript summary. Create a summary of the provided transcription. Respond in Markdown."
+        text_input = st.text_input(label="Enter text prompt to use with Audio context.", value=text)
+        uploaded_files = st.file_uploader("Upload an audio file", type=["mp3", "wav"], accept_multiple_files=True)
+        
+        for audio_input in uploaded_files:
+            st.write(audio_input.name)
+            if audio_input is not None:
+                process_audio(audio_input, text_input)
+
+    elif option == "Audio old":
+        #text = "Transcribe and answer questions as a helpful audio music and speech assistant.  "
+        text = "You are generating a transcript summary. Create a summary of the provided transcription. Respond in Markdown."
+        text_input = st.text_input(label="Enter text prompt to use with Audio context.", value=text)
+        
+        uploaded_files = st.file_uploader("Upload an audio file", type=["mp3", "wav"], accept_multiple_files=True)
+        for audio_input in uploaded_files:
+            st.write(audio_input.name)
+
+        if audio_input is not None:
+            # To read file as bytes:
+            bytes_data = uploaded_file.getvalue()
+            #st.write(bytes_data)
+            
+            # To convert to a string based IO:
+            #stringio = StringIO(uploaded_file.getvalue().decode("utf-8"))
+            #st.write(stringio)
+            
+            # To read file as string:
+            #string_data = stringio.read()
+            #st.write(string_data)
+
+        process_audio(audio_input, text_input)
+
     elif option == "Video":
         video_input = st.file_uploader("Upload a video file", type=["mp4"])
         process_audio_and_video(video_input)
 
-    # Image and Video Galleries
-    num_columns_images=st.slider(key="num_columns_images", label="Choose Number of Image Columns", min_value=1, max_value=15, value=5)
-    display_images_and_wikipedia_summaries(num_columns_images)   # Image Jump Grid
 
-    num_columns_video=st.slider(key="num_columns_video", label="Choose Number of Video Columns", min_value=1, max_value=15, value=5)
-    display_videos_and_links(num_columns_video)   # Video Jump Grid
-
-
-# Optional UI's
-showExtendedTextInterface=False
-if showExtendedTextInterface:
-    display_glossary_grid(roleplaying_glossary)  # Word Glossary Jump Grid - Dynamically calculates columns based on details length to keep topic together
-    num_columns_text=st.slider(key="num_columns_text", label="Choose Number of Text Columns", min_value=1, max_value=15, value=4)
-    display_buttons_with_scores(num_columns_text)  # Feedback Jump Grid
-    st.markdown(personality_factors)
-
-
-
-
-# st.title("GPT-4o ChatBot")
-
-client = OpenAI(api_key= os.getenv('OPENAI_API_KEY'), organization=os.getenv('OPENAI_ORG_ID'))
-MODEL = "gpt-4o-2024-05-13"
-if "openai_model" not in st.session_state:
-    st.session_state["openai_model"] = MODEL
-if "messages" not in st.session_state:
-    st.session_state.messages = []
-if st.button("Clear Session"):
-    st.session_state.messages = []
-
+# Enter the GPT-4o omni model in streamlit chatbot
 current_messages=[]
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         current_messages.append(message)
         st.markdown(message["content"])
+
+
+
+# 🎵 Wav Audio files - Transcription History in Wav
+audio_files = glob.glob("*.wav")
+audio_files = [file for file in audio_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
+audio_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
+
+# 🖼 PNG Image files
+image_files = glob.glob("*.png")
+image_files = [file for file in image_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
+image_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
+
+# 🎥 MP4 Video files
+video_files = glob.glob("*.mp4")
+video_files = [file for file in video_files if len(os.path.splitext(file)[0]) >= 10]  # exclude files with short names
+video_files.sort(key=lambda x: (os.path.splitext(x)[1], x), reverse=True)  # sort by file type and file name in descending order
+
+
+
+
+main()
+
+# Delete All button for each file type
+if st.sidebar.button("🗑 Delete All Audio"):
+    for file in audio_files:
+        os.remove(file)
+    st.rerun()
+
+if st.sidebar.button("🗑 Delete All Images"):
+    for file in image_files:
+        os.remove(file)
+    st.rerun()
+
+if st.sidebar.button("🗑 Delete All Videos"):
+    for file in video_files:
+        os.remove(file)
+    st.rerun()
+
+# Display and handle audio files
+for file in audio_files:
+    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
+    with col1:
+        st.markdown(file)
+        if st.button("🎵", key="play_" + file):  # play emoji button
+            audio_file = open(file, 'rb')
+            audio_bytes = audio_file.read()
+            st.audio(audio_bytes, format='audio/wav')
+    with col2:
+        if st.button("🗑", key="delete_" + file):
+            os.remove(file)
+            st.rerun()
+
+# Display and handle image files
+for file in image_files:
+    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
+    with col1:
+        st.markdown(file)
+        if st.button("🖼", key="show_" + file):  # show emoji button
+            image = open(file, 'rb').read()
+            st.image(image)
+    with col2:
+        if st.button("🗑", key="delete_" + file):
+            os.remove(file)
+            st.rerun()
+
+# Display and handle video files
+for file in video_files:
+    col1, col2 = st.sidebar.columns([6, 1])  # adjust the ratio as needed
+    with col1:
+        st.markdown(file)
+        if st.button("🎥", key="play_" + file):  # play emoji button
+            video_file = open(file, 'rb')
+            video_bytes = video_file.read()
+            st.video(video_bytes)
+    with col2:
+        if st.button("🗑", key="delete_" + file):
+            os.remove(file)
+            st.rerun()
+
+
+
+
 
 # ChatBot Entry 
 if prompt := st.chat_input("GPT-4o Multimodal ChatBot - What can I help you with?"):
@@ -1809,5 +1828,28 @@ if prompt := st.chat_input("GPT-4o Multimodal ChatBot - What can I help you with
         response = process_text2(text_input=prompt)
     st.session_state.messages.append({"role": "assistant", "content": response})
 
-if __name__ == "__main__":
-    main()
+
+
+
+
+# Image and Video Galleries
+num_columns_images=st.slider(key="num_columns_images", label="Choose Number of Image Columns", min_value=1, max_value=15, value=3)
+display_images_and_wikipedia_summaries(num_columns_images)   # Image Jump Grid
+
+num_columns_video=st.slider(key="num_columns_video", label="Choose Number of Video Columns", min_value=1, max_value=15, value=3)
+display_videos_and_links(num_columns_video)   # Video Jump Grid
+
+
+# Optional UI's
+showExtendedTextInterface=False
+if showExtendedTextInterface:
+    display_glossary_grid(roleplaying_glossary)  # Word Glossary Jump Grid - Dynamically calculates columns based on details length to keep topic together
+    num_columns_text=st.slider(key="num_columns_text", label="Choose Number of Text Columns", min_value=1, max_value=15, value=4)
+    display_buttons_with_scores(num_columns_text)  # Feedback Jump Grid
+    st.markdown(personality_factors)
+
+
+
+
+#if __name__ == "__main__":
+    
