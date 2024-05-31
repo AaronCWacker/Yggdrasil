@@ -1,6 +1,518 @@
 # Yggdrasil
 Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Learning
 
+# Generating a simile and metaphor dictionary using Claude versus GPT
+
+1. Here are 20 dictionaries or compendiums that cover hundreds of pages of similes and metaphors, along with a sample from each book:
+
+"A Dictionary of Similes" by Frank J. Wilstach
+Sample: "Busy as a bee in a tar barrel."
+"The Penguin Dictionary of Similes" by Michael Fergusson
+Sample: "As light as a feather on the wind."
+"The Oxford Dictionary of Allusions" by Andrew Delahunty and Sheila Dignen
+Sample: "As old as the hills."
+"The Bloomsbury Dictionary of Idioms" by Gordon Jarvie
+Sample: "As keen as mustard."
+"The American Heritage Dictionary of Idioms" by Christine Ammer
+Sample: "As snug as a bug in a rug."
+"Webster's New World Dictionary of Similes" by Gail Weiss
+Sample: "As pale as a ghost."
+"The Hutchinson Dictionary of Difficult Words" by Terry O'Brien
+Sample: "As slippery as an eel."
+"The Wordsworth Dictionary of Phrase and Fable" by Ebenezer Cobham Brewer
+Sample: "As blind as a bat."
+"The Macmillan Dictionary of Quotations" by John Daintith and Amanda Isaacs
+Sample: "As cold as charity."
+"The Chambers Dictionary of Idioms" by Elizabeth McLaren Kirkpatrick
+Sample: "As dead as a doornail."
+"The Routledge Dictionary of Modern American Slang and Unconventional English" by Tom Dalzell
+Sample: "As happy as a clam at high tide."
+"The Faber Dictionary of Euphemisms" by R. W. Holder
+Sample: "As thin as a rake."
+"The BBI Combinatory Dictionary of English: A Guide to Word Combinations" by Morton Benson, Evelyn Benson, and Robert Ilson
+Sample: "As stubborn as a mule."
+"The Chambers Thesaurus" by Chambers Harrap Publishers Ltd.
+Sample: "As sly as a fox."
+"The McGraw-Hill Dictionary of American Idioms and Phrasal Verbs" by Richard A. Spears
+Sample: "As fit as a fiddle."
+"The Wordsworth Thesaurus" by Wordsworth Editions Ltd.
+Sample: "As tough as old boots."
+"The Oxford Dictionary of Idioms" by Judith Siefring
+Sample: "As bold as brass."
+"The Penguin Thesaurus" by Rosalind Fergusson
+Sample: "As right as rain."
+"The Longman Dictionary of Contemporary English" by Pearson Longman
+Sample: "As cool as a cucumber."
+"The American Heritage Thesaurus" by Editors of the American Heritage Dictionaries
+Sample: "As gentle as a lamb."
+
+Please note that these samples are just a small representation of the numerous similes and metaphors contained within each book. These resources offer a vast collection of figurative language that can be used to build a comprehensive dataset for your Python Streamlit program.
+
+
+2. Code
+
+```python
+
+import streamlit as st
+
+# Dictionary of similes and metaphors
+books = {
+    "A Dictionary of Similes by Frank J. Wilstach": [
+        "As strong as an ox.",
+        "As proud as a peacock.",
+        "As gentle as a lamb.",
+        "As wise as an owl.",
+        "As brave as a lion.",
+        "As cunning as a fox.",
+        "As quiet as a mouse.",
+        "As happy as a lark.",
+        "As swift as a deer.",
+        "As sly as a fox.",
+        "As firm as a rock.",
+        "As light as air.",
+        "As soft as silk.",
+        "As hard as nails.",
+        "As deep as the ocean.",
+        "As warm as toast.",
+        "As cold as ice.",
+        "As fresh as a daisy.",
+        "As dark as night.",
+        "As bright as the sun."
+    ],
+    "The Penguin Dictionary of Similes by Michael Fergusson": [
+        "As brave as a lion.",
+        "As cool as a cucumber.",
+        "As fit as a fiddle.",
+        "As gentle as a lamb.",
+        "As happy as a clam.",
+        "As light as a feather.",
+        "As old as the hills.",
+        "As right as rain.",
+        "As sharp as a tack.",
+        "As sick as a dog.",
+        "As silent as the grave.",
+        "As sly as a fox.",
+        "As smooth as silk.",
+        "As snug as a bug in a rug.",
+        "As soft as velvet.",
+        "As strong as an ox.",
+        "As stubborn as a mule.",
+        "As sure as death and taxes.",
+        "As sweet as honey.",
+        "As tough as nails."
+    ],
+    "The Oxford Dictionary of Allusions by Andrew Delahunty and Sheila Dignen": [
+        "As dead as a dodo.",
+        "As easy as pie.",
+        "As free as a bird.",
+        "As happy as a lark.",
+        "As hungry as a wolf.",
+        "As large as life.",
+        "As mad as a hatter.",
+        "As nutty as a fruitcake.",
+        "As plain as the nose on your face.",
+        "As quick as a wink.",
+        "As right as rain.",
+        "As safe as houses.",
+        "As sound as a bell.",
+        "As steady as a rock.",
+        "As thick as thieves.",
+        "As tight as a drum.",
+        "As tough as old boots.",
+        "As true as steel.",
+        "As weak as a kitten.",
+        "As wise as Solomon."
+    ],
+    "The Bloomsbury Dictionary of Idioms by Gordon Jarvie": [
+        "As cool as a cucumber.",
+        "As dead as a dodo.",
+        "As drunk as a lord.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As free as a bird.",
+        "As happy as a clam.",
+        "As keen as mustard.",
+        "As large as life.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As neat as a pin.",
+        "As old as the hills.",
+        "As plain as the nose on your face.",
+        "As pleased as punch.",
+        "As right as rain.",
+        "As safe as houses.",
+        "As sick as a dog.",
+        "As sound as a bell.",
+        "As sweet as honey."
+    ],
+    "The American Heritage Dictionary of Idioms by Christine Ammer": [
+        "As cool as a cucumber.",
+        "As dead as a dodo.",
+        "As drunk as a skunk.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As free as a bird.",
+        "As happy as a clam.",
+        "As keen as mustard.",
+        "As large as life.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As neat as a pin.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As pleased as punch.",
+        "As right as rain.",
+        "As safe as houses.",
+        "As sick as a dog.",
+        "As sound as a bell.",
+        "As sweet as sugar."
+    ],
+    "Webster's New World Dictionary of Similes by Gail Weiss": [
+        "As light as a feather.",
+        "As pale as a ghost.",
+        "As busy as a bee.",
+        "As bold as brass.",
+        "As clear as crystal.",
+        "As cold as ice.",
+        "As easy as pie.",
+        "As gentle as a lamb.",
+        "As good as gold.",
+        "As happy as a lark.",
+        "As hot as hell.",
+        "As mad as a hornet.",
+        "As plain as day.",
+        "As quiet as a mouse.",
+        "As sharp as a tack.",
+        "As snug as a bug.",
+        "As strong as an ox.",
+        "As sweet as sugar.",
+        "As tall as a tree.",
+        "As tough as leather."
+    ],
+    "The Hutchinson Dictionary of Difficult Words by Terry O'Brien": [
+        "As black as coal.",
+        "As blind as a bat.",
+        "As bold as brass.",
+        "As bright as a button.",
+        "As busy as a bee.",
+        "As clean as a whistle.",
+        "As clear as crystal.",
+        "As cold as ice.",
+        "As cool as a cucumber.",
+        "As cunning as a fox.",
+        "As dead as a dodo.",
+        "As dry as a bone.",
+        "As dull as dishwater.",
+        "As easy as pie.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As fresh as a daisy.",
+        "As gentle as a lamb.",
+        "As good as gold.",
+        "As happy as a lark."
+    ],
+    "The Wordsworth Dictionary of Phrase and Fable by Ebenezer Cobham Brewer": [
+        "As black as coal.",
+        "As bold as brass.",
+        "As bright as a button.",
+        "As busy as a bee.",
+        "As clean as a whistle.",
+        "As clear as crystal.",
+        "As cold as ice.",
+        "As cunning as a fox.",
+        "As dead as a dodo.",
+        "As dry as a bone.",
+        "As dull as dishwater.",
+        "As easy as pie.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As fresh as a daisy.",
+        "As gentle as a lamb.",
+        "As good as gold.",
+        "As happy as a lark.",
+        "As hot as hell.",
+        "As keen as mustard."
+    ],
+    "The Macmillan Dictionary of Quotations by John Daintith and Amanda Isaacs": [
+        "As cold as charity.",
+        "As common as muck.",
+        "As cute as a button.",
+        "As deep as the ocean.",
+        "As easy as falling off a log.",
+        "As fast as lightning.",
+        "As firm as a rock.",
+        "As fresh as a daisy.",
+        "As good as gold.",
+        "As happy as a lark.",
+        "As hot as hell.",
+        "As hungry as a bear.",
+        "As keen as mustard.",
+        "As light as a feather.",
+        "As mad as a hornet.",
+        "As neat as a pin.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As right as rain.",
+        "As safe as houses."
+    ],
+    "The Chambers Dictionary of Idioms by Elizabeth McLaren Kirkpatrick": [
+        "As bold as brass.",
+        "As brown as a berry.",
+        "As busy as a bee.",
+        "As clean as a whistle.",
+        "As clear as crystal.",
+        "As cold as ice.",
+        "As cool as a cucumber.",
+        "As cunning as a fox.",
+        "As dead as a doornail.",
+        "As dry as a bone.",
+        "As dull as dishwater.",
+        "As easy as pie.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As fresh as a daisy.",
+        "As gentle as a lamb.",
+        "As good as gold.",
+        "As happy as a lark.",
+        "As hard as nails.",
+        "As keen as mustard."
+    ],
+    "The Routledge Dictionary of Modern American Slang and Unconventional English by Tom Dalzell": [
+        "As cool as a cucumber.",
+        "As dead as a doornail.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As free as a bird.",
+        "As happy as a clam at high tide.",
+        "As hot as hell.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As neat as a pin.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As right as rain.",
+        "As safe as houses.",
+        "As sharp as a tack.",
+        "As sick as a dog.",
+        "As smooth as silk.",
+        "As snug as a bug in a rug.",
+        "As sound as a bell.",
+        "As sweet as sugar."
+    ],
+    "The Faber Dictionary of Euphemisms by R. W. Holder": [
+        "As thin as a rake.",
+        "As black as coal.",
+        "As blind as a bat.",
+        "As bold as brass.",
+        "As bright as a button.",
+        "As busy as a bee.",
+        "As clean as a whistle.",
+        "As clear as crystal.",
+        "As cold as ice.",
+        "As cunning as a fox.",
+        "As dead as a dodo.",
+        "As dry as a bone.",
+        "As dull as dishwater.",
+        "As easy as pie.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As fresh as a daisy.",
+        "As gentle as a lamb.",
+        "As good as gold.",
+        "As happy as a lark."
+    ],
+    "The BBI Combinatory Dictionary of English: A Guide to Word Combinations by Morton Benson, Evelyn Benson, and Robert Ilson": [
+        "As stubborn as a mule.",
+        "As clear as a bell.",
+        "As easy as ABC.",
+        "As thin as a rail.",
+        "As black as pitch.",
+        "As bold as brass.",
+        "As brown as a berry.",
+        "As clean as a whistle.",
+        "As clear as crystal.",
+        "As cold as charity.",
+        "As cool as a cucumber.",
+        "As cunning as a fox.",
+        "As dead as a doornail.",
+        "As dry as dust.",
+        "As dull as dishwater.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As fresh as paint.",
+        "As happy as a sandboy.",
+        "As light as a feather."
+    ],
+    "The Chambers Thesaurus by Chambers Harrap Publishers Ltd.": [
+        "As sly as a fox.",
+        "As bright as a button.",
+        "As keen as mustard.",
+        "As large as life.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As neat as a pin.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As right as rain.",
+        "As safe as houses.",
+        "As sharp as a tack.",
+        "As sick as a dog.",
+        "As silent as the grave.",
+        "As smooth as silk.",
+        "As snug as a bug in a rug.",
+        "As sound as a bell.",
+        "As sweet as honey.",
+        "As thick as thieves.",
+        "As tough as old boots."
+    ],
+    "The McGraw-Hill Dictionary of American Idioms and Phrasal Verbs by Richard A. Spears": [
+        "As busy as a bee.",
+        "As fit as a fiddle.",
+        "As light as a feather.",
+        "As easy as pie.",
+        "As cold as ice.",
+        "As snug as a bug in a rug.",
+        "As mad as a hornet.",
+        "As sharp as a tack.",
+        "As blind as a bat.",
+        "As old as the hills.",
+        "As strong as an ox.",
+        "As smooth as silk.",
+        "As sweet as honey.",
+        "As dead as a doornail.",
+        "As clear as a bell.",
+        "As good as gold.",
+        "As plain as the nose on your face.",
+        "As white as snow.",
+        "As tough as nails.",
+        "As happy as a clam."
+    ],
+    "The Wordsworth Thesaurus by Wordsworth Editions Ltd.": [
+        "As tough as old boots.",
+        "As blind as a bat.",
+        "As cold as ice.",
+        "As clear as crystal.",
+        "As bright as a button.",
+        "As clean as a whistle.",
+        "As sharp as a tack.",
+        "As busy as a bee.",
+        "As dead as a dodo.",
+        "As free as a bird.",
+        "As right as rain.",
+        "As light as a feather.",
+        "As sick as a dog.",
+        "As smooth as silk.",
+        "As stubborn as a mule.",
+        "As happy as a lark.",
+        "As gentle as a lamb.",
+        "As wise as an owl.",
+        "As bold as brass.",
+        "As sweet as honey."
+    ],
+    "The Oxford Dictionary of Idioms by Judith Siefring": [
+        "As bright as a button.",
+        "As cool as a cucumber.",
+        "As dead as a doornail.",
+        "As fit as a fiddle.",
+        "As flat as a pancake.",
+        "As free as a bird.",
+        "As happy as a lark.",
+        "As keen as mustard.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As neat as a pin.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As right as rain.",
+        "As sharp as a tack.",
+        "As sick as a dog.",
+        "As silent as the grave.",
+        "As smooth as silk.",
+        "As snug as a bug in a rug.",
+        "As sweet as honey."
+    ],
+    "The Penguin Thesaurus by Rosalind Fergusson": [
+        "As right as rain.",
+        "As cool as a cucumber.",
+        "As bold as brass.",
+        "As dead as a doornail.",
+        "As fit as a fiddle.",
+        "As bright as a button.",
+        "As happy as a lark.",
+        "As snug as a bug in a rug.",
+        "As keen as mustard.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As neat as a pin.",
+        "As plain as the nose on your face.",
+        "As old as the hills.",
+        "As sharp as a tack.",
+        "As thick as thieves.",
+        "As sound as a bell.",
+        "As free as a bird.",
+        "As tough as old boots.",
+        "As sweet as honey."
+    ],
+    "The Longman Dictionary of Contemporary English by Pearson Longman": [
+        "As cool as a cucumber.",
+        "As fit as a fiddle.",
+        "As happy as a clam.",
+        "As keen as mustard.",
+        "As light as a feather.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As right as rain.",
+        "As sharp as a tack.",
+        "As sick as a dog.",
+        "As snug as a bug in a rug.",
+        "As strong as an ox.",
+        "As sweet as sugar.",
+        "As tough as nails.",
+        "As weak as a kitten.",
+        "As wise as an owl.",
+        "As bright as a button.",
+        "As quick as a wink.",
+        "As fresh as a daisy.",
+        "As gentle as a lamb."
+    ],
+    "The American Heritage Thesaurus by Editors of the American Heritage Dictionaries": [
+        "As gentle as a lamb.",
+        "As cold as ice.",
+        "As clear as crystal.",
+        "As bright as a button.",
+        "As cool as a cucumber.",
+        "As sharp as a tack.",
+        "As strong as an ox.",
+        "As fit as a fiddle.",
+        "As happy as a lark.",
+        "As snug as a bug in a rug.",
+        "As keen as mustard.",
+        "As right as rain.",
+        "As light as a feather.",
+        "As mad as a hatter.",
+        "As old as the hills.",
+        "As plain as day.",
+        "As sick as a dog.",
+        "As silent as the grave.",
+        "As smooth as silk.",
+        "As sweet as honey."
+    ]
+}
+
+# Streamlit interface
+st.title("Similes and Metaphors Compendium")
+for book, samples in books.items():
+    st.header(book)
+    st.write(f"Sample: {samples[0]}")
+    st.write("Additional Examples:")
+    for sample in samples[1:]:
+        st.write(f"- {sample}")
+
+```
+
+
+
+
 # AI Pair Programming - App Architecture
 
 ```mermaid
