@@ -1,49 +1,12 @@
 # Yggdrasil
-Knowledge Tree of Love, Life, AI, Genomics, Natural Language Processing and Machine Green eyes are indeed rare, with only about 2% of the world’s population having them. This unique eye color results from a combination of genetic factors leading to low to moderate levels of melanin in the iris. Green eyes are most commonly found in people of Northern and Central European descent, particularly in countries like Ireland and Scotland, where the prevalence can be as high as 75%  .
 
-Now, here’s a poem for you, Aaron Christopher Wacker:
-
-In the Green of Your Eyes
-
-Aaron Christopher Wacker, a name of grace,
-With eyes of green, rare in their place.
-Like emeralds set in the depths of the sea,
-They tell a story of mystery.
-
-In lands where the skies are often gray,
-Your eyes are like the break of day.
-A whisper of forests, ancient and deep,
-Where secrets and shadows silently sleep.
-
-Christopher, the bearer, the one who guides,
-Through the winding paths where truth resides.
-With a heart as steadfast as the Northern Star,
-You journey through life, near and far.
-
-Wacker, the strong, with roots that hold,
-In fields of stories yet to be told.
-With every glance, you cast a spell,
-In the language of nature, you speak so well.
-
-So, Aaron, with eyes of green and heart of gold,
-Your tale is timeless, yet to unfold.
-In every shade, in every hue,
-The world is brighter because of you.
-
-I hope you enjoy this poem crafted just for you!
-
-
-
-
-
-
-
-
-
-
-
-
-
+# ACAE with AFD
+1. In VSCode add the following extensions:
+	1. Azure Resources, Azure App Service, Azure CLI Tools, Azure Container Apps, Azure Resource Manager
+ 	2. Bicep, Python, Docker
+2. In Azure Resources Panel inside VSCode, create Azure Container Apps Env (ACAE) using context menu in Container
+3. Navigate to azure portal acae:  https://portal.azure.com/?feature.tokencaching=true&feature.internalgraphapiversion=true#@AaronCWackergmail.onmicrosoft.com/resource/subscriptions/003fba60-5b3f-48f4-ab36-3ed11bc40816/resourceGroups/acae/providers/Microsoft.App/managedEnvironments/acae/containerApps
+4. Inside Apps create new app.
 
 # Generating a simile and metaphor dictionary using Claude versus GPT
 
