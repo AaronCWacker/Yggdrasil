@@ -1,9 +1,9 @@
 
 # AI Multimodal Media Workflows and Pipelines
 
+# Text-to-Video with Music
 ```mermaid
 graph TD
-    %% Workflow 1: Text-to-Video with Music
     subgraph "Workflow 1: Storytelling Video"
         T1[Text Prompt] --> GPT[GPT-4 Omni]
         GPT --> IMG[Stable Diffusion 3]
@@ -15,8 +15,9 @@ graph TD
     end
 ```
 
+# Medical Documentation to Multimedia
 ```mermaid
-    %% Workflow 2: Medical Documentation to Multimedia
+graph TD
     subgraph "Workflow 2: Medical Case Study"
         DOC[PDF Document] --> RAG[Arxiv RAG QA]
         RAG --> TTS[Edge TTS]
@@ -26,8 +27,9 @@ graph TD
     end
 ```
 
+# Real-time Patient Interaction
 ```mermaid
-    %% Workflow 3: Real-time Patient Interaction
+graph TD
     subgraph "Workflow 3: Patient Communication"
         SPEECH[Real-Time ASR] --> CLAUDE[Claude 3.5]
         CLAUDE --> TRANS[Edge TTS]
@@ -37,8 +39,9 @@ graph TD
     end
 ```
 
+# Medical Training Content
 ```mermaid
-    %% Workflow 4: Medical Training Content
+graph TD
     subgraph "Workflow 4: Training Material"
         PROMPT[Course Outline] --> LLM[Claude 3.5]
         LLM --> MESH[InstantMesh]
@@ -50,8 +53,10 @@ graph TD
     end
 ```
 
+# Interactive Medical Visualization
+
 ```mermaid
-    %% Workflow 5: Interactive Medical Visualization
+graph TD
     subgraph "Workflow 5: Interactive Visualization"
         DATA[Medical Data] --> PLOT[AutoML Plotly]
         PLOT --> IMG3[ControlNet]
