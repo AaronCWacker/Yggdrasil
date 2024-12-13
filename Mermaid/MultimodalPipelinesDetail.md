@@ -1,7 +1,7 @@
 ```mermaid
 graph TD
-    %% Workflow 1: Storytelling Video
-    subgraph "Workflow 1: Storytelling Video"
+    %% 1: Storytelling Video
+    subgraph "1: Storytelling Video"
         T1[/"📝 Text Prompt"/] -->|"Fortify Prompt"| GPT["🤖 GPT-4 Omni"]
         GPT -->|"Generate Scene Descriptions"| IMG["🎨 Stable Diffusion 3"]
         GPT -->|"Create Storyboard"| VID["🎥 Stable Video Diffusion"]
@@ -11,8 +11,8 @@ graph TD
         AUD -->|"Add Soundtrack"| COMP
     end
 
-    %% Workflow 2: Medical Documentation to Multimedia
-    subgraph "Workflow 2: Medical Case Study"
+    %% 2: Medical Documentation to Multimedia
+    subgraph "2: Medical Case Study"
         DOC["📄 PDF Document"] -->|"Extract Knowledge"| RAG["🔍 Arxiv RAG QA"]
         RAG -->|"Generate Script"| TTS["🗣️ Edge TTS"]
         RAG -->|"Create Visuals"| IMG2["🖼️ DALL-E 3"]
@@ -20,8 +20,8 @@ graph TD
         IMG2 -->|"Insert Visuals"| FINAL
     end
 
-    %% Workflow 3: Real-time Patient Interaction
-    subgraph "Workflow 3: Patient Communication"
+    %% 3: Real-time Patient Interaction
+    subgraph "3: Patient Communication"
         SPEECH["🎤 Real-Time ASR"] -->|"Transcribe Speech"| CLAUDE["🧠 Claude 3.5"]
         CLAUDE -->|"Generate Response"| TRANS["🔊 Edge TTS"]
         CLAUDE -->|"Create Visual Aid"| VIS["📸 Stable Cascade"]
@@ -29,8 +29,8 @@ graph TD
         VIS -->|"Show Visualization"| OUT
     end
 
-    %% Workflow 4: Medical Training Content
-    subgraph "Workflow 4: Training Material"
+    %% 4: Medical Training Content
+    subgraph "4: Training Material"
         PROMPT["📋 Course Outline"] -->|"Expand Content"| LLM["🤖 Claude 3.5"]
         LLM -->|"Generate 3D Models"| MESH["💠 InstantMesh"]
         LLM -->|"Create Video Script"| SVID["🎬 Stable Video"]
@@ -40,8 +40,8 @@ graph TD
         AUDIO -->|"Add Voiceover"| FINAL2
     end
 
-    %% Workflow 5: Interactive Medical Visualization
-    subgraph "Workflow 5: Interactive Visualization"
+    %% 5: Interactive Medical Visualization
+    subgraph "5: Interactive Visualization"
         DATA["📊 Medical Data"] -->|"Generate Charts"| PLOT["📈 AutoML Plotly"]
         PLOT -->|"Enhance Visuals"| IMG3["🎨 ControlNet"]
         IMG3 -->|"Animate"| VID2["🎥 Video Generation"]
