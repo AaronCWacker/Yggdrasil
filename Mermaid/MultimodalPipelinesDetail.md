@@ -10,7 +10,9 @@ graph TD
         VID -->|"Merge Scenes"| COMP["🎬 Video Compositor"]
         AUD -->|"Add Soundtrack"| COMP
     end
-
+```
+```mermaid
+graph TD
     %% 2: Medical Documentation to Multimedia
     subgraph "2: Medical Case Study"
         DOC["📄 PDF Document"] -->|"Extract Knowledge"| RAG["🔍 Arxiv RAG QA"]
@@ -19,7 +21,9 @@ graph TD
         TTS -->|"Add Narration"| FINAL["📊 Final Presentation"]
         IMG2 -->|"Insert Visuals"| FINAL
     end
-
+```
+```mermaid
+graph TD
     %% 3: Real-time Patient Interaction
     subgraph "3: Patient Communication"
         SPEECH["🎤 Real-Time ASR"] -->|"Transcribe Speech"| CLAUDE["🧠 Claude 3.5"]
@@ -28,7 +32,9 @@ graph TD
         TRANS -->|"Speak Response"| OUT["👥 Patient Output"]
         VIS -->|"Show Visualization"| OUT
     end
-
+```
+```mermaid
+graph TD
     %% 4: Medical Training Content
     subgraph "4: Training Material"
         PROMPT["📋 Course Outline"] -->|"Expand Content"| LLM["🤖 Claude 3.5"]
@@ -39,7 +45,9 @@ graph TD
         SVID -->|"Combine Media"| FINAL2["📚 Training Module"]
         AUDIO -->|"Add Voiceover"| FINAL2
     end
-
+```
+```mermaid
+graph TD
     %% 5: Interactive Medical Visualization
     subgraph "5: Interactive Visualization"
         DATA["📊 Medical Data"] -->|"Generate Charts"| PLOT["📈 AutoML Plotly"]
@@ -49,5 +57,4 @@ graph TD
         VID2 -->|"Combine Elements"| PRESENT["🖥️ Interactive Presentation"]
         VOICE -->|"Add Voice"| PRESENT
     end
-
 ```
