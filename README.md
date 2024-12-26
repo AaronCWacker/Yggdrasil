@@ -7,38 +7,41 @@
 
 ## What I'm doing:
 ### Sorting Bookmarks
- 		1. AITools
-   		2. Art
-     		3. Music
-       		4. Huggingface
-	 	5. Github
-   		6. TV
-     		7. Health
-       		8. Azure
-	 	9. Cloud
-   		10. Shop
-     		11. Worlds
-       		12. Social
-	 	13. Learning
-   ### Planning to create AI apps for problems based on what I learned yesterday from Lex Fridman interviews.
-   	1. Astrophysicists
-    	2. Developers - Extraordinaire
-     	3. Healers
+1. AITools
+2. Art
+3. Music
+4. Huggingface
+5. Github
+6. TV
+7. Health
+8. Azure
+9. Cloud
+10. Shop
+11. Worlds
+12. Social
+13. Learning
+
+### Planning to create AI apps for problems based on what I learned yesterday from Lex Fridman interviews.
+1. Astrophysicists
+2. Developers - Extraordinaire
+3. Healers
 
 ## What I've learned today (3AM-7AM central time):
-	1. Sorting Algorithms and Agent Decision Flows Differ By Type of Information Types, Inputs and Outputs.
-	2. My AITools for instance has less AI apps in it than my Art classification.
- 	3. Music is its own because I play and write music, and each component, each voice and instrument and lyric is part of me.
-  	4. Github is where I go to write for myself and humans.  Its also where I read code and study others code creations.
-   	5. Huggingface is where I write code most quickly to always ship always to prod and public and everyone, every day something new.
-   	6. TV is all video I watch including streaming across all types of video media.
-    	7. Health is my study of what helps me heal myself, my family and my community.  What I care about in helping others and myself.  Live long and prosper.
-     	8. Cloud is the game changer cloud apps and platforms for me.
-      	9. Shop is anything I need to pay for or evaluate as something needed, wanted, for myself and others.  As well as optimal fast, parallel, and related $ matters.
-       	10. Worlds is the world of favorite maps, locations, maps I make, apps that create real or imaginary vision of worlds.  And of course AR and VR and simulated worlds you can build.
-	11. Social is all social media platforms, communications tools, ways to converse with others.
- 	12. Learning is everything I like to read like technical papers, innovation, research and documentation.  All inputs of different media as well into the AI soup I make.
-  	
+1. Sorting Algorithms and Agent Decision Flows Differ By Type of Information Types, Inputs and Outputs.
+2. My AITools for instance has less AI apps in it than my Art classification.
+3. Music is its own because I play and write music, and each component, each voice and instrument and lyric is part of me.
+4. Github is where I go to write for myself and humans.  Its also where I read code and study others code creations.
+5. Huggingface is where I write code most quickly to always ship always to prod and public and everyone, every day something new.
+6. TV is all video I watch or make including streaming across all types of video media.
+7. Health is my study of what helps me heal myself, my family and my community.  What I care about in helping others and myself.  Live long and prosper.
+8. Cloud is the game changer cloud apps and platforms for me.
+9. Shop is anything I need to pay for or evaluate as something needed, wanted, for myself and others.  As well as optimal fast, parallel, and related $ matters.
+10. Worlds is the world of favorite maps, locations, maps I make, apps that create real or imaginary vision of worlds.  And of course AR and VR and simulated worlds you can build.
+11. Social is all social media platforms, communications tools, ways to converse with others.
+12. Learning is everything I like to read like technical papers, innovation, research and documentation.  All inputs of different media as well into the AI soup I make.
+
+
+
 # ACAE with AFD
 1. In VSCode add the following extensions:
 	1. Azure Resources, Azure App Service, Azure CLI Tools, Azure Container Apps, Azure Resource Manager
