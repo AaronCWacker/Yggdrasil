@@ -2,6 +2,11 @@
 
 # Christmas 2024!  Merry Xmas and Happy New Year.
 
+## Flavors I am Tasting Together:
+1. Fresh Caramel Corn
+2. Wild Cherry
+3. Grilled Shrimp
+
 ## What I'm watching:
 ### Anthony Bordain Parts Unknown S1 - E1-5 - Little Korea, Columbia, Montreal, Tangier
 
