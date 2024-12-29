@@ -1,8 +1,10 @@
 # Yggdrasil
 
 # Chord Sheet Homage to Brian
+Title: On With The Show (For Brian)  
 
-Title: On With The Show (For Brian)                    | [Verse 5]
+--------------------------------------------------------|---------------------------
+                  					| [Verse 5]
                                                       | 22. D                    A
 [Verse 1]                                             |     The time has come and
 1.  D                    A                            | 23. Bm                   F#m
