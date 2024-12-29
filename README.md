@@ -2,6 +2,64 @@
 
 # Novel Music Arrangement - Chords and Lyrics with Arpeggio Chords - Optimal Tables
 
+
+
+# Like a Rolling Stone - Bob Dylan - 2
+
+## Quick Reference
+| Chord | Fingering |
+|-------|-----------|
+| Fmaj7/C | x33210 |
+| Dm7 | xx0211 |
+| C, F, G, Em | Standard |
+
+## Intro
+C  Fmaj7/C   C   Fmaj7/C   C   Fmaj7/C   C    Fmaj7/C
+
+## Verse Pattern
+| Line 1 & 2 | Line 3 & 4 | Bridge | Pre-Chorus | 
+|------------|------------|---------|------------|
+| C → Dm7 | F → G | F → G | F → Em → Dm7 → C |
+| Em → F → G | F → G | F → G | Dm7 → F → G |
+
+## Verse 1
+C                    Dm7
+Once upon a time you dressed so fine
+Em                    F            G
+Threw the bums a dime in your prime, didn't you?
+C                      Dm7
+People'd call, say, "Beware doll, you're bound to fall" 
+Em                         F             G
+You thought they were all a kiddin' you
+
+F             G
+You used to laugh about
+F                    G
+Everybody that was hangin' out
+
+F         Em   Dm7         C
+Now you don't talk so loud
+F         Em   Dm7          C
+Now you don't seem so proud
+Dm7                     F              G
+About having to be scrounging for your next meal
+
+## Chorus
+C    F    G
+How does it feel?
+C    F    G
+How does it feel?
+C    F    G
+To be without a home
+C    F    G
+Like a complete unknown
+C    F    G
+Like a rolling stone
+
+[Continue format for remaining verses...]
+
+
+
 # Like a Rolling Stone - Bob Dylan
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
