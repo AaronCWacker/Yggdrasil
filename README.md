@@ -1,5 +1,37 @@
 # Yggdrasil
 
+# Novel Music Arrangement - Chords and Lyrics with Arpeggio Chords - Optimal Tables
+
+# Like a Rolling Stone - Bob Dylan
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+|----------|----------|----------|----------|
+| [Chords] | [Verse 1 cont.] | [Verse 3] | [Verse 4] |
+| Fmaj7/C x33210 | F         Em | C              Dm7 | C                Dm7 |
+| Dm7    xx0211 | Now you don't | Aww, You never | Princess on the steeple |
+| | seem so proud | turned around | and pretty people |
+| [Intro] | Dm7         C | Em               F | Em              F |
+| C  Fmaj7/C | About having to be | On jugglers and | They're all drinking |
+| C  Fmaj7/C | scrounging your meal | clowns did tricks | thinking they made it |
+| | | G                 | G                 |
+| [Verse 1] | [Chorus] | You shouldn't let | Exchanging precious |
+| C        Dm7 | C  F  G | others get kicks | gifts and rings |
+| Once upon a time | How does it feel | | |
+| Em       F | C  F  G | F              G | F               G |
+| Threw the bums | How does it feel | Used to ride the | Used to be so |
+| a dime | To be on your own | chrome horse with | amused at Napoleon |
+| | | | |
+| [Verse 2] | [Bridge] | F         Em | F         Em |
+| C        Dm7 | F         G | Ain't it hard | Go to him now he |
+| You've gone to | You used to laugh | when you discover | calls you can't |
+| finest school | about everyone | Dm7         C | refuse nothing |
+| Em       F | F         G | He really wasn't | to lose invisible |
+| But you know you | Everybody that was | where it's at | now with no |
+| only used it | hanging out now | After he took | secrets left |
+
+
+
+
 # AI Process of Music Distribution Understanding and Music Provider Directory
 
 # Artist & Label Distribution URLs 🎵
