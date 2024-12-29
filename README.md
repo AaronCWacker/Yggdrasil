@@ -1,6 +1,7 @@
 # Yggdrasil
 
-# Novel Music Arrangement - Chords and Lyrics with Arpeggio Chords - Optimal Tables
+# Optimized for Playing and Singing.
+# Like a Rolling Stone - Bob Dylan - 3
 
 [Chord Reference]
 Fmaj7/C  x33210
