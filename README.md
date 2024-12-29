@@ -1,5 +1,181 @@
 # Yggdrasil
 
+# Optimal Format
+
+1. Simplified power chords to basic pattern at top
+2. Grouped chords with their lyrics
+3. Made verses and choruses clearly distinct
+4. Kept the natural rhythm through spacing
+5. Marked repeated sections
+6. Removed any duplicate sections and used [Repeat] instead
+7. Simplified the ending to just the chords
+
+
+[Basic Pattern]
+Verse: A F D
+Chorus: A5 F5 D/D5
+
+Intro
+A F D A F D
+
+Verse 1
+A F D She eyes me like a pisces when I am weak
+A F D I've been locked inside your heart-shaped box for weeks
+A F D I've been drawn into your magnet tarpit trap
+A F D I wish I could eat your cancer when you turn black
+
+Chorus
+A5 F5 D Hey! Wait! I got a new complaint
+A5 F5 D5 forever in debt to your priceless advice
+A5 F5 D Hey! Wait! I got a new complaint
+A5 F5 D5 forever in debt to your priceless advice
+A5 F5 D Hey! Wait! I got a new complaint
+A5 F5 D5 forever in debt to your priceless advice
+F D Your advice
+
+Verse 2
+A F D Meat-eating orchids forgive no one just yet
+A F D Cut myself on angel hair and baby's breath
+A F D Broken hymen of your highness I'm left black
+A F D Throw down your umbilical noose so I can climb right back
+
+[Repeat Chorus]
+
+Verse 3
+A F D She eyes me like a pisces when I am weak
+A F D I've been locked inside your heart-shaped box for weeks
+A F D I've been drawn into your magnet tarpit trap
+A F D I wish I could eat your cancer when you turn black
+
+[Repeat Chorus]
+Ending: Am F
+
+
+# Optimal Learning Pattern
+
+[Basic Pattern]
+Verse/Chorus: Fm A# G# C#
+
+Intro
+Fm A# G# C# [repeat x4]
+
+Verse 1
+Fm A# G# Load up on guns
+C# Fm Bring your friends
+A# G# It's fun to lose
+C# Fm And to pretend
+A# G# She's over-bored
+C# Fm Self-assured
+A# G# C# Fm Oh no, I know a dirty word
+
+Pre-Chorus
+A# G# C# Fm Hello, hello, hello, how low
+A# G# C# Fm Hello, hello, hello, how low
+A# G# C# Fm Hello, hello, hello, how low
+A# G# C# Hello, hello, hello
+
+Chorus
+Fm A# G# With the lights out, it's less dangerous
+C# Fm A# G# Here we are now, entertain us
+C# Fm A# G# I feel stupid and contagious
+C# Fm A# G# Here we are now, entertain us
+C# Fm A mulatto
+A# G# An albino
+C# Fm A mosquito
+A# G# My libido
+C# Yeah
+
+Bridge
+Fm A# G# C# [repeat x2]
+
+Verse 2
+Fm A# G# C# Fm I'm worse at what I do best
+A# G# C# Fm And for this gift I feel blessed
+A# G# C# Fm Our little group has always been
+A# G# C# Fm And always will until the end
+
+[Repeat Pre-Chorus]
+[Repeat Chorus]
+
+Bridge
+Fm A# G# C# [repeat x2]
+
+Verse 3
+Fm A# G# C# Fm And I forget just why I taste
+A# G# C# Fm Oh yeah, I guess it makes me smile
+A# G# C# Fm I found it hard, it's hard to find
+A# G# C# Fm Oh well, whatever, nevermind
+
+[Repeat Pre-Chorus]
+[Repeat Chorus]
+
+Outro
+C# Fm A# G# C# A denial, a denial [repeat x4]
+Fm A denial
+
+
+
+# Optimal Learning Pattern
+
+[Chord Pattern]
+Verse: F#m E F#m E F#m
+Interlude: F#m A
+Chorus: B D B D
+
+Verse 1
+F#m E Come as you are, as you were 
+F#m E F#m as I want you to be
+E As a friend, as a friend 
+F#m E F#m as an old enemy
+E Take your time, hurry up 
+F#m E F#m the choice is yours, don't be late
+E Take a rest, as a friend 
+F#m E F#m A as an old memoria
+
+Interlude
+F#m A Memoria 
+F#m A Memoria 
+F#m A Memoria
+
+Verse 2
+F#m E Come dowsed in mud, soaked in bleach 
+F#m E F#m as I want you to be
+E As a trend, as a friend 
+F#m E F#m A as an old memoria
+
+Interlude
+F#m A Memoria 
+F#m A Memoria 
+F#m A Memoria
+
+Chorus
+B D And I swear that I don't have a gun
+B D No I don't have a gun 
+B D No I don't have a gun
+
+Bridge
+F#m E [repeat x2]
+
+Solo
+F#m E [repeat x8]
+
+Interlude
+F#m A ria 
+F#m A Memoria 
+F#m A Memoria 
+F#m A Memoria
+
+Chorus
+B D And I swear that I don't have a gun
+B D No I don't have a gun 
+B D No I don't have a gun
+B D No I don't have a gun 
+B D No I don't have a gun
+
+
+
+
+
 # Optimized for Playing and Singing.
 # Like a Rolling Stone - Bob Dylan - 3
 
