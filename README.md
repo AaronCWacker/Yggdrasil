@@ -1,5 +1,63 @@
 # Yggdrasil
 
+# Chord Sheet Homage to Brian
+
+Title: On With The Show (For Brian)                    | [Verse 5]
+                                                      | 22. D                    A
+[Verse 1]                                             |     The time has come and
+1.  D                    A                            | 23. Bm                   F#m
+   Brian died just the other night                   |     He's paid his dues
+2.  Bm                   F#m                          | 24. G
+   Some say it was justified                         |     Everyone heard  
+3.  G                                                 | 25. D                    A
+   But we know                                       |     The terrible news
+4.  D                    A                            |
+   How the story goes                                | [Verse 6]
+                                                     | 26. D                    A
+[Verse 2]                                             |     He was stopped on a dime
+5.  D                    A                            | 27. Bm                   F#m
+   With his healing hands                            |     That terrible night
+6.  Bm                   F#m                          | 28. G
+   And his servant's heart                           |     Some damn punk went and
+7.  G                                                 | 29. D                    A
+   And he gave                                       |     Took Brian's life
+8.  D                    A                            |
+   All he had from the start                         | [Verse 7]
+                                                     | 30. D                    A
+[Verse 3]                                             |     Broken down, with his broken dreams
+9.  D                    A                            | 31. Bm                   F#m
+   But you see, Brian cared                          |     With a wink of an eye
+10. Bm                   F#m                          | 32. G
+   Too much to know                                  |     He said listen to me
+11. G                                                 | 33. D                    A
+   He wouldn't slow                                  |     You must carry on
+12. D                    A                            |
+   Till they laid him low                            | [Final Chorus]
+                                                     | 34. D                    A
+[Chorus]                                              |     Go on with the show
+13. D                    A                            | 35. Bm                   F#m
+   Well, on with the show                            |     Going on with the show
+14. Bm                   F#m                          | 36. Bm                   F#m
+   Going on with the show                            |     Come on baby
+15. Bm                   F#m                          | 37. G                    A
+   Come on baby                                      |     No, no, no
+16. G                    A                            | 38. Oh my, my, my...
+   No, no, no                                        | [Repeat Final Chorus]
+17. Oh my, my, my...                                 |
+[Repeat Chorus]                                       | 39. Oh baby
+                                                     |
+[Verse 4]                                             |
+18. D                    A                            |
+   He was good                                       |
+19. Bm                   F#m                          |
+   He was always true                                |
+20. G                                                 |
+   One thing that                                    |
+21. D                    A                            |
+   Everyone knew                                     |
+
+
+
 # Christmas 2024!  Merry Xmas and Happy New Year.
 
 ## Flavors I am Tasting Together:
