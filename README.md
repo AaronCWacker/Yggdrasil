@@ -2,6 +2,77 @@
 
 # Novel Music Arrangement - Chords and Lyrics with Arpeggio Chords - Optimal Tables
 
+[Chord Reference]
+Fmaj7/C  x33210
+Dm7      xx0211
+
+[Intro]
+C  Fmaj7/C   C   Fmaj7/C   C   Fmaj7/C   C    Fmaj7/C
+
+Verse 1
+C Dm7 Once upon a time you dressed so fine 
+Em F G Threw the bums a dime in your prime, didn't you?
+C Dm7 People'd call, say, "Beware doll, you're bound to fall" 
+Em F G You thought they were all a kiddin' you
+
+F G You used to laugh about 
+F G Everybody that was hangin' out
+
+F Em Dm7 C Now you don't talk so loud 
+F Em Dm7 C Now you don't seem so proud
+Dm7 F G About having to be scrounging for your next meal
+
+Chorus
+C F G How does it feel
+C F G How does it feel
+C F G To be without a home
+C F G Like a complete unknown
+C F G Like a rolling stone
+
+Verse 2
+C Dm7 Aww, You've gone to the finest school all right, Miss Lonely
+Em F G But you know you only used to get juiced in it
+C Dm7 Nobody has ever taught you how to live out on the street
+Em F G And now you're gonna have to get used to it
+
+F G You said you'd never compromise
+F G With the mystery tramp, but now you realize
+
+F Em Dm7 C He's not selling any alibis
+F Em Dm7 C As you stare into the vacuum of his eyes
+Dm7 F G And say do you want to make a deal?
+
+[Chorus]
+
+Verse 3
+C Dm7 Aww, You never turned around to see the frowns
+Em F G On the jugglers and the clowns when they all did tricks for you
+C Dm7 You never understood that it ain't no good
+Em F G You shouldn't let other people get your kicks for you
+
+F G You used to ride on the chrome horse with your diplomat
+F G Who carried on his shoulder a Siamese cat
+
+F Em Dm7 C Ain't it hard when you discover that
+F Em Dm7 C He really wasn't where it's at
+Dm7 F G After he took from you everything he could steal
+
+[Chorus]
+
+Verse 4
+C Dm7 Aww, Princess on the steeple and all the pretty people
+Em F G They're all drinkin', thinkin' that they got it made
+C Dm7 Exchanging all precious gifts
+Em F G But you'd better take your diamond ring, you'd better pawn it babe
+
+F G You used to be so amused
+F G At Napoleon in rags and the language that he used
+
+F Em Dm7 C Go to him now, he calls you, you can't refuse
+F Em Dm7 C When you ain't got nothing, you got nothing to lose
+Dm7 F G You're invisible now, you got no secrets to conceal
+
+[Chorus]
 
 
 # Like a Rolling Stone - Bob Dylan - 2
