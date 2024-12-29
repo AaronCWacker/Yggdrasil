@@ -1,5 +1,46 @@
 # Yggdrasil
 
+
+
+
+# Optimal Format
+
+[Basic Pattern]
+Verse/Chorus: Fm C#/G#
+
+Intro
+Fm C#/G# [repeat x4]
+
+Verse 1
+Fm C#/G# Underneath the bridge
+Fm C#/G# The tarp has sprung a leak
+Fm C#/G# And the animals I've trapped
+Fm C#/G# Have all become my pets
+Fm C#/G# And I'm living off of grass
+Fm C#/G# And the drippings from the ceiling
+Fm C#/G# It's okay to eat fish
+Fm C#/G# 'Cause they don't have any feelings
+
+Chorus
+Fm C#/G# Something in the way, mmm
+Fm C#/G# Something in the way, yeah, mmm
+Fm C#/G# Something in the way, mmm
+Fm C#/G# Something in the way, yeah, mmm
+Fm C#/G# Something in the way, mmm
+Fm C#/G# Something in the way, yeah, mmm
+
+[Repeat Verse 1]
+[Repeat Chorus]
+1. Simplified to just two alternating chords
+2. Put basic pattern up front
+3. Grouped chords with lyrics
+4. Used [Repeat] for identical sections
+5. Kept the natural rhythm through spacing
+6. Removed any redundant parts
+
+
+
+
 # Optimal Format
 
 1. Simplified power chords to basic pattern at top
