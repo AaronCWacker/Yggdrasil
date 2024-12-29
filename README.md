@@ -1,5 +1,84 @@
 # Yggdrasil
-Chord organization AI Test
+
+
+# Musicography Part 2 - sites links lists and where songs are linked, full list of songs with different site URLS
+
+```python
+Inputs:
+
+
+Claude's assist to consolidate:
+I understand you're looking to consolidate your online music presence and gain better control over your content as Aaron Wacker. Let me help organize this information and provide guidance. Since you're dealing with artist identity verification, I'll start with the most popular music streaming platforms (as of 2024) and analyze your presence:
+
+Spotify
+
+Found multiple artist profiles for you:
+
+spotify:artist:2o4HpFDjqtVgItUvp7jFF7 spotify:artist:2qa4HqeRLYlX5YU7i0Jodg
+
+This indicates a known issue called "profile fragmentation" that needs consolidation
+
+Apple Music Would need to verify your presence Amazon Music Would need to verify your presence YouTube Music
+
+Connected to your YouTube channel: @AaronWacker
+
+SoundCloud
+
+Confirmed profile: aaron-wacker-941819269
+
+Deezer Would need to verify your presence Tidal Would need to verify your presence Pandora Would need to verify your presence Bandcamp Would need to verify your presence TikTok Music Would need to verify your presence
+
+To help consolidate your presence, here are some actionable steps:
+
+Register with a music distribution service (like DistroKid, CD Baby, or TuneCore) that can:
+
+Handle distribution to all major platforms Help merge duplicate profiles Ensure consistent metadata across platforms
+
+Create an account with performing rights organizations (PROs) if you haven't already Register with SoundExchange for digital performance royalties Consider using a service like Songview or Musicbrainz to help establish canonical identity
+
+Would you like me to provide more specific details about any of these steps? Also, I noticed you have multiple Spotify profiles - would you like information about Spotify's artist profile merger process? For security purposes, I've omitted the full email addresses and phone numbers from my response, but those are important verification details you'll need when contacting these services.
+
+GPT 4o1 Take on my problem (much more detailed)
+Below is a high-level rundown of ten major music streaming/distribution platforms (roughly in descending order of global popularity), along with notes on whether Aaron Wacker’s music (based on the Spotify links and name searches) is or is likely to be present. Because centralized metadata and provenance can be inconsistent, especially for indie or emerging artists, verification may differ from one region/platform to another. Nonetheless, here is a general overview:
+
+Spotify URL: https://www.spotify.com/ Aaron Wacker Presence:
+Based on the links you provided: Artist Link #1 Artist Link #2 These show that Spotify does host your music under at least two entries. These separate artist entries can sometimes happen due to metadata or distribution-service inconsistencies. A unification or “artist claim” process with Spotify for Artists might be necessary to merge these profiles. 2. YouTube Music (formerly Google Play Music) URL: https://music.youtube.com/ Aaron Wacker Presence:
+
+YouTube Music pulls from YouTube’s Content ID system. If your distributor has delivered music there, you may find “Topic” channels (e.g., “Aaron Wacker - Topic”). You also have a direct YouTube channel: AaronWacker YouTube Channel However, official music on YouTube Music sometimes appears under auto-generated channels if it was distributed via a label/distributor. You can check for “Aaron Wacker - Topic” and claim it via YouTube for Artists if it exists. 3. Apple Music / iTunes URL: https://music.apple.com/ Aaron Wacker Presence:
+
+Apple Music is a major streaming platform. If your distribution aggregator (CD Baby, DistroKid, Tunecore, etc.) was used, your tracks should be here. Searching “Aaron Wacker” often yields results, but if metadata was inconsistent, there may be issues combining your discography under one listing. Apple provides an “Apple Music for Artists” dashboard where you can claim your profile to unify your presence. 4. Amazon Music URL: https://music.amazon.com/ Aaron Wacker Presence:
+
+Many distributors also deliver to Amazon Music. Inconsistencies may arise if releases were submitted through different aggregator accounts. You can search “Aaron Wacker” in Amazon Music’s search bar to confirm. Typically, if you have music on Spotify, there is a strong chance it’s also on Amazon unless you or the aggregator opted out. 5. SoundCloud URL: https://soundcloud.com/ Aaron Wacker Presence:
+
+You provided your personal SoundCloud link: Aaron Wacker SoundCloud SoundCloud presence is entirely under your control once you upload or claim your profile. If any additional user uploads your music, you may need to file a claim to manage it. 6. Deezer URL: https://www.deezer.com/ Aaron Wacker Presence:
+
+Deezer is popular in certain regions (e.g., France, parts of Europe, Latin America). If your aggregator distributed your albums globally, you might find them under “Aaron Wacker” in the Deezer search. There is a “Deezer for Creators” or “Deezer Backstage” program where you can claim your artist page to unify your content. 7. Tidal URL: https://tidal.com/ Aaron Wacker Presence:
+
+Tidal is known for higher-quality streaming (lossless). Most distributors also push music to Tidal by default. As with Apple and Spotify, you can sign up for a Tidal artist account to manage your profile once you identify your discography. Look up “Aaron Wacker” on Tidal to see if any official releases appear. 8. Bandcamp URL: https://bandcamp.com/ Aaron Wacker Presence:
+
+Bandcamp is a more direct-to-fan platform, often used by indie musicians who want greater control and direct revenue. If you have not personally uploaded any releases to Bandcamp, it is less likely that they exist there under your name, unless someone else placed them. You could consider creating an official Bandcamp page to consolidate your discography and link your social media. 9. Pandora URL: https://www.pandora.com/ Aaron Wacker Presence:
+
+Pandora is primarily US-based; it may or may not have your music depending on distribution. Pandora uses the Music Genome Project for curation, and typically artists have to submit. If your aggregator includes Pandora, your music might appear. You can claim your presence via Pandora’s “AMP” (Artist Marketing Platform) to see if your tracks are in rotation. 10. Napster (formerly Rhapsody) URL: https://us.napster.com/ Aaron Wacker Presence:
+
+Napster is smaller but still relevant in some markets. If your aggregator does “all mainstream DSPs,” you may find your releases here too. Recommendations for Centralizing and Controlling Your Presence Artist Portals & Verification
+
+Spotify for Artists: Merge the two existing Spotify artist profiles into a single official one. You can contact Spotify support or use the “Spotify for Artists” portal. YouTube for Artists: Claim your YouTube Music Topic channel (if it exists) so all your official releases are consolidated under your brand. Apple Music for Artists: Allows you to unify your Apple Music identity and fix metadata discrepancies. Amazon Music for Artists, Deezer Backstage, Pandora AMP, Tidal Artist Portal: Each major service has its own verification or claiming portal to manage your artist image, biography, and track-level metadata. Aggregator / Distributor Coordination
+
+If you used multiple distributors over the years or changed services, your metadata may have become fragmented. Consider consolidating under a single distributor or one that offers a “catalog consolidation” feature. They can help unify your discography across multiple services under one unique artist ID. Metadata Clean-Up
+
+Ensure your artist name is consistently spelled as “Aaron Wacker” (and not variations like “Aarron Wacker,” “Aaron C. Wacker,” or similar). Make sure your release years, album titles, and genre tags are consistent across platforms. Provenance & Copyright Registration
+
+Officially register each release through your country’s performing rights organization (PRO), mechanical rights organizations, and global metadata databases (e.g., SoundExchange in the U.S.). This helps confirm your identity if you have to dispute unauthorized postings or missing revenue. Direct Fan Communication & Website
+
+Maintain your own central website (even a simple one) that links to all official streaming platforms and social profiles. Encourage fans to follow and listen through verified links that you provide, which helps the platforms unify analytics under your real identity. Use Social Proof & Cross-Linking
+
+Your social media links (Facebook, X/Twitter, Instagram, YouTube) should all point to your official music pages. Also, cross-link from each streaming platform’s “about” or “bio” section (where possible) to your official website or major social handles. Conclusion By systematically claiming your artist profiles on each major streaming platform and standardizing your metadata, you’ll gain significantly more control over your online presence. This will also help address the issue of smaller musicians getting overshadowed or losing rightful proceeds due to improper attribution. A single aggregator or distributor that supports full catalog management can help unify everything under one name.
+
+Once these steps are in place, you should have a consistent, centralized “Aaron Wacker” presence across the top platforms, with verified pages, correct discography entries, and improved revenue tracking.
+
+
+```
+
 
 # Musicography:
 
