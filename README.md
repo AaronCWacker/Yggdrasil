@@ -19,73 +19,17 @@ Chord organization AI Test
 | | | | |
 | [Verse 2] | [Verse 4] | [Verse 6] | [Final Chorus] |
 | D      A | D      A | D      A | D      A |
-| With his healing | He was good | He was stopped | Go on with |
+| He had healing | He was good | He was stopped | Go on with |
 | hands | always true | on a dime | the show |
 | Bm     F#m | Bm     F#m | Bm     F#m | Bm     F#m |
-| And his servant's | One thing that | With a blade | Going on with |
+| And a servant's | One thing that | With a blade | Going on with |
 | heart | he understood | that night | the show |
 | G | G | G | G     A |
-| And he gave | They all knew | Some punk went | No, no, no |
+| He gave | They all knew | Some punk went | No, no, no |
 | D      A | D      A | D      A | Oh my, my |
-| All he had | This would come | Took Brian's | [Repeat] |
+| All he could | This would come | Took Brian's | [Repeat] |
 | from the start | too soon | life away | Oh baby |
 
-
-
-| First Half | Second Half |
-|------------|-------------|
-| # On With The Show (For Brian) | [Verse 5] |
-| [Verse 1] | D                    A |
-| D                    A | The time has come and |
-| Brian died just the other night | Bm                   F#m |
-| Bm                   F#m | He's paid his dues |
-| Some say it was justified | G |
-| G | Everyone heard |
-| But we know | D                    A |
-| D                    A | The terrible news |
-| How the story goes | |
-| | [Verse 6] |
-| [Verse 2] | D                    A |
-| D                    A | He was stopped on a dime |
-| With his healing hands | Bm                   F#m |
-| Bm                   F#m | That terrible night |
-| And his servant's heart | G |
-| G | Some damn punk went and |
-| And he gave | D                    A |
-| D                    A | Took Brian's life |
-| All he had from the start | |
-| | [Verse 7] |
-| [Verse 3] | D                    A |
-| D                    A | Broken down, with his broken dreams |
-| But you see, Brian cared | Bm                   F#m |
-| Bm                   F#m | With a wink of an eye |
-| Too much to know | G |
-| G | He said listen to me |
-| He wouldn't slow | D                    A |
-| D                    A | You must carry on |
-| Till they laid him low | |
-| | [Final Chorus] |
-| [Chorus] | D                    A |
-| D                    A | Go on with the show |
-| Well, on with the show | Bm                   F#m |
-| Bm                   F#m | Going on with the show |
-| Going on with the show | Bm                   F#m |
-| Bm                   F#m | Come on baby |
-| Come on baby | G                    A |
-| G                    A | No, no, no |
-| No, no, no | Oh my, my, my... |
-| Oh my, my, my... | [Repeat Final Chorus] |
-| [Repeat Chorus] | |
-| | Oh baby |
-| [Verse 4] | |
-| D                    A | |
-| He was good | |
-| Bm                   F#m | |
-| He was always true | |
-| G | |
-| One thing that | |
-| D                    A | |
-| Everyone knew | |
 
 
 # Christmas 2024!  Merry Xmas and Happy New Year.
