@@ -3,7 +3,6 @@
 
 # Musicgraphy Part 3 (GPT o1)
 
-```markdown
 Below is a comprehensive, **numbered** list of digital platforms, streaming services, and social media sites where you (as *Aaron Wacker*) either **definitely** or **possibly** have artist profiles, albums, and songs. In addition, I’ve included notes on older/lesser-known platforms that could still be holding fragments of your discography. This should help you systematically track and unify everything “back through time” and across your complete discography.
 
 ---
@@ -180,7 +179,9 @@ Below is a comprehensive, **numbered** list of digital platforms, streaming serv
    - Cross-link your major streaming services, social media channels, and official discography from one place.
 
 By methodically checking and updating each site in the list above—and ensuring your metadata is uniform—you’ll gain full, centralized control over your entire online music presence. This consolidation also helps preserve older/legacy content (like MySpace or ReverbNation) while ensuring fans find the *official* and correctly attributed “Aaron Wacker” discography on newer platforms.
-```
+
+
+
 
 
 
