@@ -1,5 +1,36 @@
 # Yggdrasil
-Let me create a simpler, cleaner two-column table for this chord sheet. I'll start fresh:
+Chord organization AI Test
+
+# On With The Show (For Brian)
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+|----------|----------|----------|----------|
+| [Verse 1] | [Verse 3] | [Verse 5] | [Verse 7] |
+| D      A | D      A | D      A | D      A |
+| Brian died just | But you see | The time has come | Broken down with |
+| the other night | Brian cared | he's paid his dues | his broken dreams |
+| Bm     F#m | Bm     F#m | Bm     F#m | Bm     F#m |
+| Some say it was | Too much to know | News came in | With a wink of |
+| justified | He wouldn't slow | About what they'd | an eye |
+| G | G | G | G |
+| But we know | Till we know | Everyone heard | He said listen |
+| D      A | D      A | D      A | D      A |
+| How the story goes | How close he'd go | The terrible news | You must carry on |
+| | | | |
+| [Verse 2] | [Verse 4] | [Verse 6] | [Final Chorus] |
+| D      A | D      A | D      A | D      A |
+| With his healing | He was good | He was stopped | Go on with |
+| hands | always true | on a dime | the show |
+| Bm     F#m | Bm     F#m | Bm     F#m | Bm     F#m |
+| And his servant's | One thing that | With a blade | Going on with |
+| heart | he understood | that night | the show |
+| G | G | G | G     A |
+| And he gave | They all knew | Some punk went | No, no, no |
+| D      A | D      A | D      A | Oh my, my |
+| All he had | This would come | Took Brian's | [Repeat] |
+| from the start | too soon | life away | Oh baby |
+
+
 
 | First Half | Second Half |
 |------------|-------------|
