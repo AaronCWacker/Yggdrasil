@@ -1,6 +1,358 @@
 # Yggdrasil
 
+# Optimal Format
 
+[Basic Pattern]
+Verse: Em A G C Em
+Chorus: G E5
+Bridge: B C alternating
+
+Verse 1
+Em A G I'm not like them
+C Em But I can pretend
+A G The sun is gone
+C Em But I have a light
+A G The day is done
+C Em But I'm having fun
+A G I think I'm dumb
+C E5 Or maybe just happy
+
+Chorus
+G E5 Think I'm just happy
+G E5 Think I'm just happy
+G E5 G Think I'm just happy
+
+Verse 2
+Em A G My heart is broke
+C Em But I have some glue
+A G Help me inhale
+C Em And mend it with you
+A G We'll float around
+C Em And hang out on clouds
+A G Then we'll come down
+C E5 And have a hangover
+
+Chorus
+G E5 Have a hangover
+G E5 Have a hangover
+G E5 G Have a hangover
+
+Bridge
+B C Skin the sun
+Fall asleep
+B Wish away
+C The soul is cheap
+B Lesson learned
+C Wish me luck
+B Soothe the burn
+C Wake me up
+
+[Repeat Verse 1]
+[Repeat Chorus]
+
+Outro
+Em A G I think I'm dumb
+C Em I think I'm dumb
+[Repeat outro pattern until fade]
+
+
+# Optimal Format
+
+[Basic Pattern]
+Main: Am C E G
+Bridge: C#m A G F# F (barre chords)
+
+Intro
+Am C E G [repeat x2]
+
+Verse 1
+Am C E G Rape me
+Am C E G Rape me my friend
+Am C E G Rape me
+Am C E G Rape me again
+
+Chorus
+Am C E G I am not the only one [extend 'one']
+Am C E G I am not the only one [extend 'one']
+Am C E G I am not the only one [extend 'one']
+Am C E G I am not the only one
+
+Verse 2
+Am C E G Hate me
+Am C E G Do it and do it again
+Am C E G Waste me
+Am C E G Rape me my friend
+
+[Repeat Chorus]
+
+Bridge [barre chords]
+C#m A G F# F My favorite inside source
+C#m A G F# F I'll kiss your open sores
+C#m A G F# F appreciate your concern
+C#m A F G E you'll always stink and burn
+
+[Repeat Verse 1]
+[Repeat Chorus]
+
+Outro
+Am C E G Rape me [repeat word with each chord x4]
+Am Let final Am ring out
+
+
+
+# Optimal Format
+
+[Basic Pattern]
+Verse: Em G D C
+Chorus: D C then G Bb alternating
+
+Intro
+Em G D C [repeat x2]
+[mild distortion]
+
+Verse 1
+Em G D C Polly wants a cracker
+Em G D C I think I should get off her first
+Em G D C Think she wants some water
+Em G D C To put out the blow torch
+
+Chorus
+D C Isn't me
+G Bb Have a seed
+D C Let me clip
+G Bb Dirty wings
+D C Let me take a ride
+G Bb Cut yourself
+D C Want some help
+G Bb Please myself
+D C Got some rope
+G Bb Haven't told
+D C Promise you
+G Bb Have been true
+D C Let me take a ride
+G Bb Cut yourself
+D C Want some help
+G Bb Please myself
+
+Bridge
+Em G D C [repeat x2]
+
+Verse 2
+Em G D C Polly wants a cracker
+Em G D C Maybe she would like some food
+Em G D C She ask me to untie her
+Em G D C A chase would be nice for a few
+
+[Repeat Chorus]
+
+Interlude
+Em G D C [repeat x2]
+Polly said
+
+Verse 3
+Em G D C Polly says her back hurts
+Em G D C She's just as bored as me
+Em G D C She caught me off my guard
+Em G D C Amazes me, the will of instinct
+
+[Repeat Chorus]
+
+Outro
+E
+
+
+
+# Optimal Format
+
+[Basic Pattern]
+Verse: C#
+Chorus: F# to G#
+
+Intro
+C# [repeat x4]
+
+Verse 1
+C# What else should I be; all apologies
+C# What else could I say; everyone is gay
+C# What else could I write; I don't have a right
+C# What else should I be; all apologies
+
+Chorus
+F# In the sun, in the sun I feel as one
+F# G# In the sun, in the sun I'm married
+G# Buried (yah yah yah yeah)
+
+Verse 2
+C# I wish I was like you; easily amused
+C# Find my nest of salt; everything's my fault
+C# I'll take all the blame; aqua sea foam shame
+C# Sunburn with freezer burn
+C# Choking on the ashes of her enemies
+
+[Repeat Chorus with:]
+G# G# Married, Buried (yah yah yah yeah)
+
+Bridge
+C# [repeat x4 twice]
+
+Outro
+C# All in all is all we are [repeat pattern to fade]
+
+
+
+# Optimal Format
+
+[Basic Pattern]
+All Parts: E A G B E
+
+Verse 1
+E A G My girl, my girl, don't lie to me
+B E Tell me where did you sleep last night
+E In the pines, in the pines
+A G Where the sun don't ever shine
+B E I would shiver the whole night through
+
+Chorus
+E A G My girl, my girl, where will you go
+B E I'm going where the cold wind blows
+E In the pines, in the pines
+A G Where the sun don't ever shine
+B E I would shiver the whole night through
+
+Verse 2
+E A G Her husband, was a hard working man
+B E Just about a mile from here
+E A G His head was found in a driving wheel
+B E But his body never was found
+
+[Repeat Verse 1]
+
+Bridge
+E A G B E [instrumental]
+
+[Repeat Chorus]
+[Repeat Verse 1]
+
+Final Verse
+E A G My girl, my girl, where will you go
+B E I'm going where the cold wind blows
+E In the pines, the pines
+A G The sun, the shine
+B E I'll shiver the whole night through
+
+
+# Optimal Format
+
+[Basic Pattern]
+Verse: D F#m Bm G Bb C A C
+Chorus: Yeah pattern with same chords
+Bridge: G Bb alternating
+
+Intro
+D F#m Bm G
+Bb C A C
+
+Verse 1
+D F#m Bm I'm so happy
+G Bb C A 'cause today I found my friends
+C D F#m Bm They're in my head, I'm so ugly
+G Bb C A but that's OK 'cause so are you
+C D F#m Bm Broke our mirrors, Sunday morning
+G Bb C A is every day for all I care
+C D F#m Bm And I'm not scared, Light my candles
+G Bb C A C In a daze cause I've found God, Yeah
+
+Chorus
+D F#m Bm G Bb C A C Yeah yeah-ah [extend vowels]
+D F#m Bm G Bb C A C Yeah yeah-ah [extend vowels]
+D F#m Bm G Bb C A Yeah yeah-ah [extend vowels]
+
+Verse 2
+D F#m Bm I'm so lonely
+G Bb C A That's OK, I shaved my head
+C D F#m Bm And I'm not sad, and just maybe
+G Bb C A I'm to blame for all I've heard
+C D F#m Bm And I'm not sure, I'm so excited
+G Bb C A I can't wait to meet you there
+C D F#m Bm And I don't care, I'm so horny
+G Bb C A C that's OK, my will is good, Yeah
+
+[Repeat Chorus]
+
+Bridge
+G Bb I like it - I'm not gonna crack
+G Bb I miss you - I'm not gonna crack
+G Bb I love you - I'm not gonna crack
+G Bb I killed you - I'm not gonna crack
+[Repeat Bridge]
+
+Break
+D F#m Bm G
+Bb C A C
+
+[Repeat Verse 1]
+[Repeat Chorus]
+[Repeat Bridge twice]
+
+[Note: For original version, tune down one step and transpose up]
+
+
+# Optimal Format
+
+[Basic Pattern]
+Verse: Em G 
+Chorus: C# C#/G# F#7add11, then E5 A C
+
+Intro
+Em G [repeat x8]
+
+Verse 1
+Em G I need an easy friend
+Em G I do with a ear to lend
+Em G I do think you fit this shoe
+Em G I do want you to have a clue
+
+Chorus
+C# C#/G# F#7add11 I'll take advantage while
+C# C#/G# F#7add11 You hang me out to dry
+E5 A C But I can't see you every night
+Em G Free
+Em G I do
+
+Verse 2
+Em G I'm standin' in your line
+Em G I do hope you have the time
+Em G I do pick a number too
+Em G I do keep a date with you
+
+[Repeat Chorus]
+
+Solo
+[Pitch bend section - slide up/hammer on]
+C# C#/G# F#7add11
+C# C#/G# F#7add11
+E5 A C
+
+Bridge
+Em G [repeat x4]
+
+Verse 3
+Em G I need an easy friend
+Em G I do with a ear to lend
+Em G I do think you fit this shoe
+Em G I do want you to have a clue
+
+Final Chorus
+C# C#/G# F#7add11 I'll take advantage while
+C# C#/G# F#7add11 You hang me out to dry
+E5 A C But I can't see you every night
+E5 A C No, I can't see you every night
+[C to Cm transition]
+Em G Free
+
+Outro
+Em G I do [repeat x3]
+Em I do
 
 
 # Optimal Format
