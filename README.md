@@ -3,12 +3,18 @@
 # January 10th - Presenting
 
 # Organization of AI Assets
-1. AI-LLM
-2. AI-ImgVideo
-3. AI-Music
-4. AI-Spaces
-5. AI-Social
-6. AI-Cloud
+1. AI-LLM ![image](https://github.com/user-attachments/assets/4f709a44-fc1d-435c-9258-4b659472fd3a)
+
+2. AI-ImgVideo ![image](https://github.com/user-attachments/assets/0c7017d1-6730-48e8-ab76-61188584beb9)
+
+3. AI-Music ![image](https://github.com/user-attachments/assets/9e254777-61e8-4c3e-8639-6916cbc9d3f1)
+
+4. AI-Spaces ![image](https://github.com/user-attachments/assets/2a04c869-3317-47cd-8fd6-0884b141aa52)
+
+5. AI-Social ![image](https://github.com/user-attachments/assets/fc7f93ee-582c-4b49-ba06-beb50a9fc48a)
+
+6. AI-Cloud ![image](https://github.com/user-attachments/assets/068f2c67-6ef6-4940-a8a3-4727e6f554ab)
+
 
 
 
