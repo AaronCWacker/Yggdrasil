@@ -1,6 +1,7 @@
 # Yggdrasil
 
 # January 10th - Presenting
+https://www.youtube.com/playlist?list=PLHgX2IExbFovqYF-nFpK3WJNqWAF-DMq3
 
 # Organization of AI Assets
 1. AI-LLM ![image](https://github.com/user-attachments/assets/4f709a44-fc1d-435c-9258-4b659472fd3a)
