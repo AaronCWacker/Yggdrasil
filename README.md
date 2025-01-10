@@ -1,5 +1,18 @@
 # Yggdrasil
 
+# January 10th - Presenting
+
+# Organization of AI Assets
+1. AI-LLM
+2. AI-ImgVideo
+3. AI-Music
+4. AI-Spaces
+5. AI-Social
+6. AI-Cloud
+
+
+
+
 # Optimal Format
 
 [Basic Pattern]
