@@ -1,8 +1,5 @@
 # Yggdrasil
 
-# January 10th - Dave's win
- 	![image](https://github.com/user-attachments/assets/9472f1c4-9cc2-4b01-a73c-96cd0f83f63a)
-
 
 # January 10th - Presenting
 https://www.youtube.com/playlist?list=PLHgX2IExbFovqYF-nFpK3WJNqWAF-DMq3
