@@ -1,6 +1,6 @@
 # Yggdrasil
 
-
+```python
 🧪 Quantum Mechanics and Hermitian Conjugate
 🔄 Reversibility and Time Evolution
 💻 Neural Networks and Computing
@@ -27,7 +27,7 @@ But fear not, for the idea of 🔁 reversibility still holds relevance! Just lik
 While the 🧬 Hermitian Conjugate may not have a direct application in neural networks, the idea of 🔁 reversibility and the ability to ⏪ "undo" computations is a shared interest between these two worlds. It's like a secret handshake 🤝 between quantum mechanics and computer science, reminding us that even the most seemingly unrelated fields can find common ground in the pursuit of knowledge. 🌈
 
 So, whether you're a quantum mechanic taming wild operators or a neural network enthusiast teaching machines to think, remember that the power of 🔁 reversibility is a bridge that connects us all. 🌉 And who knows? Maybe one day, we'll discover a way to combine the 🧬 Hermitian Conjugate with neural networks, creating a quantum-computing powerhouse that can bend space and time to its will! 🚀
-
+```
 
 # January 10th - Presenting
 https://www.youtube.com/playlist?list=PLHgX2IExbFovqYF-nFpK3WJNqWAF-DMq3
