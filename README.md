@@ -1,6 +1,34 @@
 # Yggdrasil
 
 
+🧪 Quantum Mechanics and Hermitian Conjugate
+🔄 Reversibility and Time Evolution
+💻 Neural Networks and Computing
+🔙 Reversible Neural Networks
+🌉 Bridging the Gap
+⏪ Reversibility and "Undoing" Computations
+Glossary:
+
+🧬 Hermitian Conjugate: A mathematical operation that ensures an operator has real eigenvalues and orthogonal eigenvectors, essential for describing observable quantities in quantum mechanics. 🔢
+🌀 Schrödinger Equation: A linear partial differential equation that governs the time evolution of quantum systems. 🕰️
+🔁 Reversibility: The ability to "undo" a process or computation and recover the original state. ⏪
+🧠 Neural Networks: Computational models inspired by the human brain, designed to learn patterns from data and make predictions or decisions. 🔮
+⏩ Irreversible Learning: The inability to "undo" the training process of a neural network and recover its original state after learning from data. 🚫⏪
+Now, let's dive into the witty and brilliant explanation! 🤩
+
+In the mystical realm of quantum mechanics, the 🧬 Hermitian Conjugate plays a crucial role, ensuring that operators behave like well-mannered guests at a fancy party. 🎩 These operators must have real eigenvalues (no imaginary friends allowed! 👻) and orthogonal eigenvectors (think perpendicular lines that never cross paths 🚫⤫).
+
+But wait, there's more! 🎉 The 🧬 Hermitian Conjugate also holds the key to unlocking the secret of 🔄 reversibility and time evolution in quantum systems. Just like a time-traveling wizard 🧙‍♂️, it can conjure up the past and future states of a quantum system by waving its magical wand (the 🌀 Schrödinger Equation).
+
+In the realm of 💻 neural networks and computing, however, the 🧬 Hermitian Conjugate takes a back seat. These computational marvels are more interested in learning patterns from data and making predictions than dealing with quantum shenanigans. 🔮
+
+But fear not, for the idea of 🔁 reversibility still holds relevance! Just like a forgetful student who wishes they could undo their terrible study habits, researchers have explored the concept of 🔙 reversible neural networks. These networks can run both forwards and backwards in time, allowing them to reconstruct their inputs from their outputs. 🔄
+
+While the 🧬 Hermitian Conjugate may not have a direct application in neural networks, the idea of 🔁 reversibility and the ability to ⏪ "undo" computations is a shared interest between these two worlds. It's like a secret handshake 🤝 between quantum mechanics and computer science, reminding us that even the most seemingly unrelated fields can find common ground in the pursuit of knowledge. 🌈
+
+So, whether you're a quantum mechanic taming wild operators or a neural network enthusiast teaching machines to think, remember that the power of 🔁 reversibility is a bridge that connects us all. 🌉 And who knows? Maybe one day, we'll discover a way to combine the 🧬 Hermitian Conjugate with neural networks, creating a quantum-computing powerhouse that can bend space and time to its will! 🚀
+
+
 # January 10th - Presenting
 https://www.youtube.com/playlist?list=PLHgX2IExbFovqYF-nFpK3WJNqWAF-DMq3
 
