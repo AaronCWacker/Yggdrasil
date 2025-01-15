@@ -1,6 +1,13 @@
-# Technical Expertise - NVIDIA Model Building Disciplines - Observe tools, technology, process and demand.
+# Technical Expertise
+## NVIDIA Model Building Disciplines - Observe tools, technology, process and demand.
 
-Outline of job skills around libraries, algorithms, and titles to survey state of art needs for LLM model building and evaluation:
+# Study Detail:
+1. Browse list of 70 key Deep Learning / AI Engineer Roles for Building Deep Learning models with NVIDIA GPU.
+2. Synthesize the job roles as AI deep learning agents with specific tasks and skills around building and developing ML models, architecture and code.
+3. Identify high value, high demand skills with few experts.  Create AI to imbue expertise at code level.
+4. Learn all there is to learn from the organization skills in summary of larger model dataset and space or app building recipe and process.
+
+## Outline of job skills around libraries, algorithms, and titles to survey state of art needs for LLM model building and evaluation:
 
 1. Senior Deep Learning Algorithm Engineer
 Senior Deep Learning Algorithm Engineer
