@@ -4,9 +4,6 @@
 
 ```markdown
 
-Share
-
-
 You said:
 For the roles below please help me write a single streamlit markdown python app.py and requirements.txt to perform a demo of each using three python libraries per position to simulate the visualization of that process and demonstrate and document appropriate library usage :    1) Roles > $500k (💰💰💰💰💰)
 🤖💼 Engineering Manager, Distributed Systems ($360K–$530K) → >$500k 💰💰💰💰💰
