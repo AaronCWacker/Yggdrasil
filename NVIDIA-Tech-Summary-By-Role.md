@@ -7,21 +7,604 @@
 3. Identify high value, high demand skills with few experts.  Create AI to imbue expertise at code level.
 4. Learn all there is to learn from the organization skills in summary of larger model dataset and space or app building recipe and process.
 
-## Outline of job skills around libraries, algorithms, and titles to survey state of art needs for LLM model building and evaluation:
+# Length of Content and AI experiments:
 
-Value Scale for highest skill expertise positions:
-
-Salary > 400k possibility:
-
-Salary > 300k possibility:
+1. Attempt to input GPT o1 reasoning model as data - can we reduce the 4k lines of text to analyzed segments that have the details for one field clustered by data features?
+2. Outline of job skills around libraries, algorithms, and titles to survey state of art needs for LLM model building and evaluation:
+- Value Scale for highest skill expertise positions:
+- Salary > 400k possibility:
+- Salary > 300k possibility:
 2. Senior Applied Engineer, AI Graphics
+- Salary > 200k possibility:
 
-Salary > 200k possibility:
+---
+
+# For AI challenge o1 scored perfectly 10/10.  Here is the salary classifier challenge on Deep Learning skills and compensation:
+
+Below is a 70‑line summary and classification of each listed role, based on its maximum published base salary. Roles with max salary above $400k go in the “> 400k” pool, those with max between $300k and $400k in “> 300k,” and those with max between $200k and $300k in “> 200k.” Where no US‑based range is given, it is marked “N/A.”
+
+
+Detailed 70 list with salary and key technology skills:
+
+
+
+1. 🧠🔬 **Senior Deep Learning Algorithm Engineer (148k–287.5k) → >200k 💰💰**  
+   - **Key Skills & Tech:**  
+     - Deep learning & neural networks (training focus)  
+     - Fundamentals of GPU architecture  
+     - Modeling & tuning app performance (C++/Python)  
+     - System-level performance modeling  
+     - GPU programming (CUDA/OpenCL)  
+
+2. 🎨🖥️ **Senior Applied Engineer, AI Graphics (168k–310.5k) → >300k 💰💰💰**  
+   - **Key Skills & Tech:**  
+     - Real-time rendering & ray tracing (OpenGL, Vulkan, DX12)  
+     - C/C++ and GPU parallel programming (CUDA)  
+     - Graphics engines (Unreal, Unity)  
+     - Deep learning for graphics  
+
+3. 💻🔬 **Senior Software Engineer, Deep Learning Inference, TensorRT (148k–287.5k) → >200k 💰💰**  
+   - **Key Skills & Tech:**  
+     - Developing DL compilers & optimizers (C++/Python)  
+     - Understanding of machine learning concepts  
+     - GPU kernel programming (CUDA/OpenCL)  
+     - Software performance benchmarking & optimizations  
+
+4. ⚙️🔌 **Senior CUDA Driver, Legate, and Build Engineer (184k–356.5k) → >300k 💰💰💰**  
+   - **Key Skills & Tech:**  
+     - Python, C/C++, cmake, pip, conda  
+     - CI/CD systems (GitHub, GitLab)  
+     - Cross-platform build & packaging  
+     - HPC / multi-node environments  
+
+5. 🧠⚙️ **Principal Software Engineer – AI Inference NVIDIA NIM (272k–425.5k) → >400k 💰💰💰💰**  
+   - **Key Skills & Tech:**  
+     - Large-language model (LLM) inference & microservices  
+     - Containerized cloud-native software (Kubernetes, Docker)  
+     - AI Inference APIs, MLOps  
+     - Python, REST/gRPC, distributed systems  
+
+6. 👀🔬 **Principal Software Engineer – Computer Vision (272k–425.5k) → >400k 💰💰💰💰**  
+   - **Key Skills & Tech:**  
+     - 3D computer vision & neural rendering (radiance fields)  
+     - C++ & GPU-accelerated pipelines (CUDA/TensorRT)  
+     - Real-time CV algorithms (tracking, relighting)  
+     - Performance-optimized code design  
+
+7. 🔬🤖 **Research Scientist, Fundamental LLM Research (128k–258.75k) → >200k 💰💰**  
+   - **Key Skills & Tech:**  
+     - NLP, alternative LLM/multimodal architectures  
+     - Knowledge distillation & data synthesis  
+     - Inference algorithms, test-time optimization  
+     - Publication & collaboration on LLM enhancements  
+
+8. ⚙️🏗️ **Senior AI Infrastructure Engineer (144k–270.25k) → >200k 💰💰**  
+   - **Key Skills & Tech:**  
+     - Managing GPU-accelerated clusters (Linux, Slurm)  
+     - Automating deployment (Ansible, GitLab)  
+     - Performance analysis for AI hardware setups  
+     - Container technologies (Docker, Singularity)  
+
+9. 🧮🤖 **Senior DL Algorithms Engineer – Inference Performance (184k–356.5k) → >300k 💰💰💰**  
+   - **Key Skills & Tech:**  
+     - Deep learning inference optimization (C++/Python)  
+     - GPU-based performance debugging & tuning  
+     - Recipe creation for large-scale LLM/VLM inference  
+     - MLOps / DLOps pipeline integration  
+
+10. 🔎🎓 **Research Scientist, Computer Vision Perception (New Grad) (160k–258.75k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Low-level CV: depth, optical flow, 3D modeling  
+      - Proficiency in Python, deep learning frameworks  
+      - Debugging large model training  
+      - Collaboration across research & product teams  
+
+11. 🧬🎓 **Research Scientist, Fundamental Generative AI (New Grad) (160k–258.75k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Generative models (images, 3D, video, multimodal)  
+      - Deep learning frameworks (PyTorch/TensorFlow)  
+      - Large-scale diffusion/transformers  
+      - Python & CUDA for prototype R&D  
+
+12. ⚡🔬 **Senior Research Scientist, Efficient Deep Learning (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Model pruning, quantization, NAS methods  
+      - Resource-efficient training & inference  
+      - Large vision/language models (LLMs, VLMs)  
+      - Python & PyTorch with large-scale data processing  
+
+13. 💻🧠 **Senior System Software Engineer, Deep Learning (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Deep learning & computer vision  
+      - Python, C/C++, Unix/Linux dev  
+      - Synthetic data generation  
+      - GPU acceleration fundamentals  
+
+14. 🏙️🖼️ **Senior System Software Engineer, 3D Computer Vision (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - 3D CV & geometry-based reconstruction  
+      - Python, C/C++, performance optimization  
+      - Multi-GPU parallelization  
+      - Synthetic data & HPC pipelines  
+
+15. 🔧🛠️ **Software Advanced Developer (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - HPC & distributed computing in data centers  
+      - SDN, programmable hardware features  
+      - Network software stacks & open-source (SONiC, P4)  
+      - Prototyping new technologies in R&D  
+
+16. 🎮💻 **Systems Software Engineer – GeForce NOW Video Streaming (120k–235.75k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Ultra low-latency streaming pipeline  
+      - Video codecs & GPU-accelerated video processing  
+      - C/C++ performance analysis  
+      - Gameplay streaming & cloud gaming  
+
+17. 🔍💡 **GPU Verification Architect (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Architecture validation or full-chip verification  
+      - C++/C & Python for modeling & simulation  
+      - GPU architecture & TLM/SystemC modeling  
+      - Debugging complex SoC or GPU designs  
+
+18. 🧰🖥️ **Senior Systems Software Engineer, TAO Toolkit (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - ML model lifecycle (bias, risk, compliance)  
+      - Python, Bash scripting, containers (Docker/K8s)  
+      - AI tool evaluation & governance frameworks  
+      - Trustworthy & responsible AI  
+
+19. 🔩🤖 **Senior Applied LLM Engineer, AI – Chip Design (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - LLM-driven retrieval & generation for enterprise data  
+      - Python, C++, vector databases & RAG pipelines  
+      - AI-based code/engineering assistants  
+      - Large-scale GPU compute & HPC  
+
+20. 🏗️💡 **Senior Architect – NVIDIA Architecture (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - GPU/SoC modeling (SystemC, TLM)  
+      - C++/C, Jenkins, Docker, Python  
+      - Architecture validation & performance simulation  
+      - Parallel computing fundamentals  
+
+21. 🧠💻 **Senior Deep Learning Software Engineer (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Automated inference & deployment solutions  
+      - Torch 2.0 ecosystem (TorchDynamo, etc.)  
+      - High-performance GPU kernel dev (CUDA/Triton)  
+      - LLM inference optimizations  
+
+22. 🧬💻 **Senior Drug Discovery AI Engineer (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - BioNemo & large molecule ML models  
+      - Python, PyTorch, HPC scaling  
+      - Geometric deep learning, LLM for drug discovery  
+      - Model parallelism & advanced GPU usage  
+
+23. 🔎🧠 **Senior Deep Learning Profiling Tools Engineer (184k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Deep learning performance analysis (GPU)  
+      - Internal profiling & monitoring tools (C++/Python)  
+      - ML frameworks (PyTorch, JAX, TRT)  
+      - Device drivers / compiler knowledge  
+
+24. ⚙️🧠 **Senior Deep Learning Software Engineer, Inference (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - DL inference deployment & performance optimization  
+      - GPU architecture & debugging  
+      - ML frameworks (TensorFlow, PyTorch)  
+      - Code-level performance tuning  
+
+25. 🌐🏗️ **Senior AI Cluster Tools Developer (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Performance/power profiling & analysis at scale  
+      - HPC cluster usage & monitoring tools  
+      - Scripting in Python/Go/C++ for cluster optimization  
+      - Deep learning workflow automation  
+
+26. 🚗💻 **Senior Software Engineer, Data Ingestion – Autonomous Vehicles (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Golang & distributed data pipelines  
+      - Sensor data ingestion & real-time streaming  
+      - AI/ML data ops & validation  
+      - Large-scale cloud-based data flows  
+
+27. ☁️📊 **Director of Engineering, Cloud & Database Platforms (272k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Multi-cloud platform build & modernization  
+      - Databases (MySQL, PostgreSQL, MongoDB) at scale  
+      - Kubernetes orchestration & DevOps  
+      - Security & operational excellence in cloud  
+
+28. 👥🛠️ **Senior Director, Platform Engineering & User Experience (288k–437k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - ServiceNow platform, AIOps & AI-driven automation  
+      - System integration & employee-centric workflows  
+      - Large-scale IT architecture & reliability metrics  
+      - Leadership in agile product engineering  
+
+29. 🧑‍💼🧠 **Manager, Deep Learning Algorithms (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Planning & delivering DL solutions (inference/training)  
+      - GPU architecture awareness & numeric libs  
+      - Cross-geographical project coordination  
+      - Mentoring advanced DL engineering teams  
+
+30. 🚗🛠️ **Senior Director of Engineering – AV Infrastructure (368k–557.75k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Autonomous vehicle data pipelines & debugging  
+      - Car fleet software updates (OTA) & telemetry  
+      - Large-scale multi-sensor data ops & calibration  
+      - Cross-functional leadership in AV systems  
+
+31. 🎨🛠️ **Manager, Graphics Tools Engineering (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - 3D graphics developer tools (C/C++, GPU debugging)  
+      - Low-level rendering pipelines (DirectX, Vulkan)  
+      - Performance optimization & shader analysis  
+      - Game industry or real-time graphics knowledge  
+
+32. 🧩🤖 **Manager, Artificial Intelligence Algorithms (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - AI/DL model productization (libraries/frameworks)  
+      - Complex data pipelines & HPC optimization  
+      - Cross-team leadership for AI software stack  
+      - GPU numeric performance & HPC algorithmic design  
+
+33. 🗣️🧠 **Engineering Manager, Generative AI (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - LLM/diffusion-based product development  
+      - AI frameworks (PyTorch, JAX, TensorFlow)  
+      - Full-stack AI shipping & distributed teams  
+      - Parallel & distributed training  
+
+34. 📦✅ **Senior Manager, Data Governance (196k–310.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Enterprise-wide data governance & policies  
+      - Data quality standards & compliance  
+      - Informatica, Collibra, Alation  
+      - Data infra scalability & machine learning workflows  
+
+35. 👀🌐 **Senior Manager, Visual AI Microservices (272k–471.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Semantic video search, 3D reconstruction services  
+      - Cloud-based microservices (Helm, Kubernetes)  
+      - AI inference scaling on hundreds of GPUs  
+      - GPU-based computer vision & distributed design  
+
+36. 👀⚙️ **Director, Programmable Vision Accelerator Software (308k–471.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - DSP & PVA software stack for computer vision  
+      - Embedded/SoC architecture, GPU/vision synergy  
+      - Parallel image/signal processing & AI pipelines  
+      - Cross-team leadership & next-gen CV  
+
+37. 🧩👥 **Software Manager, Deep Learning Frameworks (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Building/optimizing open-source DL frameworks (PyTorch, TF)  
+      - Mixed precision & HPC algorithmic development  
+      - GPU kernel integration (CUDA/TensorRT)  
+      - Cross-org alignment on DL roadmap  
+
+38. 📚🧑‍💻 **Software Engineering Manager – Libraries (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - High-performance math libraries for AI & HPC  
+      - Parallel programming (CUDA/MPI/OpenMP)  
+      - Numerical methods, linear algebra optimizations  
+      - Cross-team project planning & library APIs  
+
+39. 🔗🚀 **Software Engineering Manager – GPU Communications Libraries (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Communication libraries (NCCL, NVSHMEM, UCX)  
+      - HPC networking (InfiniBand, RoCE)  
+      - Parallel/distributed GPU programming  
+      - Performance tuning of large-scale ML clusters  
+
+40. 📝🔬 **Manager, LLM Accuracy Evaluation (N/A) → N/A**  
+    - **Key Skills & Tech:**  
+      - LLM performance & bias/accuracy evaluation  
+      - Python & ML frameworks for QA  
+      - Benchmarking & advanced metrics for large models  
+      - Cross-team alignment on LLM readiness  
+
+41. 🧑‍💼🧠 **Manager, Deep Learning Algorithms (EMEA) (N/A) → N/A**  
+    - **Key Skills & Tech:**  
+      - Multi-project software engineering for DL  
+      - Deep learning performance analysis & HPC  
+      - GPU numeric libs & distributed training  
+      - Cross-functional leadership, EMEA region  
+
+42. 🧑‍💼🧠 **Deep Learning Algorithms Manager (EMEA) (N/A) → N/A**  
+    - **Key Skills & Tech:**  
+      - Benchmarking & performance optimization  
+      - Large-scale training pipelines (data parallel)  
+      - Collaboration with HPC & ML research labs  
+      - Resource management & scheduling  
+
+43. 🏗️💻 **Senior Software Architecture (Israel) (N/A) → N/A**  
+    - **Key Skills & Tech:**  
+      - Switch OS & open-source networking stacks  
+      - Ethernet/IP data-center design (SONiC/SAI)  
+      - P4 programmability, HPC integrators  
+      - Large-scale sw architecture & leadership  
+
+44. 🤖🌐 **AI and ML Infra Software Engineer, GPU Clusters (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - HPC environment (Slurm, scheduling)  
+      - Container orchestration & cluster monitoring  
+      - Large-scale distributed ML (PyTorch, JAX)  
+      - Performance optimization for GPU workloads  
+
+45. ☁️💾 **Director of Engineering, Cloud and Database Platforms (284k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Multi-cloud platform leadership (K8s)  
+      - Databases at scale (Oracle, MySQL, PostgreSQL)  
+      - Automation & reliability, cost & security goals  
+      - Driving cross-functional teams on infra  
+
+46. ⏱️🏗️ **Senior R&D Software Architect – Timing Analysis Tools (196k–368k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Transistor-level STA & circuit modeling  
+      - C++ for EDA software (multithreading)  
+      - SPICE, BSIM models, device-level analysis  
+      - HPC software design & distributed compute  
+
+47. 🌐👥 **Senior Director, Platform Engineering and User Experience (288k–437k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - ServiceNow expansions, AIOps & AI automation  
+      - User-centric IT workflows & design  
+      - ML-based detection & resolution (proactive)  
+      - Driving cross-team platform innovation  
+
+48. 🏢🤖 **Principal Machine Learning Engineer – Enterprise AI (272k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Agentic AI, RAG, Generative AI solutions  
+      - LLM-based systems for enterprise analytics  
+      - Python, deep learning (transformers)  
+      - Large-scale deployment & MLOps  
+
+49. 🧠💡 **Deep Learning Performance Architect (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - DL performance analysis & GPU architecture  
+      - HPC-level training & inference  
+      - Profiling & modeling (C++/Python)  
+      - Parallel computing fundamentals  
+
+50. 🌐🤖 **Senior GenAI Algorithms Engineer (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - LLM & multimodal model development  
+      - Python, HPC environments, distributed training  
+      - GPU-based optimization & MLOps workflows  
+      - Transformers, sequence parallelization  
+
+51. 🖥️🤖 **Senior AI Software Engineer, GenAI Framework (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - NeMo framework & Megatron Core dev  
+      - Data curation, multi-GPU orchestration  
+      - Performance tuning (CUDA/Triton, PyTorch)  
+      - Generative AI & large-scale pipeline design  
+
+52. ⚙️🏗️ **Senior Software and System Architect (N/A) → N/A**  
+    - **Key Skills & Tech:**  
+      - Cloud & networking R&D (SDN, HPC)  
+      - Distributed system design & simulation  
+      - Modern DevOps approaches (containers, CI/CD)  
+      - Innovation via new technologies & prototyping  
+
+53. 🚗🛠️ **Senior Director of Engineering – AV Infrastructure (368k–557.75k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Automotive platform debugging & telemetry  
+      - Multi-vehicle sensor data mgmt & HPC  
+      - Large-scale scenario & data collection  
+      - End-to-end AV pipeline & development loop  
+
+54. 🔒🤖 **AI Safety Machine Learning Engineer, LLM MLOps (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Content safety, bias detection, ML fairness  
+      - LLM alignment & RLHF pipelines  
+      - Python-based MLOps for large-scale deployments  
+      - Hallucination & model extraction risk analysis  
+
+55. 🧑‍💼🤖 **Manager, Artificial Intelligence Algorithms (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Managing LLM & AI software R&D  
+      - PyTorch/JAX & HPC scaling  
+      - GPU architecture & performance tuning  
+      - Cross-team alignment on generative AI  
+
+56. 🧠💡 **Principal Engineer – DL and AI Software (272k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Next-gen HW bringup for AI software stack  
+      - Cross-layer performance analysis & debugging  
+      - HPC code design (C++/Python, GPU)  
+      - Program management of full AI pipeline  
+
+57. 👀⚙️ **Senior Software Engineer, Observability and AIOps (168k–322k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - AIOps platform for network & system monitoring  
+      - Anomaly detection & root cause analysis (ML)  
+      - Python/Go development for automated triage  
+      - Large-scale data ingestion & analysis  
+
+58. 🗣️🧑‍💼 **Engineering Manager, Generative AI (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - LLM/diffusion-based workflows, parallel ML  
+      - Full software lifecycle for AI solutions  
+      - Leading distributed engineering teams  
+      - HPC code structure & scaling  
+
+59. 💻⚡ **Senior System Software Engineer, Deep Learning Accelerator (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - DLA driver & firmware dev (C/C++/Python)  
+      - SoC-level performance & concurrency  
+      - Low-level GPU hardware drivers  
+      - Inference optimization & debugging  
+
+60. 💻🧠 **Senior System Software Engineer, Deep Learning (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Multiple DL/graphics/vision domains  
+      - Python/C++ & software engineering fundamentals  
+      - AI model integration & performance  
+      - HPC & container-based deployment  
+
+61. 🎙️🧠 **Senior Deep Learning Scientist, Speech Synthesis (184k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - TTS systems (Mel spectrogram, vocoders)  
+      - Python & PyTorch for speech AI  
+      - Data augmentation & bias detection  
+      - Multilingual voice cloning & HPC  
+
+62. 📈🚗 **Principal Software Engineer, Planning & Controls – Autonomous Vehicles (272k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Path planning, decision-making in robotics  
+      - C++/Python, real-time embedded systems  
+      - Sensor fusion & HPC integration  
+      - Advanced AI for self-driving software  
+
+63. 👀🧠 **Senior Software Engineer, Computer Vision AI, Deep Learning (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Multimodal CV models (detection, segmentation)  
+      - Python/C++ with CUDA optimizations  
+      - 3D reconstruction & camera-based vision  
+      - ML pipelines for production deployment  
+
+64. 🏢🔌 **Senior Systems Software Engineer, Data Center – CUDA (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - NVML API, GPU admin tools (C/C++ & Python)  
+      - Linux driver interaction & HPC environment  
+      - Performance monitoring & resource allocation  
+      - Large-scale data-center GPU provisioning  
+
+65. 🤖⚙️ **Principal Engineer, Agentic System Architecture (272k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Agent frameworks (LangChain, AutoGen), LLM pipelines  
+      - System design for multi-agent AI workflows  
+      - C++/Python concurrency & HPC  
+      - Vector databases, GPU libraries  
+
+66. 🔐💻 **Senior IT Engineer, Active-directory & Entra ID (140k–264.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - AD/Azure AD management & identity security  
+      - MFA, single sign-on, privileged account mgmt  
+      - Automation (PowerShell, Python) & Zero Trust  
+      - Hybrid cloud environment integration  
+
+67. 🔬💾 **Senior Research Engineer, ML Data Pipelines (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - Large-scale data ingestion & transformation  
+      - Python (Flask/FastAPI/React) & HPC for ML  
+      - Data curation, labeling, versioning  
+      - Multi-modal data pipelines for LLM/robotics  
+
+68. 🌐🔬 **Senior Research Engineer, Simulation (224k–356.5k) → >300k 💰💰💰**  
+    - **Key Skills & Tech:**  
+      - GPU-accelerated physics simulation (Isaac Sim)  
+      - 3D CV & procedural generation for training  
+      - Python, C++, domain randomization  
+      - Robot learning & sim-to-real  
+
+69. 📈🤖 **Senior Research Engineer for Reinforcement Learning (148k–287.5k) → >200k 💰💰**  
+    - **Key Skills & Tech:**  
+      - Large-scale RL (PPO, SAC, Q-learning)  
+      - Python (PyTorch/JAX), HPC job orchestration  
+      - Policy optimization for robotics at scale  
+      - Sim-to-real transfer & domain randomization  
+
+70. 🖼️👀 **Senior Software Engineer, 3D Computer Vision (224k–425.5k) → >400k 💰💰💰💰**  
+    - **Key Skills & Tech:**  
+      - 3D CV libraries & services at massive scale  
+      - CUDA-based point cloud/voxel processing  
+      - Gaussian splatting, NERF, advanced 3D reconstruction  
+      - Containerized microservices (Helm, K8s)  
 
 
 
 
 
+Plain 70 list with visual emojis:
+
+1. 🧠🔬 Senior Deep Learning Algorithm Engineer (148k–287.5k) → >200k 💰💰  
+2. 🎨🖥️ Senior Applied Engineer, AI Graphics (168k–310.5k) → >300k 💰💰💰  
+3. 💻🔬 Senior Software Engineer, Deep Learning Inference, TensorRT (148k–287.5k) → >200k 💰💰  
+4. ⚙️🔌 Senior CUDA Driver, Legate, and Build Engineer (184k–356.5k) → >300k 💰💰💰  
+5. 🧠⚙️ Principal Software Engineer – AI Inference NVIDIA NIM (272k–425.5k) → >400k 💰💰💰💰  
+6. 👀🔬 Principal Software Engineer – Computer Vision (272k–425.5k) → >400k 💰💰💰💰  
+7. 🔬🤖 Research Scientist, Fundamental LLM Research (128k–258.75k) → >200k 💰💰  
+8. ⚙️🏗️ Senior AI Infrastructure Engineer (144k–270.25k) → >200k 💰💰  
+9. 🧮🤖 Senior DL Algorithms Engineer - Inference Performance (184k–356.5k) → >300k 💰💰💰  
+10. 🔎🎓 Research Scientist, Computer Vision Perception - New College Grad (160k–258.75k) → >200k 💰💰  
+11. 🧬🎓 Research Scientist, Fundamental Generative AI - New College Grad (160k–258.75k) → >200k 💰💰  
+12. ⚡🔬 Senior Research Scientist, Efficient Deep Learning (184k–356.5k) → >300k 💰💰💰  
+13. 💻🧠 Senior System Software Engineer, Deep Learning (148k–287.5k) → >200k 💰💰  
+14. 🏙️🖼️ Senior System Software Engineer, 3D Computer Vision (148k–287.5k) → >200k 💰💰  
+15. 🔧🛠️ Software Advanced Developer (148k–287.5k) → >200k 💰💰  
+16. 🎮💻 Systems Software Engineer - GeForce NOW Video Streaming (120k–235.75k) → >200k 💰💰  
+17. 🔍💡 GPU Verification Architect (148k–287.5k) → >200k 💰💰  
+18. 🧰🖥️ Senior Systems Software Engineer, TAO Toolkit (148k–287.5k) → >200k 💰💰  
+19. 🔩🤖 Senior Applied LLM Engineer, AI – Chip Design (148k–287.5k) → >200k 💰💰  
+20. 🏗️💡 Senior Architect - NVIDIA Architecture (184k–356.5k) → >300k 💰💰💰  
+21. 🧠💻 Senior Deep Learning Software Engineer (184k–356.5k) → >300k 💰💰💰  
+22. 🧬💻 Senior Drug Discovery AI Engineer (184k–356.5k) → >300k 💰💰💰  
+23. 🔎🧠 Senior Deep Learning Profiling Tools Engineer (184k–287.5k) → >200k 💰💰  
+24. ⚙️🧠 Senior Deep Learning Software Engineer, Inference (148k–287.5k) → >200k 💰💰  
+25. 🌐🏗️ Senior AI Cluster Tools Developer (148k–287.5k) → >200k 💰💰  
+26. 🚗💻 Senior Software Engineer, Data Ingestion - Autonomous Vehicles (148k–287.5k) → >200k 💰💰  
+27. ☁️📊 Director of Engineering, Cloud and Database Platforms (272k–425.5k) → >400k 💰💰💰💰  
+28. 👥🛠️ Senior Director, Platform Engineering and User Experience (288k–437k) → >400k 💰💰💰💰  
+29. 🧑‍💼🧠 Manager, Deep Learning Algorithms (224k–425.5k) → >400k 💰💰💰💰  
+30. 🚗🛠️ Senior Director of Engineering - AV Infrastructure (368k–557.75k) → >400k 💰💰💰💰  
+31. 🎨🛠️ Manager, Graphics Tools Engineering (224k–425.5k) → >400k 💰💰💰💰  
+32. 🧩🤖 Manager, Artificial Intelligence Algorithms (224k–425.5k) → >400k 💰💰💰💰  
+33. 🗣️🧠 Engineering Manager, Generative AI (224k–425.5k) → >400k 💰💰💰💰  
+34. 📦✅ Senior Manager, Data Governance (196k–310.5k) → >300k 💰💰💰  
+35. 👀🌐 Senior Manager, Visual AI Microservices (272k–471.5k) → >400k 💰💰💰💰  
+36. 👀⚙️ Director, Programmable Vision Accelerator Software (308k–471.5k) → >400k 💰💰💰💰  
+37. 🧩👥 Software Manager, Deep Learning Frameworks (224k–425.5k) → >400k 💰💰💰💰  
+38. 📚🧑‍💻 Software Engineering Manager - Libraries (224k–425.5k) → >400k 💰💰💰💰  
+39. 🔗🚀 Software Engineering Manager - GPU Communications Libraries (184k–356.5k) → >300k 💰💰💰  
+40. 📝🔬 Manager, LLM Accuracy Evaluation (N/A) → N/A  
+41. 🧑‍💼🧠 Manager, Deep Learning Algorithms (EMEA) (N/A) → N/A  
+42. 🧑‍💼🧠 Deep Learning Algorithms Manager (EMEA) (N/A) → N/A  
+43. 🏗️💻 Senior Software Architecture (Israel) (N/A) → N/A  
+44. 🤖🌐 AI and ML Infra Software Engineer, GPU Clusters (148k–287.5k) → >200k 💰💰  
+45. ☁️💾 Director of Engineering, Cloud and Database Platforms (284k–425.5k) → >400k 💰💰💰💰  
+46. ⏱️🏗️ Senior R&D Software Architect - Timing Analysis Tools (196k–368k) → >300k 💰💰💰  
+47. 🌐👥 Senior Director, Platform Engineering and User Experience (288k–437k) → >400k 💰💰💰💰  
+48. 🏢🤖 Principal Machine Learning Engineer - Enterprise AI (272k–425.5k) → >400k 💰💰💰💰  
+49. 🧠💡 Deep Learning Performance Architect (148k–287.5k) → >200k 💰💰  
+50. 🌐🤖 Senior GenAI Algorithms Engineer (148k–287.5k) → >200k 💰💰  
+51. 🖥️🤖 Senior AI Software Engineer, GenAI Framework (184k–356.5k) → >300k 💰💰💰  
+52. ⚙️🏗️ Senior Software and System Architect (N/A) → N/A  
+53. 🚗🛠️ Senior Director of Engineering - AV Infrastructure (368k–557.75k) → >400k 💰💰💰💰  
+54. 🔒🤖 AI Safety Machine Learning Engineer, LLM MLOps (148k–287.5k) → >200k 💰💰  
+55. 🧑‍💼🤖 Manager, Artificial Intelligence Algorithms (224k–425.5k) → >400k 💰💰💰💰  
+56. 🧠💡 Principal Engineer - DL and AI Software (272k–425.5k) → >400k 💰💰💰💰  
+57. 👀⚙️ Senior Software Engineer, Observability and AIOps (168k–322k) → >300k 💰💰💰  
+58. 🗣️🧑‍💼 Engineering Manager, Generative AI (224k–425.5k) → >400k 💰💰💰💰  
+59. 💻⚡ Senior System Software Engineer, Deep Learning Accelerator (184k–356.5k) → >300k 💰💰💰  
+60. 💻🧠 Senior System Software Engineer, Deep Learning (148k–287.5k) → >200k 💰💰  
+61. 🎙️🧠 Senior Deep Learning Scientist, Speech Synthesis (184k–356.5k) → >300k 💰💰💰  
+62. 📈🚗 Principal Software Engineer, Planning and Controls - Autonomous Vehicles (272k–425.5k) → >400k 💰💰💰💰  
+63. 👀🧠 Senior Software Engineer, Computer Vision AI, Deep Learning (148k–287.5k) → >200k 💰💰  
+64. 🏢🔌 Senior Systems Software Engineer, Data Center - CUDA (148k–287.5k) → >200k 💰💰  
+65. 🤖⚙️ Principal Engineer, Agentic System Architecture (272k–425.5k) → >400k 💰💰💰💰  
+66. 🔐💻 Senior IT Engineer, Active-directory and Entra ID (140k–264.5k) → >200k 💰💰  
+67. 🔬💾 Senior Research Engineer, ML Data Pipelines (224k–425.5k) → >400k 💰💰💰💰  
+68. 🌐🔬 Senior Research Engineer, Simulation (224k–356.5k) → >300k 💰💰💰  
+69. 📈🤖 Senior Research Engineer for Reinforcement Learning (148k–287.5k) → >200k 💰💰  
+70. 🖼️👀 Senior Software Engineer, 3D Computer Vision (224k–425.5k) → >400k 💰💰💰💰  
+
+
+
+
+
+
+
+
+
+---
 
 1. Senior Deep Learning Algorithm Engineer
 Senior Deep Learning Algorithm Engineer
