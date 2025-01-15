@@ -1,6 +1,303 @@
 # Technical Expertise
 ## NVIDIA Model Building Disciplines - Observe tools, technology, process and demand.
 
+
+# Enter the Agents
+
+```python
+streamlit==1.25.0
+pandas==2.1.0
+numpy==1.23.5
+matplotlib==3.7.2
+plotly==5.15.0
+opencv-python==4.8.0.74
+transformers==4.31.0
+torch==2.0.1
+cupy-cuda11x==12.0.0
+dask==2023.9.0
+ray==2.5.1
+joblib==1.3.2
+psycopg2==2.9.7
+
+
+
+```
+
+
+```python
+import streamlit as st
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Example external libraries demonstrating HPC, GPU usage, LLMs, 3D CV, or DB usage
+import dask.dataframe as dd       # HPC/parallel computing
+import cupy as cp                 # GPU acceleration
+from transformers import pipeline # LLM / Generative AI
+import torch                      # Deep learning frameworks
+import plotly.express as px       # Visualization
+import joblib                     # HPC / parallel job management
+import cv2                        # 3D Computer Vision / image processing
+import psycopg2                   # Databases at scale
+# ... you could import more depending on how elaborate your demos are
+
+# --------------------------------------------------------------------------------
+# Data for roles – each entry has:
+#   1) Title
+#   2) Key Skills & Tech (short bullet points)
+#   3) Three sample Python libraries to "demo" or "simulate"
+#   4) A small code or textual snippet that demonstrates usage
+# --------------------------------------------------------------------------------
+
+ROLES_400K = [
+    {
+        "title": "Principal Software Engineer – AI Inference NVIDIA NIM",
+        "key_skills": [
+            "LLM inference & microservices",
+            "Cloud-native (Kubernetes, Docker)",
+            "AI Inference APIs, MLOps",
+            "Python, distributed systems"
+        ],
+        "libraries": ["transformers", "cupy", "torch"],
+        "demo": """# Demo: Quickly run an LLM inference pipeline (transformers) and accelerate a small tensor with CuPy
+
+import cupy as cp
+from transformers import pipeline
+
+# 1) Use transformers pipeline for LLM Inference
+generator = pipeline("text-generation", model="gpt2")
+output = generator("Streamlit demo with HPC acceleration", max_length=30)
+
+# 2) GPU-accelerated array addition with CuPy
+x_gpu = cp.arange(10)
+y_gpu = cp.arange(10)
+z_gpu = x_gpu + y_gpu
+
+print("LLM output:", output)
+print("GPU array result:", z_gpu)
+"""
+    },
+    {
+        "title": "Principal Software Engineer – Computer Vision",
+        "key_skills": [
+            "3D computer vision & neural rendering",
+            "C++ & GPU-accelerated pipelines (CUDA/TensorRT)",
+            "Real-time CV algorithms (tracking, relighting)",
+            "Performance-optimized code design"
+        ],
+        "libraries": ["opencv-python", "cupy", "plotly"],
+        "demo": """# Demo: Simple image manipulation using OpenCV, GPU arrays, and Plotly for visualization
+
+import cv2
+import cupy as cp
+import plotly.express as px
+import numpy as np
+
+# 1) Read and process an image with OpenCV (simulate CV pipeline)
+#    For this demo, let's just create a random image array
+img = np.random.randint(0, 255, (100, 200, 3), dtype=np.uint8)
+
+# 2) Transfer to GPU and do a trivial operation
+img_gpu = cp.asarray(img)
+img_gpu = cp.flipud(img_gpu)   # Flip the image vertically on GPU
+
+# 3) Convert back to CPU for plotting
+img_cpu = cp.asnumpy(img_gpu)
+
+# 4) Visualize with Plotly
+fig = px.imshow(img_cpu, title="GPU-accelerated flip of random image")
+fig.show()
+"""
+    },
+    {
+        "title": "Senior Manager, Visual AI Microservices",
+        "key_skills": [
+            "Semantic video search, 3D reconstruction",
+            "Cloud-based microservices (Helm, Kubernetes)",
+            "AI inference scaling on hundreds of GPUs",
+            "GPU-based computer vision & distributed design"
+        ],
+        "libraries": ["opencv-python", "dask", "ray"], 
+        "demo": """# Demo: Simulate 3D reconstruction tasks distributed with Dask/Ray and OpenCV for CV
+
+import cv2
+import dask
+import ray
+
+@dask.delayed
+def process_frame(frame):
+    # Dummy CV operation
+    return cv2.Canny(frame, 100, 200)
+
+ray.init(ignore_reinit_error=True)
+
+@ray.remote
+def reconstruct_3d(frames):
+    # Pretend to do 3D reconstruction
+    return f"Reconstructed {len(frames)} frames into a 3D model."
+
+frames = [np.random.randint(0,255,(480,640),dtype=np.uint8) for _ in range(10)]
+edges = [process_frame(f) for f in frames]
+edges_computed = dask.compute(*edges)
+
+recon_result = ray.get(reconstruct_3d.remote(frames))
+print("Dask edges computed. Ray 3D reconstruction result:", recon_result)
+"""
+    },
+    {
+        "title": "Director, Programmable Vision Accelerator Software",
+        "key_skills": [
+            "DSP & PVA software stack for computer vision",
+            "Embedded/SoC architecture, GPU/vision synergy",
+            "Parallel image/signal processing & AI pipelines",
+            "Cross-team leadership & next-gen CV"
+        ],
+        "libraries": ["numpy", "cupy", "matplotlib"],
+        "demo": """# Demo: Show parallel image/signal transform with NumPy vs. CuPy, then plot
+
+import numpy as np
+import cupy as cp
+import matplotlib.pyplot as plt
+
+cpu_data = np.linspace(0,1,1000000)
+gpu_data = cp.asarray(cpu_data)
+
+# Simple operation: scale data
+gpu_data_scaled = gpu_data * 2.0
+cpu_result = cp.asnumpy(gpu_data_scaled)
+
+plt.figure()
+plt.plot(cpu_data[:100], label='CPU original')
+plt.plot(cpu_result[:100], label='GPU scaled')
+plt.legend()
+plt.title('Parallel image/signal processing demo')
+plt.show()
+"""
+    },
+    # ... more 400k+ roles omitted for brevity
+]
+
+ROLES_300K = [
+    {
+        "title": "Senior Applied Engineer, AI Graphics",
+        "key_skills": [
+            "Real-time rendering & ray tracing (OpenGL, Vulkan, DX12)",
+            "C/C++ and GPU parallel programming (CUDA)",
+            "Graphics engines (Unreal, Unity)",
+            "Deep learning for graphics"
+        ],
+        "libraries": ["cupy", "torch", "plotly"],
+        "demo": """# Demo: Illustrate a quick GPU-based ray generation plus a Torch-based operation
+
+import cupy as cp
+import torch
+import plotly.express as px
+
+# Cupy to simulate "ray positions"
+rays = cp.random.rand(1000,3)
+
+# Torch for a small DL operation (dummy)
+dummy_data = torch.tensor([1.0, 2.0, 3.0])
+dummy_out = dummy_data * 2.0
+
+fig = px.scatter_3d(x=cp.asnumpy(rays[:,0]), y=cp.asnumpy(rays[:,1]), z=cp.asnumpy(rays[:,2]),
+                    title='GPU-based Ray Positions')
+fig.show()
+print("Dummy Torch output:", dummy_out)
+"""
+    },
+    {
+        "title": "Senior CUDA Driver, Legate, and Build Engineer",
+        "key_skills": [
+            "Python, C/C++, cmake, pip, conda",
+            "CI/CD systems (GitHub, GitLab)",
+            "Cross-platform build & packaging",
+            "HPC / multi-node environments"
+        ],
+        "libraries": ["joblib", "dask", "numpy"], 
+        "demo": """# Demo: HPC multi-node style parallel processing with joblib and dask
+
+from joblib import Parallel, delayed
+import dask
+import numpy as np
+
+def heavy_task(i):
+    return sum(np.random.randint(0,10,100000))
+
+results = Parallel(n_jobs=4)(delayed(heavy_task)(i) for i in range(10))
+dask_results = dask.compute([heavy_task(i) for i in range(10)])
+
+print("joblib results:", results)
+print("dask results:", dask_results)
+"""
+    },
+    {
+        "title": "Senior DL Algorithms Engineer – Inference Performance",
+        "key_skills": [
+            "Deep learning inference optimization (C++/Python)",
+            "GPU-based performance debugging & tuning",
+            "Recipe creation for large-scale LLM/VLM inference",
+            "MLOps / DLOps pipeline integration"
+        ],
+        "libraries": ["torch", "transformers", "ray"],
+        "demo": """# Demo: Use torch & transformers for a minimal inference pipeline, scale with Ray
+
+import torch
+from transformers import pipeline
+import ray
+
+ray.init(ignore_reinit_error=True)
+
+@ray.remote
+def run_inference(input_text):
+    pipe = pipeline("text-generation", model="gpt2", device_map="auto")
+    return pipe(input_text, max_length=20)
+
+futures = [run_inference.remote(f"Example {i}") for i in range(4)]
+results = ray.get(futures)
+print("Inference results:\n", results)
+"""
+    },
+    # ... more 300k roles omitted for brevity
+]
+
+def show_role_info(role):
+    st.markdown(f"### {role['title']}")
+    st.markdown("**Key Skills & Tech:**")
+    for skill in role['key_skills']:
+        st.markdown(f"- {skill}")
+    st.markdown("**Sample Python Libraries:**")
+    for lib in role['libraries']:
+        st.markdown(f"- `{lib}`")
+    st.markdown("---")
+    st.markdown("**Demo Code Snippet:**")
+    st.code(role['demo'], language="python")
+    st.markdown("---")
+
+def main():
+    st.title("Roles Demo: HPC, GPU, Python, LLMs, and More")
+
+    st.sidebar.title("Select a Salary Tier")
+    tier = st.sidebar.radio("Tier", ("$400k+ Roles", "$300k+ Roles"))
+    
+    if tier == "$400k+ Roles":
+        role_options = [r["title"] for r in ROLES_400K]
+        chosen_role_title = st.selectbox("Choose a role", role_options)
+        role = next(r for r in ROLES_400K if r["title"] == chosen_role_title)
+        show_role_info(role)
+    else:
+        role_options = [r["title"] for r in ROLES_300K]
+        chosen_role_title = st.selectbox("Choose a role", role_options)
+        role = next(r for r in ROLES_300K if r["title"] == chosen_role_title)
+        show_role_info(role)
+
+if __name__ == "__main__":
+    main()
+
+```
+
+
+
 # Study Detail:
 1. Browse list of 70 key Deep Learning / AI Engineer Roles for Building Deep Learning models with NVIDIA GPU.
 2. Synthesize the job roles as AI deep learning agents with specific tasks and skills around building and developing ML models, architecture and code.
