@@ -1,5 +1,356 @@
 
+# Position and Demand Analysis for OpenAI - Select ML Roles.
 
+# First List: Roles by Salary Pool (Emojis + Markdown)
+
+Below is the **first** list showing each classified role with:
+1. A prefix of emojis illustrating the **role type** (tentative system; see legend).
+2. A series of **moneybag emojis** indicating the salary bracket.
+   - 1×💰 = up to \$200k
+   - 2×💰💰 = up to \$300k
+   - 3×💰💰💰 = up to \$400k
+   - 4×💰💰💰💰 = up to \$500k
+   - 5×💰💰💰💰💰 = over \$500k
+
+**Role-type Emojis Legend** (approximate / for fun):  
+- **🤖** = AI / ML Engineer  
+- **💼** = Manager / BizOps / Strategy  
+- **🔒** = Security / Compliance  
+- **💻** = General Software / Infrastructure  
+- **💡** = Data Scientist / Data Engineer / Analytics  
+- **⚙️** = Other Tech Specialists / Specialized Eng  
+
+> Where multiple categories might apply, we combine them, e.g. a manager of an ML team might be “💼🤖”.
+
+---
+
+## 1) **Max salary > \$500k** (5×💰💰💰💰💰)
+
+1. 🤖💼 **Engineering Manager, Distributed Systems** (Position #20)  
+   **Salary**: \$360K–\$530K  
+   **Bracket**: 5×💰💰💰💰💰
+
+2. 🤖⚙️ **HW/SW Co-Design Engineer** (Positions #33 & #35)  
+   **Salary**: \$360K–\$530K  
+   **Bracket**: 5×💰💰💰💰💰
+
+3. 🤖 **Machine Learning Engineer, Applied AI** (Position #37)  
+   **Salary**: \$310K–\$550K  
+   **Bracket**: 5×💰💰💰💰💰
+
+4. 🤖 **Machine Learning Engineer, Integrity** (Position #38)  
+   **Salary**: \$310K–\$550K  
+   **Bracket**: 5×💰💰💰💰💰
+
+5. 🤖 **Machine Learning Engineer, Retrieval & Search** (Position #39)  
+   **Salary**: \$310K–\$550K  
+   **Bracket**: 5×💰💰💰💰💰
+
+6. 🤖💼 **Platform ML Engineering Manager, Model Graph** (Position #43)  
+   **Salary**: \$440K–\$530K  
+   **Bracket**: 5×💰💰💰💰💰
+
+7. 🤖💼 **Platform ML Engineering Manager, Training** (Position #44)  
+   **Salary**: \$440K–\$530K  
+   **Bracket**: 5×💰💰💰💰💰
+
+8. 🤖⚙️ **Principal Engineer, GPU Platform** (Position #45)  
+   **Salary**: \$385K–\$550K  
+   **Bracket**: 5×💰💰💰💰💰
+
+9. 🤖 **Research Engineer, Data Processing (Foundations)** (Position #48)  
+   **Salary**: \$360K–\$530K  
+   **Bracket**: 5×💰💰💰💰💰
+
+10. 🤖 **Research Engineer, Pre-training Architecture** (Position #52)  
+    **Salary**: \$360K–\$530K  
+    **Bracket**: 5×💰💰💰💰💰
+
+---
+
+## 2) **Max salary > \$400k (but ≤ \$500k)** (4×💰💰💰💰)
+
+11. 🤖 **Distributed Training Engineer, Sora** (Position #17)  
+    **Salary**: \$295K–\$440K  
+    **Bracket**: 4×💰💰💰💰
+
+12. 🤖💼 **Engineering Manager, Applied GPU Platform** (Position #18)  
+    **Salary**: \$300K–\$450K  
+    **Bracket**: 4×💰💰💰💰
+
+13. 🤖💼 **Engineering Manager, Financial Systems** (Position #21)  
+    **Salary**: \$300K–\$450K  
+    **Bracket**: 4×💰💰💰💰
+
+14. 🤖💼 **Engineering Manager, Human Data** (Position #22)  
+    **Salary**: \$310K–\$465K  
+    **Bracket**: 4×💰💰💰💰
+
+15. 💼💡 **Head of Data Science, Strategic Finance** (Position #30)  
+    **Salary**: \$385K–\$465K  
+    **Bracket**: 4×💰💰💰💰
+
+16. 💼 **Lead Product Manager, Core Product** (Position #36)  
+    **Salary**: \$385K–\$465K  
+    **Bracket**: 4×💰💰💰💰
+
+17. 🤖💼 **ML Training Infrastructure Manager - Reasoning** (Position #42)  
+    **Salary**: \$360K–\$440K  
+    **Bracket**: 4×💰💰💰💰
+
+18. 🔒💼 **Product Security Leader** (Position #47)  
+    **Salary**: \$385K–\$465K  
+    **Bracket**: 4×💰💰💰💰
+
+19. 🤖 **Research Engineer** (“Research – San Francisco” post)  
+    **Salary**: \$295K–\$440K  
+    **Bracket**: 4×💰💰💰💰
+
+20. 🤖 **Research Engineer, Future of Computing** (Position #49)  
+    **Salary**: \$360K–\$440K  
+    **Bracket**: 4×💰💰💰💰
+
+21. 🤖 **Research Engineer, Multimodal Safety** (Position #50)  
+    **Salary**: \$295K–\$440K  
+    **Bracket**: 4×💰💰💰💰
+
+22. 🤖 **Research Engineer / Scientist, Alignment** (Positions #53 & #54)  
+    **Salary**: \$295K–\$440K  
+    **Bracket**: 4×💰💰💰💰
+
+---
+
+## 3) **Max salary > \$300k (but ≤ \$400k)** (3×💰💰💰)
+
+23. 💡 **Analytics Data Engineer, Applied Engineering** (Position #3)  
+    **Salary**: \$245K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+24. 💻 **Android Engineer, ChatGPT Search** (Position #5)  
+    **Salary**: \$245K–\$310K  
+    **Bracket**: 3×💰💰💰
+
+25. 💻 **Client Platform Engineer** (Position #7)  
+    **Salary**: \$185K–\$310K  
+    **Bracket**: 3×💰💰💰
+
+26. 🔒 **Cybersecurity Evaluations Engineer** (Position #10)  
+    **Salary**: up to \$310K  
+    **Bracket**: 3×💰💰💰
+
+27. 💡 **Data Engineer, Safety Systems** (Position #11)  
+    **Salary**: \$245K–\$310K  
+    **Bracket**: 3×💰💰💰
+
+28. 💻 **Data Infrastructure Engineer** (Position #12)  
+    **Salary**: \$200K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+29. 💡 **Data Scientist, Business** (Position #13)  
+    **Salary**: \$245K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+30. 💡 **Data Scientist, Monitoring Operations** (Position #14)  
+    **Salary**: \$220K–\$320K  
+    **Bracket**: 3×💰💰💰
+
+31. 💡 **Data Scientist, Product** (Position #15)  
+    **Salary**: \$245K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+32. 💼 **Engineering Manager, Automation** (Position #19)  
+    **Salary**: \$385K + equity  
+    **Bracket**: 3×💰💰💰 (top base 385K)
+
+33. 💼 **Engineering Manager, Observability** (Position #23)  
+    **Salary**: \$300K–\$400K  
+    **Bracket**: 3×💰💰💰
+
+34. 🔒 **Enterprise Security Engineer** (Position #24)  
+    **Salary**: up to \$310K  
+    **Bracket**: 3×💰💰💰
+
+35. 💻 **Enterprise Site Reliability Engineer** (Position #25)  
+    **Salary**: \$245K–\$310K  
+    **Bracket**: 3×💰💰💰
+
+36. 💻 **Full-Stack Engineer** (Position #27)  
+    **Salary**: \$225K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+37. 💻 **Full-Stack Software Engineer, Intelligent Support** (Position #28)  
+    **Salary**: \$310K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+38. 💻 **Full-Stack Software Engineer, Leverage** (Position #29)  
+    **Salary**: \$310K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+39. 💼 **Head of People Systems** (Position #32)  
+    **Salary**: \$236K–\$380K  
+    **Bracket**: 3×💰💰💰
+
+40. 💻 **Infrastructure Engineer** (Position #34)  
+    **Salary**: \$220.5K–\$385K  
+    **Bracket**: 3×💰💰💰
+
+41. 🤖 **Research Engineer, Preparedness** (Position #51)  
+    **Salary**: \$200K–\$370K  
+    **Bracket**: 3×💰💰💰
+
+---
+
+## 4) **Max salary > \$200k (but ≤ \$300k)** (2×💰💰)
+
+42. 🔒 **AI Abuse & Threat Intelligence Analyst** (Position #1)  
+    **Salary**: \$220K + equity  
+    **Bracket**: 2×💰💰
+
+43. ⚖️ **AI Policy Counsel** (Position #2)  
+    **Salary**: \$210K–\$250K  
+    **Bracket**: 2×💰💰
+
+44. 💻 **Android Engineer, ChatGPT Core Experiences** (Position #4)  
+    **Salary**: \$200K–\$245K  
+    **Bracket**: 2×💰💰
+
+45. 💼 **BizOps Lead** (Position #6)  
+    **Salary**: \$210K–\$265K  
+    **Bracket**: 2×💰💰
+
+46. 🔒 **Compliance Program Manager** (Position #9)  
+    **Salary**: \$180K–\$240K  
+    **Bracket**: 2×💰💰
+
+47. 💼 **Financial Systems Senior Manager** (Position #26)  
+    **Salary**: \$240K + equity  
+    **Bracket**: 2×💰💰
+
+48. 💼 **Head of Global Mobility** (Position #31)  
+    **Salary**: \$236K–\$295K  
+    **Bracket**: 2×💰💰
+
+49. 💼 **Manager, Customer Success, Strategics** (Position #40)  
+    **Salary**: \$240K–\$300K  
+    **Bracket**: 2×💰💰
+
+
+
+
+
+# Salary classes:
+
+Below is a line-by-line classification of each listed role into “salary pools” based on the maximum stated salary (base or range). The brackets used are:
+
+Max salary > $500k
+Max salary > $400k (but 
+≤
+≤$500k)
+Max salary > $300k (but 
+≤
+≤$400k)
+Max salary > $200k (but 
+≤
+≤$300k)
+Max salary 
+≤
+≤$200k
+Note: Some postings list only a single figure or “$XXXK + equity,” without an explicit maximum. Where the base is clearly below a threshold but reads “+ equity,” we can only approximate which bracket is most logical based on the best visible information.
+
+1) Max salary > $500k
+Engineering Manager, Distributed Systems (Position #20) — $360K–$530K
+HW/SW Co-Design Engineer (Positions #33 and #35) — $360K–$530K
+Machine Learning Engineer, Applied AI (Position #37) — $310K–$550K
+Machine Learning Engineer, Integrity (Position #38) — $310K–$550K
+Machine Learning Engineer, Retrieval & Search (Position #39) — $310K–$550K
+Platform ML Engineering Manager, Model Graph (Position #43) — $440K–$530K
+Platform ML Engineering Manager, Training (Position #44) — $440K–$530K
+Principal Engineer, GPU Platform (Position #45) — $385K–$550K
+Research Engineer, Data Processing (Foundations) (Position #48) — $360K–$530K
+Research Engineer, Pre-training Architecture (Position #52) — $360K–$530K
+2) Max salary > $400k (but 
+≤
+$
+500
+𝑘
+≤$500k)
+Distributed Training Engineer, Sora (Position #17) — $295K–$440K
+Engineering Manager, Applied GPU Platform (Position #18) — $300K–$450K
+Engineering Manager, Financial Systems (Position #21) — $300K–$450K
+Engineering Manager, Human Data (Position #22) — $310K–$465K
+Head of Data Science, Strategic Finance (Position #30) — $385K–$465K
+Lead Product Manager, Core Product (Position #36) — $385K–$465K
+ML Training Infrastructure Manager - Reasoning (Position #42) — $360K–$440K
+Product Security Leader (Position #47) — $385K–$465K
+Research Engineer (Position #47 in the list, but the “Research – San Francisco” post) — $295K–$440K
+Research Engineer, Future of Computing (Position #49) — $360K–$440K
+Research Engineer, Multimodal Safety (Position #50) — $295K–$440K
+Research Engineer / Scientist, Alignment (Positions #53 and #54) — $295K–$440K
+(All of these have top ends above $400K but at or below $500K.)
+
+3) Max salary > $300k (but 
+≤
+$
+400
+𝑘
+≤$400k)
+Analytics Data Engineer, Applied Engineering (Position #3) — $245K–$385K
+Android Engineer, ChatGPT Search (Position #5) — $245K–$310K
+Client Platform Engineer (Position #7) — $185K–$310K
+Cybersecurity Evaluations Engineer (Position #10) — up to $310K
+Data Engineer, Safety Systems (Position #11) — $245K–$310K
+Data Infrastructure Engineer (Position #12) — $200K–$385K
+Data Scientist, Business (Position #13) — $245K–$385K
+Data Scientist, Monitoring Operations (Position #14) — $220K–$320K
+Data Scientist, Product (Position #15) — $245K–$385K
+Engineering Manager, Automation (Position #19) — $385K + equity (base 385K)
+Engineering Manager, Observability (Position #23) — $300K–$400K
+Enterprise Security Engineer (Position #24) — up to $310K
+Enterprise Site Reliability Engineer (Position #25) — $245K–$310K
+Full-Stack Engineer (Position #27) — $225K–$385K
+Full-Stack Software Engineer, Intelligent Support (Position #28) — $310K–$385K
+Full-Stack Software Engineer, Leverage (Position #29) — $310K–$385K
+Head of People Systems (Position #32) — $236K–$380K
+Infrastructure Engineer (Position #34) — $220.5K–$385K
+Research Engineer, Preparedness (Position #51) — $200K–$370K
+(All of these have top ends above $300K but at or below $400K.)
+
+4) Max salary > $200k (but 
+≤
+$
+300
+𝑘
+≤$300k)
+AI Abuse & Threat Intelligence Analyst (Position #1) — $220K + equity
+AI Policy Counsel (Position #2) — $210K–$250K
+Android Engineer, ChatGPT Core Experiences (Position #4) — $200K–$245K
+BizOps Lead (Position #6) — $210K–$265K
+Compliance Program Manager (Position #9) — $180K–$240K
+Financial Systems Senior Manager (Position #26) — $240K + equity
+Head of Global Mobility (Position #31) — $236K–$295K
+Manager, Customer Success, Strategics (Position #40) — $240K–$300K
+5) Max salary 
+≤
+$
+200
+𝑘
+≤$200k
+Compute & Infrastructure Accounting Manager (Position #8) — $190K + equity
+(190K base is below 200K; no stated higher max figure.)
+
+No Explicit Numeric Range
+Several roles list compensation as “competitive,” “commensurate with experience,” or “$XXXK + equity” without providing a top end. Those are omitted from the bracketed list above since we don’t have a maximum figure to classify them.
+
+Final Overview
+>$500k: 11 positions
+>$400k, (\le$500k: 13 positions
+>$300k, (\le$400k: 19 positions
+>$200k, (\le$300k: 8 positions
+(\le$200k: 1 position
+This breakdown shows, at a glance, where each posted role’s maximum stated compensation (base range) slots into the requested brackets.
+
+
+# ---- List of selected roles by technology and position.
 
 1. AI Abuse & Threat Intelligence Analyst
 Intelligence & Investigations - San Francisco
