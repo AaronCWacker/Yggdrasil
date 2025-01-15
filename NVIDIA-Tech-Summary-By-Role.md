@@ -9,6 +9,17 @@
 
 ## Outline of job skills around libraries, algorithms, and titles to survey state of art needs for LLM model building and evaluation:
 
+Salary > 400k possibility:
+
+Salary > 300k possibility:
+
+Salary > 200k possibility:
+
+
+
+
+
+
 1. Senior Deep Learning Algorithm Engineer
 Senior Deep Learning Algorithm Engineer
 Apply
