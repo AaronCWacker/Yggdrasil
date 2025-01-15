@@ -14,11 +14,12 @@
 - Value Scale for highest skill expertise positions:
 - Salary > 400k possibility:
 - Salary > 300k possibility:
-2. Senior Applied Engineer, AI Graphics
+3. Senior Applied Engineer, AI Graphics
 - Salary > 200k possibility:
+
 ---
 
-My 400k+ picks with deep dive on technology requirements and my approach to learning or benchmarking my knowledge in that area:
+# My 400k+ picks with deep dive on technology requirements and my approach to learning or benchmarking my knowledge in that area:
 
 5. 🧠⚙️ **Principal Software Engineer – AI Inference NVIDIA NIM (272k–425.5k) → >400k 💰💰💰💰**  
    - **Key Skills & Tech:**  
@@ -194,8 +195,37 @@ My 400k+ picks with deep dive on technology requirements and my approach to lear
       - Containerized microservices (Helm, K8s)  
 
 
+# For 400k - Deep Learning Algorithms show this as unified demand list:
+## Consolidated & Sorted Skill Mentions for $400k+ Roles
 
-My 300k picks based on enjoyment of content area for development and experimentation:
+# Below is a unified list of key technologies/skills mentioned across the “\$400k possible” roles. 
+Each bullet shows the skill plus how many times it appeared (or was referenced in a very similar way). Sorted from most frequent (top) to least frequent.
+
+1. **HPC & Parallel Computing** (10)  
+2. **GPU Acceleration** (CUDA, TensorRT, GPU Libraries, GPU Architecture, etc.) (10)  
+3. **Python** (10)  
+4. **LLMs / Generative AI** (LLM pipelines, diffusion models, RAG, agentic AI) (9)  
+5. **C++** (8)  
+6. **Deep Learning Frameworks** (PyTorch, TensorFlow, JAX) (5)  
+7. **Containerization / Kubernetes / Microservices** (Helm, Docker, K8s, cloud-native) (5)  
+8. **3D Computer Vision** (3D reconstruction, NeRF, neural rendering, Gaussian splatting) (4)  
+9. **Databases at Scale** (MySQL, PostgreSQL, MongoDB, Oracle) (2)  
+
+# Notes on how these were unified and counted:
+
+1. HPC & Parallel Computing encompasses any references to HPC scaling, distributed training, mixed-precision HPC algorithms, multi-vehicle HPC integration, etc.
+2. GPU Acceleration includes all CUDA/TensorRT references, GPU kernel integration, GPU numeric performance, GPU architecture tuning, etc.
+3. Python merges all specific mentions of Python-based development, concurrency, performance analysis, MLOps, etc.
+4. LLMs / Generative AI captures all mentions of large language models, diffusion models, agentic AI frameworks, RAG, generative pipelines, etc.
+5. C++ merges references to performance-critical code, concurrency, HPC design, real-time embedded, etc.
+6. Deep Learning Frameworks counts mentions of PyTorch, TensorFlow, or JAX specifically.
+7. Containerization / Kubernetes / Microservices merges mentions of Docker, Helm, cloud-native microservices, multi-cloud orchestration, etc.
+8. 3D Computer Vision combines references to 3D CV, neural rendering, NERF, point cloud processing, etc.
+9. Databases at Scale merges references to MySQL, PostgreSQL, MongoDB, Oracle, used in high-scale cloud/HPC contexts.
+
+
+
+# My 300k picks based on enjoyment of content area for development and experimentation:
 
 2. 🎨🖥️ **Senior Applied Engineer, AI Graphics (168k–310.5k) → >300k 💰💰💰**  
    - **Key Skills & Tech:**  
@@ -305,6 +335,40 @@ My 300k picks based on enjoyment of content area for development and experimenta
       - 3D CV & procedural generation for training  
       - Python, C++, domain randomization  
       - Robot learning & sim-to-real  
+
+## Consolidated & Sorted Skill Mentions for \$300k+ Picks
+
+Below is a unified list of key technologies/skills that appeared across your \$300k “enjoyment” picks. Each bullet shows the skill plus how many times it appeared (or was referenced in a very similar way). Sorted from most frequent (top) to least frequent.
+
+1. **Python** (10)  
+2. **HPC / Multi-node** (8)  
+3. **C++** (7)  
+4. **Performance Tuning** (5)  
+5. **Large-scale LLMs / VLMs** (4)  
+6. **PyTorch** (4)  
+7. **CUDA** (3)  
+8. **Deep Learning** (3)  
+9. **Parallel Computing Fundamentals** (2)  
+10. **Real-time Rendering / Ray Tracing** (1)  
+11. **CMake, pip, conda (Build & Packaging)** (1)  
+12. **CI/CD Systems** (1)  
+13. **NAS Methods (Model Pruning/Quantization)** (1)  
+14. **MLOps / DLOps Integration** (1)  
+
+### Notes on Unification
+
+- **Python**: Appears nearly everywhere (driver/firmware dev, HPC scaling, AI infrastructure, data pipelines, deep learning).
+- **HPC**: Encompasses multi-node environments, HPC scaling, HPC software design, HPC networking, large-scale ML cluster operations.
+- **C++**: Highlighted as a primary language for EDA tools, firmware/drivers, GPU kernel dev, or performance-critical code.
+- **Performance Tuning**: Includes phrases like “GPU-based performance debugging,” “large-scale performance optimization,” “inference optimization,” etc.
+- **Large-scale LLMs / VLMs**: Mentions of big language or vision-language models, LLM optimization, or recipe creation for LLM/VLM inference.
+- **PyTorch**: Specifically called out for training, inference, pipeline building, or HPC scaling.
+- **CUDA**: GPU parallel programming references (CUDA/Triton) for kernel dev, performance debugging, or HPC workloads.
+- **Deep Learning**: Either explicitly stated “deep learning” or references to advanced DL algorithmic R&D (model efficiency, etc.).
+- **Parallel Computing Fundamentals**: Overlaps HPC but also specifically named for SoC simulation or GPU concurrency.
+- **MLOps / DLOps**: Tools and workflows (CI/CD style) that unify deployment, performance logging, and pipeline integration.
+- Lower-frequency skills appear once if they’re unique (e.g., **CI/CD** systems, **NAS Methods**, **real-time rendering**, etc.).
+
 
 
 ---
