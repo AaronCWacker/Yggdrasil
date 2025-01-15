@@ -9,9 +9,12 @@
 
 ## Outline of job skills around libraries, algorithms, and titles to survey state of art needs for LLM model building and evaluation:
 
+Value Scale for highest skill expertise positions:
+
 Salary > 400k possibility:
 
 Salary > 300k possibility:
+2. Senior Applied Engineer, AI Graphics
 
 Salary > 200k possibility:
 
