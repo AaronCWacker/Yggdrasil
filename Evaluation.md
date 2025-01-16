@@ -1,5 +1,15 @@
 # Evaluation
 
+Triage evaluation: Assessing potential risks and issues with an AI system before deployment.
+Safety: Ensuring the AI system operates within acceptable risk levels and does not cause unintended harm.
+Performance metrics: Quantitative measures (e.g., accuracy, precision, recall) to evaluate the model's effectiveness.
+Bias: Systematic errors or unfair treatment present in the AI system due to biased data, algorithms, or other factors.
+Fairness: Ensuring the AI system treats individuals or groups fairly without discrimination.
+Differential diagnosis: In healthcare, identifying potential causes or diseases that could explain a patient's symptoms, aided by AI systems.
+
+
+
+---
 In the context of machine learning models and AI systems, 
 the terms you have mentioned are related to various aspects of 
 
