@@ -1,3 +1,29 @@
+# Skills Demand Synopsis
+
+![image](https://github.com/user-attachments/assets/cd405e38-6098-44ab-b921-c34b05f2682e)
+
+GPU (CUDA, GPU acceleration, GPU kernels, etc.) – 22
+HPC (high-performance computing, HPC scaling, HPC optimization) – 16
+Python – 16
+C++ – 12
+LLM / Generative AI (includes diffusion, RAG, agentic AI, etc.) – 12
+PyTorch – 8
+DevOps / MLOps / CI-CD – 6
+Kubernetes / Containers (K8s, Docker, Helm) – 6
+3D Computer Vision (3D CV, 3D reconstruction, neural rendering) – 5
+Cloud (multi-cloud, cloud-native, hybrid cloud) – 5
+Databases (SQL, NoSQL, Oracle, etc.) – 2
+Notes on Counting & Combination
+
+GPU: Any mention of “GPU-based,” “GPU kernels,” “CUDA,” “TensorRT,” “GPU debugging,” etc.
+HPC: Explicit references to HPC scaling, HPC concurrency, HPC code design, HPC networking, HPC software, etc.
+LLM / Generative AI: Includes “LLM,” “GPT,” “diffusion-based,” “agentic AI,” “generative AI,” “large language models,” etc.
+DevOps / MLOps: Folded references to DevOps, MLOps, CI/CD, or similar.
+Kubernetes / Containers: Covers “K8s,” “Helm,” “Docker,” “containerized microservices,” etc.
+All other skills (e.g. “Active Directory,” “SoC/embedded,” “3D graphics APIs,” “data governance tooling,” “communication libraries,” etc.) were mentioned fewer times overall, so they do not appear in the top-level rollup above.
+
+
+
 # Technical Expertise
 ## NVIDIA Model Building Disciplines - Observe tools, technology, process and demand.
 
