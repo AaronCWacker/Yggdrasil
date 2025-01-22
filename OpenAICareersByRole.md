@@ -1,3 +1,10 @@
+# Top ML Skills per OpenAI Demand:
+
+![image](https://github.com/user-attachments/assets/984e2e87-148f-4645-81b5-458e6ab0999d)
+
+
+
+
 # Top skills in demand:
 
 Python – 27 mentions
