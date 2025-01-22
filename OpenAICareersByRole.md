@@ -1,5 +1,40 @@
+# Top skills in demand:
+
+Python – 27 mentions
+HPC (High-Performance Computing) – 18 mentions
+LLM/Transformers (includes “Transformer-based,” “GPT-like,” etc.) – 15 mentions
+GPU (design, clusters, multi-GPU) – 7 mentions
+SQL – 6 mentions
+C++ – 5 mentions
+Kubernetes – 5 mentions
+PyTorch – 5 mentions
+React – 4 mentions
+Spark – 4 mentions
+DevOps – 3 mentions
+Security (AppSec, DevSecOps, endpoint security) – 3 mentions
+Airflow – 2 mentions
+Golang/Go – 2 mentions
+Terraform – 2 mentions
+TypeScript – 2 mentions
+MLOps – 1 mention
+Note:
+
+“LLM/Transformers” combines explicit references to large language models (LLMs), GPT-like models, and Transformers libraries.
+“HPC” includes anything explicitly labeled as HPC performance, HPC concurrency, HPC training pipelines, HPC provisioning, or HPC acceleration.
+Mentions of “containerized HPC infrastructure,” “GPU cluster orchestration,” etc. are counted under HPC/GPU where appropriate.
+DevOps and MLOps were only counted when explicitly stated (e.g. “end-to-end MLOps & DevOps”).
+Ties (e.g. for 5 mentions or 2 mentions) are listed alphabetically.
+
+
+
+
+
 
 # Demand Analysis for OpenAI - ML Roles
+
+
+
+
 
 **Role-type Legend**:  
 - **🤖** = AI / ML Engineer  
