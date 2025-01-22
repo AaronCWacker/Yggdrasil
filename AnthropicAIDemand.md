@@ -1,5 +1,259 @@
+Head of Product Engineering 💼💻
+Salary: $485,000-$560,000 USD
+Location: San Francisco, CA | Seattle, WA
+Research Manager, Horizons 💼🤖
+Salary: $340,000-$560,000 USD
+Location: San Francisco, CA
+Software Engineer, UI - Anthropic Labs 💻
+Salary: $320,000-$560,000 USD
+Location: San Francisco, CA | New York City, NY | Seattle, WA
+Research Engineer / Research Scientist, Multimodal 🤖
+Salary: $315,000-$560,000 USD
+Location: Remote-Friendly
+Software Engineer, Model Context Protocol (London) 💻
+Salary: £255,000-£450,000 GBP (~$320,000-$560,000 USD)
+Location: London, UK
+
+Most Frequently Referenced Technical Skills (ordered by frequency):
+
+Python (28 mentions)
+Kubernetes/K8s (18 mentions)
+GPU/TPU/Hardware Accelerators (16 mentions)
+Machine Learning/ML (15 mentions)
+React/TypeScript/JavaScript (12 mentions)
+AWS/GCP Cloud Services (11 mentions)
+PyTorch (9 mentions)
+Distributed Systems (8 mentions)
+Linux Systems/OS internals (7 mentions)
+CUDA/Low-level optimization (6 mentions)
+SQL (5 mentions)
+Docker/Containerization (5 mentions)
+Go/Rust/Systems Programming (4 mentions)
+CI/CD (4 mentions)
+Infrastructure as Code (3 mentions)
 
 
+Head of Product Engineering 💼💻
+Salary: $485,000-$560,000 USD
+Location: San Francisco, CA | Seattle, WA
+Key Skills:
+
+
+Technical Leadership & Architecture
+Cloud Infrastructure (AWS, GCP)
+Engineering Management
+Product Development
+Cross-functional Communication
+
+
+Research Manager, Horizons 💼🤖
+Salary: $340,000-$560,000 USD
+Location: San Francisco, CA
+Key Skills:
+
+
+Machine Learning Research
+Technical Project Management
+Research Leadership
+ML Infrastructure
+Team Management
+
+
+Software Engineer, Anthropic Labs 💻🤖
+Salary: $320,000-$560,000 USD
+Location: SF/NYC/Seattle
+Key Skills:
+
+
+Full Stack Development
+ML/AI Systems
+Python
+Product Prototyping
+Research Implementation
+
+
+Research Engineer/Scientist, Multimodal 🤖
+Salary: $315,000-$560,000 USD
+Location: Remote-Friendly
+Key Skills:
+
+
+ML Systems
+PyTorch
+GPU Programming
+Distributed Systems
+Language Models
+
+
+Software Engineer, Model Context Protocol 💻
+Salary: £255,000-£450,000 GBP (~$320,000-$560,000 USD)
+Location: London, UK
+Key Skills:
+
+
+TypeScript/JavaScript
+Python
+API Design
+Open Source Development
+Protocol Design
+
+
+Staff Software Engineer, AI Reliability 💻🤖
+Salary: $320,000-$485,000 USD
+Location: San Francisco, CA
+Key Skills:
+
+
+Distributed Systems
+ML Infrastructure
+Kubernetes
+Monitoring/Observability
+Performance Optimization
+
+
+Research Engineer, Interpretability 🤖
+Salary: $315,000-$485,000 USD
+Location: Remote-Friendly
+Key Skills:
+
+
+ML Research
+Python
+PyTorch
+Data Analysis
+Research Implementation
+
+
+Engineering Manager, Growth 💼💻
+Salary: $320,000-$405,000 USD
+Location: San Francisco, CA
+Key Skills:
+
+
+Full Stack Development
+Product Development
+Team Leadership
+API Development
+Growth Engineering
+
+
+Software Engineer, Agents Infrastructure 💻
+Salary: $320,000-$405,000 USD
+Location: SF/NYC
+Key Skills:
+
+
+Containerization
+Security Systems
+Python
+Infrastructure Design
+SDK Development
+
+
+Software Engineer, Mobile 💻
+Salary: $320,000-$405,000 USD
+Location: San Francisco, CA
+Key Skills:
+
+
+iOS/Android Development
+Swift/Kotlin
+Mobile Architecture
+ML Integration
+UI/UX Implementation
+
+
+Staff Software Engineer, Infrastructure 💻
+Salary: $320,000-$405,000 USD
+Location: SF/NYC/Seattle
+Key Skills:
+
+
+Kubernetes
+Cloud Infrastructure
+Python/Go/Rust
+System Design
+Infrastructure as Code
+
+
+Research Manager, Interpretability 💼🤖
+Salary: $340,000-$425,000 USD
+Location: San Francisco, CA
+Key Skills:
+
+
+ML Research Management
+Technical Leadership
+Research Strategy
+Team Management
+Project Management
+
+
+Engineering Manager, RL Engineering 💼🤖
+Salary: $340,000-$425,000 USD
+Location: San Francisco, CA
+Key Skills:
+
+
+Reinforcement Learning
+ML Systems
+Team Leadership
+Technical Strategy
+Research Implementation
+
+
+Product Manager, Enterprise 💼
+Salary: $305,000-$385,000 USD
+Location: SF/NYC
+Key Skills:
+
+
+Product Strategy
+Enterprise Software
+Technical Product Management
+API Products
+Security/Compliance
+
+
+Product Manager, Research 💼
+Salary: $305,000-$385,000 USD
+Location: SF/NYC/Seattle
+Key Skills:
+
+
+Research Product Management
+ML/AI Products
+Technical Strategy
+Data Analysis
+Product Development
+
+Most Common Technical Skills Across All Positions:
+
+Python (28 mentions)
+Kubernetes/K8s (18 mentions)
+GPU/TPU/Hardware Accelerators (16 mentions)
+Machine Learning/ML (15 mentions)
+React/TypeScript/JavaScript (12 mentions)
+AWS/GCP Cloud Services (11 mentions)
+PyTorch (9 mentions)
+Distributed Systems (8 mentions)
+Linux Systems/OS internals (7 mentions)
+CUDA/Low-level optimization (6 mentions)
+SQL (5 mentions)
+Docker/Containerization (5 mentions)
+Go/Rust/Systems Programming (4 mentions)
+CI/CD (4 mentions)
+Infrastructure as Code (3 mentions)
+
+Role Type Distribution:
+🤖 ML/AI Focused: ~30%
+💻 Software Engineering: ~35%
+💼 Management/Leadership: ~25%
+⚙️ Specialized Engineering: ~10%
+
+
+
+---
 
 
 Software Engineer, London
