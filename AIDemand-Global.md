@@ -16,8 +16,17 @@ This list is descending order frequency by volume of demand.
 
 
 Below is a top 10 list for ML Learning - Topics deserving most study and research based on unique contributions of each organization contributing to 'state of art' evolution in ML.
-
 Also if one organization is the center of activity for a given skill or technology advancement, I list the important URLs to learn more.
+
+
+
+
+| Number | **Company & Focus** | **Company & Focus** |
+|--------|-------------------|-------------------|
+| Row 1 | **NVIDIA - ML Architecture** <br> ML originates with HPC and GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/801f0432-349b-4788-8925-7694e3a1592a) | **OpenAI - LLM Innovation** <br> Python, HPC, LLMs/Generative AI with Transformers <br> ![image](https://github.com/user-attachments/assets/d7969440-820d-4ee2-adb0-5b23bd4fdb93) |
+| Row 2 | **Anthropic - Infrastructure** <br> Python, K8s (KEDA for HPC!), GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/b11a1b0c-34d7-4f6d-9835-2b00783aa8e7) | **Hugging Face - ML Hub** <br> Python, ML, GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/6fc77d54-a356-4c9b-967b-83341f66c4f0) |
+
+
 
 
 1. Python (Create wheel files, python libraries and refactor all apps to Python - https://pypi.org/)
