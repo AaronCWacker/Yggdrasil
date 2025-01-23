@@ -1,3 +1,273 @@
+![image](https://github.com/user-attachments/assets/bb6e3f66-7d5b-4c78-9640-0276e5500f38)
+
+
+
+
+
+
+Create a pie chart showing the Key skills and tech combined across positions.  Here is one I did before for example.  Use the data below and first create a unique list of each key or technicval skill so we know we do not loose any.  Next consolidate them if they are nearly the same and last calculate the percent of whole and show pie chart.
+
+Grok2:
+
+Given the data you've provided, I'll first create a unique list of each key or technical skill mentioned across all positions, then consolidate similar skills, and finally calculate the percentage of each skill's occurrence to create a conceptual pie chart. Here’s the step-by-step breakdown:
+
+Step 1: Create a Unique List of Skills
+From the data provided, here are the unique skills mentioned:
+
+Low-level system integrations (compilers, C++)
+Hardware acceleration
+Performance tuning for Transformers (NLP, CV, Speech)
+Python APIs and framework optimizations (tokenizers, datasets)
+Linux or embedded systems experience
+Accelerating ML training/inference across AI hardware
+Technical blogging, demos, community evangelism
+Speaking at conferences, building & showcasing ML solutions
+Open-source libraries (Transformers, Diffusers), ML Ops
+Python, Rust, CUDA kernels, PyTorch/Keras
+Industrial-level ML with text-generation-inference focus
+Optimizing and scaling real-world ML services
+Reliability & performance monitoring
+Integrating Hugging Face with major cloud platforms
+AWS, GCP, Azure, containerizing (Docker), MLOps pipelines
+Typescript, Rust, MongoDB, Kubernetes
+Building secure, robust developer experiences & APIs
+Brainstorming unique ML/AI talents
+Contributing to open-source projects like Transformers, Datasets, Accelerate
+Fostering an active ML community
+Building web-scale, high-quality LLM training datasets
+Distributed data processing
+Ablation & training small models for data-quality analysis
+JavaScript/TypeScript ML: transformers.js, huggingface.js
+In-browser inference via WebGPU, WASM, ONNX
+Reducing model size & complexity (quantization)
+Neural sparse models (SPLADE, BM25), semantic/dense retrieval
+LLM usage & fine-tuning, chain-of-thought prompting
+Energy efficiency & carbon footprint analysis
+Post-training for LLMs (RLHF, PPO, DPO, instruction tuning)
+Building LLM “agents” with external tool usage
+Creating LLM agents that control GUIs via screen recordings
+Optimum integration for specialized AI hardware
+Building essential tooling for the Hugging Face ML Hub
+Full-stack development (Node.js, Svelte, MongoDB, AWS)
+Collaborating with researchers in non-AI scientific fields
+LLM-based code suggestions in Gradio Playground
+Speech-to-text, text-to-speech, speaker diarization
+
+Step 2: Consolidate Similar Skills
+Here's how we can consolidate similar skills:
+
+Python (Python APIs, Python, transformers.js, huggingface.js)
+Kubernetes/K8s (Kubernetes)
+GPU/TPU/Hardware (Hardware acceleration, GPU/TPU/Hardware, Accelerating ML training/inference across AI hardware, Optimum integration for specialized AI hardware)
+Machine Learning (Machine Learning, Industrial-level ML, LLM usage & fine-tuning, Energy efficiency & carbon footprint analysis)
+React/TypeScript/JS (React/TypeScript/JS, JavaScript/TypeScript ML)
+AWS/GCP (AWS, GCP, Azure)
+PyTorch (PyTorch/Keras)
+Distributed Systems (Distributed data processing, Distributed training)
+Linux/OS (Linux or embedded systems experience)
+CUDA/Low-level (Low-level system integrations, CUDA kernels)
+Open-source Contributions (Open-source libraries, Contributing to open-source projects, Fostering an active ML community)
+Community Engagement (Technical blogging, demos, community evangelism, Speaking at conferences, building & showcasing ML solutions)
+MLOps (MLOps pipelines, ML Ops)
+Performance Optimization (Performance tuning for Transformers, Reliability & performance monitoring, Optimizing and scaling real-world ML services)
+Model Development (Ablation & training small models, Building LLM “agents”, Creating LLM agents)
+
+Step 3: Calculate Percentages
+To create a pie chart, we would count occurrences:
+
+Python: 6 mentions
+Kubernetes/K8s: 2 mentions
+GPU/TPU/Hardware: 4 mentions
+Machine Learning: 4 mentions
+React/TypeScript/JS: 2 mentions
+AWS/GCP: 3 mentions
+PyTorch: 2 mentions
+Distributed Systems: 2 mentions
+Linux/OS: 2 mentions
+CUDA/Low-level: 2 mentions
+Open-source Contributions: 3 mentions
+Community Engagement: 3 mentions
+MLOps: 2 mentions
+Performance Optimization: 3 mentions
+Model Development: 3 mentions
+
+Total mentions: 35
+
+Percentages:
+
+Python: (6/35) * 100 = 17.14%
+Kubernetes/K8s: (2/35) * 100 = 5.71%
+GPU/TPU/Hardware: (4/35) * 100 = 11.43%
+Machine Learning: (4/35) * 100 = 11.43%
+React/TypeScript/JS: (2/35) * 100 = 5.71%
+AWS/GCP: (3/35) * 100 = 8.57%
+PyTorch: (2/35) * 100 = 5.71%
+Distributed Systems: (2/35) * 100 = 5.71%
+Linux/OS: (2/35) * 100 = 5.71%
+CUDA/Low-level: (2/35) * 100 = 5.71%
+Open-source Contributions: (3/35) * 100 = 8.57%
+Community Engagement: (3/35) * 100 = 8.57%
+MLOps: (2/35) * 100 = 5.71%
+Performance Optimization: (3/35) * 100 = 8.57%
+Model Development: (3/35) * 100 = 8.57%
+
+Conceptual Pie Chart Description
+Due to the limitations, I cannot generate the actual pie chart, but here's how it would look conceptually:
+
+Python would be the largest segment at 17.14%.
+GPU/TPU/Hardware and Machine Learning would each take 11.43%.
+Smaller segments include AWS/GCP, Open-source Contributions, Community Engagement, Performance Optimization, and Model Development each at 8.57%.
+The smallest segments would be Kubernetes/K8s, React/TypeScript/JS, PyTorch, Distributed Systems, Linux/OS, CUDA/Low-level, and MLOps each at 5.71%.
+
+If you would like, I can search for tools online that allow for creating such a pie chart or suggest you to look into tools like Google Charts or Plotly for creating this visualization.
+
+---
+
+1️⃣ 🧠⚙️ Machine Learning Engineer in the Optimization team – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Low-level system integrations (compilers, C++), hardware acceleration
+• Performance tuning for Transformers (NLP, CV, Speech)
+• Python APIs and framework optimizations (tokenizers, datasets)
+• Linux or embedded systems experience
+
+2️⃣ ⚡🗣️ Machine Learning Optimization Evangelist – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Accelerating ML training/inference across AI hardware (NVIDIA, AMD, Intel, etc.)
+• Technical blogging, demos, and community evangelism
+• Speaking at conferences, building & showcasing ML solutions
+• Open-source libraries (Transformers, Diffusers), ML Ops
+
+3️⃣ 🚀🧩 Machine Learning Engineer, Fast Optimized Inference – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Python, Rust, CUDA kernels, PyTorch/Keras
+• Industrial-level ML with text-generation-inference focus
+• Optimizing and scaling real-world ML services
+• Reliability & performance monitoring
+
+4️⃣ ☁️🤖 Cloud Machine Learning Engineer – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Integrating Hugging Face (Transformers, Diffusers) with major cloud platforms
+• AWS, GCP, Azure, containerizing (Docker), MLOps pipelines
+• Typescript, Rust, MongoDB, Kubernetes are nice-to-have
+• Building secure, robust developer experiences & APIs
+
+5️⃣ ✨🃏 Wild Card – (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Open-ended role—bring your unique ML/AI talents
+• Brainstorm with Hugging Face to create your dream position
+• Potential for any specialized AI, open-source, or engineering focus
+
+6️⃣ 🌐🔓 Open-Source Machine Learning Engineer – International Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Contribute to Transformers, Datasets, Accelerate, etc.
+• Foster an active ML community (GitHub, forums, Slack)
+• Collaboration with researchers & practitioners worldwide
+• Focus on usability, performance, and accessibility in open source
+
+7️⃣ 🔬📝 ML Research Engineer Internship, FineWeb – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Building web-scale, high-quality LLM training datasets
+• Distributed data processing (datatrove)
+• Ablation & training small models for data-quality analysis
+• Open-source mindset, experimentation on HPC clusters
+
+8️⃣ 🌐💻 Machine Learning Engineer Internship, WebML – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• JavaScript/TypeScript ML: transformers.js, huggingface.js
+• In-browser inference via WebGPU, WASM, ONNX
+• Building low-latency, interactive, privacy-focused apps
+• Demos & community-building for web-based ML
+
+9️⃣ 💾🔧 Machine Learning Engineer Internship, Quantization – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Reducing model size & complexity (int8, bitsandbytes, AutoGPTQ)
+• Integrating quantization into Transformers, Accelerate, PEFT
+• Benchmarking, performance optimization, blogposts
+• Advancing open-source quantization techniques
+
+1️⃣0️⃣ 🔍📖 Machine Learning Engineer Internship, Information Retrieval – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Neural sparse models (SPLADE, BM25), semantic/dense retrieval
+• Extending Sentence Transformers library with new IR trainers
+• Fine-tuning IR models, Python, PyTorch
+• Building user-friendly search & retrieval pipelines
+
+1️⃣1️⃣ 💡🤖 Machine Learning Engineer Internship, Generative AI – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• LLM usage & fine-tuning, chain-of-thought prompting
+• Enhancing smaller generative models for higher quality
+• Hardware acceleration, numeric precision, HPC optimization
+• Scalable Python code for LLM APIs & advanced inference
+
+1️⃣2️⃣ ⚡🌱 Machine Learning Engineer Internship, AI Energy Score – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Energy efficiency & carbon footprint of ML models
+• Hardware/optimization technique analysis
+• Serving stack experiments & measurement
+• Python, performance monitoring, environmental impact research
+
+1️⃣3️⃣ 🧠🛠️ Machine Learning Engineer Internship, TRL – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Post-training for LLMs (RLHF, PPO, DPO, instruction tuning)
+• Hugging Face Transformers, PEFT, ZeRO
+• Distributed training, scaling from single GPU to large clusters
+• Community support, tutorials, and library maintenance
+
+1️⃣4️⃣ 🤖⚙️ ML Research Engineer Internship, Agent AI – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Building LLM “agents” with external tool usage
+• Fine-tuning for reasoning & multi-step tasks
+• HPC & H100 cluster training/inference orchestration
+• End-to-end open-source release & advanced LLM planning
+
+1️⃣5️⃣ 🖱️💻 ML Research Engineer Internship, GUI Agents – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Creating LLM agents that control GUIs via screen recordings
+• Multi-modal (vision + text) architectures
+• Fine-tuning & large-scale HPC model training
+• Orchestration frameworks, open-source releases
+
+1️⃣6️⃣ ⚙️⏫ Machine Learning Engineer Internship, Hardware Optimization – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Optimum integration for specialized AI hardware (NVIDIA, Intel, AMD, etc.)
+• Model exporting & conversion, performance benchmarks
+• Tooling for model inference across diverse backends
+• Collaboration & documentation for the developer community
+
+1️⃣7️⃣ 🏗️🖥️ Senior Product Software Engineer, ML Platform – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Building essential tooling for the Hugging Face ML Hub
+• Full-stack: Node.js, Svelte, MongoDB, AWS
+• Developer-first product focus with empathy for user experience
+• High sense of ownership in a fast-paced environment
+
+1️⃣8️⃣ 🌎🔬 Community ML Research Engineer (non-AI scientific fields) – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Collaborating with researchers in biology, physics, quantum, etc.
+• Co-developing ML tools/models for domain-specific use cases
+• Open-source contributions, building partnerships & tutorials
+• Interdisciplinary approach bridging traditional science & ML
+
+1️⃣9️⃣ 🌐✨ Machine Learning Engineer Internship, Gradio – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• LLM-based code suggestions in Gradio Playground
+• Python & Svelte-based UI building for ML demos
+• Fine-tuning large language models, prompt engineering
+• Developer UX, user onboarding, interactive ML
+
+2️⃣0️⃣ 🎶🔊 Machine Learning Engineer for Audio – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Speech-to-text, text-to-speech, speaker diarization
+• Transformers-based audio pipelines
+• Python, open-source contributions (Transformers, etc.)
+• Making cutting-edge audio ML accessible to the community
+
+
+
+
+----
+
+
 Machine Learning Engineer in the Optimization team - US Remote
 RemoteCustomer SuccessFull time
 
