@@ -11,21 +11,16 @@ Also if one organization is the center of activity for a given skill or technolo
 | Row 1 | **1. NVIDIA - ML Architecture** <br> ML originates with HPC and GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/801f0432-349b-4788-8925-7694e3a1592a) | **2. OpenAI - LLM Innovation** <br> Python, HPC, LLMs/Generative AI with Transformers <br> ![image](https://github.com/user-attachments/assets/d7969440-820d-4ee2-adb0-5b23bd4fdb93) |
 | Row 2 | **3. Anthropic - Infrastructure** <br> Python, K8s (KEDA for HPC!), GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/b11a1b0c-34d7-4f6d-9835-2b00783aa8e7) | **4. Hugging Face - ML Hub** <br> Python, ML, GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/6fc77d54-a356-4c9b-967b-83341f66c4f0) |
 
-
 1. Python
 2. High Performance Computing (HPC)
 3. GPU/TPU/Hardware
 4. ML/LLM/Transformers
-5. Varies by org.
-  1. Nvidia and OpenAI both have languages C++, and SQL. 
-  2. Anthropic favors UI/React/Javascript/JS pattern with Artifacts and Computer Use in Claude set the SOTA.
-  3. Huggingface favors Global Open Source contribution and Community Engagement.
+5. Varies by org.  Nvidia & OpenAI: C++ & SQL. Anthropic: UI/React/JS.  Huggingface: Open Source Community.
 6. Pytorch and Model Development.
 7. Datasets, Databases and SQL.
 8. Cloud platforms.  Top 3 in order for ML:  1. Azure, 2. AWS, 3. GCP
 9. Linux/OS/MLOps.  Dockerfile to spin up replica instances.  Making it easy is SOTA.
 10. 3D Computer Vision.
-
 
 
 1. Python (Learn to create wheel files and python libraries to share for ML - Rewrite apps in Python - https://pypi.org/)
