@@ -1,6 +1,7 @@
 
+# ML Demand Skills for Anthropic
 
-![image](https://github.com/user-attachments/assets/64dd7ca5-581c-4bcc-8c21-fc90063676d2)
+![image](https://github.com/user-attachments/assets/d4c8efba-8d97-40ae-9dd3-f1de1c0cd8a6)
 
 
 Head of Product Engineering 💼💻
