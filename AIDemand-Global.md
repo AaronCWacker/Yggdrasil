@@ -12,7 +12,23 @@ Also if one organization is the center of activity for a given skill or technolo
 | Row 2 | **3. Anthropic - Infrastructure** <br> Python, K8s (KEDA for HPC!), GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/b11a1b0c-34d7-4f6d-9835-2b00783aa8e7) | **4. Hugging Face - ML Hub** <br> Python, ML, GPU/TPU/Hardware <br> ![image](https://github.com/user-attachments/assets/6fc77d54-a356-4c9b-967b-83341f66c4f0) |
 
 
-1. Python (Create wheel files, python libraries and refactor all apps to Python - https://pypi.org/)
+1. Python
+2. High Performance Computing (HPC)
+3. GPU/TPU/Hardware
+4. ML/LLM/Transformers
+5. Varies by org.
+  1. Nvidia and OpenAI both have languages C++, and SQL. 
+  2. Anthropic favors UI/React/Javascript/JS pattern with Artifacts and Computer Use in Claude set the SOTA.
+  3. Huggingface favors Global Open Source contribution and Community Engagement.
+6. Pytorch and Model Development.
+7. Datasets, Databases and SQL.
+8. Cloud platforms.  Top 3 in order for ML:  1. Azure, 2. AWS, 3. GCP
+9. Linux/OS/MLOps.  Dockerfile to spin up replica instances.  Making it easy is SOTA.
+10. 3D Computer Vision.
+
+
+
+1. Python (Learn to create wheel files and python libraries to share for ML - Rewrite apps in Python - https://pypi.org/)
 2. HPC (High Performance Computing or Compute - Kubernetes/K8s best pattern for coordinated load across replicas, Docker to Azure ACAE KEDA is most scalable pattern)
 3. GPU/TPU/Hardware (Get a GPU or use HF Zero, learn CUDA.  https://developer.nvidia.com/, https://huggingface.co/GPUModelSpotlight)
 4. ML/LLM/Transformers (Huggingface python library Transformers is used by everyone and the cornerstone of LLMs/GAI - https://huggingface.co/docs/transformers/en/index)
