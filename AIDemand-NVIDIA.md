@@ -24,6 +24,69 @@ All other skills (e.g. “Active Directory,” “SoC/embedded,” “3D graphic
 
 
 
+
+# Expanding HPC
+
+Can you create a synopsis of what technical skills and tech is under HPC?  Maybe have it be a top 10 of co-occurring technologies or skills that are part of HPC (e.g. containers, kubernetes, GPU fleets, etc)..
+
+Thought about top HPC-related skills for 9 seconds
+Below is a quick synopsis of what High-Performance Computing (HPC) typically encompasses in these roles, plus a Top 10 list of frequently co-occurring skills and technologies within HPC contexts.
+
+HPC Synopsis
+High-Performance Computing (HPC) revolves around designing and deploying computing infrastructures capable of handling massive computational tasks—often spanning thousands of CPU/GPU cores or multi-node clusters. In AI, HPC underpins large-scale model training, batch inference, parallel data processing, and specialized low-latency pipelines. Core HPC responsibilities often include:
+
+Parallel Programming (MPI, OpenMP, CUDA, Triton, etc.)
+Hardware Acceleration (GPUs, specialized ASICs, multi-GPU orchestration)
+Cluster-Oriented Scaling (job schedulers, HPC cluster provisioning)
+Performance Optimization (profiling, concurrency, memory management)
+Networking & I/O (InfiniBand, RDMA, fast interconnects)
+Reliability & Scheduling (SLURM or custom HPC job schedulers)
+Containerization for HPC (Docker, Singularity, Kubernetes on HPC)
+Top 10 Co-occurring HPC Skills/Technologies
+GPU Fleets & Accelerators
+
+Managing multi-GPU architectures, GPU concurrency & kernel optimization (CUDA, TensorRT).
+Performance tuning for large training/inference jobs spanning hundreds or thousands of GPUs.
+Parallel / Distributed Frameworks
+
+Using MPI, NCCL, Horovod, Ray, or custom HPC frameworks to orchestrate multi-node computations.
+Understanding concurrency primitives, synchronization, and pipeline parallelism.
+Containers & Kubernetes in HPC
+
+Running HPC workloads in containerized environments.
+Kubernetes-based cluster orchestration, Helm charts for HPC apps, or HPC-focused container tools (Singularity).
+HPC Job Schedulers
+
+Experience with SLURM, PBS, or other HPC schedulers for queueing, job orchestration, resource allocation, and node management.
+High-Speed Networking
+
+InfiniBand, RoCE, RDMA for extremely low-latency, high-bandwidth data transfer across nodes.
+Tuning the network stack for HPC throughput.
+Low-Level Performance Profiling & Optimization
+
+Profilers such as NVIDIA Nsight, Intel VTune, or custom HPC profiling tools.
+Identifying CPU/GPU bottlenecks, memory bandwidth constraints, concurrency overhead, and more.
+Parallel Programming Models & Libraries
+
+CUDA, Triton, OpenMP, TensorRT, BLAS libraries (cuBLAS, MKL), or custom HPC numeric libraries.
+Writing or optimizing kernel-level code.
+Hardware-Aware Algorithm Design
+
+Accounting for GPU tensor cores, cache hierarchies, CPU vector instructions, or specialized AI accelerators.
+Designing HPC algorithms that exploit hardware parallelism.
+Scalable Storage / I/O Systems
+
+Parallel file systems (Lustre, GPFS) or distributed object storage.
+Handling large training data or multi-sensor data pipelines for HPC workloads.
+DevOps / MLOps Integration
+
+Automating HPC workflows (CI/CD) for data ingestion, experiment tracking, job submission.
+Tools like Terraform + HPC modules or HPC cloud orchestration (on AWS, Azure, GCP) bridging HPC cluster with standard cloud.
+Each of these areas frequently appears in HPC-heavy roles—especially in AI/ML contexts requiring enormous computational resources.
+
+
+
+
 # Technical Expertise
 ## NVIDIA Model Building Disciplines - Observe tools, technology, process and demand.
 
