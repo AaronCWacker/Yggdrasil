@@ -1,3 +1,87 @@
+# Version 12
+
+# 🧬 Dr. Peter Attia's Longevity Framework
+
+## 🎯 Core Focus Areas
+1. 🫀 Cardiovascular Training
+  - Zone 2: 120-180 min/week
+  - HR: 70-85% max
+  - Purpose: Mitochondrial efficiency
+  - Measurement: VO2 max >40ml/kg/min
+  - Reference: [Studies on Zone 2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5459746/)
+
+2. 🏋️ Strength Preservation
+  - Frequency: 3x/week minimum
+  - Focus: Compound movements
+  - Goal: <1% strength loss/year
+  - Metric: Peak force production
+  - Reference: "Outlive" Chapter 4
+
+3. 🧠 Sleep Optimization
+  - Duration: 7-9 hours
+  - Quality: 85% efficiency
+  - REM: 20-25% of total
+  - Deep: 15-20% of total
+  - Research: [Sleep Study](https://www.cell.com/neuron/fulltext/S0896-6273(17)30088-0)
+
+4. 🍽️ Nutritional Framework
+  - Protein: 2.4g leucine/meal
+  - Timing: 3-4 protein feedings
+  - Glucose: <100mg/dL fasting
+  - Post-meal: <140mg/dL
+  - Source: "The Drive" Podcast #152
+
+5. 📊 Biomarkers
+  - Quarterly blood work
+  - CGM monitoring
+  - DEXA scans
+  - VO2 max testing
+  - Research: [Biomarker Study](https://pubmed.ncbi.nlm.nih.gov/33561442/)
+
+## 📚 Key References
+
+### Books
+- "Outlive: The Science and Art of Longevity" (2023)
+- "Lifespan" by David Sinclair (Referenced)
+- "The Drive" Podcast Transcripts
+
+### Research Papers
+1. "Mitochondrial Aging" - Cell Journal
+2. "Muscle Protein Synthesis" - Nature
+3. "Sleep and Neurodegeneration" - Neuron
+
+### Clinical Studies
+1. Zone 2 Cardiovascular Benefits
+2. Strength Training Impact on Longevity
+3. Glucose Regulation and Aging
+
+## 🔬 Background
+
+Dr. Peter Attia's credentials:
+- MD from Stanford University
+- Surgical Residency at Johns Hopkins
+- Research Focus: longevity, healthspan
+- Founded Attia Medical, PC
+- Host of "The Drive" Podcast
+
+## 🎓 Current Research
+
+Active studies in:
+1. Metabolic health optimization
+2. Exercise protocol development
+3. Sleep architecture analysis
+4. Nutritional timing effects
+5. Biomarker correlation
+
+## 🔗 Resources
+- [Website](https://peterattiamd.com/)
+- [The Drive Podcast](https://peterattiamd.com/podcast/)
+- [Early Medical Studies](https://pubmed.ncbi.nlm.nih.gov/?term=attia+p)
+- [Recent Publications](https://www.ncbi.nlm.nih.gov/pmc/?term=attia+p)
+
+- 
+
+
 # Version 11
 
 What Can I learn from Doctor Peter Atia (Longevity expert) 
