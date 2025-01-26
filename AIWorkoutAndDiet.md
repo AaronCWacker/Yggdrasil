@@ -1,3 +1,158 @@
+# Version 7
+
+import streamlit as st
+
+# Combined markdown data
+WELLNESS_PROGRAM = """
+# 🧠 Movement & Wellness Program
+
+## 🎯 Core Training Areas
+
+### 🗡️ Combat Arts
+- Stick Fighting Kata
+ - Form 1-3: 15 min/daily
+ - Shadow patterns: 10 min
+ - Partner work: 2x/week
+ - GOAL: Flow state in combat movement
+
+### 🩰 Dance & Movement
+- Kizomba
+ - Base steps: 20 min
+ - Partner work: 1hr/week
+ - Flow practice: 15 min/daily
+ - GOAL: Fluid leading/following
+
+- Body Movement
+ - Ground flow: 10 min
+ - Animal walks: 15 min
+ - Mobility flows: 20 min
+ - GOAL: Natural movement mastery
+
+### 🏃 Dynamic Training
+- Stair Runs
+ - Sprint sets: 10x3
+ - Two-step bounds: 8x4
+ - Single leg hops: 12 each
+ - GOAL: Explosive power
+
+- Agility Drills
+ - Ladder work: 5 patterns
+ - Cone drills: 3 sets
+ - Direction changes: 4x5
+ - GOAL: Quick direction change
+
+### 🎯 Precision Work
+- Dexterity Training
+ - Finger sequences: 5 min
+ - Object manipulation: 10 min
+ - Balance work: 3x5 min
+ - GOAL: Fine motor control
+
+## 💪 Original Program
+- Upper Body (2×/week)
+ - Push-ups: 3×12
+ - Rows: 3×10
+ - Press: 3×12
+ - GOAL: Functional strength
+
+- Lower Body (2×/week)
+ - Squats: 4×15
+ - Lunges: 3×12 each
+ - Deadlifts: 3×10
+ - GOAL: Power base
+
+## 🧘 Recovery Focus
+- Cold Exposure
+- Meditation
+- Fasting
+- GOAL: Stress resilience
+
+## 🍽️ Nutrition Approach
+### No Sugar Days (5/7)
+- Protein: 160g/day
+- Veggies: 7-9 servings
+- Fruits: 2-3 servings
+- GOAL: Clean energy
+
+## 📊 Progress Metrics
+- Monday: Weight/mobility
+- Friday: Skills check
+- Sunday: Recovery assessment
+- GOAL: Constant improvement
+
+## 👨‍🏫 Sunday Trainer Review
+### 📊 Weekly Metrics
+- Weight delta: ±X lbs
+- Mobility gains: Y%
+- Skill progression: Z/10
+
+### 🎯 Focus Areas
+- Stick kata precision
+- Kizomba lead refinement
+- Stair explosive power
+- No-sugar adherence: X/5 days
+
+### 💪 Key Achievements
+- Top lift numbers
+- Flow state duration
+- Recovery quality
+- Technical breakthroughs
+
+### 📈 Next Week Targets
+- Specific movement patterns
+- Nutrition adjustments
+- Load progression
+- Skill development focus
+
+### 🔄 Program Tweaks
+- Volume adjustments
+- Intensity modifications
+- Recovery protocols
+- Nutrition timing
+"""
+
+def main():
+   st.set_page_config(page_title="Wellness Program", layout="wide")
+   
+   # Sidebar navigation
+   st.sidebar.title("Navigation")
+   section = st.sidebar.selectbox(
+       "Jump to Section",
+       ["Full Program", "Combat Arts", "Dance & Movement", 
+        "Dynamic Training", "Precision Work", "Nutrition", 
+        "Trainer Review"]
+   )
+   
+   # AI Coach selector
+   ai_coach = st.sidebar.selectbox(
+       "Select AI Coach",
+       ["Movement Coach", "Nutrition Coach", "Recovery Coach", 
+        "Combat Arts Coach", "Dance Coach"]
+   )
+   
+   # Print markdown button
+   if st.sidebar.button("Print Markdown"):
+       st.sidebar.code(WELLNESS_PROGRAM, language="markdown")
+   
+   # Main content
+   st.title("Movement & Wellness Program")
+   
+   if section == "Full Program":
+       st.markdown(WELLNESS_PROGRAM)
+   else:
+       # Display relevant section (you can add filtering logic here)
+       st.markdown(WELLNESS_PROGRAM)
+       
+   # Coach connection
+   if st.sidebar.button("Connect with Coach"):
+       st.session_state.coach = ai_coach
+       st.success(f"Connected to {ai_coach}")
+
+if __name__ == "__main__":
+   main()
+
+
+
 # Version 6
 
 # 🧠 Movement & Wellness Program
