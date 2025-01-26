@@ -1,3 +1,54 @@
+# Version 4
+
+# 🎯 Weekly Fitness Plan
+
+## 💪 Exercise Program
+### Original Workouts
+- 🏃‍♂️ Running (30min × 3/week)
+  - Calories burned: ~300/session
+- 🚲 Cycling (45min × 2/week)
+  - Calories burned: ~400/session
+- 🏊‍♂️ Swimming (30min × 1/week)
+  - Calories burned: ~250/session
+
+### Strength Training
+- 🏋️‍♀️ Upper Body (2×/week)
+  - Push-ups: 3×12
+  - Dumbbell rows: 3×10
+  - Shoulder press: 3×12
+  - Total calories: ~200/session
+
+- 🦵 Lower Body (2×/week)
+  - Squats: 4×15
+  - Lunges: 3×12 each
+  - Deadlifts: 3×10
+  - Total calories: ~250/session
+
+## 🍽️ Daily Nutrition
+### 📊 Calorie Goals
+- 🎯 Daily intake: 2200 cal
+- 🔥 Daily burn: 2500 cal
+- 📉 Weekly deficit: 2100 cal
+
+### 🥩 Protein Sources (160g/day)
+- Chicken breast (30g/4oz)
+- Eggs (6g/egg)
+- Protein shake (25g/shake)
+- Greek yogurt (15g/cup)
+
+### 🥗 Meal Distribution
+- Breakfast: 500 cal
+- Lunch: 700 cal
+- Dinner: 700 cal
+- Snacks: 300 cal
+
+## 📅 Weekly Review Notes
+- Weight tracked: Monday AM
+- Measurements: Friday AM
+- Progress photos: Sunday
+
+
+
 # Version 3 - AI 
 
 I'll help you create a structured markdown outline with relevant emojis. Let me create a comprehensive outline for your diet and exercise plan.
