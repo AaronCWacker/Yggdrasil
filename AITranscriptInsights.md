@@ -1,5 +1,5 @@
 
-# Marc Andreeson and Lex Fridman:
+# Marc Andreessen and Lex Fridman:
 
 
 ## Learning ops on topics and perspectives to frame a better truth strucutre in knowledge:
