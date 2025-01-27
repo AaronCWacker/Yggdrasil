@@ -62,3 +62,7 @@ you announced your interest to talk to Vladimir Putin so I just don't want the
 57:01
 headache now I I fully believe he uh it would surprise a lot of people if I said who it is but you know this is
 5
+
+3. https://youtu.be/OHWnPOKh_S0?t=3704
+
+4. 
