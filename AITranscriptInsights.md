@@ -1,6 +1,8 @@
 
 # Marc Andreessen and Lex Fridman:
 
+The twitter files
+https://youtu.be/OHWnPOKh_S0?t=5543
 
 ## Learning ops on topics and perspectives to frame a better truth strucutre in knowledge:
 
