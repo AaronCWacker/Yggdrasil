@@ -50,28 +50,30 @@ graph LR
 
 ```mermaid
 graph LR
-    subgraph Basic[🤖 Basic ML Inference]
-        A[📥 Input] --> B[🔄 Preprocess]
-        B --> C[⚡ Forward Prop]
-        C --> D[📤 Output]
-        D --> E[🔧 Post-process]
+    subgraph ML[🤖 Basic ML Test-Time Compute]
+        A[📥 Input] --> B[🔄 Input Processing]
+        B --> |Resize, Normalize| C[⚡ Forward Prop]
+        C --> |Apply Weights| D[📤 Output Gen]
+        D --> E[🔧 Post-Process]
     end
 
-    subgraph Reasoner[🧠 Reasoner Model Pipeline]
-        F[📊 Data Ingest] --> G[💡 Knowledge Rep]
-        G --> H[🎓 Model Train]
-        H --> I[⚙️ Reason Engine]
-        
+    subgraph Knowledge[💡 Knowledge Pipeline]
+        F[📊 Data Ingest] --> G[🗃️ Knowledge Rep]
+        G --> |Build Graph| H[🎓 Model Training]
+        H --> |Domain Rules| I[⚙️ Reasoning Engine]
+    end
+
+    subgraph Inference[🧠 Reasoning Pipeline]
         J[📥 New Input] --> K[🔄 ML Inference]
         K --> I
-        G --> I
-        
-        I --> L[🎯 Decision]
-        L --> M[📋 Interpret]
+        G --> |Domain Knowledge| I
+        I --> L[🎯 Decision Making]
+        L --> M[📋 Interpretation]
     end
 
-    style Basic fill:#f5f5ff
-    style Reasoner fill:#fff5f5
+    style ML fill:#f5f5ff
+    style Knowledge fill:#fff5f5
+    style Inference fill:#f5fff5
     style I fill:#e6ffe6,stroke:#333
     style K fill:#e6e6ff,stroke:#333
 ```
