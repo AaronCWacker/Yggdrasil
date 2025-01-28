@@ -8,20 +8,17 @@ Overview of distilled open source MoE model Deepseek R1.
 | ![image](https://github.com/user-attachments/assets/61ecb362-5fa4-4c7b-afdb-e932708a9632) | ![image](https://github.com/user-attachments/assets/073c60c6-3989-4933-b68b-29d67a6a4486) |
 
 ```mermaid
-graph TB
-    A[Perspective on Deepseek as ASI Class MoE Open Source Model] --> B[Open source and best techniques together made it possible]
-    B --> C[arXiv papers showed it was coming]
-    C --> D[It is very similar to Mistral/Mixtral backstory]
-    D --> E[Distill experts]
-    E --> F[Huggingface open source models showed how more narrow content MoE models perform better per domain]
-    F --> G[We shouldn't over invest or over organize in latest singular closed models]
-    G --> H[We can use even new closed models to build new models that are faster and more performant for focused experts in MoE]
-    H --> I[The patterns of Self Reward, DeepRL, CoT, MoE, Distillation, and many other SOTA techniques on arXiv haven't been fully recombined yet where each have an edge]
-    I --> J[Input datasets matter, every input dataset is different]
-    J --> K[We should not assume our 50+ datasets big models in US are already their best since we know the content flaws]
-    K --> L[We have a long way to go making models better and open by intercombining techniques and models]
-    L --> M[Any company with their content is key to their problem]
-    M --> N[It wont always be general performance that leads for any given topic]
+graph LR
+    A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face<br>Models](https://huggingface.co/models)
+    A --> C[🧠 NLP]
+    C --> D[📜 Text Gen<br>(GPT-2, BERT)](https://huggingface.co/gpt2)
+    C --> E[🔍 Sentiment<br>Analysis](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
+    A --> F[🖼️ Computer Vision]
+    F --> G[👁️ Object<br>Detection](https://huggingface.co/docs/transformers/model_doc/detr)
+    F --> H[🖼️ Image<br>Classification](https://huggingface.co/google/vit-base-patch16-224)
+    A --> I[🔊 Speech<br>Processing]
+    I --> J[🎙️ Speech<br>to Text](https://huggingface.co/facebook/wav2vec2-base-960h)
+    I --> K[🔈 Text to<br>Speech](https://huggingface.co/facebook/mms-tts)
 ```
 
 # 2. Perspective on Deepseek as ASI Class MoE Open Source Model
