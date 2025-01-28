@@ -11,14 +11,14 @@ Overview of distilled open source MoE model Deepseek R1.
 graph LR
     A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face<br>Models](https://huggingface.co/models)
     A --> C[🧠 NLP]
-    C --> D[📜 Text Gen<br>(GPT-2, BERT)](https://huggingface.co/gpt2)
-    C --> E[🔍 Sentiment<br>Analysis](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
+    C --> D[📜 Text Gen  (GPT-2, BERT)](https://huggingface.co/gpt2)
+    C --> E[🔍 Sentiment Analysis](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
     A --> F[🖼️ Computer Vision]
-    F --> G[👁️ Object<br>Detection](https://huggingface.co/docs/transformers/model_doc/detr)
-    F --> H[🖼️ Image<br>Classification](https://huggingface.co/google/vit-base-patch16-224)
-    A --> I[🔊 Speech<br>Processing]
-    I --> J[🎙️ Speech<br>to Text](https://huggingface.co/facebook/wav2vec2-base-960h)
-    I --> K[🔈 Text to<br>Speech](https://huggingface.co/facebook/mms-tts)
+    F --> G[👁️ Object Detection](https://huggingface.co/docs/transformers/model_doc/detr)
+    F --> H[🖼️ Image Classification](https://huggingface.co/google/vit-base-patch16-224)
+    A --> I[🔊 Speech Processing]
+    I --> J[🎙️ Speech to Text](https://huggingface.co/facebook/wav2vec2-base-960h)
+    I --> K[🔈 Text to Speech](https://huggingface.co/facebook/mms-tts)
 ```
 
 # 2. Perspective on Deepseek as ASI Class MoE Open Source Model
