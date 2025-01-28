@@ -1,6 +1,10 @@
 
 # Marc Andreessen and Lex Fridman:
 
+Conspiracy to prevent civil rights:
+https://youtu.be/OHWnPOKh_S0?t=5673
+
+
 The twitter files
 https://youtu.be/OHWnPOKh_S0?t=5543
 
