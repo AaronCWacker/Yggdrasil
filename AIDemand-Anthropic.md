@@ -1,5 +1,5 @@
 
-# ML Demand Skills for Anthropic
+# ML Demand and Skills for Anthropic
 
 ![image](https://github.com/user-attachments/assets/d4c8efba-8d97-40ae-9dd3-f1de1c0cd8a6)
 
