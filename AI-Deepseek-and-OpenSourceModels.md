@@ -7,6 +7,7 @@ Overview of distilled open source MoE model Deepseek R1.
 | ![image](https://github.com/user-attachments/assets/d198061c-3145-4672-bb82-d41c53fa862f) | ![image](https://github.com/user-attachments/assets/a2e1d95c-3491-41b8-a4c4-1df5833e8347) |
 | ![image](https://github.com/user-attachments/assets/61ecb362-5fa4-4c7b-afdb-e932708a9632) | ![image](https://github.com/user-attachments/assets/073c60c6-3989-4933-b68b-29d67a6a4486) |
 
+# 2. Deepseek as ASI Class MoE Open Source Model
 ```mermaid
 graph LR
     A[🤖 Deepseek MoE] --> B[📚 Open Source]
@@ -36,18 +37,7 @@ graph LR
     style N fill:#bfb,stroke:#333
 ```
 
-# 2. Perspective on Deepseek as ASI Class MoE Open Source Model
-1. Open source and best techniques together made it possible and arXiv papers showed it was coming.  
-2. It is very similar to Mistral/Mixtral backstory.  Distill experts.
-3. Huggingface open source models showed how more narrow content MoE models perform better per domain.  
-4. We shouldn't over invest or over organize in latest singular closed models.
-5. We can use even new closed models to build new models that are faster and more performant for focused experts in MoE. 
-6. The patterns of Self Reward, DeepRL, CoT, MoE, Distillation, and many other SOTA techniques on arXiv haven't been fully recombined yet where each have an edge. 
-7. Input datasets matter, every input dataset is different. 
-8. We should not assume our 50+ datasets big models in US are already their best since we know the content flaws. 
-9. We have a long way to go making models better and open by intercombining techniques and models 
-10. Any company with their content is key to their problem.  It wont always be general performance that leads for any given topic.
-
+# 3. Thinking and Test Time Compute
 ```mermaid
 graph LR
     subgraph ML[🤖 Basic ML Test-Time Compute]
@@ -78,6 +68,57 @@ graph LR
     style K fill:#e6e6ff,stroke:#333
 ```
 
+# 4. Mixture of Experts and Test Time Compute
+
+
+```mermaid
+graph LR
+    subgraph Architecture[🏗️ MoE Structure]
+        A[🤖 Expert Networks] --> B[🔀 Gate Network]
+        B --> C[⚖️ Load Balance]
+    end
+
+    subgraph Process[🔄 Test-Time Flow]
+        D[📥 Input] --> E[🎯 Gate Decision]
+        E --> F[⚡ Expert Activation]
+        F --> G[🔄 Parallel Process]
+        G --> H[🔗 Combine Outputs]
+        H --> I[📤 Final Output]
+    end
+
+    subgraph Factors[⚙️ System Aspects]
+        J[📊 Scalability] --> K[⚡ Efficiency]
+        L[⏱️ Latency] --> M[🎛️ Complexity]
+        N[💻 Hardware] --> K
+    end
+
+    E --> |Select Experts| F
+    C --> |Optimize| E
+    K --> |Impact| G
+
+    style B fill:#f9f,stroke:#333
+    style E fill:#bbf,stroke:#333
+    style K fill:#bfb,stroke:#333
+    
+    classDef group fill:#f5f5f5,stroke:#333
+```
+
+
+
+# 2. Perspective on Deepseek as ASI Class MoE Open Source Model
+1. Open source and best techniques together made it possible and arXiv papers showed it was coming.  
+2. It is very similar to Mistral/Mixtral backstory.  Distill experts.
+3. Huggingface open source models showed how more narrow content MoE models perform better per domain.  
+4. We shouldn't over invest or over organize in latest singular closed models.
+5. We can use even new closed models to build new models that are faster and more performant for focused experts in MoE. 
+6. The patterns of Self Reward, DeepRL, CoT, MoE, Distillation, and many other SOTA techniques on arXiv haven't been fully recombined yet where each have an edge. 
+7. Input datasets matter, every input dataset is different. 
+8. We should not assume our 50+ datasets big models in US are already their best since we know the content flaws. 
+9. We have a long way to go making models better and open by intercombining techniques and models 
+10. Any company with their content is key to their problem.  It wont always be general performance that leads for any given topic.
+
+
+
 
 # 3. Thinking - Test Time Compute
 
@@ -103,6 +144,8 @@ graph LR
     5. **Inference and Decision-Making**: Feed new inputs into the trained model, obtain the model's outputs, and use the reasoning engine to combine the outputs with the domain knowledge and rules to make decisions or inferences.
     6. **Output and Interpretation**: Present the final decisions or inferences in a human-interpretable format, potentially incorporating explanations or justifications based on the reasoning process.
     7. The thinking phase in a reasoner model involves the interplay between the trained machine learning model, the reasoning engine, and the knowledge representation, where the model's outputs are combined with symbolic reasoning to arrive at the final decision or inference.
+
+
 
 # 4. Mixture of Experts and Test Time Compute
   1. **Mixture of Experts (MoE) Basics**:
