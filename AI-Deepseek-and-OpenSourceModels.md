@@ -24,14 +24,14 @@ Overview of distilled open source MoE model Deepseek R1.
 1. In machine learning (ML) models, the "thinking" or "test time" compute refers to the computational resources required to make inferences or predictions using the trained model.
 2. This is different from the training phase, where the model learns from data and optimizes its parameters. The thinking phase occurs when the trained model is deployed and used to make predictions on new, unseen data.
 3. During the thinking phase, the following steps typically occur:
-  1. **Input Processing**:
-  2. The input data (e.g., an image, text, or numerical features) is preprocessed and transformed into a format that the model can understand.
-  3. This may involve operations like resizing, normalization, or encoding.
+    1. **Input Processing**:
+    2. The input data (e.g., an image, text, or numerical features) is preprocessed and transformed into a format that the model can understand.
+    3. This may involve operations like resizing, normalization, or encoding.
 4. **Forward Propagation**:
-  1. The processed input is fed into the trained model, which performs a series of computations to produce an output.
-  2. This involves passing the input through the layers of the model (e.g., convolutional layers, dense layers) and applying the learned weights and biases.
+    1. The processed input is fed into the trained model, which performs a series of computations to produce an output.
+    2. This involves passing the input through the layers of the model (e.g., convolutional layers, dense layers) and applying the learned weights and biases.
 5. **Output Generation**:
-  1. The final output of the model is generated, which could be a classification label, a numerical value, or a sequence of outputs, depending on the task and model architecture.
+    1. The final output of the model is generated, which could be a classification label, a numerical value, or a sequence of outputs, depending on the task and model architecture.
 6. **Post-processing** (optional): In some cases, additional post-processing steps may be required to interpret or format the model's output for the desired application.
 7. The computational requirements during the thinking phase depend on the complexity of the model architecture, the size of the input data, and the specific hardware used for inference (e.g., CPU, GPU, or specialized accelerators).
 8. To create a "reasoner" model, which is a model that can perform reasoning or decision-making tasks, you typically need to incorporate components that can handle symbolic or logical representations, such as knowledge graphs, rules, or constraint satisfaction frameworks. These components allow the model to perform reasoning over structured knowledge, rather than just learning from data patterns.
