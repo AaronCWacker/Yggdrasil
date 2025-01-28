@@ -9,7 +9,7 @@ Overview of distilled open source MoE model Deepseek R1.
 
 ```mermaid
 graph LR
-    A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face<br>Models](https://huggingface.co/models)
+    A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face Models](https://huggingface.co/models)
     A --> C[🧠 NLP]
     C --> D[📜 Text Gen  (GPT-2, BERT)](https://huggingface.co/gpt2)
     C --> E[🔍 Sentiment Analysis](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
