@@ -1,4 +1,4 @@
-# ML Demand and Skills for NVIDIA
+# ML NVIDIA - Skills Model
 
 ![image](https://github.com/user-attachments/assets/cd405e38-6098-44ab-b921-c34b05f2682e)
 
@@ -21,6 +21,7 @@ LLM / Generative AI: Includes “LLM,” “GPT,” “diffusion-based,” “ag
 DevOps / MLOps: Folded references to DevOps, MLOps, CI/CD, or similar.
 Kubernetes / Containers: Covers “K8s,” “Helm,” “Docker,” “containerized microservices,” etc.
 All other skills (e.g. “Active Directory,” “SoC/embedded,” “3D graphics APIs,” “data governance tooling,” “communication libraries,” etc.) were mentioned fewer times overall, so they do not appear in the top-level rollup above.
+
 
 
 
