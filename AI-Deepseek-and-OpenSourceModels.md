@@ -48,6 +48,35 @@ graph LR
 9. We have a long way to go making models better and open by intercombining techniques and models 
 10. Any company with their content is key to their problem.  It wont always be general performance that leads for any given topic.
 
+```mermaid
+graph LR
+    subgraph Basic[🤖 Basic ML Inference]
+        A[📥 Input] --> B[🔄 Preprocess]
+        B --> C[⚡ Forward Prop]
+        C --> D[📤 Output]
+        D --> E[🔧 Post-process]
+    end
+
+    subgraph Reasoner[🧠 Reasoner Model Pipeline]
+        F[📊 Data Ingest] --> G[💡 Knowledge Rep]
+        G --> H[🎓 Model Train]
+        H --> I[⚙️ Reason Engine]
+        
+        J[📥 New Input] --> K[🔄 ML Inference]
+        K --> I
+        G --> I
+        
+        I --> L[🎯 Decision]
+        L --> M[📋 Interpret]
+    end
+
+    style Basic fill:#f5f5ff
+    style Reasoner fill:#fff5f5
+    style I fill:#e6ffe6,stroke:#333
+    style K fill:#e6e6ff,stroke:#333
+```
+
+
 # 3. Thinking - Test Time Compute
 
 1. In machine learning (ML) models, the "thinking" or "test time" compute refers to the computational resources required to make inferences or predictions using the trained model.
