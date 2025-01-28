@@ -9,16 +9,24 @@ Overview of distilled open source MoE model Deepseek R1.
 
 ```mermaid
 graph LR
-    A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face Models](https://huggingface.co/models)
+    A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face Models]
     A --> C[🧠 NLP]
-    C --> D[📜 Text Gen  (GPT-2, BERT)](https://huggingface.co/gpt2)
-    C --> E[🔍 Sentiment Analysis](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english)
+    C --> D[📜 Text Gen (GPT-2, BERT)]
+    C --> E[🔍 Sentiment Analysis]
     A --> F[🖼️ Computer Vision]
-    F --> G[👁️ Object Detection](https://huggingface.co/docs/transformers/model_doc/detr)
-    F --> H[🖼️ Image Classification](https://huggingface.co/google/vit-base-patch16-224)
+    F --> G[👁️ Object Detection]
+    F --> H[🖼️ Image Classification]
     A --> I[🔊 Speech Processing]
-    I --> J[🎙️ Speech to Text](https://huggingface.co/facebook/wav2vec2-base-960h)
-    I --> K[🔈 Text to Speech](https://huggingface.co/facebook/mms-tts)
+    I --> J[🎙️ Speech to Text]
+    I --> K[🔈 Text to Speech]
+    
+    click B "https://huggingface.co/models" "Hugging Face Models"
+    click D "https://huggingface.co/gpt2" "GPT-2"
+    click E "https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english" "Sentiment Analysis"
+    click G "https://huggingface.co/docs/transformers/model_doc/detr" "Object Detection"
+    click H "https://huggingface.co/google/vit-base-patch16-224" "Image Classification"
+    click J "https://huggingface.co/facebook/wav2vec2-base-960h" "Speech to Text"
+    click K "https://huggingface.co/facebook/mms-tts" "Text to Speech"
 ```
 
 # 2. Perspective on Deepseek as ASI Class MoE Open Source Model
