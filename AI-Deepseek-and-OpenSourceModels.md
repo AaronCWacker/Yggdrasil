@@ -2,12 +2,10 @@ Overview of distilled open source MoE model Deepseek R1.
 
 
 ---
-
-![image](https://github.com/user-attachments/assets/d198061c-3145-4672-bb82-d41c53fa862f)
-![image](https://github.com/user-attachments/assets/a2e1d95c-3491-41b8-a4c4-1df5833e8347)
-![image](https://github.com/user-attachments/assets/61ecb362-5fa4-4c7b-afdb-e932708a9632)
-![image](https://github.com/user-attachments/assets/073c60c6-3989-4933-b68b-29d67a6a4486)
-
+|                                   |                                   |
+|-----------------------------------|-----------------------------------|
+| ![image](https://github.com/user-attachments/assets/d198061c-3145-4672-bb82-d41c53fa862f) | ![image](https://github.com/user-attachments/assets/a2e1d95c-3491-41b8-a4c4-1df5833e8347) |
+| ![image](https://github.com/user-attachments/assets/61ecb362-5fa4-4c7b-afdb-e932708a9632) | ![image](https://github.com/user-attachments/assets/073c60c6-3989-4933-b68b-29d67a6a4486) |
 
 1. Open source and best techniques together made it possible and arXiv papers showed it was coming.  
 2. It is very similar to Mistral/Mixtral backstory.  Distill experts.
