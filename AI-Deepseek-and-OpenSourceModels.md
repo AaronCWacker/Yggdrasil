@@ -9,24 +9,31 @@ Overview of distilled open source MoE model Deepseek R1.
 
 ```mermaid
 graph LR
-    A[🤖 AI Models] -->|🔗| B[🤗 Hugging Face Models]
-    A --> C[🧠 NLP]
-    C --> D[📜 Text Gen (GPT-2, BERT)]
-    C --> E[🔍 Sentiment Analysis]
-    A --> F[🖼️ Computer Vision]
-    F --> G[👁️ Object Detection]
-    F --> H[🖼️ Image Classification]
-    A --> I[🔊 Speech Processing]
-    I --> J[🎙️ Speech to Text]
-    I --> K[🔈 Text to Speech]
+    A[🤖 Deepseek MoE] --> B[📚 Open Source]
+    A --> C[🧩 Techniques]
+    A --> D[📊 Data]
     
-    click B "https://huggingface.co/models" "Hugging Face Models"
-    click D "https://huggingface.co/gpt2" "GPT-2"
-    click E "https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english" "Sentiment Analysis"
-    click G "https://huggingface.co/docs/transformers/model_doc/detr" "Object Detection"
-    click H "https://huggingface.co/google/vit-base-patch16-224" "Image Classification"
-    click J "https://huggingface.co/facebook/wav2vec2-base-960h" "Speech to Text"
-    click K "https://huggingface.co/facebook/mms-tts" "Text to Speech"
+    B --> E[🔄 Mistral/Mixtral]
+    B --> F[🤗 HF Models]
+    
+    C --> G[🎯 Self Reward]
+    C --> H[🎮 DeepRL]
+    C --> I[💭 CoT]
+    C --> J[🎓 Distillation]
+    
+    D --> K[🗄️ Domain Data]
+    D --> L[📈 Performance]
+    
+    K --> M[🎯 Domain Experts]
+    L --> M
+    
+    M --> N[🔄 Future Models]
+    J --> N
+    F --> N
+    
+    style A fill:#f9f,stroke:#333
+    style M fill:#bbf,stroke:#333
+    style N fill:#bfb,stroke:#333
 ```
 
 # 2. Perspective on Deepseek as ASI Class MoE Open Source Model
