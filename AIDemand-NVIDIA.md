@@ -1,4 +1,4 @@
-# Skills Demand Synopsis
+# ML Demand and Skills for NVIDIA
 
 ![image](https://github.com/user-attachments/assets/cd405e38-6098-44ab-b921-c34b05f2682e)
 
