@@ -24,25 +24,25 @@ Overview of distilled open source MoE model Deepseek R1.
 1. In machine learning (ML) models, the "thinking" or "test time" compute refers to the computational resources required to make inferences or predictions using the trained model.
 2. This is different from the training phase, where the model learns from data and optimizes its parameters. The thinking phase occurs when the trained model is deployed and used to make predictions on new, unseen data.
 3. During the thinking phase, the following steps typically occur:
-  1. Input Processing:
+  1. **Input Processing**:
   2. The input data (e.g., an image, text, or numerical features) is preprocessed and transformed into a format that the model can understand.
   3. This may involve operations like resizing, normalization, or encoding.
-4. Forward Propagation:
+4. **Forward Propagation**:
   1. The processed input is fed into the trained model, which performs a series of computations to produce an output.
   2. This involves passing the input through the layers of the model (e.g., convolutional layers, dense layers) and applying the learned weights and biases.
-5. Output Generation:
+5. **Output Generation**:
   1. The final output of the model is generated, which could be a classification label, a numerical value, or a sequence of outputs, depending on the task and model architecture.
-6. Post-processing (optional): In some cases, additional post-processing steps may be required to interpret or format the model's output for the desired application.
+6. **Post-processing** (optional): In some cases, additional post-processing steps may be required to interpret or format the model's output for the desired application.
 7. The computational requirements during the thinking phase depend on the complexity of the model architecture, the size of the input data, and the specific hardware used for inference (e.g., CPU, GPU, or specialized accelerators).
 8. To create a "reasoner" model, which is a model that can perform reasoning or decision-making tasks, you typically need to incorporate components that can handle symbolic or logical representations, such as knowledge graphs, rules, or constraint satisfaction frameworks. These components allow the model to perform reasoning over structured knowledge, rather than just learning from data patterns.
 9. An AI pipeline that incorporates a reasoner model might involve the following steps:
-10. Data Ingestion: Collect and preprocess the relevant data sources, which may include structured knowledge bases, rules, and domain-specific data.
-11. Knowledge Representation: Build a knowledge graph or other symbolic representation to encode the domain knowledge and rules.
-12. Model Training: Train a neural network or other machine learning model on the available data, potentially incorporating the knowledge representation as part of the model architecture or as a separate component.
-13. Reasoning Engine: Develop a reasoning engine that can perform logical inference, constraint satisfaction, or other reasoning tasks over the knowledge representation and the trained model's outputs.
-14. Inference and Decision-Making: Feed new inputs into the trained model, obtain the model's outputs, and use the reasoning engine to combine the outputs with the domain knowledge and rules to make decisions or inferences.
-15. Output and Interpretation: Present the final decisions or inferences in a human-interpretable format, potentially incorporating explanations or justifications based on the reasoning process.
-16. The thinking phase in a reasoner model involves the interplay between the trained machine learning model, the reasoning engine, and the knowledge representation, where the model's outputs are combined with symbolic reasoning to arrive at the final decision or inference.
+    1. **Data Ingestion**: Collect and preprocess the relevant data sources, which may include structured knowledge bases, rules, and domain-specific data.
+    2. **Knowledge Representation**: Build a knowledge graph or other symbolic representation to encode the domain knowledge and rules.
+    3. **Model Training**: Train a neural network or other machine learning model on the available data, potentially incorporating the knowledge representation as part of the model architecture or as a separate component.
+    4. **Reasoning Engine**: Develop a reasoning engine that can perform logical inference, constraint satisfaction, or other reasoning tasks over the knowledge representation and the trained model's outputs.
+    5. **Inference and Decision-Making**: Feed new inputs into the trained model, obtain the model's outputs, and use the reasoning engine to combine the outputs with the domain knowledge and rules to make decisions or inferences.
+    6. **Output and Interpretation**: Present the final decisions or inferences in a human-interpretable format, potentially incorporating explanations or justifications based on the reasoning process.
+    7. The thinking phase in a reasoner model involves the interplay between the trained machine learning model, the reasoning engine, and the knowledge representation, where the model's outputs are combined with symbolic reasoning to arrive at the final decision or inference.
 
 # 4. Mixture of Experts and Test Time Compute
   1. **Mixture of Experts (MoE) Basics**:
