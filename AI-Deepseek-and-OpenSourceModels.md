@@ -1,5 +1,29 @@
 Overview of distilled open source MoE model Deepseek R1.  
 
+# Warning - Deepseek is showing it has ChatGPT 4 legacy and o1 weights IMHO.  
+# Both chain of thought test time compute and MoE variants in output are indicators the model origins at least in part are from ChatGPT inferences.
+
+After checking model weights and inputs/outputs myself in comparison eval yesterday, I conclude DS is built with distillation process and duplication distillation techniques from both GPT 4 Legacy Model, and o1 inference outputs and was not traditionally trained from datasets.  My tests with identical prompts are showing similar results whereas every other model is completely different.  I believe these duplicate weights and identical answers in outputs for several of my validation outputs shows training data and cutoff markers.  I believe the methods are documented in arXiv papers and my research AI was able to find methods in both copyright related and distillation pattern papers that show how to reproduce training data from model inference.  Also this fact appears partly disguised by gating model outputs which are also mixing real time content retrieval data so to me it looks like its hiding it so that could mean the chop done to it removes and changes how gating model works in MoE.
+
+
+Here is a smoking gun IMHO.  
+
+1. My test was Input:  "Who is ... (Last two companies they worked for) and what has he been up to in AI, ML, etc."
+2. This gave identical yet slightly varied output which is normal for a distilled product with variable context in temperature driven MoE produced by distillation.
+3. I compared each frontier model and Deepseek and 4, o1 and Deepseek shared weights from my observations of the outputs.
+4. Deepseek:  As of my knowledge cutoff in October 2023, there is no widely available or specific information indicating that...
+5. ChatGPT 4:  As of my knowledge cutoff in October 2023, there isn't widely available public information about ...
+
+Also my o1 reasoning chain of thought test output on Deepseek matched format and had tiny content differences in a complex challenge yet Deepseeks output was immediate and o1 took a long time.  It looks too close to not be a student educated model using teach/student distillation in my opinion.
+
+Test was comparison of same input prompts to trigger MoE temperatures and also trigger reasoning and real time retrieval which I can use to see which sources real time input RAG searches are adding context to the LLM inputs.
+
+Below is the list of models I was testing.  Only Deepseek and ChatGPT4, and o1 were matching output formats and actual identical matches of tokens in sequence.  In Rouge metric calculations it would show the outputs between 4 and o1 are matching Deepseek.  It is possible this is done through several methods documented in arXiv papers on reproducing weights and reproducing original training content from inference.  Those methods can be used to further validate the lineage and providence of the ML training datasets.
+
+![image](https://github.com/user-attachments/assets/9929ab81-13ad-424b-b8ad-fd1a08c29a39)
+
+
+
 
 # Battle Royal : Deepseek vs Claude vs o1 vs o1-mini
 
