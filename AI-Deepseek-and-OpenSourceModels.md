@@ -24,6 +24,18 @@ Below is the list of models I was testing.  Only Deepseek and ChatGPT4, and o1 w
 
 
 
+# Screenshots of Clone Indicators:
+
+1. Deepseek:
+![image](https://github.com/user-attachments/assets/5412ed38-660e-4ad5-a4b6-f2abc066370f)
+
+2. o1-mini
+![image](https://github.com/user-attachments/assets/34adbcbb-2a01-4194-9f00-81af9d4811ff)
+
+
+
+
+
 
 # Battle Royal : Deepseek vs Claude vs o1 vs o1-mini
 
