@@ -1,5 +1,20 @@
 # V3
 
+Summarize the state of art techniques used for the topic below.  Output a markdown outline with emojis for 3 points made by the cutting edge papers which could be read aloud in about 15 seconds.  List the keywords for each as its own outline in markdown with emojis that the papers have in common as a glossary.
+1. Self Reward AI - AI that evaluates its answers at the end with a score (0-10) and verbatim with what can be improved.
+
+2. 
+
+
+
+
+---
+Summarize the state of art techniques used for the topic below.  Output a markdown outline with emojis for 3 points made by the cutting edge papers which could be read aloud in about 15 seconds.  List the keywords for each as its own outline in markdown with emojis that the papers have in common as a glossary.
+[insert 1-20 below]
+
+
+
+
 Here are the top techniques that lead to ASI
 
 1. Self Reward AI - AI that evaluates its answers at the end with a score (0-10) and verbatim with what can be improved.
