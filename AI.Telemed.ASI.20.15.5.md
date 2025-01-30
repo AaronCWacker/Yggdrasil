@@ -1,3 +1,29 @@
+# V3
+
+Here are the top techniques that lead to ASI
+
+1. Self Reward AI - AI that evaluates its answers at the end with a score (0-10) and verbatim with what can be improved.
+2. Chain of Thought (CoT), the ability of AI to add Think Time which dreams up possible solutions and feeds them forwards as context.
+3. Memory, the ability to remember with both Semantic and Episodic memory like a human.
+4. Reproduction, the ability to generate and run its own code with its interpreter.
+5. Self modification, the ability to add code and data features to itself without having to rebuild or redeploy.
+6. Mirroring, the ability to see, clone and modify behavior and create a synchronized model to build relationships through empathy and shared world modeling behavior.
+7. Mixture of Experts (MoE), the ability to use a gated network which evaluates temperature share of inputs matched to different models and parameters.
+8. Character personality and constitution, the ability to persist context preferences as a character sheet which users can modify to affect expertise.
+9. Reasoning, the ability to to think through step by step and evaluate using functions and reasoning templates akin to logical argument construction and specification.
+10. Social and emotional intelligence, the ability to see and respond to how users feel, being ability to reason over cognitive behavior using CBT methods.
+11. Time sensitivity for processing which can match respons time of expectation and use high performance computing.
+12. Python code writing and execution, the ability to use a runtime code interpreter and basic patter of app.y + requirements.txt minimal apps.
+13. Global access and open interface, the ability to interact with anyone without limitations like a human can.
+14. Deep reinforcement learning which allows an output dataset which evaluates input and output and score success factors, and follow ODAR- observe, decide, act, review loop.
+15. Multimodal AI, the ability to handle the modalities of text, image, audio, video, 3D, and documents in PDF form for integrating expert knowledge.
+16. Knowledge graph, the ability to represent any concept or idea in the form of a directed graph in mermaid language to prefform knowledge engineering of inputs, outputs.
+17. Art and creativity, the ability to vibe with humans using forms of communication they like including chat, speech, and workflow of modalities.
+18. Agent management which allows experts to be encoded as agents with contextual knowledge and actions to be taken.
+19. Computer use, the ability to operate applications on a computer or interact with other computers dynamically using conversation and control.
+20. Persistent multiuser worlds involving other players or agents, the ability to build and interact in a shared virtual environment which defines constraints.
+
+
 
 # V 2
 
