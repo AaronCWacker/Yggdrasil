@@ -46,6 +46,170 @@ Create a streamlit app.py which takes a few transccript summary numbered outline
 35. 🏛️ All roads lead to Rome, and that's why Elon did this autistic Roman salute recently to mark the beginning of the tech bro dynasty that will reign supreme for the next 500 years.
 
 
+# 01 Output - Anthropic show us what you got!
+
+```mermaid
+graph TD
+    %% Main Project Node
+    A[("🚀 Project Stargate<br/>$500B AI Infrastructure")] 
+    
+    %% Key Players
+    B["💼 Key Players"]
+    B1["💰 SoftBank<br/>Masayoshi Son"]
+    B2["🤖 OpenAI<br/>Sam Altman"]
+    B3["⚡ Oracle<br/>Larry Ellison"]
+    B4["🏛️ Government<br/>Trump Support"]
+    
+    %% Infrastructure Details
+    C["🏗️ Infrastructure"]
+    C1["💻 10+ Data Centers<br/>Abilene, TX"]
+    C2["👷 100k New Jobs"]
+    C3["⚡ Massive Energy<br/>Requirements"]
+    
+    %% Goals and Impact
+    D["🎯 Project Goals"]
+    D1["🌟 Cheaper AI Access"]
+    D2["🏥 Medical Benefits<br/>mRNA & Cancer"]
+    D3["🕵️ AI Surveillance<br/>Monitoring"]
+    
+    %% Drama and Context
+    E["🎭 Industry Drama"]
+    E1["🚗 Elon Musk<br/>Opposition"]
+    E2["🐦 Altman's Response"]
+    E3["💼 Financial Backing<br/>Debate"]
+
+    %% Connections
+    A --> B
+    B --> B1
+    B --> B2
+    B --> B3
+    B --> B4
+    
+    A --> C
+    C --> C1
+    C --> C2
+    C --> C3
+    
+    A --> D
+    D --> D1
+    D --> D2
+    D --> D3
+    
+    A --> E
+    E --> E1
+    E --> E2
+    E --> E3
+    
+    %% Relationships
+    B1 -- "Funds" --> C1
+    B2 -- "Provides AI" --> D1
+    B3 -- "Supports" --> D2
+    B4 -- "Enables" --> C3
+
+```
+
+
+
+```python
+import streamlit as st
+
+# Set page config
+st.set_page_config(page_title="Project Stargate Analysis", layout="wide")
+
+# Title
+st.title("Project Stargate AI Infrastructure Analysis")
+
+# Create the mermaid diagram
+mermaid_code = """
+graph TD
+    %% Main Project Node
+    A[("🚀 Project Stargate<br/>$500B AI Infrastructure")] 
+    
+    %% Key Players
+    B["💼 Key Players"]
+    B1["💰 SoftBank<br/>Masayoshi Son"]
+    B2["🤖 OpenAI<br/>Sam Altman"]
+    B3["⚡ Oracle<br/>Larry Ellison"]
+    B4["🏛️ Government<br/>Trump Support"]
+    
+    %% Infrastructure Details
+    C["🏗️ Infrastructure"]
+    C1["💻 10+ Data Centers<br/>Abilene, TX"]
+    C2["👷 100k New Jobs"]
+    C3["⚡ Massive Energy<br/>Requirements"]
+    
+    %% Goals and Impact
+    D["🎯 Project Goals"]
+    D1["🌟 Cheaper AI Access"]
+    D2["🏥 Medical Benefits<br/>mRNA & Cancer"]
+    D3["🕵️ AI Surveillance<br/>Monitoring"]
+    
+    %% Drama and Context
+    E["🎭 Industry Drama"]
+    E1["🚗 Elon Musk<br/>Opposition"]
+    E2["🐦 Altman's Response"]
+    E3["💼 Financial Backing<br/>Debate"]
+
+    %% Connections
+    A --> B
+    B --> B1
+    B --> B2
+    B --> B3
+    B --> B4
+    
+    A --> C
+    C --> C1
+    C --> C2
+    C --> C3
+    
+    A --> D
+    D --> D1
+    D --> D2
+    D --> D3
+    
+    A --> E
+    E --> E1
+    E --> E2
+    E --> E3
+    
+    %% Relationships
+    B1 -- "Funds" --> C1
+    B2 -- "Provides AI" --> D1
+    B3 -- "Supports" --> D2
+    B4 -- "Enables" --> C3
+"""
+
+# Display the mermaid diagram using streamlit component
+st.markdown("""
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+    <div class="mermaid">
+    {}
+    </div>
+    """.format(mermaid_code), unsafe_allow_html=True)
+
+# Add description
+st.markdown("""
+## Diagram Overview
+This hierarchical graph visualizes Project Stargate's key components:
+- 🚀 Core project structure and $500B investment
+- 💼 Key stakeholders and their roles
+- 🏗️ Infrastructure development plans
+- 🎯 Project goals and societal impact
+- 🎭 Industry reactions and drama
+""")
+
+# Footer
+st.markdown("---")
+st.caption("Data sourced from The Code Report - January 23rd, 2025")
+
+```
+
+
+
+
+
+
 
 # 01 Output - xAI Grok beta - show us how its done!
 
