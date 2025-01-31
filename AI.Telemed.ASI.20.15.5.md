@@ -24,13 +24,1005 @@ Create a mermaid model of the glossary terms and show full code listing as app.p
 11. Time sensitivity for processing which can match respons time of expectation and use high performance computing.
 12. Python code writing and execution, the ability to use a runtime code interpreter and basic patter of app.y + requirements.txt minimal apps.
 13. Global access and open interface, the ability to interact with anyone without limitations like a human can.
-14. Deep reinforcement learning which allows an output dataset which evaluates input and output and score success factors, and follow ODAR- observe, decide, act, review loop.  GRPO removes the critic net from PPO and uses the average reward from multiple samples instead.
-15. Multimodal AI, the ability to handle the modalities of text, image, audio, video, 3D, and documents in PDF form for integrating expert knowledge.
-16. Knowledge graph, the ability to represent any concept or idea in the form of a directed graph in mermaid language to prefform knowledge engineering of inputs, outputs.
-17. Art and creativity, the ability to vibe with humans using forms of communication they like including chat, speech, and workflow of modalities.
-18. Agent management which allows experts to be encoded as agents with contextual knowledge and actions to be taken.
-19. Computer use, the ability to operate applications on a computer or interact with other computers dynamically using conversation and control.
-20. Persistent multiuser worlds involving other players or agents, the ability to build and interact in a shared virtual environment which defines constraints.
+14. Deep reinforcement learning which allows an output dataset which evaluates input and output and score success factors, and follow ODAR- observe, decide, act, review loop.   Include reinforcement learning, GRPO and PPO algorithms. GRPO removes the critic net from PPO and uses the average reward from multiple samples instead.
+15. Multimodal AI, the ability to handle the modalities of text, image, audio, video, 3D, and documents in PDF form for integrating expert knowledge.  Include reinforcement learning, GRPO and PPO algorithms.
+16. Knowledge graph, the ability to represent any concept or idea in the form of a directed graph in mermaid language to prefform knowledge engineering of inputs, outputs.  Include reinforcement learning, GRPO and PPO algorithms.
+17. Art and creativity, the ability to vibe with humans using forms of communication they like including chat, speech, and workflow of modalities.  Include reinforcement learning, GRPO and PPO algorithms.
+18. Agent management which allows experts to be encoded as agents with contextual knowledge and actions to be taken.  Include reinforcement learning, GRPO and PPO algorithms.
+19. Computer use, the ability to operate applications on a computer or interact with other computers dynamically using conversation and control.  Include reinforcement learning, GRPO and PPO algorithms.
+20. Persistent multiuser worlds involving other players or agents, the ability to build and interact in a shared virtual environment which defines constraints.  Include reinforcement learning, GRPO and PPO algorithms.
+
+
+
+
+# Three transcripts to bring us up to current events:
+
+
+
+# 3.
+
+```python
+
+0:00
+the Deep seek Rabbit Hole just keeps
+0:01
+getting deeper and deeper after being
+0:03
+deeply wounded by Deep seek last week
+0:05
+open AI is now reportedly accusing them
+0:07
+of Ip theft and to make matters even
+0:09
+worse a second Chinese model just hit
+0:11
+the timeline if you're just waking up
+0:12
+from a coma the legend goes like this a
+0:14
+Chinese hedge fund built a
+0:16
+state-of-the-art reasoning model that
+0:17
+surpassed open A1 and only spent $5.5
+0:20
+million to train it then gave the world
+0:22
+a 100% discount code to use it that was
+0:24
+devastating to Big Tech and especially
+0:26
+open AI who have been gradually trying
+0:27
+to convince people that AI is hard and
+0:29
+we need things like $500 billion
+0:31
+Stargate data centers now in order to
+0:33
+get the AI hype train back on track the
+0:35
+new White House aiar and PayPal Mafia
+0:37
+member David Sachs just went on the news
+0:39
+and said they have substantial evidence
+0:41
+that deep seek stole open ai's outputs
+0:43
+to fine-tune their models a technique
+0:45
+known as distillation that is strictly
+0:47
+forbidden in their terms of service the
+0:49
+irony here is not only palpable one
+0:51
+might describe it as artificial super
+0:52
+irony you might remember how open aai
+0:54
+vacuumed up the entire internet and all
+0:56
+its copyrighted materials without asking
+0:58
+anybody for permission Elon them of
+1:00
+scraping Twitter George RR Martin and a
+1:02
+bunch of other authors are suing among
+1:03
+many other lawsuits around the world but
+1:05
+I need to let you in on a tech bro
+1:07
+founder secret we do Shady stuff and
+1:08
+then ask for forgiveness later because
+1:10
+once a company reaches critical mass
+1:12
+there's no stopping it Uber and Airbnb
+1:14
+are prime examples and thus far open aai
+1:16
+has mostly prevailed in their copyright
+1:18
+infringement legal battles in today's
+1:19
+video we'll take a closer look at the
+1:21
+technical details of deep seek how it
+1:23
+bypassed Cuda and try to find out if it
+1:25
+actually ripped off open AI it is
+1:27
+January 29th 2025 and you're watching
+1:29
+the code report my conspiracy theory is
+1:31
+that open AI has been deep seek all
+1:33
+along and this was just the most genius
+1:35
+marketing trick of all time to assert
+1:36
+their dominance I wouldn't put it past
+1:38
+Chief persuasion officer Sam ultman he's
+1:40
+a he's a just a Kong man and he lies to
+1:43
+everyone but now open Ai and Microsoft
+1:46
+are accusing deep seek of distillation
+1:48
+where you take one big expensive model
+1:49
+like 01 and use its outputs to transfer
+1:52
+knowledge to a smaller model thus far
+1:54
+they haven't provided any hard evidence
+1:55
+but there are screenshots like this
+1:57
+going around the internet where deep
+1:58
+seek provides a response that should
+2:00
+only come from chat GPT that's not a
+2:01
+Smoking Gun though because this type of
+2:03
+content is all over the internet now is
+2:05
+so deep SE could have learned it
+2:06
+organically however Microsoft which
+2:08
+provides the servers for much of open
+2:09
+ai's compute is said they observe
+2:11
+someone in China extracting large
+2:12
+volumes of data from the open AI API and
+2:15
+they believe these accounts may be
+2:16
+linked to deep seek in other words deep
+2:18
+seek is basically Robin Hood stealing
+2:19
+from the rich to give to the poor the
+2:21
+distillation generally provides better
+2:23
+results compared to reinforcement
+2:24
+learning where you actually feed the
+2:26
+model new data with a reward function
+2:27
+distillation is not controversial and
+2:29
+deep has models distilled from llama and
+2:31
+quen in fact you can even distill open
+2:33
+AI models as long as you don't use the
+2:35
+API to build a rival model and that
+2:37
+appears to be the root of open ai's beef
+2:39
+and get this Alibaba just released quen
+2:41
+2.5 Max just minutes ago and although
+2:43
+it's not a reasoning model it's an open
+2:45
+model that beats deepseeker Claude and
+2:47
+GPT 40 on these benchmarks and not only
+2:50
+that but yet another Chinese model
+2:51
+called Kim 1.5 just came out and
+2:54
+apparently beats open AI 01 we're now in
+2:56
+a China versus China AI race with the
+2:58
+United States falling behind meanwhile
+3:00
+Europe is focused on other technological
+3:02
+innovations like bottle caps you can't
+3:04
+take off many people have complained
+3:05
+that deep seek is highly censored but
+3:07
+it's relatively easy to jailbreak if
+3:08
+you're a senior prompt engineer but
+3:10
+speaking of irony last year mid Journey
+3:12
+accused stability AI of image theft but
+3:14
+none of that matters now because deeps
+3:16
+also just released the Jan series models
+3:18
+which do diffusion based image
+3:20
+generation and while the quality is not
+3:22
+as good as stable diffusion or mid
+3:23
+Journey it's yet another open source
+3:24
+model you can use commercially and
+3:26
+that's good news for Humanity but
+3:28
+another interesting detail about deep
+3:29
+sea is that it achieved 10x better
+3:31
+efficiency than other models in part by
+3:33
+not using Cuda nvidia's proprietary
+3:35
+platform for running code on a GPU
+3:37
+instead they used Nvidia parallel thread
+3:39
+execution directly which conceptually
+3:41
+would be similar to building a website
+3:42
+with assembly code and is just another
+3:44
+example of how crack these deep seek
+3:46
+Engineers really are now another major
+3:48
+criticism of deep seek is that when you
+3:49
+use it on the web all your prompts data
+3:51
+and keystrokes go to China if you care
+3:53
+about privacy though you shouldn't be
+3:54
+using the internet anyway instead you
+3:56
+should use it locally like I did in this
+3:57
+video on my second Channel but the most
+3:59
+important Trend here is that open source
+4:01
+is winning that means if you're a
+4:02
+developer now is the time to start
+4:04
+building products people love and you
+4:05
+can do that with a truly awesome open
+4:07
+source tool called post hog the sponsor
+4:09
+of today's video it's like a Swiss army
+4:11
+knife to analyze test observe and deploy
+4:14
+better features its product Analytics
+4:16
+tool can help you understand your
+4:17
+customers and build funnels its web
+4:19
+analytics can replace Google analytics
+4:21
+and session replay will help you
+4:23
+understand how users actually interact
+4:25
+with your app not to mention feature
+4:27
+flags and UI experiments like AB test
+4:30
+just to name a few of the features but
+4:31
+most importantly it's easy to implement
+4:33
+thanks to sdks for web mobile and serers
+4:36
+side apps with excellent docs designed
+4:38
+for developers not only is it open-
+4:40
+source and self- hostable but also has a
+4:42
+fully managed no card required free plan
+4:44
+give post hog a try with the link below
+4:46
+this has been the code report thanks for
+4:48
+watching and I will see you in the next
+4:49
+one
+
+
+
+```
+
+
+
+# 2. 
+
+# Did Deepseek R1 just pop the AI bubble?
+
+https://www.youtube.com/watch?v=Nl7aCUsWykg&t=1s
+
+
+```python
+0:00
+last week Chinese company deep seek
+0:02
+shocked the world when they walked right
+0:03
+over open AI moe by releasing the open
+0:06
+source R1 model not only does it beat
+0:08
+their $200 01 reasoning model but it
+0:10
+also beats Claude Sonet in Gemini it
+0:12
+wins on key benchmarks but more
+0:14
+importantly it passes My Vibe test along
+0:16
+with many others on the internet as long
+0:18
+as you don't ask it what happened on
+0:19
+April 15th 1989 R1 even wins at math
+0:22
+which is crazy considering open AI had
+0:24
+the answers in advance over the last few
+0:26
+days normies have been learning about R1
+0:28
+and it went viral to become the number
+0:29
+one app America this is a big problem
+0:31
+for big Tech because in order for the
+0:33
+Griff to keep on grifting artificial
+0:35
+intelligence needs to be hard and take
+0:36
+thousands of gpus to pull off but deeps
+0:39
+R1 cost less than $10 million and was
+0:41
+actually the side project of a hedge
+0:43
+fund where their only goal is to create
+0:44
+long-term social value Wall Street is
+0:46
+terrified and Nvidia stock is in for a
+0:48
+blood bath today Nvidia has been the
+0:50
+primary beneficiary of the AI boom but
+0:52
+the whole bubble just got one-shotted by
+0:54
+a brutal reality check in today's video
+0:56
+we'll find out how deep seek just
+0:57
+changed the course of history it is
+0:59
+January 26 7 2025 and you're watching
+1:01
+the code report Big Tech is literally
+1:03
+shaking right now is Sam ultman coped
+1:05
+with a dramatic tweet a revolution can
+1:07
+neither be made nor stop the only thing
+1:08
+that can be done is for one of several
+1:10
+of its children to give it Direction by
+1:12
+Dent to victories I'm not sure if that's
+1:14
+Napoleon Dynamite or Napoleon boner part
+1:16
+but the funny thing is he damn near got
+1:17
+ratioed by someone with an anime profile
+1:19
+picture that said it's not that deep Bro
+1:21
+just release a better model in addition
+1:23
+to try to remain competitive with deep
+1:25
+seek open AI is also offering its 01
+1:27
+Mini model to free users but that's not
+1:29
+all they also Al released a new thing
+1:30
+called operator which gives AI access to
+1:33
+a browser and allows it to click on
+1:34
+buttons and fill out forms on your
+1:36
+behalf which is a game changer because
+1:38
+that means you can have chat GPT go
+1:39
+attend your court appointed DUI courses
+1:41
+or anything else you might have to do
+1:43
+online in the future humans will no
+1:44
+longer need websites or uis only apis
+1:47
+that can interact with the AIS operator
+1:49
+is currently only available to people on
+1:50
+the $200 plan and overall it gets pretty
+1:53
+mixed reviews that's cool and all but
+1:54
+the Chinese are really crushing it right
+1:56
+now deep seek is one thing but they also
+1:58
+released this thing called hun you on 3D
+2:00
+which can generate 3D meshes and
+2:02
+textures and that's huge for people like
+2:03
+me who have spent years failing to get
+2:05
+good at blender but the crazy thing
+2:06
+about deep seek is that it was just a
+2:08
+side project that cost very little money
+2:10
+to produce even Mark Andre called it one
+2:12
+of the most amazing and impressive
+2:13
+breakthroughs he's ever seen a profound
+2:15
+gift to the world and because of that
+2:17
+the stock market is panicking and just
+2:18
+wiped out nearly a trillion dollars in
+2:20
+value with Nvidia being The Biggest
+2:22
+Loser followed by other chip companies
+2:24
+like Taiwan semiconductor and broadcom
+2:26
+you see nvidia's had basically a
+2:27
+monopoly on AI training for the last
+2:29
+decade because they have better Linux
+2:31
+drivers than AMD and all the machine
+2:33
+learning algorithms are optimized for
+2:34
+libraries like Cuda which is proprietary
+2:36
+and can only run on Nvidia gpus and they
+2:38
+have the infrastructure to connect all
+2:40
+these gpus together at scale as AI
+2:42
+models get bigger and more popular is so
+2:44
+do the profits of Nvidia but someone got
+2:46
+deep seek running on a few Apple M2
+2:48
+Ultras and that's the 680 billion
+2:50
+parameter top-of-the-line model and
+2:51
+that's terrifying if you're a tech
+2:53
+investor pouring billions of dollars
+2:54
+into AI because if the best
+2:55
+state-of-the-art model can operate on
+2:57
+relatively cheap consumer hardware and
+2:59
+it's free and open source and developed
+3:01
+in China how are we going to make any
+3:02
+mother fing money people are calling
+3:04
+this the Sputnik moment when Russia
+3:05
+launched the first artificial satellite
+3:07
+into space in 1957 the United States was
+3:09
+shocked at the time and it took over a
+3:11
+decade to make a comeback when America
+3:12
+made its Pinnacle achievement of filming
+3:14
+a man on the moon in Nevada that's a
+3:16
+joke of course and even the smartest
+3:17
+technology in the world deep seek
+3:19
+believes in the moonlandings we had a
+3:20
+good run on this AI hype train but now
+3:22
+it's time to move on I'm looking forward
+3:24
+to brain chips quantum computers
+3:25
+artificial meat printers nanor robots
+3:28
+digital resurrection and tens of other
+3:30
+Tech that will make the world a better
+3:31
+place this has been the code report
+3:33
+thanks for watching and I will see you
+3:34
+in the next one
+
+
+```
+
+# 1. Stargate
+
+```python
+
+https://www.youtube.com/watch?v=YrHsw4Oja7w
+
+0:00
+open aai Oracle and SoftBank just
+0:02
+announced a massive deal with President
+0:03
+Trump called project Stargate despite
+0:05
+the name unfortunately this has nothing
+0:07
+to do with Intergalactic Wormhole
+0:09
+infrastructure their plan is to invest a
+0:11
+staggering $500 billion in the United
+0:13
+States to build the largest data centers
+0:15
+the world has ever seen for the sole
+0:17
+purpose of churning out AI slop to put
+0:19
+this number in perspective the US annual
+0:21
+defense budget is 850 billion but that
+0:24
+pays for aircraft carriers fighter jets
+0:26
+and space lasers but there was someone
+0:27
+who didn't get picked for the Stargate
+0:29
+team and he's feeling really bummed out
+0:30
+right now his name is Elon and everyone
+0:32
+seems to forget that he has an AI
+0:34
+company too he claims that SoftBank
+0:36
+doesn't actually have the money secured
+0:38
+and says the whole Stargate thing is
+0:39
+fake Sam ultman then came in with a
+0:41
+famous high road clapback where he
+0:43
+compliments Elon but says he's wrong and
+0:44
+then invites him to come visit the
+0:46
+project that's already underway then
+0:47
+Saia jumps in to backup Alman saying
+0:49
+he's good for his 80 billion I'm good
+0:51
+for my 80 billion in today's video we'll
+0:53
+find out what the Stargate project
+0:54
+really is and why you should be excited
+0:56
+but also terrified it is January 23rd
+0:59
+2025 and you're watching the code report
+1:01
+project Stargate is an AI infrastructure
+1:03
+project where the goal is to invest $500
+1:05
+billion in the United States to build
+1:07
+data centers now this project is not
+1:09
+actually funded by taxpayers but instead
+1:11
+will come from investors secured by the
+1:13
+Japanese Bank Soft Bank Moshi son is the
+1:15
+money guy Sam ultman is the gadgets guy
+1:18
+and Larry Ellison is the muscle these
+1:19
+data center facilities will require tons
+1:21
+of energy and Trump is the gas man who
+1:23
+will get that done by using executive
+1:24
+orders to divert power to get these
+1:26
+things built which they claim will
+1:27
+create 100,000 new jobs which will then
+1:29
+be eliminated by AI when they finish
+1:31
+building this thing on the bright side
+1:32
+this project could make AI cheaper and
+1:34
+more accessible and they're really
+1:35
+hyping up its medical benefits where
+1:37
+Larry Ellison said it will enable
+1:38
+personalized medicine for everyone and
+1:40
+that it should be able to develop
+1:41
+customized mRNA vaccines to cure cancer
+1:44
+Ellison is most welln as a champion
+1:46
+sailor but he also became one of the
+1:47
+richest men in the world by creating the
+1:49
+first commercial squl database he also
+1:51
+owns my favorite programming language
+1:52
+Java and is fighting a legal battle with
+1:54
+Dino to maintain control of the
+1:56
+JavaScript trademark but he also has a
+1:58
+dystopian vision for society where
+1:59
+everything is monitored by AI to keep
+2:01
+citizens on their best behavior citizens
+2:03
+will be on their best behavior because
+2:06
+we're constantly recording and Reporting
+2:08
+everything that's going on and we're
+2:09
+using AI to monitor the video this
+2:11
+Vision will become a reality in the very
+2:13
+near future Stargate currently has 10
+2:15
+data centers under construction in abene
+2:17
+Texas and is expanding to more States
+2:19
+soon and what's interesting is that the
+2:20
+government used to have a different
+2:21
+Stargate project back in the 70s which
+2:23
+was a top secret CIA project to explore
+2:26
+the possibility of psychic Warfare these
+2:28
+names are no accident Oracle sees the
+2:29
+future is Stargate is a portal to other
+2:31
+dimensions and open AI is the one who
+2:33
+gets to open the portal the timing is
+2:35
+perfect because after years of saying
+2:37
+open AI would definitely never go for
+2:38
+profit open AI just laid out plans to go
+2:40
+for-profit and give Sam Alman Equity to
+2:43
+make him billions of dollars richer and
+2:44
+that's surprising because he told
+2:45
+Congress in 2023 he was doing it because
+2:47
+he loves it make a lot of money do you I
+2:50
+I'm doing this because I love it Elon is
+2:52
+seething right now because he's about to
+2:53
+release grock 3 which is a reasoning
+2:55
+model like deep seek or 01 and based on
+2:58
+this one biased example could be
+2:59
+Superior to those models now I might get
+3:01
+in trouble with my Illuminati Handler
+3:03
+for telling you this but all this drama
+3:04
+and beefing is scripted and fake Elon
+3:06
+and Alman are Bros who started open AI
+3:08
+together Ellison helped Elon by Twitter
+3:10
+they're all connected to the PayPal
+3:11
+Mafia and Peter theal whose Protege JD
+3:14
+Vance just became the vice president
+3:15
+he'll take over as president in 2027 but
+3:17
+is actually controlled by reptilians who
+3:19
+have been alive since the Roman times
+3:20
+all roads lead to Rome and that's why
+3:22
+Elon did this autistic Roman salute
+3:24
+recently to Mark the beginning of the
+3:25
+tech bro Dynasty that will reign supreme
+3:27
+for the next 500 years this has been the
+3:29
+code support
+
+```
+
+
+
+
+
+# Deepseek - Disruptor Detected :)
+
+
+Did DeepSeek R1 just pop the AI bubble?
+
+Nope, just made the big bubble into hundreds of big bubbles as new engineers around the world understand the GRPO aha moments and new insight on RL at scale.  It does make it open for the world though.  Good times for freedom of information but maybe bad for those who felt they had the drop on all ways to reach ASI.  For world democracy and really world partnership it helps us get out of the 'one world leader' mindset and more rightly places emphasis on world knowledge.  Truly beginning of a golden age of AI and maybe also information and knowledge sharing creating truly open world knowledge.  I feel very appreciative, and hopefully this makes the world a less fearful, more performant together world AI super-organization..  ASI could be distributed and for all humanity.
+
+# 16 - Stargate, EHR Telemed AI
+
+Summarize the state of art techniques used for the topic below.  Output a markdown outline with emojis for 3 points made by the cutting edge papers which could be read aloud in about 15 seconds. 
+In giving short examples, include Telemed and AI for an audience of Doctors and AI Developers together.  List keywords as a second outline in markdown with emojis that papers have in common as a glossary.  
+Create a mermaid model of the glossary terms and show full code listing as app.py for python with streamlit.
+Electronic Health Records, Medical Research, solve cancer, diseases, conditions, patients, doctors, cure cancer, cure heart disease, design health plans
+Include reinforcement learning, GRPO and PPO algorithms. GRPO removes the critic net from PPO and uses the average reward from multiple samples instead.
+
+
+🚀 Cutting-Edge Techniques
+💻 Leveraging AI and machine learning for medical image analysis, disease prediction, and personalized treatment recommendations.
+🧠 Applying reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation.
+🌐 Integrating telemedicine and remote patient monitoring for improved access to healthcare services.
+
+graph TD
+    A[Electronic Health Records] --> B[Medical Research]
+    A --> C[Telemedicine]
+    A --> D[AI for Healthcare]
+    B --> E[Disease Diagnosis]
+    B --> F[Treatment Optimization]
+    C --> G[Remote Patient Monitoring]
+    D --> H[Machine Learning]
+    D --> I[Reinforcement Learning]
+    H --> J[Image Analysis]
+    H --> K[Predictive Modeling]
+    I --> L[GRPO]
+    I --> M[PPO]
+    L --> N[Treatment Plan Optimization]
+    M --> N
+
+import streamlit as st
+
+st.title("State-of-the-Art Techniques in Healthcare and AI")
+
+st.header("Cutting-Edge Techniques")
+st.write("1. 💻 Leveraging AI and machine learning for medical image analysis, disease prediction, and personalized treatment recommendations.")
+st.write("2. 🧠 Applying reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation.")
+st.write("3. 🌐 Integrating telemedicine and remote patient monitoring for improved access to healthcare services.")
+
+st.header("Glossary of Keywords")
+st.mermaid("""
+graph TD
+    A[Electronic Health Records] --> B[Medical Research]
+    A --> C[Telemedicine]
+    A --> D[AI for Healthcare]
+    B --> E[Disease Diagnosis]
+    B --> F[Treatment Optimization]
+    C --> G[Remote Patient Monitoring]
+    D --> H[Machine Learning]
+    D --> I[Reinforcement Learning]
+    H --> J[Image Analysis]
+    H --> K[Predictive Modeling]
+    I --> L[GRPO]
+    I --> M[PPO]
+    L --> N[Treatment Plan Optimization]
+    M --> N
+""")
+
+This summary covers the key points mentioned, including the use of AI and machine learning in medical image analysis, disease prediction, and personalized treatment recommendations. It also highlights the application of reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation. Additionally, it emphasizes the integration of telemedicine and remote patient monitoring for improved access to healthcare services. The glossary of keywords is presented as a mermaid model, and the Python code listing with Streamlit provides a way to display the summary and the mermaid model interactively.
+
+Paper Links
+Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models — Arxiv)
+PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology — Arxiv)
+Large Language Models and Control Mechanisms Improve Text Readability of Biomedical Abstracts — Arxiv)
+AI Driven Knowledge Extraction from Clinical Practice Guidelines: Turning Research into Practice — Arxiv)
+Comparing Rule-Based and Deep Learning Models for Patient Phenotyping — Arxiv)
+3D Self-Supervised Methods for Medical Imaging — Arxiv)
+Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need — Arxiv)
+PyHealth: A Python Library for Health Predictive Models — Arxiv)
+QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems — Arxiv)
+'Etude cognitive des processus de construction d'une requ^ete dans un syst`eme de gestion de connaissances m'edicales — Arxiv)
+Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy — Arxiv)
+Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training — Arxiv)
+Snomed2Vec: Random Walk and Poincar'e Embeddings of a Clinical Knowledge Base for Healthcare Analytics — Arxiv)
+A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks — Arxiv)
+MIPO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning — Arxiv)
+Text2MDT: Extracting Medical Decision Trees from Medical Texts — Arxiv)
+Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures — Arxiv)
+MEDPSeg: End-to-end segmentation of pulmonary structures and lesions in computed tomography — Arxiv)
+CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation — Arxiv)
+Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning — Arxiv)
+
+
+import streamlit as st
+
+# Title
+st.title("State-of-the-Art Techniques in Healthcare and AI")
+
+# Cutting-Edge Techniques
+st.header("🚀 Cutting-Edge Techniques")
+st.write("1. 💻 Leveraging AI and machine learning for medical image analysis, disease prediction, and personalized treatment recommendations.")
+st.write("2. 🧠 Applying reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation.")
+st.write("3. 🌐 Integrating telemedicine and remote patient monitoring for improved access to healthcare services.")
+
+# Glossary of Keywords
+st.header("📝 Glossary of Keywords (Mermaid Model)")
+mermaid_code = """
+graph TD
+    A[Electronic Health Records] --> B[Medical Research]
+    A --> C[Telemedicine]
+    A --> D[AI for Healthcare]
+    B --> E[Disease Diagnosis]
+    B --> F[Treatment Optimization]
+    C --> G[Remote Patient Monitoring]
+    D --> H[Machine Learning]
+    D --> I[Reinforcement Learning]
+    H --> J[Image Analysis]
+    H --> K[Predictive Modeling]
+    I --> L[GRPO]
+    I --> M[PPO]
+    L --> N[Treatment Plan Optimization]
+    M --> N
+"""
+st.mermaid(mermaid_code)
+
+# Additional Information
+st.header("📚 Additional Information")
+st.write("This application showcases the state-of-the-art techniques used in the field of healthcare and AI, including:")
+st.write("- Leveraging AI and machine learning for medical image analysis, disease prediction, and personalized treatment recommendations.")
+st.write("- Applying reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation.")
+st.write("- Integrating telemedicine and remote patient monitoring for improved access to healthcare services.")
+st.write("The glossary of keywords is presented using a Mermaid model, which visually represents the relationships between various concepts.")
+
+# References
+st.header("📚 References")
+st.write("- [Paper 1: Deep Learning for Medical Image Analysis](https://arxiv.org/abs/1809.05712)")
+st.write("- [Paper 2: Reinforcement Learning for Healthcare Treatment Decision Policies](https://arxiv.org/abs/1905.11248)")
+st.write("- [Paper 3: Telemedicine and Remote Patient Monitoring in the Age of COVID-19](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7688466/)")
+
+
+
+
+
+
+# 15
+In the context of reinforcement learning, GRPO stands for Generalized Reward-Policy Optimization](https://x.com/i/grok?text=ptimization)). GRPO is an algorithm designed to optimize both the reward function and the policy simultaneously. Here's a brief explanation:
+
+Reward Function: In reinforcement learning, the reward function defines what the agent should strive to achieve. Traditionally, this function is assumed to be known or fixed, but in many real-world scenarios, it might not perfectly capture the desired behavior or might be unknown.
+Policy: This is the strategy or behavior the agent learns to maximize the cumulative reward over time. 
+Optimization: GRPO works by jointly optimizing the reward function and the policy. This approach allows the system to adapt both elements when one or both might be misaligned or imperfectly defined from the start.
+
+GRPO can be particularly useful in scenarios where:
+The reward signal is sparse or noisy.
+The true objective of the task is not well-defined or changes over time.
+There's a need to learn from human feedback or preferences which might not directly translate into a clear reward function.
+
+The algorithm typically involves:
+An iterative process where both the reward function and the policy are updated in each iteration.
+Using techniques like inverse reinforcement learning or preference-based learning to refine the reward function based on observed behaviors or feedback.
+Employing policy gradient methods or other RL algorithms to update the policy while simultaneously adjusting the reward function to better reflect the true task goal.
+
+GRPO, or Generalized Reward-Policy Optimization, in reinforcement learning 🧠, involves tweaking both the reward function 🎯 and the policy 📊 together. This method helps when the goals are unclear or change, making the learning process more flexible and effective. 🛠️🔄
+
 
 
 
