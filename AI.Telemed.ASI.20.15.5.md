@@ -45,6 +45,127 @@ Create a streamlit app.py which takes a few transccript summary numbered outline
 34. 🦎 He'll take over as president in 2027 but is actually controlled by reptilians who have been alive since Roman times.
 35. 🏛️ All roads lead to Rome, and that's why Elon did this autistic Roman salute recently to mark the beginning of the tech bro dynasty that will reign supreme for the next 500 years.
 
+
+
+# 01 Output - xAI Grok beta - show us how its done!
+
+```mermaid
+    graph TD;
+        A[🚀 Stargate Deal] -->|Announcement| B[🌌 Not Wormhole];
+        B -->|Investment| C[💰 $500B Data Centers];
+        C -->|Purpose| D[🤖 AI Development];
+        C -->|Perspective| E[🛡️ Defense Budget];
+        E -->|Exclusion| F[😔 Elon Left Out];
+        F -->|Elon's View| G[🚗 Elon's AI];
+        G -->|Funding Claim| H[🏦 SoftBank's Money];
+        H -->|Response| I[🐦 Altman's Clapback];
+        I -->|Back Up| J[💼 Saia Supports];
+        A -->|Project Overview| K[🎥 Project Details];
+        K -->|Date| L[📅 Jan 23, 2025];
+        K -->|Infrastructure| M[🏗️ AI Data Centers];
+        M -->|Funding| N[💸 Investors];
+        N -->|Key Players| O[💼 Masayoshi, Altman, Ellison];
+        O -->|Energy| P[⚡ Executive Orders];
+        P -->|Job Creation| Q[👷 100k Jobs];
+        Q -->|AI Impact| R[🌟 AI Accessibility];
+        R -->|Medical Use| S[🏥 Personalized Medicine];
+        S -->|Ellison's Profile| T[⛵ Champion Sailor];
+        T -->|Legal Battle| U[☕ Java Control];
+        U -->|Dystopian Vision| V[🕵️ AI Surveillance];
+        V -->|Implementation| W[📹 Constant Monitoring];
+        W -->|Future Prediction| X[🚨 Reality Soon];
+        M -->|Current Status| Y[🏗️ Texas Construction];
+        Y -->|Historical Context| Z[🕵️ CIA Stargate];
+        Z -->|Symbolism| AA[🔮 Oracle, Stargate, OpenAI];
+        AA -->|Timing| AB[⏳ OpenAI Profit];
+        AB -->|Congress Testimony| AC[🎙️ Altman's Love for Work];
+        AC -->|Elon's Reaction| AD[😡 Grok 3];
+        AD -->|Conspiracy Theory| AE[👀 Scripted Drama];
+        AE -->|Business Connections| AF[🤝 Elon & Altman];
+        AF -->|Twitter Acquisition| AG[🐦 Ellison's Help];
+        AG -->|Political Influence| AH[🏛️ Tech Dynasty];
+```
+
+
+
+
+```python
+1 x post and 25 web pages considered...
+
+
+### Explanation:
+- **Mermaid Diagram**: This script defines a Mermaid diagram in a text block which describes the relationships between various points from the transcript summary with emojis as labels for nodes. Each node and arrow is connected based on the logical flow from the summary points.
+- **Streamlit Integration**: The diagram is embedded within a Streamlit app using the `st.markdown` function with the `mermaid` code block syntax. Streamlit can render Mermaid diagrams directly if you have the appropriate configuration or plugin for Mermaid rendering.
+
+### Usage:
+- You need to have Streamlit installed (`pip install streamlit`). 
+- Run the script with `streamlit run app.py` in your command line. 
+- Streamlit will open your default browser and display the app with the Mermaid diagram.
+
+### Note:
+- Streamlit's native support for Mermaid might require additional configuration or a plugin. If not natively supported, you might need to use an external Mermaid JS script and render the diagram through an HTML component. Here, I assume Streamlit can handle Mermaid directly for simplicity. If you encounter issues, you would need to include Mermaid JS in your app's HTML output:
+```
+
+
+
+```python
+components.html(f"""
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<div class="mermaid">
+    {mermaid_code}
+</div>
+""", height=600)
+
+```python
+import streamlit as st
+
+def create_mermaid_diagram():
+    # Define the Mermaid diagram
+    mermaid_code = """
+    graph TD;
+        A[🚀 Stargate Deal] -->|Announcement| B[🌌 Not Wormhole];
+        B -->|Investment| C[💰 $500B Data Centers];
+        C -->|Purpose| D[🤖 AI Development];
+        C -->|Perspective| E[🛡️ Defense Budget];
+        E -->|Exclusion| F[😔 Elon Left Out];
+        F -->|Elon's View| G[🚗 Elon's AI];
+        G -->|Funding Claim| H[🏦 SoftBank's Money];
+        H -->|Response| I[🐦 Altman's Clapback];
+        I -->|Back Up| J[💼 Saia Supports];
+        A -->|Project Overview| K[🎥 Project Details];
+        K -->|Date| L[📅 Jan 23, 2025];
+        K -->|Infrastructure| M[🏗️ AI Data Centers];
+        M -->|Funding| N[💸 Investors];
+        N -->|Key Players| O[💼 Masayoshi, Altman, Ellison];
+        O -->|Energy| P[⚡ Executive Orders];
+        P -->|Job Creation| Q[👷 100k Jobs];
+        Q -->|AI Impact| R[🌟 AI Accessibility];
+        R -->|Medical Use| S[🏥 Personalized Medicine];
+        S -->|Ellison's Profile| T[⛵ Champion Sailor];
+        T -->|Legal Battle| U[☕ Java Control];
+        U -->|Dystopian Vision| V[🕵️ AI Surveillance];
+        V -->|Implementation| W[📹 Constant Monitoring];
+        W -->|Future Prediction| X[🚨 Reality Soon];
+        M -->|Current Status| Y[🏗️ Texas Construction];
+        Y -->|Historical Context| Z[🕵️ CIA Stargate];
+        Z -->|Symbolism| AA[🔮 Oracle, Stargate, OpenAI];
+        AA -->|Timing| AB[⏳ OpenAI Profit];
+        AB -->|Congress Testimony| AC[🎙️ Altman's Love for Work];
+        AC -->|Elon's Reaction| AD[😡 Grok 3];
+        AD -->|Conspiracy Theory| AE[👀 Scripted Drama];
+        AE -->|Business Connections| AF[🤝 Elon & Altman];
+        AF -->|Twitter Acquisition| AG[🐦 Ellison's Help];
+        AG -->|Political Influence| AH[🏛️ Tech Dynasty];
+    """
+
+    # Display the Mermaid diagram in Streamlit
+    st.markdown(f"""
+    ```mermaid
+    {mermaid_code}
+```
+
+
+
 # 01 Output - Deepseek R1 reasoning engage!
 
 ```mermaid
