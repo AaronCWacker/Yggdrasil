@@ -24,7 +24,7 @@ Create a mermaid model of the glossary terms and show full code listing as app.p
 11. Time sensitivity for processing which can match respons time of expectation and use high performance computing.
 12. Python code writing and execution, the ability to use a runtime code interpreter and basic patter of app.y + requirements.txt minimal apps.
 13. Global access and open interface, the ability to interact with anyone without limitations like a human can.
-14. Deep reinforcement learning which allows an output dataset which evaluates input and output and score success factors, and follow ODAR- observe, decide, act, review loop.
+14. Deep reinforcement learning which allows an output dataset which evaluates input and output and score success factors, and follow ODAR- observe, decide, act, review loop.  GRPO removes the critic net from PPO and uses the average reward from multiple samples instead.
 15. Multimodal AI, the ability to handle the modalities of text, image, audio, video, 3D, and documents in PDF form for integrating expert knowledge.
 16. Knowledge graph, the ability to represent any concept or idea in the form of a directed graph in mermaid language to prefform knowledge engineering of inputs, outputs.
 17. Art and creativity, the ability to vibe with humans using forms of communication they like including chat, speech, and workflow of modalities.
@@ -32,6 +32,161 @@ Create a mermaid model of the glossary terms and show full code listing as app.p
 19. Computer use, the ability to operate applications on a computer or interact with other computers dynamically using conversation and control.
 20. Persistent multiuser worlds involving other players or agents, the ability to build and interact in a shared virtual environment which defines constraints.
 
+
+
+# 14
+
+🔥 Deep Reinforcement Learning with Continuous Control 🎮
+
+📊 Evaluates input and output data to score success factors
+♻️ Follows the ODAR (Observe, Decide, Act, Review) loop
+🤖 Generalized Reinforcement Learning with Proximal Policy Optimization (GRPO) 🧠
+
+💥 Removes the critic network from Proximal Policy Optimization (PPO)
+🔄 Uses the average reward from multiple samples
+🚀 Applications in Telemedicine and AI for Healthcare 💻🩺
+
+📈 AI-powered remote patient monitoring and diagnosis
+🌐 Telemedicine platforms for virtual consultations
+
+Keywords Outline with Emojis:
+
+🔑 Deep Reinforcement Learning
+🎯 Continuous Control
+🔄 Proximal Policy Optimization (PPO)
+🧠 Generalized Reinforcement Learning
+💻 Telemedicine
+🩺 AI for Healthcare
+
+graph TD
+    A[Deep Reinforcement Learning] -->|uses| B[Continuous Control]
+    A -->|uses| C[Proximal Policy Optimization (PPO)]
+    C -->|removes critic network| D[Generalized Reinforcement Learning]
+    A -->|applies to| E[Telemedicine]
+    A -->|applies to| F[AI for Healthcare]
+
+ import streamlit as st
+
+st.title("Deep Reinforcement Learning for Telemedicine and AI for Healthcare")
+
+st.header("1. Deep Reinforcement Learning with Continuous Control")
+st.write("- Evaluates input and output data to score success factors")
+st.write("- Follows the ODAR (Observe, Decide, Act, Review) loop")
+
+st.header("2. Generalized Reinforcement Learning with Proximal Policy Optimization (GRPO)")
+st.write("- Removes the critic network from Proximal Policy Optimization (PPO)")
+st.write("- Uses the average reward from multiple samples")
+
+st.header("3. Applications in Telemedicine and AI for Healthcare")
+st.write("- AI-powered remote patient monitoring and diagnosis")
+st.write("- Telemedicine platforms for virtual consultations")
+
+st.markdown("### Keywords Glossary")
+st.write("1. Deep Reinforcement Learning")
+st.write("2. Continuous Control")
+st.write("3. Proximal Policy Optimization (PPO)")
+st.write("4. Generalized Reinforcement Learning")
+st.write("5. Telemedicine")
+st.write("6. AI for Healthcare")
+
+st.markdown("### Mermaid Model of Glossary Terms")
+st.mermaid("""
+graph TD
+    A[Deep Reinforcement Learning] -->|uses| B[Continuous Control]
+    A -->|uses| C[Proximal Policy Optimization (PPO)]
+    C -->|removes critic network| D[Generalized Reinforcement Learning]
+    A -->|applies to| E[Telemedicine]
+    A -->|applies to| F[AI for Healthcare]
+""")
+
+if __name__ == "__main__":
+    st.markdown("""
+        <style>
+        .sidebar .sidebar-content {
+            background-image: linear-gradient(#2193b0, #6dd5ed);
+            color: white;
+        }
+        </style>
+        """, unsafe_allow_html=True)
+    st.markdown("""
+        <style>
+        footer {
+            font-family: "Source Sans Pro", sans-serif;
+            margin:
+
+Paper Links
+RAMario: Experimental Approach to Reptile Algorithm -- Reinforcement Learning for Mario — Arxiv)
+Transfer Learning for Prosthetics Using Imitation Learning — Arxiv)
+Large Language Models and Control Mechanisms Improve Text Readability of Biomedical Abstracts — Arxiv)
+Is Reinforcement Learning (Not) for Natural Language Processing: Benchmarks, Baselines, and Building Blocks for Natural Language Policy Optimization — Arxiv)
+Context-Aware Visual Policy Network for Sequence-Level Image Captioning — Arxiv)
+Automatic Intent-Slot Induction for Dialogue Systems — Arxiv)
+Using Generative Adversarial Nets on Atari Games for Feature Extraction in Deep Reinforcement Learning — Arxiv)
+An Invitation to Deep Reinforcement Learning — Arxiv)
+Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling — Arxiv)
+Learning to Play Pong using Policy Gradient Learning — Arxiv)
+Efficient Deep Feature Calibration for Cross-Modal Joint Embedding Learning — Arxiv)
+Learning Text-Image Joint Embedding for Efficient Cross-Modal Retrieval with Deep Feature Engineering — Arxiv)
+Modelling Hierarchical Structure between Dialogue Policy and Natural Language Generator with Option Framework for Task-oriented Dialogue System — Arxiv)
+Reinforcing Semantic-Symmetry for Document Summarization — Arxiv)
+Improving Language Models with Advantage-based Offline Policy Gradients — Arxiv)
+A novel approach of a deep reinforcement learning based motion cueing algorithm for vehicle driving simulation — Arxiv)
+LeTI: Learning to Generate from Textual Interactions — Arxiv)
+Don't throw away your value model! Making PPO even better via Value-Guided Monte-Carlo Tree Search decoding — Arxiv)
+What About Inputing Policy in Value Function: Policy Representation and Policy-extended Value Function Approximator — Arxiv)
+Learning to Generate Better Than Your LLM — Arxiv)
+
+
+import streamlit as st
+
+st.title("Deep Reinforcement Learning for Telemedicine and AI for Healthcare")
+
+st.header("1. Deep Reinforcement Learning with Continuous Control")
+st.write("- Evaluates input and output data to score success factors")
+st.write("- Follows the ODAR (Observe, Decide, Act, Review) loop")
+
+st.header("2. Generalized Reinforcement Learning with Proximal Policy Optimization (GRPO)")
+st.write("- Removes the critic network from Proximal Policy Optimization (PPO)")
+st.write("- Uses the average reward from multiple samples")
+
+st.header("3. Applications in Telemedicine and AI for Healthcare")
+st.write("- AI-powered remote patient monitoring and diagnosis")
+st.write("- Telemedicine platforms for virtual consultations")
+
+st.markdown("### Keywords Glossary")
+st.write("1. Deep Reinforcement Learning")
+st.write("2. Continuous Control")
+st.write("3. Proximal Policy Optimization (PPO)")
+st.write("4. Generalized Reinforcement Learning")
+st.write("5. Telemedicine")
+st.write("6. AI for Healthcare")
+
+st.markdown("### Mermaid Model of Glossary Terms")
+st.mermaid("""
+graph TD
+    A[Deep Reinforcement Learning] -->|uses| B[Continuous Control]
+    A -->|uses| C[Proximal Policy Optimization (PPO)]
+    C -->|removes critic network| D[Generalized Reinforcement Learning]
+    A -->|applies to| E[Telemedicine]
+    A -->|applies to| F[AI for Healthcare]
+""")
+
+if __name__ == "__main__":
+    st.markdown("""
+        <style>
+        .sidebar .sidebar-content {
+            background-image: linear-gradient(#2193b0, #6dd5ed);
+            color: white;
+        }
+        </style>
+        """, unsafe_allow_html=True)
+    st.markdown("""
+        <style>
+        footer {
+            font-family: "Source Sans Pro", sans-serif;
+            margin:
+
+            
 
 
 # 13
