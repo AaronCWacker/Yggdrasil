@@ -1,4 +1,13 @@
 
+
+
+# Top Things I would like to know from Lex and Deepseek
+1. What does your GRPO workflow look like?  How does it differ from PPO?
+2. Which research papers led to your RL at scale, and unique RL approach?
+3. Knowledge graphs as trees appear to be how knowledge engineering is handling with evaluation.  How do you do evlauation inccluding saving regret or reward in RL.
+4. How are you using distillation so effectively, can you cover your tool set and python libraries you use?
+5. As we begin to use the QWEN, DeepSeek, and related models and data, is there an ideal 'developer' workbench collection of git repos you would recommend to start?
+
 # Insight on ML Tecchniques used by Deepseek to Crush Benchmarks
 
 # 01. 
