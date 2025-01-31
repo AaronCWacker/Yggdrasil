@@ -1,3 +1,264 @@
+# V6 DeepResearchEvaluator
+
+## Input
+
+Summarize the state of art techniques used for the topic below.  Output a markdown outline with emojis for 3 points made by the cutting edge papers which could be read aloud in about 15 seconds. 
+In giving short examples, include Telemed and AI for an audience of Doctors and AI Developers together.  List keywords as a second outline in markdown with emojis that papers have in common as a glossary.  
+Create a mermaid model of the glossary terms and show full code listing as app.py for python with streamlit.
+Electronic Health Records, Medical Research, solve cancer, diseases, conditions, patients, doctors, cure cancer, cure heart disease, design health plans
+Include reinforcement learning, GRPO and PPO algorithms. GRPO removes the critic net from PPO and uses the average reward from multiple samples instead.
+
+## 🔍 Search Results
+Claude's reply 🧠:
+
+Here's a summary of the state-of-the-art techniques used for the given topic, presented in a markdown outline with emojis, and a glossary of keywords with a mermaid model and a Python code listing using Streamlit.
+
+🚀 Cutting-Edge Techniques
+💻 Leveraging AI and machine learning for medical image analysis, disease prediction, and personalized treatment recommendations.
+🧠 Applying reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation.
+🌐 Integrating telemedicine and remote patient monitoring for improved access to healthcare services.
+
+📝 Glossary of Keywords (Mermaid Model)
+
+```mermaid
+graph TD
+    A[Electronic Health Records] --> B[Medical Research]
+    A --> C[Telemedicine]
+    A --> D[AI for Healthcare]
+    B --> E[Disease Diagnosis]
+    B --> F[Treatment Optimization]
+    C --> G[Remote Patient Monitoring]
+    D --> H[Machine Learning]
+    D --> I[Reinforcement Learning]
+    H --> J[Image Analysis]
+    H --> K[Predictive Modeling]
+    I --> L[GRPO]
+    I --> M[PPO]
+    L --> N[Treatment Plan Optimization]
+    M --> N
+```
+
+```python
+import streamlit as st
+
+st.title("State-of-the-Art Techniques in Healthcare and AI")
+
+st.header("Cutting-Edge Techniques")
+st.write("1. 💻 Leveraging AI and machine learning for medical image analysis, disease prediction, and personalized treatment recommendations.")
+st.write("2. 🧠 Applying reinforcement learning algorithms like GRPO and PPO for optimizing treatment plans and healthcare resource allocation.")
+st.write("3. 🌐 Integrating telemedicine and remote patient monitoring for improved access to healthcare services.")
+
+st.header("Glossary of Keywords")
+st.mermaid("""
+graph TD
+    A[Electronic Health Records] --> B[Medical Research]
+    A --> C[Telemedicine]
+    A --> D[AI for Healthcare]
+    B --> E[Disease Diagnosis]
+    B --> F[Treatment Optimization]
+    C --> G[Remote Patient Monitoring]
+    D --> H[Machine Learning]
+    D --> I[Reinforcement Learning]
+    H --> J[Image Analysis]
+    H --> K[Predictive Modeling]
+    I --> L[GRPO]
+    I --> M[PPO]
+    L --> N[Treatment Plan Optimization]
+    M --> N
+""")
+```
+
+```python
+Paper Links
+Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models — Arxiv)
+PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology — Arxiv)
+Large Language Models and Control Mechanisms Improve Text Readability of Biomedical Abstracts — Arxiv)
+AI Driven Knowledge Extraction from Clinical Practice Guidelines: Turning Research into Practice — Arxiv)
+Comparing Rule-Based and Deep Learning Models for Patient Phenotyping — Arxiv)
+3D Self-Supervised Methods for Medical Imaging — Arxiv)
+Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need — Arxiv)
+PyHealth: A Python Library for Health Predictive Models — Arxiv)
+QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems — Arxiv)
+'Etude cognitive des processus de construction d'une requ^ete dans un syst`eme de gestion de connaissances m'edicales — Arxiv)
+Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy — Arxiv)
+Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training — Arxiv)
+Snomed2Vec: Random Walk and Poincar'e Embeddings of a Clinical Knowledge Base for Healthcare Analytics — Arxiv)
+A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks — Arxiv)
+MIPO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning — Arxiv)
+Text2MDT: Extracting Medical Decision Trees from Medical Texts — Arxiv)
+Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures — Arxiv)
+MEDPSeg: End-to-end segmentation of pulmonary structures and lesions in computed tomography — Arxiv)
+CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation — Arxiv)
+Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning — Arxiv)
+```
+
+```python
+🔎 Research Papers
+
+📄 Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models
+### 14 Sep 2022 | Summarizing Patients Problems from Hospital Progress Notes Using Pre-trained Sequence-to-Sequence Models — Arxiv Link)
+
+Authors: Yanjun Gao, Dmitriy Dligach, Timothy Miller, Dongfang Xu, Matthew M. Churpek, Majid Afshar
+
+Automatically summarizing patients' main problems from daily progress notes using natural language processing methods helps to battle against information and cognitive overload in hospital settings and potentially assists providers with computerized diagnostic decision support. Problem list summarization requires a model to understand, abstract, and generate clinical documentation. In this work, we propose a new NLP task that aims to generate a list of problems in a patient's daily care plan using input from the provider's progress notes during hospitalization. We investigate the performance of T5 and BART, two state-of-the-art seq2seq transformer architectures, in solving this problem. We provide a corpus built on top of progress notes from publicly available electronic health record progress notes in the Medical Information Mart for Intensive Care (MIMIC)-III. T5 and BART are trained on general domain text, and we experiment with a data augmentation method and a domain adaptation pre-training method to increase exposure to medical vocabulary and knowledge. Evaluation methods include ROUGE, BERTScore, cosine similarity on sentence embedding, and F-score on medical concepts. Results show that T5 with domain adaptive pre-training achieves significant performance gains compared to a rule-based system and general domain pre-trained language models, indicating a promising direction for tackling the problem summarization task. ---------------
+
+
+📄 PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology
+### 25 Jan 2021 | PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology — Arxiv Link)
+
+Authors: Ling Luo, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N. Robinson, Zhiyong Lu
+
+Automatic phenotype concept recognition from unstructured text remains a challenging task in biomedical text mining research. Previous works that address the task typically use dictionary-based matching methods, which can achieve high precision but suffer from lower recall. Recently, machine learning-based methods have been proposed to identify biomedical concepts, which can recognize more unseen concept synonyms by automatic feature learning. However, most methods require large corpora of manually annotated data for model training, which is difficult to obtain due to the high cost of human annotation. In this paper, we propose PhenoTagger, a hybrid method that combines both dictionary and machine learning-based methods to recognize Human Phenotype Ontology (HPO) concepts in unstructured biomedical text. We first use all concepts and synonyms in HPO to construct a dictionary, which is then used to automatically build a distantly supervised training dataset for machine learning. Next, a cutting-edge deep learning model is trained to classify each candidate phrase (n-gram from input sentence) into a corresponding concept label. Finally, the dictionary and machine learning-based prediction results are combined for improved performance. Our method is validated with two HPO corpora, and the results show that PhenoTagger compares favorably to previous methods. In addition, to demonstrate the generalizability of our method, we retrained PhenoTagger using the disease ontology MEDIC for disease concept recognition to investigate the effect of training on different ontologies. Experimental results on the NCBI disease corpus show that PhenoTagger without requiring manually annotated training data achieves competitive performance as compared with state-of-the-art supervised methods. ---------------
+
+
+📄 Large Language Models and Control Mechanisms Improve Text Readability of Biomedical Abstracts
+### 22 Sep 2023 | Large Language Models and Control Mechanisms Improve Text Readability of Biomedical Abstracts — Arxiv Link)
+
+Authors: Zihao Li, Samuel Belkadi, Nicolo Micheletti, Lifeng Han, Matthew Shardlow, Goran Nenadic
+
+Biomedical literature often uses complex language and inaccessible professional terminologies. That is why simplification plays an important role in improving public health literacy. Applying Natural Language Processing (NLP) models to automate such tasks allows for quick and direct accessibility for lay readers. In this work, we investigate the ability of state-of-the-art large language models (LLMs) on the task of biomedical abstract simplification, using the publicly available dataset for plain language adaptation of biomedical abstracts (\textbf{PLABA}). The methods applied include domain fine-tuning and prompt-based learning (PBL) on: 1) Encoder-decoder models (T5, SciFive, and BART), 2) Decoder-only GPT models (GPT-3.5 and GPT-4) from OpenAI and BioGPT, and 3) Control-token mechanisms on BART-based models. We used a range of automatic evaluation metrics, including BLEU, ROUGE, SARI, and BERTscore, and also conducted human evaluations. BART-Large with Control Token (BART-L-w-CT) mechanisms reported the highest SARI score of 46.54 and T5-base reported the highest BERTscore 72.62. In human evaluation, BART-L-w-CTs achieved a better simplicity score over T5-Base (2.9 vs. 2.2), while T5-Base achieved a better meaning preservation score over BART-L-w-CTs (3.1 vs. 2.6). We also categorised the system outputs with examples, hoping this will shed some light for future research on this task. Our code, fine-tuned models, and data splits are available at \url{https://github.com/HECTA-UoM/PLABA-MU} ---------------
+
+
+📄 AI Driven Knowledge Extraction from Clinical Practice Guidelines: Turning Research into Practice
+### 10 Dec 2020 | AI Driven Knowledge Extraction from Clinical Practice Guidelines: Turning Research into Practice — Arxiv Link)
+
+Authors: Musarrat Hussain, Jamil Hussain, Taqdir Ali, Fahad Ahmed Satti, Sungyoung Lee
+
+Background and Objectives: Clinical Practice Guidelines (CPGs) represent the foremost methodology for sharing state-of-the-art research findings in the healthcare domain with medical practitioners to limit practice variations, reduce clinical cost, improve the quality of care, and provide evidence based treatment. However, extracting relevant knowledge from the plethora of CPGs is not feasible for already burdened healthcare professionals, leading to large gaps between clinical findings and real practices. It is therefore imperative that state-of-the-art Computing research, especially machine learning is used to provide artificial intelligence based solution for extracting the knowledge from CPGs and reducing the gap between healthcare research/guidelines and practice. Methods: This research presents a novel methodology for knowledge extraction from CPGs to reduce the gap and turn the latest research findings into clinical practice. First, our system classifies the CPG sentences into four classes such as condition-action, condition-consequences, action, and not-applicable based on the information presented in a sentence. We use deep learning with state-of-the-art word embedding, improved word vectors technique in classification process. Second, it identifies qualifier terms in the classified sentences, which assist in recognizing the condition and action phrases in a sentence. Finally, the condition and action phrase are processed and transformed into plain rule If Condition(s) Then Action format. Results: We evaluate the methodology on three different domains guidelines including Hypertension, Rhinosinusitis, and Asthma. The deep learning model classifies the CPG sentences with an accuracy of 95%. While rule extraction was validated by user-centric approach, which achieved a Jaccard coefficient of 0.6, 0.7, and 0.4 with three human experts extracted rules, respectively. ---------------
+
+
+📄 Comparing Rule-Based and Deep Learning Models for Patient Phenotyping
+### 25 Mar 2017 | Comparing Rule-Based and Deep Learning Models for Patient Phenotyping — Arxiv Link)
+
+Authors: Sebastian Gehrmann, Franck Dernoncourt, Yeran Li, Eric T. Carlson, Joy T. Wu, Jonathan Welt, John Foote Jr., Edward T. Moseley, David W. Grant, Patrick D. Tyler, Leo Anthony Celi
+
+Objective: We investigate whether deep learning techniques for natural language processing (NLP) can be used efficiently for patient phenotyping. Patient phenotyping is a classification task for determining whether a patient has a medical condition, and is a crucial part of secondary analysis of healthcare data. We assess the performance of deep learning algorithms and compare them with classical NLP approaches. Materials and Methods: We compare convolutional neural networks (CNNs), n-gram models, and approaches based on cTAKES that extract pre-defined medical concepts from clinical notes and use them to predict patient phenotypes. The performance is tested on 10 different phenotyping tasks using 1,610 discharge summaries extracted from the MIMIC-III database. Results: CNNs outperform other phenotyping algorithms in all 10 tasks. The average F1-score of our model is 76 (PPV of 83, and sensitivity of 71) with our model having an F1-score up to 37 points higher than alternative approaches. We additionally assess the interpretability of our model by presenting a method that extracts the most salient phrases for a particular prediction. Conclusion: We show that NLP methods based on deep learning improve the performance of patient phenotyping. Our CNN-based algorithm automatically learns the phrases associated with each patient phenotype. As such, it reduces the annotation complexity for clinical domain experts, who are normally required to develop task-specific annotation rules and identify relevant phrases. Our method performs well in terms of both performance and interpretability, which indicates that deep learning is an effective approach to patient phenotyping based on clinicians' notes. ---------------
+
+
+📄 3D Self-Supervised Methods for Medical Imaging
+### 02 Nov 2020 | 3D Self-Supervised Methods for Medical Imaging — Arxiv Link)
+
+Authors: Aiham Taleb, Winfried Loetzsch, Noel Danz, Julius Severin, Thomas Gaertner, Benjamin Bergner, and Christoph Lippert
+
+Self-supervised learning methods have witnessed a recent surge of interest after proving successful in multiple application fields. In this work, we leverage these techniques, and we propose 3D versions for five different self-supervised methods, in the form of proxy tasks. Our methods facilitate neural network feature learning from unlabeled 3D images, aiming to reduce the required cost for expert annotation. The developed algorithms are 3D Contrastive Predictive Coding, 3D Rotation prediction, 3D Jigsaw puzzles, Relative 3D patch location, and 3D Exemplar networks. Our experiments show that pretraining models with our 3D tasks yields more powerful semantic representations, and enables solving downstream tasks more accurately and efficiently, compared to training the models from scratch and to pretraining them on 2D slices. We demonstrate the effectiveness of our methods on three downstream tasks from the medical imaging domain: i) Brain Tumor Segmentation from 3D MRI, ii) Pancreas Tumor Segmentation from 3D CT, and iii) Diabetic Retinopathy Detection from 2D Fundus images. In each task, we assess the gains in data-efficiency, performance, and speed of convergence. Interestingly, we also find gains when transferring the learned representations, by our methods, from a large unlabeled 3D corpus to a small downstream-specific dataset. We achieve results competitive to state-of-the-art solutions at a fraction of the computational expense. We publish our implementations for the developed algorithms (both 3D and 2D versions) as an open-source library, in an effort to allow other researchers to apply and extend our methods on their datasets. ---------------
+
+
+📄 Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need
+### 11 Dec 2023 | Generative Large Language Models Are All-purpose Text Analytics Engines: Text-to-text Learning Is All Your Need — Arxiv Link)
+
+Authors: Cheng Peng, Xi Yang, Aokun Chen, Zehao Yu, Kaleb E Smith, Anthony B Costa, Mona G Flores, Jiang Bian, Yonghui Wu
+
+Objective To solve major clinical natural language processing (NLP) tasks using a unified text-to-text learning architecture based on a generative large language model (LLM) via prompt tuning. Methods We formulated 7 key clinical NLP tasks as text-to-text learning and solved them using one unified generative clinical LLM, GatorTronGPT, developed using GPT-3 architecture and trained with up to 20 billion parameters. We adopted soft prompts (i.e., trainable vectors) with frozen LLM, where the LLM parameters were not updated (i.e., frozen) and only the vectors of soft prompts were updated, known as prompt tuning. We added additional soft prompts as a prefix to the input layer, which were optimized during the prompt tuning. We evaluated the proposed method using 7 clinical NLP tasks and compared them with previous task-specific solutions based on Transformer models. Results and Conclusion The proposed approach achieved state-of-the-art performance for 5 out of 7 major clinical NLP tasks using one unified generative LLM. Our approach outperformed previous task-specific transformer models by 3% for concept extraction and 7% for relation extraction applied to social determinants of health, 3.4% for clinical concept normalization, 3.410% for clinical abbreviation disambiguation, and 5.5~9% for natural language inference. Our approach also outperformed a previously developed prompt-based machine reading comprehension (MRC) model, GatorTron-MRC, for clinical concept and relation extraction. The proposed approach can deliver the one model for all promise from training to deployment using a unified generative LLM. ---------------
+
+
+📄 PyHealth: A Python Library for Health Predictive Models
+### 11 Jan 2021 | PyHealth: A Python Library for Health Predictive Models — Arxiv Link)
+
+Authors: Yue Zhao, Zhi Qiao, Cao Xiao, Lucas Glass, Jimeng Sun
+
+Despite the explosion of interest in healthcare AI research, the reproducibility and benchmarking of those research works are often limited due to the lack of standard benchmark datasets and diverse evaluation metrics. To address this reproducibility challenge, we develop PyHealth, an open-source Python toolbox for developing various predictive models on healthcare data. PyHealth consists of data preprocessing module, predictive modeling module, and evaluation module. The target users of PyHealth are both computer science researchers and healthcare data scientists. With PyHealth, they can conduct complex machine learning pipelines on healthcare datasets with fewer than ten lines of code. The data preprocessing module enables the transformation of complex healthcare datasets such as longitudinal electronic health records, medical images, continuous signals (e.g., electrocardiogram), and clinical notes into machine learning friendly formats. The predictive modeling module provides more than 30 machine learning models, including established ensemble trees and deep neural network-based approaches, via a unified but extendable API designed for both researchers and practitioners. The evaluation module provides various evaluation strategies (e.g., cross-validation and train-validation-test split) and predictive model metrics. With robustness and scalability in mind, best practices such as unit testing, continuous integration, code coverage, and interactive examples are introduced in the library's development. PyHealth can be installed through the Python Package Index (PyPI) or https://github.com/yzhao062/PyHealth . ---------------
+
+
+📄 QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems
+### 02 Feb 2024 | QXAI: Explainable AI Framework for Quantitative Analysis in Patient Monitoring Systems — Arxiv Link)
+
+Authors: Thanveer Shaik, Xiaohui Tao, Haoran Xie, Lin Li, Juan D. Velasquez, Niall Higgins
+
+Artificial Intelligence techniques can be used to classify a patient's physical activities and predict vital signs for remote patient monitoring. Regression analysis based on non-linear models like deep learning models has limited explainability due to its black-box nature. This can require decision-makers to make blind leaps of faith based on non-linear model results, especially in healthcare applications. In non-invasive monitoring, patient data from tracking sensors and their predisposing clinical attributes act as input features for predicting future vital signs. Explaining the contributions of various features to the overall output of the monitoring application is critical for a clinician's decision-making. In this study, an Explainable AI for Quantitative analysis (QXAI) framework is proposed with post-hoc model explainability and intrinsic explainability for regression and classification tasks in a supervised learning approach. This was achieved by utilizing the Shapley values concept and incorporating attention mechanisms in deep learning models. We adopted the artificial neural networks (ANN) and attention-based Bidirectional LSTM (BiLSTM) models for the prediction of heart rate and classification of physical activities based on sensor data. The deep learning models achieved state-of-the-art results in both prediction and classification tasks. Global explanation and local explanation were conducted on input data to understand the feature contribution of various patient data. The proposed QXAI framework was evaluated using PPG-DaLiA data to predict heart rate and mobile health (MHEALTH) data to classify physical activities based on sensor data. Monte Carlo approximation was applied to the framework to overcome the time complexity and high computation power requirements required for Shapley value calculations. ---------------
+
+
+📄 'Etude cognitive des processus de construction d'une requ^ete dans un syst`eme de gestion de connaissances m'edicales
+### 10 Feb 2014 | 'Etude cognitive des processus de construction d'une requ^ete dans un syst`eme de gestion de connaissances m'edicales — Arxiv Link)
+
+Authors: Nathalie Chaignaud (LITIS), Val'erie Delavigne (LiDiFra), Maryvonne Holzem (LiDiFra), Jean-Philippe Kotowicz (LITIS), Alain Loisel (LITIS)
+
+This article presents the Cogni-CISMeF project, which aims at improving medical information search in the CISMeF system (Catalog and Index of French-language health resources) by including a conversational agent to interact with the user in natural language. To study the cognitive processes involved during the information search, a bottom-up methodology was adopted. Experimentation has been set up to obtain human dialogs between a user (playing the role of patient) dealing with medical information search and a CISMeF expert refining the request. The analysis of these dialogs underlined the use of discursive evidence: vocabulary, reformulation, implicit or explicit expression of user intentions, conversational sequences, etc. A model of artificial agent is proposed. It leads the user in its information search by proposing to him examples, assistance and choices. This model was implemented and integrated in the CISMeF system. ---- Cet article d'ecrit le projet Cogni-CISMeF qui propose un module de dialogue Homme-Machine `a int'egrer dans le syst`eme d'indexation de connaissances m'edicales CISMeF (Catalogue et Index des Sites M'edicaux Francophones). Nous avons adopt'e une d'emarche de mod'elisation cognitive en proc'edant `a un recueil de corpus de dialogues entre un utilisateur (jouant le r^ole d'un patient) d'esirant une information m'edicale et un expert CISMeF af inant cette demande pour construire la requ^ete. Nous avons analys'e la structure des dialogues ainsi obtenus et avons 'etudi'e un certain nombre d'indices discursifs : vocabulaire employ'e, marques de reformulation, commentaires m'eta et 'epilinguistiques, expression implicite ou explicite des intentions de l'utilisateur, encha^inement conversationnel, etc. De cette analyse, nous avons construit un mod`ele d'agent artificiel dot'e de capacit'es cognitives capables d'aider l'utilisateur dans sa t^ache de recherche d'information. Ce mod`ele a 'et'e impl'ement'e et int'egr'e dans le syst`eme CISMeF. ---------------
+
+
+📄 Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy
+### 11 Apr 2019 | Text2Node: a Cross-Domain System for Mapping Arbitrary Phrases to a Taxonomy — Arxiv Link)
+
+Authors: Rohollah Soltani and Alexandre Tomberg
+
+Electronic health record (EHR) systems are used extensively throughout the healthcare domain. However, data interchangeability between EHR systems is limited due to the use of different coding standards across systems. Existing methods of mapping coding standards based on manual human experts mapping, dictionary mapping, symbolic NLP and classification are unscalable and cannot accommodate large scale EHR datasets. In this work, we present Text2Node, a cross-domain mapping system capable of mapping medical phrases to concepts in a large taxonomy (such as SNOMED CT). The system is designed to generalize from a limited set of training samples and map phrases to elements of the taxonomy that are not covered by training data. As a result, our system is scalable, robust to wording variants between coding systems and can output highly relevant concepts when no exact concept exists in the target taxonomy. Text2Node operates in three main stages: first, the lexicon is mapped to word embeddings; second, the taxonomy is vectorized using node embeddings; and finally, the mapping function is trained to connect the two embedding spaces. We compared multiple algorithms and architectures for each stage of the training, including GloVe and FastText word embeddings, CNN and Bi-LSTM mapping functions, and node2vec for node embeddings. We confirmed the robustness and generalisation properties of Text2Node by mapping ICD-9-CM Diagnosis phrases to SNOMED CT and by zero-shot training at comparable accuracy. This system is a novel methodological contribution to the task of normalizing and linking phrases to a taxonomy, advancing data interchangeability in healthcare. When applied, the system can use electronic health records to generate an embedding that incorporates taxonomical medical knowledge to improve clinical predictive models. ---------------
+
+
+📄 Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training
+### 15 Sep 2022 | Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training — Arxiv Link)
+
+Authors: Zhihong Chen, Yuhao Du, Jinpeng Hu, Yang Liu, Guanbin Li, Xiang Wan, Tsung-Hui Chang
+
+Medical vision-and-language pre-training provides a feasible solution to extract effective vision-and-language representations from medical images and texts. However, few studies have been dedicated to this field to facilitate medical vision-and-language understanding. In this paper, we propose a self-supervised learning paradigm with multi-modal masked autoencoders (M
+3
+3
+ AE), which learn cross-modal domain knowledge by reconstructing missing pixels and tokens from randomly masked images and texts. There are three key designs to make this simple approach work. First, considering the different information densities of vision and language, we adopt different masking ratios for the input image and text, where a considerably larger masking ratio is used for images. Second, we use visual and textual features from different layers to perform the reconstruction to deal with different levels of abstraction in visual and language. Third, we develop different designs for vision and language decoders (i.e., a Transformer for vision and a multi-layer perceptron for language). To perform a comprehensive evaluation and facilitate further research, we construct a medical vision-and-language benchmark including three tasks. Experimental results demonstrate the effectiveness of our approach, where state-of-the-art results are achieved on all downstream tasks. Besides, we conduct further analysis to better verify the effectiveness of different components of our approach and various settings of pre-training. The source code is available at~\url{https://github.com/zhjohnchan/M3AE}. ---------------
+
+
+📄 Snomed2Vec: Random Walk and Poincar'e Embeddings of a Clinical Knowledge Base for Healthcare Analytics
+### 19 Jul 2019 | Snomed2Vec: Random Walk and Poincar'e Embeddings of a Clinical Knowledge Base for Healthcare Analytics — Arxiv Link)
+
+Authors: Khushbu Agarwal, Tome Eftimov, Raghavendra Addanki, Sutanay Choudhury, Suzanne Tamang, and Robert Rallo
+
+Representation learning methods that transform encoded data (e.g., diagnosis and drug codes) into continuous vector spaces (i.e., vector embeddings) are critical for the application of deep learning in healthcare. Initial work in this area explored the use of variants of the word2vec algorithm to learn embeddings for medical concepts from electronic health records or medical claims datasets. We propose learning embeddings for medical concepts by using graph-based representation learning methods on SNOMED-CT, a widely popular knowledge graph in the healthcare domain with numerous operational and research applications. Current work presents an empirical analysis of various embedding methods, including the evaluation of their performance on multiple tasks of biomedical relevance (node classification, link prediction, and patient state prediction). Our results show that concept embeddings derived from the SNOMED-CT knowledge graph significantly outperform state-of-the-art embeddings, showing 5-6x improvement in ``concept similarity" and 6-20% improvement in patient diagnosis. ---------------
+
+
+📄 A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks
+### 27 Jan 2023 | A Multi-View Joint Learning Framework for Embedding Clinical Codes and Text Using Graph Neural Networks — Arxiv Link)
+
+Authors: Lecheng Kong, Christopher King, Bradley Fritz, Yixin Chen
+
+Learning to represent free text is a core task in many clinical machine learning (ML) applications, as clinical text contains observations and plans not otherwise available for inference. State-of-the-art methods use large language models developed with immense computational resources and training data; however, applying these models is challenging because of the highly varying syntax and vocabulary in clinical free text. Structured information such as International Classification of Disease (ICD) codes often succinctly abstracts the most important facts of a clinical encounter and yields good performance, but is often not as available as clinical text in real-world scenarios. We propose a \textbf{multi-view learning framework} that jointly learns from codes and text to combine the availability and forward-looking nature of text and better performance of ICD codes. The learned text embeddings can be used as inputs to predictive algorithms independent of the ICD codes during inference. Our approach uses a Graph Neural Network (GNN) to process ICD codes, and Bi-LSTM to process text. We apply Deep Canonical Correlation Analysis (DCCA) to enforce the two views to learn a similar representation of each patient. In experiments using planned surgical procedure text, our model outperforms BERT models fine-tuned to clinical data, and in experiments using diverse text in MIMIC-III, our model is competitive to a fine-tuned BERT at a tiny fraction of its computational effort. ---------------
+
+
+📄 MIPO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning
+### 12 Feb 2022 | MIPO: Mutual Integration of Patient Journey and Medical Ontology for Healthcare Representation Learning — Arxiv Link)
+
+Authors: Xueping Peng and Guodong Long and Sen Wang and Jing Jiang and Allison Clarke and Clement Schlegel and Chengqi Zhang
+
+Healthcare representation learning on the Electronic Health Records is crucial for downstream medical prediction tasks in health informatics. Many NLP techniques, such as RNN and self-attention, have been adapted to learn medical representations from hierarchical and time-stamped EHRs data, but fail when they lack either general or task-specific data. Hence, some recent works train healthcare representations by incorporating medical ontology, by self-supervised tasks like diagnosis prediction, but (1) the small-scale, monotonous ontology is insufficient for robust learning, and (2) critical contexts or dependencies underlying patient journeys are barely exploited to enhance ontology learning. To address the challenges, we propose a Transformer-based representation learning approach: Mutual Integration of Patient journey and medical Ontology (MIPO), which is a robust end-to-end framework. Specifically, the proposed method focuses on task-specific representation learning by a sequential diagnoses predictive task, which is also beneficial to the ontology-based disease typing task. To integrate information in the patient's visiting records, we further introduce a graph-embedding module, which can mitigate the challenge of data insufficiency in healthcare. In this way, MIPO creates a mutual integration to benefit both healthcare representation learning and medical ontology embedding. Such an effective integration is guaranteed by joint training over fused embeddings of the two modules, targeting both task-specific prediction and ontology-based disease typing tasks simultaneously. Extensive experiments conducted on two real-world benchmark datasets have shown MIPO consistently achieves better performance than state-of-the-art methods no matter whether the training data is sufficient or not. Also, MIPO derives more interpretable diagnose embedding results compared to its counterparts. ---------------
+
+
+📄 Text2MDT: Extracting Medical Decision Trees from Medical Texts
+### 04 Jan 2024 | Text2MDT: Extracting Medical Decision Trees from Medical Texts — Arxiv Link)
+
+Authors: Wei Zhu and Wenfeng Li and Xing Tian and Pengfei Wang and Xiaoling Wang and Jin Chen and Yuanbin Wu and Yuan Ni and Guotong Xie
+
+Knowledge of the medical decision process, which can be modeled as medical decision trees (MDTs), is critical to build clinical decision support systems. However, the current MDT construction methods rely heavily on time-consuming and laborious manual annotation. In this work, we propose a novel task, Text2MDT, to explore the automatic extraction of MDTs from medical texts such as medical guidelines and textbooks. We normalize the form of the MDT and create an annotated Text-to-MDT dataset in Chinese with the participation of medical experts. We investigate two different methods for the Text2MDT tasks: (a) an end-to-end framework which only relies on a GPT style large language models (LLM) instruction tuning to generate all the node information and tree structures. (b) The pipeline framework which decomposes the Text2MDT task to three subtasks. Experiments on our Text2MDT dataset demonstrate that: (a) the end-to-end method basd on LLMs (7B parameters or larger) show promising results, and successfully outperform the pipeline methods. (b) The chain-of-thought (COT) prompting method \cite{Wei2022ChainOT} can improve the performance of the fine-tuned LLMs on the Text2MDT test set. (c) the lightweight pipelined method based on encoder-based pretrained models can perform comparably with LLMs with model complexity two magnititudes smaller. Our Text2MDT dataset is open-sourced at \url{https://tianchi.aliyun.com/dataset/95414}, and the source codes are open-sourced at \url{https://github.com/michael-wzhu/text2dt}. ---------------
+
+
+📄 Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures
+### 05 May 2022 | Understanding Transfer Learning for Chest Radiograph Clinical Report Generation with Modified Transformer Architectures — Arxiv Link)
+
+Authors: Edward Vendrow, Ethan Schonfeld
+
+The image captioning task is increasingly prevalent in artificial intelligence applications for medicine. One important application is clinical report generation from chest radiographs. The clinical writing of unstructured reports is time consuming and error-prone. An automated system would improve standardization, error reduction, time consumption, and medical accessibility. In this paper we demonstrate the importance of domain specific pre-training and propose a modified transformer architecture for the medical image captioning task. To accomplish this, we train a series of modified transformers to generate clinical reports from chest radiograph image input. These modified transformers include: a meshed-memory augmented transformer architecture with visual extractor using ImageNet pre-trained weights, a meshed-memory augmented transformer architecture with visual extractor using CheXpert pre-trained weights, and a meshed-memory augmented transformer whose encoder is passed the concatenated embeddings using both ImageNet pre-trained weights and CheXpert pre-trained weights. We use BLEU(1-4), ROUGE-L, CIDEr, and the clinical CheXbert F1 scores to validate our models and demonstrate competitive scores with state of the art models. We provide evidence that ImageNet pre-training is ill-suited for the medical image captioning task, especially for less frequent conditions (eg: enlarged cardiomediastinum, lung lesion, pneumothorax). Furthermore, we demonstrate that the double feature model improves performance for specific medical conditions (edema, consolidation, pneumothorax, support devices) and overall CheXbert F1 score, and should be further developed in future work. Such a double feature model, including both ImageNet pre-training as well as domain specific pre-training, could be used in a wide range of image captioning models in medicine. ---------------
+
+
+📄 MEDPSeg: End-to-end segmentation of pulmonary structures and lesions in computed tomography
+### 04 Dec 2023 | MEDPSeg: End-to-end segmentation of pulmonary structures and lesions in computed tomography — Arxiv Link)
+
+Authors: Diedre S. Carmo, Jean Ribeiro, Alejandro P. Comellas, Joseph M. Reinhardt, Sarah E. Gerard, Let'icia Rittner, Roberto A. Lotufo
+
+The COVID-19 pandemic response highlighted the potential of deep learning methods in facilitating the diagnosis and prognosis of lung diseases through automated segmentation of normal and abnormal tissue in computed tomography (CT). Such methods not only have the potential to aid in clinical decision-making but also contribute to the comprehension of novel diseases. In light of the labor-intensive nature of manual segmentation for large chest CT cohorts, there is a pressing need for reliable automated approaches that enable efficient analysis of chest CT anatomy in vast research databases, especially in more scarcely annotated targets such as pneumonia consolidations. A limiting factor for the development of such methods is that most current models optimize a fixed annotation format per network output. To tackle this problem, polymorphic training is used to optimize a network with a fixed number of output channels to represent multiple hierarchical anatomic structures, indirectly optimizing more complex labels with simpler annotations. We combined over 6000 volumetric CT scans containing varying formats of manual and automated labels from different sources, and used polymorphic training along with multitask learning to develop MEDPSeg, an end-to-end method for the segmentation of lungs, airways, pulmonary artery, and lung lesions with separation of ground glass opacities, and parenchymal consolidations, all in a single forward prediction. We achieve state-of-the-art performance in multiple targets, particularly in the segmentation of ground glass opacities and consolidations, a challenging problem with limited manual annotation availability. In addition, we provide an open-source implementation with a graphical user interface at https://github.com/MICLab-Unicamp/medpseg. ---------------
+
+
+📄 CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation
+### 17 Jul 2023 | CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation — Arxiv Link)
+
+Authors: Huimin Wang, Wai-Chung Kwan, Kam-Fai Wong, Yefeng Zheng
+
+Automatic diagnosis (AD), a critical application of AI in healthcare, employs machine learning techniques to assist doctors in gathering patient symptom information for precise disease diagnosis. The Transformer-based method utilizes an input symptom sequence, predicts itself through auto-regression, and employs the hidden state of the final symptom to determine the disease. Despite its simplicity and superior performance demonstrated, a decline in disease diagnosis accuracy is observed caused by 1) a mismatch between symptoms observed during training and generation, and 2) the effect of different symptom orders on disease prediction. To address the above obstacles, we introduce the CoAD, a novel disease and symptom collaborative generation framework, which incorporates several key innovations to improve AD: 1) aligning sentence-level disease labels with multiple possible symptom inquiry steps to bridge the gap between training and generation; 2) expanding symptom labels for each sub-sequence of symptoms to enhance annotation and eliminate the effect of symptom order; 3) developing a repeated symptom input schema to effectively and efficiently learn the expanded disease and symptom labels. We evaluate the CoAD framework using four datasets, including three public and one private, and demonstrate that it achieves an average 2.3% improvement over previous state-of-the-art results in automatic disease diagnosis. For reproducibility, we release the code and data at https://github.com/KwanWaiChung/coad. ---------------
+
+
+📄 Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning
+### 30 Aug 2022 | Compound Figure Separation of Biomedical Images: Mining Large Datasets for Self-supervised Learning — Arxiv Link)
+
+Authors: Tianyuan Yao, Chang Qu, Jun Long, Quan Liu, Ruining Deng, Yuanhan Tian, Jiachen Xu, Aadarsh Jha, Zuhayr Asad, Shunxing Bao, Mengyang Zhao, Agnes B. Fogo, Bennett A.Landman, Haichun Yang, Catie Chang, Yuankai Huo
+
+With the rapid development of self-supervised learning (e.g., contrastive learning), the importance of having large-scale images (even without annotations) for training a more generalizable AI model has been widely recognized in medical image analysis. However, collecting large-scale task-specific unannotated data at scale can be challenging for individual labs. Existing online resources, such as digital books, publications, and search engines, provide a new resource for obtaining large-scale images. However, published images in healthcare (e.g., radiology and pathology) consist of a considerable amount of compound figures with subplots. In order to extract and separate compound figures into usable individual images for downstream learning, we propose a simple compound figure separation (SimCFS) framework without using the traditionally required detection bounding box annotations, with a new loss function and a hard case simulation. Our technical contribution is four-fold: (1) we introduce a simulation-based training framework that minimizes the need for resource extensive bounding box annotations; (2) we propose a new side loss that is optimized for compound figure separation; (3) we propose an intra-class image augmentation method to simulate hard cases; and (4) to the best of our knowledge, this is the first study that evaluates the efficacy of leveraging self-supervised learning with compound image separation. From the results, the proposed SimCFS achieved state-of-the-art performance on the ImageCLEF 2016 Compound Figure Separation Database. The pretrained self-supervised learning model using large-scale mined figures improved the accuracy of downstream image classification tasks with a contrastive learning algorithm. The source code of SimCFS is made publicly available at https://github.com/hrlblab/ImageSeperation.
+```
+
+
 
 
 
