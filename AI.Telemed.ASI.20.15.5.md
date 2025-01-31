@@ -33,11 +33,285 @@ Create a mermaid model of the glossary terms and show full code listing as app.p
 20. Persistent multiuser worlds involving other players or agents, the ability to build and interact in a shared virtual environment which defines constraints.  Include reinforcement learning, GRPO and PPO algorithms.
 
 
+# 1-2-3 of current events in hypergraph format.
+
+
+# 03
+
+```python
+open aai Oracle and SoftBank just announced a massive deal with President Trump called project Stargate despite the name unfortunately this has nothing to do with Intergalactic Wormhole infrastructure their plan is to invest a staggering $500 billion in the United States to build the largest data centers the world has ever seen for the sole purpose of churning out AI slop to put this number in perspective the US annual defense budget is 850 billion but that pays for aircraft carriers fighter jets and space lasers but there was someone who didn't get picked for the Stargate team and he's feeling really bummed out right now his name is Elon and everyone seems to forget that he has an AI company too he claims that SoftBank doesn't actually have the money secured and says the whole Stargate thing is fake Sam ultman then came in with a famous high road clapback where he compliments Elon but says he's wrong and then invites him to come visit the project that's already underway then Saia jumps in to backup Alman saying he's good for his 80 billion I'm good for my 80 billion in today's video we'll find out what the Stargate project really is and why you should be excited but also terrified it is January 23rd 2025 and you're watching the code report project Stargate is an AI infrastructure project where the goal is to invest $500 billion in the United States to build data centers now this project is not actually funded by taxpayers but instead will come from investors secured by the Japanese Bank Soft Bank Moshi son is the money guy Sam ultman is the gadgets guy and Larry Ellison is the muscle these data center facilities will require tons of energy and Trump is the gas man who will get that done by using executive orders to divert power to get these things built which they claim will create 100,000 new jobs which will then be eliminated by AI when they finish building this thing on the bright side this project could make AI cheaper and more accessible and they're really hyping up its medical benefits where Larry Ellison said it will enable personalized medicine for everyone and that it should be able to develop customized mRNA vaccines to cure cancer Ellison is most welln as a champion sailor but he also became one of the richest men in the world by creating the first commercial squl database he also owns my favorite programming language Java and is fighting a legal battle with Dino to maintain control of the JavaScript trademark but he also has a dystopian vision for society where everything is monitored by AI to keep citizens on their best behavior citizens will be on their best behavior because we're constantly recording and Reporting everything that's going on and we're using AI to monitor the video this Vision will become a reality in the very near future Stargate currently has 10 data centers under construction in abene Texas and is expanding to more States soon and what's interesting is that the government used to have a different Stargate project back in the 70s which was a top secret CIA project to explore the possibility of psychic Warfare these names are no accident Oracle sees the future is Stargate is a portal to other dimensions and open AI is the one who gets to open the portal the timing is perfect because after years of saying open AI would definitely never go for profit open AI just laid out plans to go for-profit and give Sam Alman Equity to make him billions of dollars richer and that's surprising because he told Congress in 2023 he was doing it because he loves it make a lot of money do you I I'm doing this because I love it Elon is seething right now because he's about to release grock 3 which is a reasoning model like deep seek or 01 and based on this one biased example could be Superior to those models now I might get in trouble with my Illuminati Handler for telling you this but all this drama and beefing is scripted and fake Elon and Alman are Bros who started open AI together Ellison helped Elon by Twitter they're all connected to the PayPal Mafia and Peter theal whose Protege JD Vance just became the vice president he'll take over as president in 2027 but is actually controlled by reptilians who have been alive since the Roman times all roads lead to Rome and that's why Elon did this autistic Roman salute recently to Mark the beginning of the tech bro Dynasty that will reign supreme for the next 500 years this has been the code support
+```
+
+```python
+1. 🚀 Open AI, Oracle, and SoftBank just announced a massive deal with President Trump called Project Stargate.
+2. 🌌 Despite the name, unfortunately, this has nothing to do with intergalactic wormhole infrastructure.
+3. 💰 Their plan is to invest a staggering $500 billion in the United States to build the largest data centers the world has ever seen.
+4. 🤖 The sole purpose of these data centers is to churn out AI slop.
+5. 🛡️ To put this number in perspective, the US annual defense budget is $850 billion, but that pays for aircraft carriers, fighter jets, and space lasers.
+6. 😔 But there was someone who didn't get picked for the Stargate team, and he's feeling really bummed out right now.
+7. 🚗 His name is Elon, and everyone seems to forget that he has an AI company too.
+8. 🏦 He claims that SoftBank doesn't actually have the money secured and says the whole Stargate thing is fake.
+9. 🐦 Sam Altman then came in with a famous high-road clapback, where he compliments Elon but says he's wrong and then invites him to come visit the project that's already underway.
+10. 💼 Then Saia jumps in to back up Altman, saying, "He's good for his $80 billion. I'm good for my $80 billion."
+11. 🎥 In today's video, we'll find out what the Stargate project really is and why you should be excited but also terrified.
+12. 📅 It is January 23rd, 2025, and you're watching The Code Report.
+13. 🏗️ Project Stargate is an AI infrastructure project where the goal is to invest $500 billion in the United States to build data centers.
+14. 💸 Now, this project is not actually funded by taxpayers but instead will come from investors secured by the Japanese bank SoftBank.
+15. 💼 Masayoshi Son is the money guy, Sam Altman is the gadgets guy, and Larry Ellison is the muscle.
+16. ⚡ These data center facilities will require tons of energy, and Trump is the gas man who will get that done by using executive orders to divert power to get these things built.
+17. 👷 They claim this will create 100,000 new jobs, which will then be eliminated by AI when they finish building this thing.
+18. 🌟 On the bright side, this project could make AI cheaper and more accessible.
+19. 🏥 They're really hyping up its medical benefits, where Larry Ellison said it will enable personalized medicine for everyone and that it should be able to develop customized mRNA vaccines to cure cancer.
+20. ⛵ Ellison is most well-known as a champion sailor, but he also became one of the richest men in the world by creating the first commercial SQL database.
+21. ☕ He also owns my favorite programming language, Java, and is fighting a legal battle with Dino to maintain control of the JavaScript trademark.
+22. 🕵️ But he also has a dystopian vision for society where everything is monitored by AI to keep citizens on their best behavior.
+23. 📹 Citizens will be on their best behavior because we're constantly recording and reporting everything that's going on, and we're using AI to monitor the video.
+24. 🚨 This vision will become a reality in the very near future.
+25. 🏗️ Stargate currently has 10 data centers under construction in Abilene, Texas, and is expanding to more states soon.
+26. 🕵️ What's interesting is that the government used to have a different Stargate project back in the '70s, which was a top-secret CIA project to explore the possibility of psychic warfare.
+27. 🔮 These names are no accident. Oracle sees the future; Stargate is a portal to other dimensions, and OpenAI is the one who gets to open the portal.
+28. ⏳ The timing is perfect because, after years of saying OpenAI would definitely never go for profit, OpenAI just laid out plans to go for-profit and give Sam Altman equity to make him billions of dollars richer.
+29. 🎙️ That's surprising because he told Congress in 2023, "I'm doing this because I love it. Make a lot of money? Do I? I'm doing this because I love it."
+30. 😡 Elon is seething right now because he's about to release Grok 3, which is a reasoning model like Deep Seek or 01, and based on this one biased example, could be superior to those models.
+31. 👀 Now, I might get in trouble with my Illuminati handler for telling you this, but all this drama and beefing is scripted and fake.
+32. 🤝 Elon and Altman are bros who started OpenAI together.
+33. 🐦 Ellison helped Elon buy Twitter; they're all connected to the PayPal Mafia and Peter Thiel, whose protégé JD Vance just became the vice president.
+34. 🦎 He'll take over as president in 2027 but is actually controlled by reptilians who have been alive since Roman times.
+35. 🏛️ All roads lead to Rome, and that's why Elon did this autistic Roman salute recently to mark the beginning of the tech bro dynasty that will reign supreme for the next 500 years.
+36. 🎬 This has been The Code Report.
+```
+
+
+
+# 02
+```python
+last week Chinese company deep seek shocked the world when they walked right over open AI moe by releasing the open source R1 model not only does it beat their $200 01 reasoning model but it also beats Claude Sonet in Gemini it wins on key benchmarks but more importantly it passes My Vibe test along with many others on the internet as long as you don't ask it what happened on April 15th 1989 R1 even wins at math which is crazy considering open AI had the answers in advance over the last few days normies have been learning about R1 and it went viral to become the number one app America this is a big problem for big Tech because in order for the Griff to keep on grifting artificial intelligence needs to be hard and take thousands of gpus to pull off but deeps R1 cost less than $10 million and was actually the side project of a hedge fund where their only goal is to create long-term social value Wall Street is terrified and Nvidia stock is in for a blood bath today Nvidia has been the primary beneficiary of the AI boom but the whole bubble just got one-shotted by a brutal reality check in today's video we'll find out how deep seek just changed the course of history it is January 26 7 2025 and you're watching the code report Big Tech is literally shaking right now is Sam ultman coped with a dramatic tweet a revolution can neither be made nor stop the only thing that can be done is for one of several of its children to give it Direction by Dent to victories I'm not sure if that's Napoleon Dynamite or Napoleon boner part but the funny thing is he damn near got ratioed by someone with an anime profile picture that said it's not that deep Bro just release a better model in addition to try to remain competitive with deep seek open AI is also offering its 01 Mini model to free users but that's not all they also Al released a new thing called operator which gives AI access to a browser and allows it to click on buttons and fill out forms on your behalf which is a game changer because that means you can have chat GPT go attend your court appointed DUI courses or anything else you might have to do online in the future humans will no longer need websites or uis only apis that can interact with the AIS operator is currently only available to people on the $200 plan and overall it gets pretty mixed reviews that's cool and all but the Chinese are really crushing it right now deep seek is one thing but they also released this thing called hun you on 3D which can generate 3D meshes and textures and that's huge for people like me who have spent years failing to get good at blender but the crazy thing about deep seek is that it was just a side project that cost very little money to produce even Mark Andre called it one of the most amazing and impressive breakthroughs he's ever seen a profound gift to the world and because of that the stock market is panicking and just wiped out nearly a trillion dollars in value with Nvidia being The Biggest Loser followed by other chip companies like Taiwan semiconductor and broadcom you see nvidia's had basically a monopoly on AI training for the last decade because they have better Linux drivers than AMD and all the machine learning algorithms are optimized for libraries like Cuda which is proprietary and can only run on Nvidia gpus and they have the infrastructure to connect all these gpus together at scale as AI models get bigger and more popular is so do the profits of Nvidia but someone got deep seek running on a few Apple M2 Ultras and that's the 680 billion parameter top-of-the-line model and that's terrifying if you're a tech investor pouring billions of dollars into AI because if the best state-of-the-art model can operate on relatively cheap consumer hardware and it's free and open source and developed in China how are we going to make any mother fing money people are calling this the Sputnik moment when Russia launched the first artificial satellite into space in 1957 the United States was shocked at the time and it took over a decade to make a comeback when America made its Pinnacle achievement of filming a man on the moon in Nevada that's a joke of course and even the smartest technology in the world deep seek believes in the moonlandings we had a good run on this AI hype train but now it's time to move on I'm looking forward to brain chips quantum computers artificial meat printers nanor robots digital resurrection and tens of other Tech that will make the world a better place this has been the code report thanks for watching and I will see you in the next one
+```
+
+```python
+1. 🚀 Last week, Chinese company Deep Seek shocked the world when they walked right over OpenAI by releasing the open-source R1 model.
+2. 🏆 Not only does it beat their $200 01 reasoning model, but it also beats Claude Sonet and Gemini.
+3. 📊 It wins on key benchmarks, but more importantly, it passes My Vibe test along with many others on the internet.
+4. 🤖 As long as you don't ask it what happened on April 15th, 1989, R1 even wins at math, which is crazy considering OpenAI had the answers in advance.
+5. 🌐 Over the last few days, normies have been learning about R1, and it went viral to become the number one app in America.
+6. 💥 This is a big problem for Big Tech because, in order for the grift to keep on grifting, artificial intelligence needs to be hard and take thousands of GPUs to pull off.
+7. 💰 But Deep Seek's R1 cost less than $10 million and was actually the side project of a hedge fund where their only goal is to create long-term social value.
+8. 📉 Wall Street is terrified, and Nvidia stock is in for a bloodbath today.
+9. 🏦 Nvidia has been the primary beneficiary of the AI boom, but the whole bubble just got one-shotted by a brutal reality check.
+10. 🎥 In today's video, we'll find out how Deep Seek just changed the course of history.
+11. 📅 It is January 26, 2025, and you're watching The Code Report.
+12. 🤯 Big Tech is literally shaking right now.
+13. 🐦 Is Sam Altman coping with a dramatic tweet? "A revolution can neither be made nor stopped. The only thing that can be done is for one of several of its children to give it direction by dent to victories."
+14. 🤔 I'm not sure if that's Napoleon Dynamite or Napoleon Bonaparte, but the funny thing is he damn near got ratioed by someone with an anime profile picture that said, "It's not that deep, bro. Just release a better model."
+15. 🆓 In addition to trying to remain competitive with Deep Seek, OpenAI is also offering its 01 Mini model to free users.
+16. 🛠️ But that's not all; they also released a new thing called Operator, which gives AI access to a browser and allows it to click on buttons and fill out forms on your behalf.
+17. 🎮 This is a game changer because that means you can have ChatGPT go attend your court-appointed DUI courses or anything else you might have to do online.
+18. 🌐 In the future, humans will no longer need websites or UIs, only APIs that can interact with the AI's Operator.
+19. 💸 Operator is currently only available to people on the $200 plan and overall gets pretty mixed reviews.
+20. 🇨🇳 That's cool and all, but the Chinese are really crushing it right now.
+21. 🎨 Deep Seek is one thing, but they also released this thing called Hun You on 3D, which can generate 3D meshes and textures.
+22. 🖌️ That's huge for people like me who have spent years failing to get good at Blender.
+23. 🤯 But the crazy thing about Deep Seek is that it was just a side project that cost very little money to produce.
+24. 🌍 Even Mark Andreessen called it one of the most amazing and impressive breakthroughs he's ever seen, a profound gift to the world.
+25. 📉 And because of that, the stock market is panicking and just wiped out nearly a trillion dollars in value, with Nvidia being the biggest loser, followed by other chip companies like Taiwan Semiconductor and Broadcom.
+26. 💻 You see, Nvidia has had basically a monopoly on AI training for the last decade because they have better Linux drivers than AMD, and all the machine learning algorithms are optimized for libraries like CUDA, which is proprietary and can only run on Nvidia GPUs.
+27. 🔗 And they have the infrastructure to connect all these GPUs together at scale.
+28. 📈 As AI models get bigger and more popular, so do the profits of Nvidia.
+29. 🍏 But someone got Deep Seek running on a few Apple M2 Ultras, and that's the 680 billion parameter top-of-the-line model.
+30. 😱 And that's terrifying if you're a tech investor pouring billions of dollars into AI because if the best state-of-the-art model can operate on relatively cheap consumer hardware and it's free and open source and developed in China, how are we going to make any money?
+31. 🛰️ People are calling this the Sputnik moment when Russia launched the first artificial satellite into space in 1957.
+32. 🇺🇸 The United States was shocked at the time, and it took over a decade to make a comeback when America made its pinnacle achievement of filming a man on the moon in Nevada.
+33. 😂 That's a joke, of course, and even the smartest technology in the world, Deep Seek, believes in the moon landings.
+34. 🚂 We had a good run on this AI hype train, but now it's time to move on.
+35. 🧠 I'm looking forward to brain chips, quantum computers, artificial meat printers, nanorobots, digital resurrection, and tens of other tech that will make the world a better place.
+36. 🎬 This has been The Code Report. Thanks for watching, and I will see you in the next one.
+```
+
+
+```python
+markdown_tree = """
+# Streamlit App: Transcript Outline
+
+```python
+import streamlit as st
+
+st.title("Transcript Outline")
+
+st.markdown("""
+1. 🚀 Open AI, Oracle, and SoftBank just announced a massive deal with President Trump called Project Stargate.
+2. 🌌 Despite the name, unfortunately, this has nothing to do with intergalactic wormhole infrastructure.
+3. 💰 Their plan is to invest a staggering $500 billion in the United States to build the largest data centers the world has ever seen.
+4. 🤖 The sole purpose of these data centers is to churn out AI slop.
+5. 🛡️ To put this number in perspective, the US annual defense budget is $850 billion, but that pays for aircraft carriers, fighter jets, and space lasers.
+6. 😔 But there was someone who didn't get picked for the Stargate team, and he's feeling really bummed out right now.
+7. 🚗 His name is Elon, and everyone seems to forget that he has an AI company too.
+8. 🏦 He claims that SoftBank doesn't actually have the money secured and says the whole Stargate thing is fake.
+9. 🐦 Sam Altman then came in with a famous high-road clapback, where he compliments Elon but says he's wrong and then invites him to come visit the project that's already underway.
+10. 💼 Then Saia jumps in to back up Altman, saying, "He's good for his $80 billion. I'm good for my $80 billion."
+11. 🎥 In today's video, we'll find out what the Stargate project really is and why you should be excited but also terrified.
+12. 📅 It is January 23rd, 2025, and you're watching The Code Report.
+13. 🏗️ Project Stargate is an AI infrastructure project where the goal is to invest $500 billion in the United States to build data centers.
+14. 💸 Now, this project is not actually funded by taxpayers but instead will come from investors secured by the Japanese bank SoftBank.
+15. 💼 Masayoshi Son is the money guy, Sam Altman is the gadgets guy, and Larry Ellison is the muscle.
+16. ⚡ These data center facilities will require tons of energy, and Trump is the gas man who will get that done by using executive orders to divert power to get these things built.
+17. 👷 They claim this will create 100,000 new jobs, which will then be eliminated by AI when they finish building this thing.
+18. 🌟 On the bright side, this project could make AI cheaper and more accessible.
+19. 🏥 They're really hyping up its medical benefits, where Larry Ellison said it will enable personalized medicine for everyone and that it should be able to develop customized mRNA vaccines to cure cancer.
+20. ⛵ Ellison is most well-known as a champion sailor, but he also became one of the richest men in the world by creating the first commercial SQL database.
+21. ☕ He also owns my favorite programming language, Java, and is fighting a legal battle with Dino to maintain control of the JavaScript trademark.
+22. 🕵️ But he also has a dystopian vision for society where everything is monitored by AI to keep citizens on their best behavior.
+23. 📹 Citizens will be on their best behavior because we're constantly recording and reporting everything that's going on, and we're using AI to monitor the video.
+24. 🚨 This vision will become a reality in the very near future.
+25. 🏗️ Stargate currently has 10 data centers under construction in Abilene, Texas, and is expanding to more states soon.
+26. 🕵️ What's interesting is that the government used to have a different Stargate project back in the '70s, which was a top-secret CIA project to explore the possibility of psychic warfare.
+27. 🔮 These names are no accident. Oracle sees the future; Stargate is a portal to other dimensions, and OpenAI is the one who gets to open the portal.
+28. ⏳ The timing is perfect because, after years of saying OpenAI would definitely never go for profit, OpenAI just laid out plans to go for-profit and give Sam Altman equity to make him billions of dollars richer.
+29. 🎙️ That's surprising because he told Congress in 2023, "I'm doing this because I love it. Make a lot of money? Do I? I'm doing this because I love it."
+30. 😡 Elon is seething right now because he's about to release Grok 3, which is a reasoning model like Deep Seek or 01, and based on this one biased example, could be superior to those models.
+31. 👀 Now, I might get in trouble with my Illuminati handler for telling you this, but all this drama and beefing is scripted and fake.
+32. 🤝 Elon and Altman are bros who started OpenAI together.
+33. 🐦 Ellison helped Elon buy Twitter; they're all connected to the PayPal Mafia and Peter Thiel, whose protégé JD Vance just became the vice president.
+34. 🦎 He'll take over as president in 2027 but is actually controlled by reptilians who have been alive since Roman times.
+35. 🏛️ All roads lead to Rome, and that's why Elon did this autistic Roman salute recently to mark the beginning of the tech bro dynasty that will reign supreme for the next 500 years.
+36. 🎬 This has been The Code Report.
+```
+
+```python
+
+---
+
+### Step 4: Glossary Markdown Outline with Emojis
+
+```markdown
+# Glossary
+
+1. 🚀 **Project Stargate**: A $500 billion AI infrastructure project announced by Open AI, Oracle, and SoftBank, aimed at building massive data centers in the United States.
+2. 💰 **SoftBank**: A Japanese multinational conglomerate providing financial backing for Project Stargate.
+3. 🤖 **AI Slop**: A term used to describe the output of AI systems, often implying low-quality or mass-produced content.
+4. 🛡️ **US Defense Budget**: The annual budget allocated for the United States military, totaling $850 billion.
+5. 🚗 **Elon Musk**: A prominent tech entrepreneur who claims SoftBank doesn't have the funds secured for Project Stargate.
+6. 🐦 **Sam Altman**: CEO of OpenAI, who responded to Elon Musk's criticisms with a high-road clapback.
+7. 💼 **Saia**: A figure backing Sam Altman, claiming financial credibility for the project.
+8. 🏗️ **Data Centers**: Large facilities housing computer systems and infrastructure for AI processing.
+9. ⚡ **Energy Requirements**: The massive power needs of Project Stargate's data centers, to be addressed through executive orders.
+10. 🏥 **Personalized Medicine**: A medical approach enabled by AI, aiming to provide tailored treatments for individuals.
+11. ⛵ **Larry Ellison**: Co-founder of Oracle, known for his sailing achievements and contributions to database technology.
+12. ☕ **Java**: A popular programming language owned by Oracle.
+13. 🕵️ **Dystopian Vision**: A societal model where AI monitors and controls citizen behavior.
+14. 🕵️ **CIA Stargate Project**: A 1970s CIA initiative exploring psychic warfare, unrelated to the current AI project.
+15. 🔮 **Oracle**: A technology company that sees the future as a portal to other dimensions through AI.
+16. ⏳ **For-Profit OpenAI**: OpenAI's transition from a non-profit to a for-profit entity, granting equity to Sam Altman.
+17. 😡 **Grok 3**: A reasoning model developed by Elon Musk, potentially superior to existing AI models.
+18. 🦎 **Reptilians**: A conspiracy theory suggesting that certain leaders are controlled by ancient reptilian beings.
+19. 🏛️ **Roman Salute**: A gesture Elon Musk used to symbolize the rise of a tech dynasty.
+20. 🎬 **The Code Report**: A video series covering tech news and developments.
+```
+
+
+### Step 4: Glossary Markdown Outline with Emojis
+
+```markdown
+# Glossary
+
+1. 🧠 **Deep Seek**: A Chinese company that shocked the world by releasing the open-source R1 model, which outperforms many existing AI models.
+2. 🤖 **R1 Model**: An open-source AI model developed by Deep Seek that beats OpenAI's models and others on key benchmarks.
+3. 🏆 **Benchmarks**: Standardized tests used to evaluate the performance of AI models.
+4. 💻 **OpenAI**: A leading AI research organization known for developing advanced AI models like GPT.
+5. 🧮 **Math Performance**: The ability of an AI model to solve mathematical problems, a key benchmark for AI capabilities.
+6. 💰 **Hedge Fund**: An investment fund that aims to create long-term social value, as in the case of Deep Seek's R1 project.
+7. 📉 **Nvidia**: A major tech company that has benefited significantly from the AI boom due to its GPUs and AI infrastructure.
+8. 🛠️ **CUDA**: A proprietary parallel computing platform and API model created by Nvidia, optimized for machine learning algorithms.
+9. 🍏 **Apple M2 Ultra**: A high-performance chip used in Apple devices, capable of running advanced AI models like Deep Seek's R1.
+10. 🛰️ **Sputnik Moment**: A reference to the launch of the first artificial satellite by Russia in 1957, symbolizing a major technological breakthrough.
+11. 🌍 **Mark Andreessen**: A prominent tech investor who praised Deep Seek's R1 as a profound gift to the world.
+12. 🎨 **Hun You on 3D**: A tool released by Deep Seek that generates 3D meshes and textures, useful for 3D modeling and design.
+13. 🖌️ **Blender**: A popular open-source 3D modeling software, often used for creating 3D graphics and animations.
+14. 🧠 **Brain Chips**: Emerging technology that involves implanting chips in the brain to enhance cognitive abilities or interface with machines.
+15. ⚛️ **Quantum Computers**: Advanced computing systems that leverage quantum mechanics to solve complex problems faster than classical computers.
+16. 🍖 **Artificial Meat Printers**: Technology that uses 3D printing to create lab-grown meat, offering a sustainable alternative to traditional meat production.
+17. 🤖 **Nanorobots**: Microscopic robots designed to perform tasks at the nanoscale, potentially revolutionizing medicine and manufacturing.
+18. 💀 **Digital Resurrection**: The concept of using AI and digital data to recreate or simulate deceased individuals, often for emotional or historical purposes.
+```
+
+
+
+
+# 01
+
+```python
+The Deep seek Rabbit Hole just keeps getting deeper and deeper. After being deeply wounded by Deep seek last week, open AI is now reportedly accusing them of IP theft. To make matters even worse, a second Chinese model just hit the timeline. If you're just waking up from a coma, the legend goes like this: a Chinese hedge fund built a state-of-the-art reasoning model that surpassed open AI and only spent $5.5 million to train it. Then, they gave the world a 100% discount code to use it. That was devastating to Big Tech and especially open AI, who have been gradually trying to convince people that AI is hard and we need things like $500 billion Stargate data centers. Now, in order to get the AI hype train back on track, the new White House AIAR and PayPal Mafia member David Sachs just went on the news and said they have substantial evidence that deep seek stole open AI's outputs to fine-tune their models, a technique known as distillation that is strictly forbidden in their terms of service. The irony here is not only palpable; one might describe it as artificial super irony. You might remember how open AI vacuumed up the entire internet and all its copyrighted materials without asking anybody for permission. Elon accused them of scraping Twitter. George RR Martin and a bunch of other authors are suing, among many other lawsuits around the world. But I need to let you in on a tech bro founder secret: we do shady stuff and then ask for forgiveness later because, once a company reaches critical mass, there's no stopping it. Uber and Airbnb are prime examples, and thus far, open AI has mostly prevailed in their copyright infringement legal battles. In today's video, we'll take a closer look at the technical details of deep seek, how it bypassed CUDA, and try to find out if it actually ripped off open AI. It is January 29th, 2025, and you're watching the code report. My conspiracy theory is that open AI has been deep seek all along, and this was just the most genius marketing trick of all time to assert their dominance. I wouldn't put it past Chief Persuasion Officer Sam Altman; he's just a con man, and he lies to everyone. But now, open AI and Microsoft are accusing deep seek of distillation, where you take one big expensive model like GPT-4 and use its outputs to transfer knowledge to a smaller model. Thus far, they haven't provided any hard evidence, but there are screenshots like this going around the internet where deep seek provides a response that should only come from chat GPT. That's not a smoking gun, though, because this type of content is all over the internet now, so deep seek could have learned it organically. However, Microsoft, which provides the servers for much of open AI's compute, said they observed someone in China extracting large volumes of data from the open AI API, and they believe these accounts may be linked to deep seek. In other words, deep seek is basically Robin Hood, stealing from the rich to give to the poor. Distillation generally provides better results compared to reinforcement learning, where you actually feed the model new data with a reward function. Distillation is not controversial, and deep seek's models are distilled from LLaMA and Quen. In fact, you can even distill open AI models as long as you don't use the API to build a rival model, and that appears to be the root of open AI's beef. And get this: Alibaba just released Quen 2.5 Max just minutes ago, and although it's not a reasoning model, it's an open model that beats deep seek, Claude, and GPT-4 on these benchmarks. And not only that, but yet another Chinese model called Kim 1.5 just came out and apparently beats open AI GPT-4. We're now in a China versus China AI race with the United States falling behind. Meanwhile, Europe is focused on other technological innovations like bottle caps you can't take off. Many people have complained that deep seek is highly censored, but it's relatively easy to jailbreak if you're a senior prompt engineer. But speaking of irony, last year, MidJourney accused Stability AI of image theft, but none of that matters now because deep seek also just released the Jan series models, which do diffusion-based image generation. While the quality is not as good as Stable Diffusion or MidJourney, it's yet another open-source model you can use commercially, and that's good news for humanity. But another interesting detail about deep seek is that it achieved 10x better efficiency than other models in part by not using CUDA, Nvidia's proprietary platform for running code on a GPU. Instead, they used Nvidia Parallel Thread Execution directly, which conceptually would be similar to building a website with assembly code and is just another example of how cracked these deep seek engineers really are. Now, another major criticism of deep seek is that when you use it on the web, all your prompts, data, and keystrokes go to China. If you care about privacy, though, you shouldn't be using the internet anyway. Instead, you should use it locally like I did in this video on my second channel. But the most important trend here is that open source is winning. That means if you're a developer, now is the time to start building products people love, and you can do that with a truly awesome open-source tool called PostHog, the sponsor of today's video. It's like a Swiss army knife to analyze, test, observe, and deploy better features. Its product analytics tool can help you understand your customers and build funnels. Its web analytics can replace Google Analytics, and session replay will help you understand how users actually interact with your app, not to mention feature flags and UI experiments like A/B tests, just to name a few of the features. But most importantly, it's easy to implement thanks to SDKs for web, mobile, and server-side apps with excellent docs designed for developers. Not only is it open-source and self-hostable, but it also has a fully managed, no-card-required free plan. Give PostHog a try with the link below. This has been the code report. Thanks for watching, and I will see you in the next one.
+```
+
+```python
+1. 🕳️ The Deep seek Rabbit Hole just keeps getting deeper and deeper.
+2. 🩹 After being deeply wounded by Deep seek last week, open AI is now reportedly accusing them of IP theft.
+3. 🐉 To make matters even worse, a second Chinese model just hit the timeline.
+4. 🏥 If you're just waking up from a coma, the legend goes like this: a Chinese hedge fund built a state-of-the-art reasoning model that surpassed open AI and only spent $5.5 million to train it.
+5. 💸 Then, they gave the world a 100% discount code to use it.
+6. 💥 That was devastating to Big Tech and especially open AI, who have been gradually trying to convince people that AI is hard and we need things like $500 billion Stargate data centers.
+7. 🚂 Now, in order to get the AI hype train back on track, the new White House AIAR and PayPal Mafia member David Sachs just went on the news and said they have substantial evidence that deep seek stole open AI's outputs to fine-tune their models, a technique known as distillation that is strictly forbidden in their terms of service.
+8. 🤖 The irony here is not only palpable; one might describe it as artificial super irony.
+9. 🌐 You might remember how open AI vacuumed up the entire internet and all its copyrighted materials without asking anybody for permission.
+10. 🐦 Elon accused them of scraping Twitter.
+11. 📚 George RR Martin and a bunch of other authors are suing, among many other lawsuits around the world.
+12. 🤫 But I need to let you in on a tech bro founder secret: we do shady stuff and then ask for forgiveness later because, once a company reaches critical mass, there's no stopping it.
+13. 🚗 Uber and Airbnb are prime examples, and thus far, open AI has mostly prevailed in their copyright infringement legal battles.
+14. 🎥 In today's video, we'll take a closer look at the technical details of deep seek, how it bypassed CUDA, and try to find out if it actually ripped off open AI.
+15. 📅 It is January 29th, 2025, and you're watching the code report.
+16. 🕵️ My conspiracy theory is that open AI has been deep seek all along, and this was just the most genius marketing trick of all time to assert their dominance.
+17. 🎭 I wouldn't put it past Chief Persuasion Officer Sam Altman; he's just a con man, and he lies to everyone.
+18. 🔍 But now, open AI and Microsoft are accusing deep seek of distillation, where you take one big expensive model like GPT-4 and use its outputs to transfer knowledge to a smaller model.
+19. 🖼️ Thus far, they haven't provided any hard evidence, but there are screenshots like this going around the internet where deep seek provides a response that should only come from chat GPT.
+20. 🔫 That's not a smoking gun, though, because this type of content is all over the internet now, so deep seek could have learned it organically.
+21. 🕵️‍♂️ However, Microsoft, which provides the servers for much of open AI's compute, said they observed someone in China extracting large volumes of data from the open AI API, and they believe these accounts may be linked to deep seek.
+22. 🏹 In other words, deep seek is basically Robin Hood, stealing from the rich to give to the poor.
+23. 🧪 Distillation generally provides better results compared to reinforcement learning, where you actually feed the model new data with a reward function.
+24. 🌿 Distillation is not controversial, and deep seek's models are distilled from LLaMA and Quen.
+25. 🛠️ In fact, you can even distill open AI models as long as you don't use the API to build a rival model, and that appears to be the root of open AI's beef.
+26. 🐉 And get this: Alibaba just released Quen 2.5 Max just minutes ago, and although it's not a reasoning model, it's an open model that beats deep seek, Claude, and GPT-4 on these benchmarks.
+27. 🐲 And not only that, but yet another Chinese model called Kim 1.5 just came out and apparently beats open AI GPT-4.
+28. 🇨🇳 We're now in a China versus China AI race with the United States falling behind.
+29. 🇪🇺 Meanwhile, Europe is focused on other technological innovations like bottle caps you can't take off.
+30. 🔒 Many people have complained that deep seek is highly censored, but it's relatively easy to jailbreak if you're a senior prompt engineer.
+31. 🎨 But speaking of irony, last year, MidJourney accused Stability AI of image theft, but none of that matters now because deep seek also just released the Jan series models, which do diffusion-based image generation.
+32. 🖼️ While the quality is not as good as Stable Diffusion or MidJourney, it's yet another open-source model you can use commercially, and that's good news for humanity.
+33. ⚙️ But another interesting detail about deep seek is that it achieved 10x better efficiency than other models in part by not using CUDA, Nvidia's proprietary platform for running code on a GPU.
+34. 🧩 Instead, they used Nvidia Parallel Thread Execution directly, which conceptually would be similar to building a website with assembly code and is just another example of how cracked these deep seek engineers really are.
+35. 🕵️‍♂️ Now, another major criticism of deep seek is that when you use it on the web, all your prompts, data, and keystrokes go to China.
+36. 🔒 If you care about privacy, though, you shouldn't be using the internet anyway.
+37. 💻 Instead, you should use it locally like I did in this video on my second channel.
+38. 🏆 But the most important trend here is that open source is winning.
+39. 🛠️ That means if you're a developer, now is the time to start building products people love, and you can do that with a truly awesome open-source tool called PostHog, the sponsor of today's video.
+40. 🗡️ It's like a Swiss army knife to analyze, test, observe, and deploy better features.
+41. 📊 Its product analytics tool can help you understand your customers and build funnels.
+42. 🌐 Its web analytics can replace Google Analytics, and session replay will help you understand how users actually interact with your app, not to mention feature flags and UI experiments like A/B tests, just to name a few of the features.
+43. 🛠️ But most importantly, it's easy to implement thanks to SDKs for web, mobile, and server-side apps with excellent docs designed for developers.
+44. 🏠 Not only is it open-source and self-hostable, but it also has a fully managed, no-card-required free plan.
+45. 🔗 Give PostHog a try with the link below.
+46. 🎥 This has been the code report.
+47. 🙏 Thanks for watching, and I will see you in the next one.
+```
+
+
+```python
+Restructure this to first remove all timestamps, second: split it into a listing of complete sentences and number them within a markdown outline with an appropriate emojis at start of each outline line after the number.  Third, create a markdown tree of the sentences showing full markdown code as streamlit app.py in a python variable.  Fourth, create a second markdown outline tree with same parameterss (emoji outline structure etc) for all glossary words like distillation and define them in glossary with short sentence and emojis in same outline format.
+
+
+```
+
+
 
 
 # Three transcripts to bring us up to current events:
 
+```python
 
+Restructure this to first remove all timestamps, second: split it into a listing of complete sentences and number them within a markdown outline with an appropriate emojis at start of each outline line after the number.  Third, create a markdown tree of the sentences showing full markdown code as streamlit app.py in a python variable.  Fourth, create a second markdown outline tree with same parameterss (emoji outline structure etc) for all glossary words like distillation and define them in glossary with short sentence and emojis in same outline format.
+
+
+
+
+```
 
 # 3.
 
