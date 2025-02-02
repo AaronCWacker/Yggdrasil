@@ -1,4 +1,174 @@
 
+# The Machiavvellians
+
+Top Ten Rules of Power from The Machiavellians
+⚔ Power is the Primary Driver
+
+Political action revolves around acquiring and maintaining power.
+Ideals and morals matter, but real-world outcomes hinge on who has power and how they use it.
+🏰 Elites Always Exist
+
+Every society has a ruling class or elite, whether openly acknowledged or hidden behind institutions.
+Power concentrates, no matter how democratic the structure appears.
+🔄 Circulation of Elites
+
+New elites rise as old elites lose their grip on power.
+This “circulation” is inevitable; attempts to freeze power in place often fail over time.
+🎩 Political Myths and Illusions
+
+Leaders often employ grand narratives or ideologies to rally support.
+These myths can cloak true motives, uniting people around something more compelling than raw self-interest.
+🪄 Manage Appearances, Not Just Reality
+
+Symbolism, propaganda, and perceived legitimacy can be as important as actual policies.
+Skilled power holders shape public perception to maintain authority.
+⚖ Balance of Coercion and Consent
+
+Rulers must strike a balance: too much force alienates the masses; too little invites challengers.
+Effective governance involves both winning hearts and deterring resistance.
+🏗 Institutional Constraints and Adaptation
+
+Leaders operate within frameworks (laws, norms, traditions). Mastering or subtly bending these rules is key.
+Strong institutions can restrain abuse, but cunning leaders learn to manipulate them for their ends.
+📜 Rule by Law—or by Decree
+
+While law projects fairness, real power often lies in those who interpret or enforce the law.
+When faced with a crisis, elites may suspend legal norms to preserve their dominance.
+🍂 Decay and Renewal
+
+Over time, elites can grow complacent, corrupt, or out of touch.
+This decay paves the way for new challengers or rival elites to seize power.
+🏹 Realism over Idealism
+
+The Machiavellians emphasize sober realism: understand human nature and power structures, rather than assuming idealized motives.
+Political success hinges on clear-eyed assessment of what people and institutions actually do, not what they claim or aspire to do.
+
+
+
+
+
+# Local ML Models I am testing for 20x15x5:
+
+Qwen2.5 Coder 14B
+
+GGUF
+
+
+LM Studio Staff Pick
+
+14B version of the code-specific Qwen 2.5 for code generation, code reasoning and code fixing.
+
+Architecture:
+
+qwen
+
+Params:
+
+14B
+
+Stats:
+
+38
+
+77418
+
+Last updated:
+
+83 days ago
+
+15 download options available
+
+
+
+
+Pulled from the model's repository
+
+Qwen2.5-Coder-14B-Instruct-GGUF
+Introduction
+Qwen2.5-Coder is the latest series of Code-Specific Qwen large language models (formerly known as CodeQwen). As of now, Qwen2.5-Coder has covered six mainstream model sizes, 0.5, 1.5, 3, 7, 14, 32 billion parameters, to meet the needs of different developers. Qwen2.5-Coder brings the following improvements upon CodeQwen1.5:
+
+Significantly improvements in code generation, code reasoning and code fixing. Base on the strong Qwen2.5, we scale up the training tokens into 5.5 trillion including source code, text-code grounding, Synthetic data, etc. Qwen2.5-Coder-32B has become the current state-of-the-art open-source codeLLM, with its coding abilities matching those of GPT-4o.
+A more comprehensive foundation for real-world applications such as Code Agents. Not only enhancing coding capabilities but also maintaining its strengths in mathematics and general competencies.
+Long-context Support up to 128K tokens.
+This repo contains the instruction-tuned 14B Qwen2.5-Coder model in the GGUF Format, which has the following features:
+
+Type: Causal Language Models
+Training Stage: Pretraining & Post-training
+Architecture: transformers with RoPE, SwiGLU, RMSNorm, and Attention QKV bias
+Number of Parameters: 14.7B
+Number of Paramaters (Non-Embedding): 13.1B
+Number of Layers: 48
+Number of Attention Heads (GQA): 40 for Q and 8 for KV
+Context Length: Full 32,768 tokens
+Note: Currently, only vLLM supports YARN for length extrapolating. If you want to process sequences up to 131,072 tokens, please refer to non-GGUF models.
+Quantization: q2_K, q3_K_M, q4_0, q4_K_M, q5_0, q5_K_M, q6_K, q8_0
+For more details, please refer to our 
+
+, 
+
+, 
+
+, 
+
+.
+
+Quickstart
+Check out our 
+
+ for more usage guide.
+
+We advise you to clone 
+
+ and install it following the official guide. We follow the latest version of llama.cpp.
+In the following demonstration, we assume that you are running commands under the repository llama.cpp.
+
+Since cloning the entire repo may be inefficient, you can manually download the GGUF file that you need or use huggingface-cli:
+
+Install
+pip install -U huggingface_hub
+Download:
+huggingface-cli download Qwen/Qwen2.5-Coder-14B-Instruct-GGUF --include "qwen2.5-coder-14b-instruct-q5_k_m*.gguf" --local-dir . --local-dir-use-symlinks False
+For large files, we split them into multiple segments due to the limitation of file upload. They share a prefix, with a suffix indicating its index. For examples, qwen2.5-coder-14b-instruct-q5_k_m-00001-of-00002.gguf and qwen2.5-coder-14b-instruct-q5_k_m-00002-of-00002.gguf. The above command will download all of them.
+(Optional) Merge: For split files, you need to merge them first with the command llama-gguf-split as shown below:
+# ./llama-gguf-split --merge <first-split-file-path> <merged-file-path>
+./llama-gguf-split --merge qwen2.5-coder-14b-instruct-q5_k_m-00001-of-00002.gguf qwen2.5-coder-14b-instruct-q5_k_m.gguf
+For users, to achieve chatbot-like experience, it is recommended to commence in the conversation mode:
+
+./llama-cli -m <gguf-file-path> \
+    -co -cnv -p "You are Qwen, created by Alibaba Cloud. You are a helpful assistant." \
+    -fa -ngl 80 -n 512
+Evaluation & Performance
+Detailed evaluation results are reported in this 
+
+.
+
+For requirements on GPU memory and the respective throughput, see results 
+
+.
+
+Citation
+If you find our work helpful, feel free to give us a cite.
+
+@article{hui2024qwen2,
+      title={Qwen2. 5-Coder Technical Report},
+      author={Hui, Binyuan and Yang, Jian and Cui, Zeyu and Yang, Jiaxi and Liu, Dayiheng and Zhang, Lei and Liu, Tianyu and Zhang, Jiajun and Yu, Bowen and Dang, Kai and others},
+      journal={arXiv preprint arXiv:2409.12186},
+      year={2024}
+}
+@article{qwen2,
+      title={Qwen2 Technical Report}, 
+      author={An Yang and Baosong Yang and Binyuan Hui and Bo Zheng and Bowen Yu and Chang Zhou and Chengpeng Li and Chengyuan Li and Dayiheng Liu and Fei Huang and Guanting Dong and Haoran Wei and Huan Lin and Jialong Tang and Jialin Wang and Jian Yang and Jianhong Tu and Jianwei Zhang and Jianxin Ma and Jin Xu and Jingren Zhou and Jinze Bai and Jinzheng He and Junyang Lin and Kai Dang and Keming Lu and Keqin Chen and Kexin Yang and Mei Li and Mingfeng Xue and Na Ni and Pei Zhang and Peng Wang and Ru Peng and Rui Men and Ruize Gao and Runji Lin and Shijie Wang and Shuai Bai and Sinan Tan and Tianhang Zhu and Tianhao Li and Tianyu Liu and Wenbin Ge and Xiaodong Deng and Xiaohuan Zhou and Xingzhang Ren and Xinyu Zhang and Xipin Wei and Xuancheng Ren and Yang Fan and Yang Yao and Yichang Zhang and Yu Wan and Yunfei Chu and Yuqiong Liu and Zeyu Cui and Zhenru Zhang and Zhihao Fan},
+      journal={arXiv preprint arXiv:2407.10671},
+      year={2024}
+}
+
+
+
+
+
+
+
+
 
 
 # Top Things I would like to know from Lex and Deepseek
