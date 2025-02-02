@@ -114,6 +114,69 @@ graph TD
 
 ```
 
+# 3. Claude Cleanup
 
+"outline should be markdown code listing as an artifact please."
+
+# Breaking Harmful Habits: A Hierarchical Guide
+
+## A. Self-Assessment and Planning 🎯
+1. Write down everything you think a harmful ⚠️ habit might be doing to you, creating an exhaustive list regardless of certainty.
+2. Review your list to analyze what you want, then document what you want 🎯 goals instead.
+
+## B. Understanding Behavior Patterns 🧠
+### B1. Short-term vs Long-term
+1. Every hedonistic endeavor provides immediate 🎯 rewards but carries hidden ⚖️ costs in the medium to long term.
+2. Quitting short-term gratification requires understanding your deeper 💭 motivation.
+3. Pay attention to self-rationalizations, especially the "what the hell" 🤔 mindset.
+
+### B2. Personal Values
+1. Question if your behaviors align with the role model 🦸 identity you want to embody.
+2. Evaluate if your actions represent patterns you'd find 🌟 admirable in others.
+3. Consider how certain behaviors like pornography conflict with ideals of 💪 strength.
+
+## C. Modern Challenges and Solutions 🌐
+### C1. Societal Impact
+1. Problematic behaviors slowly infiltrate 🕸️ society before becoming normalized.
+2. Young people grow up in an environment where harmful 📱 digital content is ubiquitous.
+3. Advancing technology, particularly AI, may create more sophisticated 🤖 temptations.
+
+### C2. Relationship Dynamics
+1. AI services offer simulated connections that cater to our worst 👻 impulses.
+2. The challenge of maintaining 💫 novelty in relationships requires creativity.
+3. Successful relationships aren't limited by the partner but by our 🎭 imagination.
+
+### C3. Long-term Success
+1. Truly optimized relationships contain 💎 inexhaustible depth.
+2. Many struggle with the concept rather than the reality of 🔄 commitment.
+3. Negative stories about long-term relationships often become self-fulfilling 🎬 prophecies.
+
+```mermaid
+graph TD
+    A[Self-Assessment] --> B[Understanding Patterns]
+    A[Self-Assessment] --> C[Modern Challenges]
+    
+    B --> B1[Short vs Long Term]
+    B --> B2[Personal Values]
+    
+    C --> C1[Societal Impact]
+    C --> C2[Relationship Dynamics]
+    C --> C3[Long-term Success]
+    
+    B1 --> D1[Immediate Rewards]
+    B1 --> D2[Hidden Costs]
+    
+    B2 --> E1[Role Model Identity]
+    B2 --> E2[Admirable Patterns]
+    
+    C1 --> F1[Social Normalization]
+    C1 --> F2[AI Challenges]
+    
+    C2 --> G1[Authentic Connection]
+    C2 --> G2[Maintaining Novelty]
+    
+    C3 --> H1[Relationship Depth]
+    C3 --> H2[Commitment Mindset]
+```
 
 
