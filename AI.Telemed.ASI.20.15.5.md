@@ -1,5 +1,5 @@
 
-# The Machiavvellians
+# The Machiavellians
 
 Top Ten Rules of Power from The Machiavellians
 ⚔ Power is the Primary Driver
