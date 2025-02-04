@@ -4,6 +4,33 @@
 ![image](https://github.com/user-attachments/assets/d4c8efba-8d97-40ae-9dd3-f1de1c0cd8a6)
 
 
+```python
+
+# Top Python Based Science and Research with Product Delivery Focus 
+
+Python (28 mentions)
+Kubernetes/K8s (18 mentions)
+GPU/TPU/Hardware Accelerators (16 mentions)
+Machine Learning/ML (15 mentions)
+React/TypeScript/JavaScript (12 mentions)
+AWS/GCP Cloud Services (11 mentions)
+PyTorch (9 mentions)
+Distributed Systems (8 mentions)
+Linux Systems/OS internals (7 mentions)
+CUDA/Low-level optimization (6 mentions)
+SQL (5 mentions)
+Docker/Containerization (5 mentions)
+Go/Rust/Systems Programming (4 mentions)
+CI/CD (4 mentions)
+Infrastructure as Code (3 mentions)
+
+
+
+
+```
+
+
+
 Head of Product Engineering 💼💻
 Salary: $485,000-$560,000 USD
 Location: San Francisco, CA | Seattle, WA
