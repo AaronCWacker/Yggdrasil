@@ -1,7 +1,89 @@
 ![image](https://github.com/user-attachments/assets/bb6e3f66-7d5b-4c78-9640-0276e5500f38)
 
 
+```python
 
+# Top Python Based Science and Research with Product Delivery Focus
+
+2️⃣ ⚡🗣️ Machine Learning Optimization Evangelist – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Accelerating ML training/inference across AI hardware (NVIDIA, AMD, Intel, etc.)
+• Technical blogging, demos, and community evangelism
+• Speaking at conferences, building & showcasing ML solutions
+• Open-source libraries (Transformers, Diffusers), ML Ops
+
+3️⃣ 🚀🧩 Machine Learning Engineer, Fast Optimized Inference – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Python, Rust, CUDA kernels, PyTorch/Keras
+• Industrial-level ML with text-generation-inference focus
+• Optimizing and scaling real-world ML services
+• Reliability & performance monitoring
+
+4️⃣ ☁️🤖 Cloud Machine Learning Engineer – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Integrating Hugging Face (Transformers, Diffusers) with major cloud platforms
+• AWS, GCP, Azure, containerizing (Docker), MLOps pipelines
+• Typescript, Rust, MongoDB, Kubernetes are nice-to-have
+• Building secure, robust developer experiences & APIs
+
+5️⃣ ✨🃏 Wild Card – (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Open-ended role—bring your unique ML/AI talents
+• Brainstorm with Hugging Face to create your dream position
+• Potential for any specialized AI, open-source, or engineering focus
+
+1️⃣1️⃣ 💡🤖 Machine Learning Engineer Internship, Generative AI – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• LLM usage & fine-tuning, chain-of-thought prompting
+• Enhancing smaller generative models for higher quality
+• Hardware acceleration, numeric precision, HPC optimization
+• Scalable Python code for LLM APIs & advanced inference
+
+1️⃣2️⃣ ⚡🌱 Machine Learning Engineer Internship, AI Energy Score – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Energy efficiency & carbon footprint of ML models
+• Hardware/optimization technique analysis
+• Serving stack experiments & measurement
+• Python, performance monitoring, environmental impact research
+
+1️⃣4️⃣ 🤖⚙️ ML Research Engineer Internship, Agent AI – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Building LLM “agents” with external tool usage
+• Fine-tuning for reasoning & multi-step tasks
+• HPC & H100 cluster training/inference orchestration
+• End-to-end open-source release & advanced LLM planning
+
+1️⃣7️⃣ 🏗️🖥️ Senior Product Software Engineer, ML Platform – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Building essential tooling for the Hugging Face ML Hub
+• Full-stack: Node.js, Svelte, MongoDB, AWS
+• Developer-first product focus with empathy for user experience
+• High sense of ownership in a fast-paced environment
+
+1️⃣8️⃣ 🌎🔬 Community ML Research Engineer (non-AI scientific fields) – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Collaborating with researchers in biology, physics, quantum, etc.
+• Co-developing ML tools/models for domain-specific use cases
+• Open-source contributions, building partnerships & tutorials
+• Interdisciplinary approach bridging traditional science & ML
+
+1️⃣9️⃣ 🌐✨ Machine Learning Engineer Internship, Gradio – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• LLM-based code suggestions in Gradio Playground
+• Python & Svelte-based UI building for ML demos
+• Fine-tuning large language models, prompt engineering
+• Developer UX, user onboarding, interactive ML
+
+2️⃣0️⃣ 🎶🔊 Machine Learning Engineer for Audio – US Remote (Salary: N/A) → ??? 💰
+Key Skills & Tech:
+• Speech-to-text, text-to-speech, speaker diarization
+• Transformers-based audio pipelines
+• Python, open-source contributions (Transformers, etc.)
+• Making cutting-edge audio ML accessible to the community
+
+
+
+```
 
 
 
