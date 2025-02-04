@@ -2,7 +2,125 @@
 
 ![image](https://github.com/user-attachments/assets/984e2e87-148f-4645-81b5-458e6ab0999d)
 
+```python
+# Top Python Based Science and Research with Product Delivery Focus
 
+3. 🤖 **Machine Learning Engineer, Applied AI** (\$310K–\$550K) → >\$500k 💰💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Transformer-based LLM development & fine-tuning  
+   - Building ML-driven products (Python, PyTorch)  
+   - Performance optimization for large-scale inference  
+   - End-to-end MLOps & DevOps  
+
+4. 🤖 **Machine Learning Engineer, Integrity** (\$310K–\$550K) → >\$500k 💰💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Abuse detection & ML-based risk scoring  
+   - NLP pipelines (PyTorch/Transformers)  
+   - Large-scale data ingestion & labeling  
+   - Automated moderation & anomaly detection
+
+5. 🤖 **Machine Learning Engineer, Retrieval & Search** (\$310K–\$550K) → >\$500k 💰💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Vector databases & semantic search (FAISS, etc.)  
+   - Large-scale retrieval optimization (RAG, etc.)  
+   - Python-based data pipelines for query handling  
+   - LLM-based ranking & retrieval modeling
+
+9. 🤖 **Research Engineer, Data Processing (Foundations)** (\$360K–\$530K) → >\$500k 💰💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Building massive training sets for LLMs  
+   - Data pipeline tooling (Spark, Airflow)  
+   - Scalable data cleaning & dedup strategies  
+   - Performance-aware code in Python & C++
+
+6. 💼 **Lead Product Manager, Core Product** (\$385K–\$465K) → >\$400k 💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Owning product vision for LLM-based user experiences  
+   - Coordinating engineering, design, and research squads  
+   - Data-driven PM (A/B testing, analytics)  
+   - Deep knowledge of AI frameworks & constraints  
+
+7. 🤖💼 **ML Training Infra Manager – Reasoning** (\$360K–\$440K) → >\$400k 💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Overseeing HPC infra for RL or reasoning tasks  
+   - GPU cluster config & job scheduling  
+   - Python + C++ based distributed pipelines  
+   - Driving cross-team alignment on HPC resources
+
+
+8. 🔒💼 **Product Security Leader** (\$385K–\$465K) → >\$400k 💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Security best practices for AI products (appsec, devsecops)  
+   - Secure architecture for HPC & ML pipelines  
+   - Risk assessment & vulnerability management  
+   - Cross-functional partner engagement  
+
+9. 🤖 **Research Engineer** (\$295K–\$440K) → >\$400k 💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Exploratory ML research with LLMs or RL  
+   - HPC training pipeline dev (PyTorch)  
+   - Analysis of large data sets (Python, notebooks)  
+   - Model performance improvements & iteration  
+
+10. 🤖 **Research Engineer, Future of Computing** (\$360K–\$440K) → >\$400k 💰💰💰💰  
+    **Key Skills & Tech**:  
+    - Experimental large-model prototypes  
+    - HPC scheduling & multi-node debugging  
+    - Low-level software/hardware synergy  
+    - Building next-gen AI capabilities  
+
+11. 🤖 **Research Engineer, Multimodal Safety** (\$295K–\$440K) → >\$400k 💰💰💰💰  
+    **Key Skills & Tech**:  
+    - Vision+text model evaluation & adversarial testing  
+    - Python, PyTorch for multimodal pipelines  
+    - Risk/abuse identification & detection  
+    - Data curation & robust CV-based training
+
+
+10. 💼 **Engineering Manager, Automation** (\$385K + equity) → >\$300k 💰💰💰  
+    **Key Skills & Tech**:  
+    - Building AI-driven automation platforms  
+    - Full-stack dev knowledge (React, Node, Python)  
+    - Team leadership & project delivery  
+    - Integrating ML models for ops improvement  
+
+2. 💻 **Android Engineer, ChatGPT Search** (\$245K–\$310K) → >\$300k 💰💰💰  
+   **Key Skills & Tech**:  
+   - Native Android dev (Kotlin, Java)  
+   - GraphQL or REST-based data fetching  
+   - Integrating AI/chat features in mobile  
+   - Performance tuning & user experience
+
+15. 💻 **Full-Stack SW Engineer, Intelligent Support** (\$310K–\$385K) → >\$300k 💰💰💰  
+    **Key Skills & Tech**:  
+    - Building internal AI automation tools  
+    - TypeScript/React & Python backend  
+    - LLM integration for user support flows  
+    - Data modeling & cross-team collaboration
+
+9. 🤖 **Research Engineer** (\$295K–\$440K) → >\$400k 💰💰💰💰  
+   **Key Skills & Tech**:  
+   - Exploratory ML research with LLMs or RL  
+   - HPC training pipeline dev (PyTorch)  
+   - Analysis of large data sets (Python, notebooks)  
+   - Model performance improvements & iteration
+
+15. 💻 **Full-Stack SW Engineer, Intelligent Support** (\$310K–\$385K) → >\$300k 💰💰💰  
+    **Key Skills & Tech**:  
+    - Building internal AI automation tools  
+    - TypeScript/React & Python backend  
+    - LLM integration for user support flows  
+    - Data modeling & cross-team collaboration  
+
+16. 💻 **Full-Stack SW Engineer, Leverage** (\$310K–\$385K) → >\$300k 💰💰💰  
+    **Key Skills & Tech**:  
+    - Rapid prototyping AI-based internal apps  
+    - React/Next.js + Python for web services  
+    - Observability & robust logging/tracing  
+    - Tying into GPT or other LLM endpoints  
+
+
+```
 
 
 # Top skills in demand:
