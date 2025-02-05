@@ -1,6 +1,24 @@
 
 
+# Don't Give Up
 
+ D# D#maj7  A#                 D# D#maj7
+Rest your head you worry too much 
+              A#          D# D#maj7
+its gonna be alright when times get rough
+             G#      D#
+you can fall back on us  dont give up 
+A#            D#
+  please dont give up
+ D# D#maj7                      A#
+got to walk out of here I cant take it anymore 
+       D#                           G#
+gonna stand on that bridge keep my eyes down below.
+     D# D#maj7             A#
+Whatever may come and whatever may go 
+              D#      A#           D#
+that river's flowing, that river's flowing
+ 
 
 
 
