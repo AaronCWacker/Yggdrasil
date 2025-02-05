@@ -99,4 +99,8 @@ Individual Contributor - 578
 People Manager - 45
 Individual Contributor - 5
 
-
+Employment Type
+1. Full Time - 620
+2. Full-time - 5
+3. Visiting Researcher - 2
+4. Internship - 1
