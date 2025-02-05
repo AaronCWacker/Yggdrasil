@@ -1,6 +1,10 @@
 
 
 
+# Role Types
+1. Individual Contributor
+2. People Manager
+
 # Discipline Picks for ML MoE Skills
 1. Applied Sciences
 2. Art
