@@ -1,7 +1,28 @@
 
 
 
-# 
+# Discipline Picks:
+1. Applied Sciences
+2. Art
+3. Cloud Network Engineering
+4. Data Science
+5. Digital Account Management
+6. Digital Cloud Solution Architecture
+7. Digital Solution Area Specialists
+8. Game Design
+9. Game Producers
+10. Pen. Testing
+11. Product Design
+12. Product Mgmt.
+13. Research Sciences
+14. Security Research
+15. Service Engineering
+16. Software Engineering
+17. Solution Architecture
+18. Technical Art
+19. Technology Consulting
+20. UX Research
+
 
 # 628 List - became 1153 - fail - try more filters...
 
