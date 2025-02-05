@@ -1,5 +1,222 @@
 
 
+
+
+# Hopefully last one:  Combine them for me all five parts.  I expect 209 records if my count is correct.  Show all 209 records.
+
+
+
+# Almost right but flawed.. It gave part 1 and part 5 even though only 209 records.  Is this from window in RAG. lol.  So close.
+
+
+---
+
+You can copy these code blocks and combine them into one complete markdown table if needed. (Each row’s Sentence 1 is defined as the text up to the first “. ” and Sentence 2 is the remainder.) 
+
+Let me know if you need any further modifications!
+
+
+
+**Part 5 (Jobs 201–209):**
+
+```markdown
+| Num | Job Title                                | Job Location                                  | Sentence 1                                                                                                                                          | Sentence 2                                                                                                                                                                                                 |
+|-----|------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 201 | Senior Software Engineering Manager      | Bangalore, Karnataka, India                   | Azure Cloud has one of the highest number of data centers amongst all the cloud providers.                                                         | Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, is designed to scale out and serve the entire world with hundre...                           |
+| 202 | Product Manager II- Xbox                 | Multiple Locations, Chile + 3 more             | Team Xbox is at the forefront of delivering the industry’s best platform and experiences for both players and game developers.                        | We work closely with industry leaders across hardware, software, firmware, services and our 1st and 3rd party game development partne...                                                                  |
+| 203 | Senior Applied Scientist                 | Multiple Locations, Mexico + 3 more             | Microsoft Copilot and Business Chat are at the forefront of transforming how businesses operate and communicate.                                      | As part of our engineering team, you'll be working on cutting-edge AI technologies that integrate seamlessly with Microsoft 365, enhancing producti...                                                  |
+| 204 | Software Engineer II                     | Hyderabad, Telangana, India                   | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further.                          | This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...                                                                 |
+| 205 | Senior Researcher – AI (Agentic Systems & Interaction) – Microsoft Research | Redmond, Washington, United States + 4 more | Microsoft Research (MSR) AI Frontiers is inviting applications for a Senior Researcher to join our team in solving real-world problems and pushing the boundaries of agentic AI systems and research. | The mission of the AI Frontiers lab is to expand the paret...                                                                              |
+| 206 | Senior Software Engineer-Xbox             | Multiple Locations, Chile + 3 more             | At Xbox, our mission is to bring the joy and community of gaming to everyone on the planet.                                                         | Gaming today brings people from all walks of life and geographies together—centering them around the thing they love most—GAMES! Our teamThe Xbox Experiences and Plat...                               |
+| 207 | Senior Software Engineering Manager      | Prague, Czech Republic                          | Microsoft Teams brings people together by making it easy, productive and fun to communicate and collaborate!                                          | Microsoft Teams is the hub where the power and capabilities of M365 come together - Chat, Calling, Meetings, Files, Bots, 3rd Party integrations and mo...                                                 |
+| 208 | Senior Software Engineer                 | Multiple Locations, United States             | Are you passionate about designing elegant software solutions that solve intricate technical problems?                                             | Do you thrive on security and quality and enjoy working with large-scale, distributed systems? Please join us in Azure Compute and contribute to an innovativ...                                      |
+| 209 | Principal Software Engineer              | Multiple Locations, United States             | Does thinking at hyper scale excite you?                                                                                                           | Do you love systems design and virtualization technology? Do you enjoy contributing to and working in a healthy, diverse, and inclusive work environment? Do you like driving new initiatives in a fast-paced organization ... |
+
+
+
+
+| Num | Job Title                                | Job Location                                  | Sentence 1                                                                                                                                          | Sentence 2                                                                                                                                                                                                 |
+|-----|------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Senior Software Engineer                 | Vancouver, British Columbia, Canada           | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators.                   | We are at the core of creating the infrastructure that enables deep observability into our proprietary MAIA chips, empowering deve...                                                                      |
+| 2   | Senior Software Engineer                 | Multiple Locations, United States             | Microsoft Azure has been a pioneering leader in the innovation and adoption of confidential computing (CC) technology, which enables a new level of security for cloud workloads. | Our vision is to transform the Azure Cloud into the Azure Confidential Cloud and e...                                                        |
+| 3   | Senior Software Engineer                 | Multiple Locations, United States             | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 4   | Senior Design Program Manager            | Vancouver, British Columbia, Canada           | The Collaborative Experience Design (CxD) Studio is looking for a Senior Design Program Manager who is passionate about empowering designers to achieve more through leading design operations, cross studio communications, and process development. | The CxD Studio...                                                                                                                           |
+| 5   | Principal Software Engineering Manager   | Multiple Locations, United States             | The Azure Networking team continues to innovate across the stack, pushing new scale and features into the cloud and desktop platforms while transforming our infrastructure to meet the growing needs of the 200-plus Microsoft online services, including Bing, MSN... |                                                                                                                                            |
+| 6   | Senior Software Engineer                 | Redmond, Washington, United States            | Are you passionate about building the world’s computer? Are you interested in large scale distributed systems? Join us in building the platform that helps to scale Azure - one of the fastest growing clouds on the planet.  | Our vision is to build a highly reliabl...                                                                                                   |
+| 7   | Threat Intelligence Analyst              | Ottawa, Ontario, Canada                       | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all.  We want to reshape security and empower eve...                           |
+| 8   | Senior Product Designer                  | Redmond, Washington, United States            | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further.                          | This is a world of more possibilities, more innovation, and more openness. The sky is the limit thinking in a cloud‐enabled world. Mi...         |
+| 9   | Senior Software Engineer - AI Frameworks Team | Vancouver, British Columbia, Canada       | The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. | We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...                              |
+| 10  | Software Engineer II                     | Redmond, Washington, United States            | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 11  | Software Engineer 2 - AI Frameworks Team   | Vancouver, British Columbia, Canada           | The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. | We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...                              |
+| 12  | Software Engineer II, MAIA System Infrastructure | Redmond, Washington, United States       | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators.                   | We are at the core of creating the infrastructure that enables deep observability into our proprietary MAIA chips, empowering deve...         |
+| 13  | Senior Software Engineer – Data & AI     | Redmond, Washington, United States            | Does pioneering new and innovative ways to reimagine and transform end-user productivity across the breadth and depth of Microsoft’s global workforce sound exciting to you? | Are you passionate about the future of work, driving innovation and showcasing an empl...                                                     |
+| 14  | Principal Software Engineer              | Redmond, Washington, United States            | Microsoft’s bold vision of Azure Machine Learning (ML) is to democratize ML and make it available to every enterprise, developer and data scientist. | Do you want to join the team entrusted with serving all internal and external OpenAI workloads at Azure? We ar...                                |
+| 15  | Principal Product Manager                | Campinas, São Paulo, Brazil + 3 more            | At the core of the M365 Core organization’s strategy is to build your copilot for work, combining the power of AI with your data in the Microsoft Graph and the Microsoft 365 apps to turn your words into the most powerful productivity tool on the planet. |  The...                                                                                                                                    |
+| 16  | Security Researcher II                   | Multiple Locations, United States             | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 17  | Sr. Security Researcher                  | Multiple Locations, United States             | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 18  | Secuity Researcher II                    | Multiple Locations, United States             | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 19  | Senior Researcher, CoreAI                | Redmond, Washington, United States            | Our team in Microsoft Azure AI Platform is at the forefront of developing multimodal AI technologies that combine language, vision, and other sensory inputs to power Microsoft AI products.           | We offer these advanced models as services for both internal and exter...                                                                    |
+| 20  | Sr. Security Research Manager            | Multiple Locations, United States             | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 21  | Principal Software Engineer              | Redmond, Washington, United States            | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further.                           | This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud‐enabled world. Mic...         |
+| 22  | Senior Software Engineering Manager      | Bangalore, Karnataka, India + 1 more            | The Microsoft Azure Storage team is looking for a talented Senior Software Engineering Manager responsible for leading geographically distributed teams that are focused on revolutionizing how data is managed and accessed globally. | In this role, you will be imm...                                                                                                             |
+| 23  | Principal Software Engineering Manager   | Redmond, Washington, United States            | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 24  | Critical Environment (CE) Platform Engineer | Sydney, New South Wales, Australia + 3 more     | In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a Critical Environment (CE) Platform Engineer. | Microsoft’s Cloud Operations ...                                                                                                            |
+| 25  | Software Engineer II                     | Vancouver, British Columbia, Canada           | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators.                   | We are at the core of creating the infrastructure that enables deep observability into our proprietary MAIA chips, empowering deve...         |
+| 26  | Software Engineer II / Senior Software Engineer | Multiple Locations, Costa Rica + 3 more     | WE HAVE SEVERAL POSITIONS TO FILL IN LATIN AMERICA - YOU CAN WORK REMOTELY FROM THE COMFORT OF YOUR HOME! The Microsoft 365 team is looking for software engineers to help design and build one of the fastest growing cloud services in Microsoft. | Do you want to ...                                                                                                                          |
+| 27  | Senior Software Engineer / Principal Software Engineer | Multiple Locations, Costa Rica + 3 more     | WE HAVE SEVERAL POSITIONS TO FILL IN LATIN AMERICA - YOU CAN WORK REMOTELY FROM THE COMFORT OF YOUR HOME! The Microsoft 365 team is looking for senior software engineers to help design and build one of the fastest growing cloud services in Microsoft. | Do you w...                                                                                                                               |
+| 28  | Principal Software Engineer              | Multiple Locations, United States             | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further.                           | This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud‐enabled world. Mic...         |
+| 29  | Senior Software Engineer                 | Mountain View, California, United States       | The Vertical Ads Algorithm & Infrastructure team is seeking a Senior Software Engineer.                                                           | This team is responsible for the selection, relevance, and modeling of vertical ads, as well as the offline and online infrastructure for serving and experimenting with cut...  |
+| 30  | Senior Software Engineer                 | Redmond, Washington, United States            | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 31  | Lead Game Producer                       | Multiple Locations, United States             | XBOX Game Studios is looking for a Lead Game Producer to support game development teams and external partners.                                       | As Lead Game Producer, you have extensive expertise in project management, creative development, and team management to inspire and mentor others to ...                           |
+| 32  | Senior Software Engineer                 | Vancouver, British Columbia, Canada           | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further.                           | This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud‐enabled world. Mi...         |
+| 33  | Senior Product Designer (Microsoft Teams) | Redmond, Washington, United States            | Microsoft Teams is a product that serves hundreds of millions around the world and has seen unprecedented growth in the recent years.                | Our design team is a highly collaborative group of user researchers, product and visual designers. We value creativity, open ...             |
+| 34  | Software Engineer II - Azure Storage     | Multiple Locations, United States + 5 more       | Microsoft Azure Storage is a highly distributed, massively scalable, and ubiquitously accessible cloud storage platform.                             | To provide unmatched performance at lowest cost and power, the Azure storage team is building the storage stack that will run on the custom...  |
+| 35  | Principal Applied Scientist              | Zürich, Switzerland                           | As Microsoft continues to push the boundaries of AI, we are looking for passionate individuals to work with us on a new strategic Search effort.   | Our vision is bold and broad — to bring the power of Copilot’s AI to shape the future of Search in the GenAI era.  ...                         |
+| 36  | Software Engineer II                     | Mountain View, California, United States       | Are you looking for opportunities to deliver innovations to hundreds of millions of users that impact their daily life?                              | Do you want to be part of a fast-cycle, and hardcore AI/ML frameworks team to advance the AI technology? We are looking for a Software Engin...  |
+| 37  | Senior Software Engineer - AI Compilers    | Redmond, Washington, United States            | The AI Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models.                           | We build state-of-the-art AI compilers and design new AI programming abstractions for Microsoft’s supercomputers and next-generation AI h...   |
+| 38  | Senior Software Engineer-Machine Learning Frameworks | Redmond, Washington, United States       | Are you interested in developing and optimizing deep learning systems?                                                                           | Are you interested in designing novel technology to accelerate their training and serving for cutting edge models and applications?  Do you want to scale large Artificial Intelligence (AI)... |
+| 39  | Senior Software Engineer, Systems Engineering and Administration | New York City, New York, United States + 1 more | Microsoft is looking for a Senior Software Engineer, Systems Engineering and Administration to join the System Operations team, part of Xandr’s Real Time Bidding platform. | The platform operates a hybrid environment of global datacenters and Azure. Software eng...                                                 |
+| 40  | Principal Architect                      | Multiple Locations, United States + 3 more       | Substrate is the data and intelligence platform that enables internal partner teams at Microsoft to build, deploy, and maintain compliant productivity apps and services with reduced effort and faster time to market. | The Substrate Core Auth Team owns critical c...                                                                                             |
+| 41  | Senior Software Engineer                 | Redmond, Washington, United States            | In Mesh, people—not devices—are at the center of everything we do.                                                                               | Our tech moves beyond screens and pixels, creating a new reality aimed at bringing us closer together—whether that’s scientists “meeting” on the surface of a virtual Mars or some yet undreamt-o... |
+| 42  | Senior Software Engineer                 | Redmond, Washington, United States            | The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. | We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...                              |
+| 43  | Software Engineer - Azure                | Multiple Locations, Romania                   | Does thinking at hyper scale excite you?                                                                                                           | Do you love systems design and virtualization technology? Do you enjoy contributing to and working in a healthy, diverse, and inclusive work environment? Do you like working with new technologies in a fast-paced organiz... |
+| 44  | Senior Software Engineer                 | Multiple Locations, United States             | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity.  | Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...                           |
+| 45  | Senior Software Engineer                 | Redmond, Washington, United States            | We are seeking a Senior Software Engineer to join our Microsoft Intune engineering team.                                                          | Microsoft Intune is an industry leading cloud-based device configuration and security management platform offered by Microsoft. It empowers organizations to efficiently ma... |
+| 46  | Senior Applied Scientist                 | Redmond, Washington, United States            | Applied Sciences Group (ASG) is an interdisciplinary team of scientists and developers focused on incubating next-generation technologies across Microsoft Devices. | As a Senior Applied Scientist in the Applied Sciences Group you will be working to transfer mod...                                            |
+| 47  | Product Designer II                      | Vancouver, British Columbia, Canada           | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further.                          | This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mi...         |
+| 48  | Senior Software Engineer                 | Redmond, Washington, United States            | Microsoft is experiencing unprecedented cloud growth, and the Cloud Operations + Innovations organization (CO+I) builds and maintains the datacenters Microsoft uses worldwide.                         | Automation is key to sustain this growth, and our team specializes in using both c...                                                         |
+| 49  | Principal Software Engineer              | Multiple Locations, United States             | OneDrive and SharePoint are rapidly growing services at the center of Microsoft's cloud, reaching almost every part of the company, like Windows and Office.                        | As a Principal Software Engineer, you would be a part of a team that can fundamentally change the way t...                                     |
+| 50  | Principal Software Engineer              | Redmond, Washington, United States            | At Microsoft, Artificial Intelligence (AI) is the next major growth opportunity for the company.                                                   | The recently formed Core AI division aims to build a platform that makes it easy for both internal Microsoft teams and external third-party customers to create cut...                         |
+
+
+
+
+# attempt 2 - How about o3-mini-high best think time model around
+
+Can you remove wierd unicdde text lines from this where they have just a single character on the lines.  Also remove 100% work from home.  Then remove see details.  Show full listing.  
+
+# 2 - format cleanup
+ok with that result, please format as markdown code with a table.  Use a capacity of two columns for Sentence 1 and Sentence 2 in the table for job description.  Make sure not to loose any.  here is what one looks like to use as a template.  Show full code listing as markdown code
+Num | Job Title | Job Location | Job Description |
+   |-----------|--------------|-----------------|
+   1| Senior Software Engineer | Vancouver, British Columbia, Canada | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. |
+
+# Job Listings - Failed Grok missed a bunch of the 209.
+
+Num | Job Title | Job Location | Job Description |
+   |-----------|--------------|-----------------|
+   1| Senior Software Engineer | Vancouver, British Columbia, Canada | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. |
+   | Senior Software Engineer | Multiple Locations, United States | Microsoft Azure has been a pioneering leader in the innovation and adoption of confidential computing technology, which enables a new level of security for cloud workloads. |
+   | Senior Software Engineer | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Senior Design Program Manager | Vancouver, British Columbia, Canada | The Collaborative Experience Design Studio is looking for a Senior Design Program Manager who is passionate about empowering designers to achieve more through leading design operations. |
+   | Principal Software Engineering Manager | Multiple Locations, United States | The Azure Networking team continues to innovate across the stack, pushing new scale and features into the cloud and desktop platforms. |
+   | Senior Software Engineer | Redmond, Washington, United States | Are you passionate about building the world’s computer? Are you interested in large scale distributed systems? |
+   | Threat Intelligence Analyst | Ottawa, Ontario, Canada | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Senior Product Designer | Redmond, Washington, United States | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. |
+   | Senior Software Engineer - AI Frameworks Team | Vancouver, British Columbia, Canada | The Artificial Intelligence team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. |
+   | Software Engineer II | Redmond, Washington, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Software Engineer 2 - AI Frameworks Team | Vancouver, British Columbia, Canada | The Artificial Intelligence team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. |
+   | Software Engineer II, MAIA System Infrastructure | Redmond, Washington, United States | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. |
+   | Senior Software Engineer – Data & AI | Redmond, Washington, United States | Does pioneering new and innovative ways to reimagine and transform end-user productivity across the breadth and depth of Microsoft’s global workforce sound exciting to you? |
+   | Principal Software Engineer | Redmond, Washington, United States | Microsoft’s bold vision of Azure Machine Learning is to democratize ML and make it available to every enterprise, developer and data scientist. |
+   | Principal Product Manager | Campinas, São Paulo, Brazil + 3 more | At the core of the M365 Core organization’s strategy is to build your copilot for work, combining the power of AI with your data in the Microsoft Graph. |
+   | Security Researcher II | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Sr. Security Researcher | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Secuity Researcher II | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Senior Researcher, CoreAI | Redmond, Washington, United States | Our team in Microsoft Azure AI Platform is at the forefront of developing multimodal AI technologies that combine language, vision, and other sensory inputs. |
+   | Sr. Security Research Manager | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Principal Software Engineer | Bangalore, Karnataka, India + 1 more | Have you ever imagined the world with an infinite amount of storage available and accessible to everyone? |
+   | Senior Software Engineering Manager | Bangalore, Karnataka, India + 1 more | The Microsoft Azure Storage team is looking for a talented Senior Software Engineering Manager responsible for leading geographically distributed teams. |
+   | Principal Software Engineering Manager | Redmond, Washington, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+   | Critical Environment Platform Engineer | Sydney, New South Wales, Australia + 3 more | In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees. |
+
+
+
+
+# Count looks wrong:
+Can you add numbering and check that you did not miss any?  There should be around 209 records.
+
+
+# xAI produced both data format andddd code.  This intuitively gave me what I wanted even though I didn't ask.
+
+# Job Listings
+
+| Job Title | Job Location | Job Description |
+|-----------|--------------|-----------------|
+| Senior Software Engineer | Vancouver, British Columbia, Canada | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. |
+| Senior Software Engineer | Multiple Locations, United States | Microsoft Azure has been a pioneering leader in the innovation and adoption of confidential computing technology, which enables a new level of security for cloud workloads. |
+| Senior Software Engineer | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Senior Design Program Manager | Vancouver, British Columbia, Canada | The Collaborative Experience Design Studio is looking for a Senior Design Program Manager who is passionate about empowering designers to achieve more through leading design operations. |
+| Principal Software Engineering Manager | Multiple Locations, United States | The Azure Networking team continues to innovate across the stack, pushing new scale and features into the cloud and desktop platforms. |
+| Senior Software Engineer | Redmond, Washington, United States | Are you passionate about building the world’s computer? Are you interested in large scale distributed systems? |
+| Threat Intelligence Analyst | Ottawa, Ontario, Canada | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Senior Product Designer | Redmond, Washington, United States | Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. |
+| Senior Software Engineer - AI Frameworks Team | Vancouver, British Columbia, Canada | The Artificial Intelligence team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. |
+| Software Engineer II | Redmond, Washington, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Software Engineer 2 - AI Frameworks Team | Vancouver, British Columbia, Canada | The Artificial Intelligence team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. |
+| Software Engineer II, MAIA System Infrastructure | Redmond, Washington, United States | The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. |
+| Senior Software Engineer – Data & AI | Redmond, Washington, United States | Does pioneering new and innovative ways to reimagine and transform end-user productivity across the breadth and depth of Microsoft’s global workforce sound exciting to you? |
+| Principal Software Engineer | Redmond, Washington, United States | Microsoft’s bold vision of Azure Machine Learning is to democratize ML and make it available to every enterprise, developer and data scientist. |
+| Principal Product Manager | Campinas, São Paulo, Brazil + 3 more | At the core of the M365 Core organization’s strategy is to build your copilot for work, combining the power of AI with your data in the Microsoft Graph. |
+| Security Researcher II | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Sr. Security Researcher | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Secuity Researcher II | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Senior Researcher, CoreAI | Redmond, Washington, United States | Our team in Microsoft Azure AI Platform is at the forefront of developing multimodal AI technologies that combine language, vision, and other sensory inputs. |
+| Sr. Security Research Manager | Multiple Locations, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Principal Software Engineer | Bangalore, Karnataka, India + 1 more | Have you ever imagined the world with an infinite amount of storage available and accessible to everyone? |
+| Senior Software Engineering Manager | Bangalore, Karnataka, India + 1 more | The Microsoft Azure Storage team is looking for a talented Senior Software Engineering Manager responsible for leading geographically distributed teams. |
+| Principal Software Engineering Manager | Redmond, Washington, United States | Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. |
+| Critical Environment Platform Engineer | Sydney, New South Wales, Australia + 3 more | In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees. |
+
+
+import json
+import re
+
+def process_jobs(data):
+    jobs = json.loads(data)['text_content']
+    lines = jobs.split('\n')
+    job_list = []
+    current_job = {}
+
+    for line in lines:
+        if line.startswith('#'):
+            continue
+        elif line.strip() == '':
+            if current_job:
+                job_list.append(current_job)
+                current_job = {}
+        elif 'Software Engineer' in line or 'Manager' in line or 'Researcher' in line or 'Product Designer' in line or 'Product Manager' in line:
+            current_job['Job Title'] = line.strip()
+        elif 'Canada' in line or 'United States' in line or 'India' in line or 'Brazil' in line:
+            current_job['Job Location'] = line.strip()
+        elif line.strip().startswith(('The ', 'Are you', 'Does', 'Have you', 'Microsoft', 'In alignment')):
+            description = current_job.get('Job Description', '')
+            current_job['Job Description'] = description + line.strip() + '.\n'
+
+    # Remove 'Up to 100%...'
+    for job in job_list:
+        if 'Job Description' in job:
+            job['Job Description'] = re.sub(r'Up to 100% work from home', '', job['Job Description'])
+
+    # Convert to markdown table
+    markdown_table = "| Job Title | Job Location | Job Description |\n|-|-|-|\n"
+    for job in job_list:
+        if 'Job Description' in job:
+            markdown_table += f"| {job['Job Title']} | {job['Job Location']} | {job['Job Description'].split('.')[0]}. |\n"
+
+    return markdown_table
+
+# Example usage:
+# Assuming 'data' is your JSON string
+# print(process_jobs(data))
+
+
+
+# To xAI Grok beta
+
+Can you consolidate this into a markdown outline and show full code listing?  I believe maybe a table with any non englist characters stripped out would be good.  For each line I would like the order to be: 1. Job Title, 2. Job Location, 3. Remove 'Up to 100%..' lines, 4. Job Description.  I think one sentence per line is good arrangement.  Do a line break when you see a period at the end of a sentence so I can view each large sentence in a single line.
+
+
 # 209 results
 Senior Software Engineer
 
