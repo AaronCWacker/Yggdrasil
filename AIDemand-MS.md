@@ -1,7 +1,7 @@
 
 
 
-# Discipline Picks:
+# Discipline Picks for ML MoE Skills
 1. Applied Sciences
 2. Art
 3. Cloud Network Engineering
