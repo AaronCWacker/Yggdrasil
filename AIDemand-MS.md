@@ -63,12 +63,18 @@
   Site Reliability Engineer
   Software Engineering - 288
   Solution Architecture
-  Solution Area Specialists
+  Solution Area Specialists - 34
   Specialist Sales Mgmt.
-  Strategic Account Mgmt.
+  Strategic Account Mgmt. - 9
   Strategic Account Tech.
-  Tech Program Mgmt
-
+  Tech Program Mgmt - 18
+  Tech Consulting - 7
+  Tecch Specialists - 21
+  
+Role Type
+Individual Contributor - 578
+People Manager - 45
+Individual Contributor - 5
 
 
 
