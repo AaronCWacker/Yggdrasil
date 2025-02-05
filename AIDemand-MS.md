@@ -1,5 +1,1815 @@
 
 
+# 209 results
+Senior Software Engineer
+
+Today
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. We are at the core of creating the infrastructure that enables deep observability into our proprietary MAIA chips, empowering deve...
+See details
+Senior Software Engineer
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Microsoft Azure has been a pioneering leader in the innovation and adoption of confidential computing (CC) technology, which enables a new level of security for cloud workloads. Our vision is to transform the Azure Cloud into the Azure Confidential Cloud and e...
+See details
+Senior Software Engineer
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Senior Design Program Manager
+
+Today
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The Collaborative Experience Design (CxD) Studio is looking for a Senior Design Program Manager who is passionate about empowering designers to achieve more through leading design operations, cross studio communications, and process development. The CxD Studio...
+See details
+Principal Software Engineering Manager
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+The Azure Networking team continues to innovate across the stack, pushing new scale and features into the cloud and desktop platforms while transforming our infrastructure to meet the growing needs of the 200-plus Microsoft online services, including Bing, MSN...
+See details
+Senior Software Engineer
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Are you passionate about building the world’s computer? Are you interested in large scale distributed systems? Join us in building the platform that helps to scale Azure - one of the fastest growing clouds on the planet. Our vision is to build a highly reliabl...
+See details
+Threat Intelligence Analyst
+
+Today
+
+Ottawa, Ontario, Canada
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all.  We want to reshape security and empower eve...
+See details
+Senior Product Designer
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, and more openness. The sky is the limit thinking in a cloud-enabled world. Mi...
+See details
+Senior Software Engineer - AI Frameworks Team
+
+Today
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...
+See details
+Software Engineer II
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Software Engineer 2 - AI Frameworks Team
+
+Today
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...
+See details
+Software Engineer II, MAIA System Infrastructure
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. We are at the core of creating the infrastructure that enables deep observability into our proprietary MAIA chips, empowering deve...
+See details
+Senior Software Engineer – Data & AI
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Does pioneering new and innovative ways to reimagine and transform end-user productivity across the breadth and depth of Microsoft’s global workforce sound exciting to you?  Are you passionate about the future of work, driving innovation and showcasing an empl...
+See details
+Principal Software Engineer
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft’s bold vision of Azure Machine Learning (ML) is to democratize ML and make it available to every enterprise, developer and data scientist.  Do you want to join the team entrusted with serving all internal and external OpenAI workloads at Azure? We ar...
+See details
+Principal Product Manager
+
+Today
+
+Campinas, São Paulo, Brazil + 3 more
+
+Up to 100% work from home
+At the core of the M365 Core organization’s strategy is to build your copilot for work, combining the power of AI with your data in the Microsoft Graph and the Microsoft 365 apps to turn your words into the most powerful productivity tool on the planet.    The...
+See details
+Security Researcher II
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Sr. Security Researcher
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Secuity Researcher II
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Senior Researcher, CoreAI
+
+Today
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Our team in Microsoft Azure AI Platform is at the forefront of developing multimodal AI technologies that combine language, vision, and other sensory inputs to power Microsoft AI products.  We offer these advanced models as services for both internal and exter...
+See details
+Sr. Security Research Manager
+
+Today
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+
+
+Principal Software Engineer
+
+1 day ago
+
+Bangalore, Karnataka, India + 1 more
+
+Up to 100% work from home
+Have you ever imagined the world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their books/music/photos/video/any data from anywhere at any time via any means (e.g. mobile phones,...
+See details
+Senior Software Engineering Manager
+
+1 day ago
+
+Bangalore, Karnataka, India + 1 more
+
+Up to 100% work from home
+The Microsoft Azure Storage team is looking for a talented Senior Software Engineering Manager responsible for leading geographically distributed teams that are focused on revolutionizing how data is managed and accessed globally. In this role, you will be imm...
+See details
+Principal Software Engineering Manager
+
+1 day ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Critical Environment (CE) Platform Engineer
+
+1 day ago
+
+Sydney, New South Wales, Australia + 3 more
+
+Up to 100% work from home
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a Critical Environment (CE) Platform Engineer.   Microsoft’s Cloud Operations ...
+See details
+Software Engineer II
+
+1 day ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The MAIA System Infrastructure team is pioneering the development of the next-generation developer ecosystem for AI Accelerators. We are at the core of creating the infrastructure that enables deep observability into our proprietary MAIA chips, empowering deve...
+See details
+Software Engineer II / Senior Software Engineer
+
+1 day ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+WE HAVE SEVERAL POSITIONS TO FILL IN LATIN AMERICA - YOU CAN WORK REMOTELY FROM THE COMFORT OF YOUR HOME! The Microsoft 365 team is looking for software engineers to help design and build one of the fastest growing cloud services in Microsoft.  Do you want to ...
+See details
+Senior Software Engineer / Principal Software Engineer
+
+1 day ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+WE HAVE SEVERAL POSITIONS TO FILL IN LATIN AMERICA - YOU CAN WORK REMOTELY FROM THE COMFORT OF YOUR HOME! The Microsoft 365 team is looking for senior software engineers to help design and build one of the fastest growing cloud services in Microsoft.  Do you w...
+See details
+Principal Software Engineer
+
+1 day ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...
+See details
+Senior Software Engineer
+
+1 day ago
+
+Mountain View, California, United States
+
+Up to 100% work from home
+The Vertical Ads Algorithm & Infrastructure team is seeking a Senior Software Engineer. This team is responsible for the selection, relevance, and modeling of vertical ads, as well as the offline and online infrastructure for serving and experimenting with cut...
+See details
+Senior Software Engineer
+
+1 day ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Lead Game Producer
+
+1 day ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+XBOX Game Studios is looking for a Lead Game Producer to support game development teams and external partners. As Lead Game Producer, you have extensive expertise in project management, creative development, and team management to inspire and mentor others to ...
+See details
+Senior Software Engineer
+
+1 day ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mi...
+See details
+Senior Product Designer (Microsoft Teams)
+
+1 day ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Teams is a product that serves hundreds of millions around the world and has seen unprecedented growth in the recent years.  Our design team is a highly collaborative group of user researchers, product and visual designers. We value creativity, open ...
+See details
+Software Engineer II - Azure Storage
+
+1 day ago
+
+Multiple Locations, United States + 5 more
+
+Up to 100% work from home
+Microsoft Azure Storage is a highly distributed, massively scalable, and ubiquitously accessible cloud storage platform. To provide unmatched performance at lowest cost and power, the Azure storage team is building the storage stack that will run on the custom...
+See details
+Principal Applied Scientist
+
+2 days ago
+
+Zürich, Switzerland
+
+Up to 100% work from home
+As Microsoft continues to push the boundaries of AI, we are looking for passionate individuals to work with us on a new strategic Search effort. Our vision is bold and broad — to bring the power of Copilot’s AI to shape the future of Search in the GenAI era.  ...
+See details
+Software Engineer II
+
+4 days ago
+
+Mountain View, California, United States
+
+Up to 100% work from home
+Are you looking for opportunities to deliver innovations to hundreds of millions of users that impact their daily life? Do you want to be part of a fast-cycle, and hardcore AI/ML frameworks team to advance the AI technology? We are looking for a Software Engin...
+See details
+Senior Software Engineer - AI Compilers
+
+4 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+The AI Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. We build state-of-the-art AI compilers and design new AI programming abstractions for Microsoft’s supercomputers and next-generation AI h...
+See details
+Senior Software Engineer-Machine Learning Frameworks
+
+4 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Are you interested in developing and optimizing deep learning systems?  Are you interested in designing novel technology to accelerate their training and serving for cutting edge models and applications?  Do you want to scale large Artificial Intelligence (AI)...
+See details
+Senior Software Engineer, Systems Engineering and Administration
+
+4 days ago
+
+New York City, New York, United States + 1 more
+
+Up to 100% work from home
+Microsoft is looking for a Senior Software Engineer, Systems Engineering and Administration to join the System Operations team, part of Xandr’s Real Time Bidding platform. The platform operates a hybrid environment of global datacenters and Azure. Software eng...
+See details
+Principal Architect
+
+4 days ago
+
+Multiple Locations, United States + 3 more
+
+Up to 100% work from home
+Substrate is the data and intelligence platform that enables internal partner teams at Microsoft to build, deploy, and maintain compliant productivity apps and services with reduced effort and faster time to market. The Substrate Core Auth Team owns critical c...
+See details
+Senior Software Engineer
+
+4 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+In Mesh, people—not devices—are at the center of everything we do. Our tech moves beyond screens and pixels, creating a new reality aimed at bringing us closer together—whether that’s scientists “meeting” on the surface of a virtual Mars or some yet undreamt-o...
+See details
+Senior Software Engineer
+
+4 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...
+See details
+Software Engineer - Azure
+
+4 days ago
+
+Multiple Locations, Romania
+
+Up to 100% work from home
+Does thinking at hyper scale excite you? Do you love systems design and virtualization technology? Do you enjoy contributing to and working in a healthy, diverse, and inclusive work environment? Do you like working with new technologies in a fast-paced organiz...
+See details
+Senior Software Engineer
+
+5 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Senior Software Engineer
+
+5 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+We are seeking a Senior Software Engineer to join our Microsoft Intune engineering team. Microsoft Intune is an industry leading cloud-based device configuration and security management platform offered by Microsoft. It empowers organizations to efficiently ma...
+See details
+Senior Applied Scientist
+
+5 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Applied Sciences Group (ASG) is an interdisciplinary team of scientists and developers focused on incubating next-generation technologies across Microsoft Devices.  As a Senior Applied Scientist in the Applied Sciences Group you will be working to transfer mod...
+See details
+Product Designer II
+
+5 days ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mi...
+See details
+Senior Software Engineer
+
+5 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is experiencing unprecedented cloud growth, and the Cloud Operations + Innovations organization (CO+I) builds and maintains the datacenters Microsoft uses worldwide. Automation is key to sustain this growth, and our team specializes in using both c...
+See details
+Principal Software Engineer
+
+5 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+OneDrive and SharePoint are rapidly growing services at the center of Microsoft's cloud, reaching almost every part of the company, like Windows and Office. As a Principal Software Engineer, you would be a part of a team that can fundamentally change the way t...
+See details
+Principal Software Engineer
+
+5 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+At Microsoft, Artificial Intelligence (AI) is the next major growth opportunity for the company. The recently formed Core AI division aims to build a platform that makes it easy for both internal Microsoft teams and external third-party customers to create cut...
+See details
+Senior Software Engineer
+
+5 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is betting on Artificial Intelligence (AI) as the next growth opportunity for the company. Azure AI is building a platform that makes it easy for both internal Microsoft teams and third-party customers to build cutting edge applications using large l...
+See details
+Senior Software Engineer
+
+5 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Security Researcher
+
+5 days ago
+
+Ottawa, Ontario, Canada
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We are looking for a "Security Researcher" a...
+See details
+Senior Software Engineer (Full-Stack)
+
+5 days ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Micr...
+See details
+Software Engineer II
+
+5 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  Mic...
+See details
+Software Engineer II
+
+6 days ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Microsoft aims to make Azure Machine Learning (ML) accessible to all enterprises, developers, and data scientists, with a vision to democratize ML technology. Are you interested in joining a team responsible for handling all internal and external ML tasks? Our...
+See details
+Software Engineer II / Senior Software Engineer
+
+6 days ago
+
+Multiple Locations, Mexico
+
+Up to 100% work from home
+The mission of our Org, Windows Servicing and Delivery (WSD) is to keep a billion Windows customers protected and productive. And our team Release Analysis and Monitoring (RAM) plays a critical role in this.  We are looking for talented, independent, highly mo...
+See details
+Senior Applied Scientist, Azure AI Speech
+
+6 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+The Azure AI Speech Group brings together talent in signal processing, speech modeling, statistical modeling, and deep learning to develop and deliver robust, natural, and scalable speech recognition across a wide range of scenarios and languages.  Our interdi...
+See details
+​​Principal Product Manager​
+
+6 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be, and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  Mi...
+See details
+Senior Software Engineer - Front End
+
+6 days ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+Are you passionate about Microsoft Teams, Web Development? Do you have experience developing with Web, Chromium, WebRTC, and React?    If yes, you'll love this opportunity.    We are looking for a passionate "Senior Software Engineer - Front End" to technicall...
+See details
+Principal Network Architect
+
+6 days ago
+
+Redmond, Washington, United States + 4 more
+
+Up to 100% work from home
+Microsoft’s Cloud Operations & Innovation (CO+I) is the engine that powers our cloud services. As a Principal Network Technical Project Manager in the CTO Office of CO+I, you will be responsible for managing change with network architectures and product soluti...
+See details
+Senior Software Engineer
+
+6 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all.  We are looking for a Senior Softw...
+See details
+Principal SAP Architect
+
+6 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Azure Specialized is powering some of Azure’s most profitable business segments and is growing incredibly fast! We are a globally available foundational service that hosts services and customer workloads with the scale of Bing/Skype/AzureStore/SQL,AI, hosts mi...
+See details
+Principal Product Manager
+
+6 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Join CoreAI – Platform and Tools at Microsoft! Our mission is to empower every developer to shape the future with Artificial Intelligence and Azure Artificial Intelligence Foundry. We transform conventional workflows into intelligent, autonomous systems, unlea...
+See details
+Senior Software Engineer
+
+6 days ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. We a...
+See details
+Software Engineer
+
+7 days ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Azure is experiencing unprecedented growth, making it the fastest-growing business in Microsoft's history. It forms the foundation of Microsoft's commercial Cloud Services, distinguishing itself as the only hyper-scale, enterprise-grade cloud solution with a g...
+See details
+ROP - Software Engineer II
+
+7 days ago
+
+Multiple Locations, India
+
+Up to 100% work from home
+From ExaBytes, to ZettaBytes, to YottaBytes and beyond, Azure Storage leads the industry in Advanced offloads and accelerations, powering high performance Cloud scale Storage and Networking. The Azure Storage Infrastructure team is hiring for agile and diverse...
+See details
+Software Engineer II
+
+7 days ago
+
+Mountain View, California, United States
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops AI software that enables running AI models everywhere, from the world’s fastest AI supercomputers, to servers, desktops, mobile phones, Internet of Things (IoT) devices, and internet browse...
+See details
+Senior Software Engineer - Azure Policy
+
+7 days ago
+
+Multiple Locations, United States + 4 more
+
+Up to 100% work from home
+The Azure Policy team’s mission is to empower our customers in governing Azure Resources at scale, by enabling them to prevent non-compliant deployments, modify existing resources, or deploy additional resources to ensure compliance. To achieve this vision, we...
+See details
+Principal Software Engineer
+
+7 days ago
+
+Hillsboro, Oregon, United States + 2 more
+
+Up to 100% work from home
+Do you want to be at the forefront of innovating the latest hardware and systems designs to propel Microsoft’s cloud growth? Are you seeking a unique career opportunity that combines technical capabilities, cross team collaboration, with business insight and s...
+See details
+Product Manager II
+
+7 days ago
+
+Multiple Locations, India
+
+Up to 100% work from home
+Data Compliance represents one of the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security an...
+See details
+Principal Software Engineer - GPU Performance
+
+7 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. The ...
+See details
+Senior Software Engineer
+
+7 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Any Developer. Any App. Any Platform.  Microsoft continues to make big investments to empower every person and every organization on the planet to achieve more. Come join the organization driving developer experiences for Microsoft and our customers. It's an i...
+See details
+Software Engineering Manager
+
+7 days ago
+
+Multiple Locations, Serbia
+
+Up to 100% work from home
+Microsoft Azure has been a pioneering leader in the innovation and adoption of confidential computing (CC) technology, which enables a new level of security for cloud workloads. Our vision is to transform the Azure Cloud into the Azure Confidential Cloud and e...
+See details
+Principal Software Engineering Manager
+
+7 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+The Application Identities Platform Team is part of the Microsoft Entra organization (formerly called Azure Active Directory), which provides the identity and access management platform for Microsoft 365, Azure, and many software companies to help them create ...
+See details
+Software Engineer
+
+7 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values o...
+See details
+Software Engineer II
+
+8 days ago
+
+Multiple Locations, India
+
+Up to 100% work from home
+Have you ever imagined the world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their books/music/photos/video/any data from anywhere at any time via any means (e.g. mobile phones,...
+See details
+Senior Software Engineer
+
+8 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Teams provides a world class solution for collaboration in corporate, education and personal communications. Video Conferencing has become essential part of remote work.   Our team is responsible of Video Rendering in desktop Windows/Mac Teams client...
+See details
+Penetration Testing Engineer
+
+8 days ago
+
+Multiple Locations, United States + 1 more
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Principal Software Engineer
+
+8 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Principal Product Manager, AI Developer Experience
+
+8 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+As a Principal Product Manager for AI Developer Experience, you will harness your extensive expertise in AI technologies and developer tools to lead a dynamic team dedicated to empowering developers worldwide. Your role will be pivotal in shaping our SDK and A...
+See details
+Principal Research Software Engineer
+
+8 days ago
+
+Redmond, Washington, United States + 4 more
+
+Up to 100% work from home
+Microsoft Research (MSR) AI Frontiers is inviting applications for a Principal Research Software Engineer to join our team. We are focused on solving real-world problems and pushing the boundaries of agentic Artificial Intelligence (AI) systems and research.  ...
+See details
+Senior Software Engineer
+
+11 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+The AI Frameworks team at Microsoft develops AI software that enables running AI models everywhere, from world’s fastest AI supercomputers, to servers, desktops, mobile phones, IoT devices, and internet browsers.  We collaborate with our hardware teams and par...
+See details
+Senior Product Designer
+
+11 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+We are looking for a highly skilled and visionary Senior Product Designer to play a key role in shaping the future of MSN. The ideal candidate will possess strong visual and UX design skills, and have extensive experience working collaboratively with a multidi...
+See details
+Principal Product Designer
+
+11 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+If you’re passionate about technology, have a knack for creative ideas, and lead with a growth mindset, we want to hear from you. The Microsoft AI Design & Research team is a creative community of designers and researchers on a mission to create and deliver ho...
+See details
+Principal Product Designer | Consumer Ads
+
+11 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+We are seeking a highly skilled and visionary Principal Product Designer to join our Consumer Ads team to drive high-impact creative experiences across our ecosystem. Between Copilot, Windows, Bing, Outlook, Microsoft Casual Gaming, and more, the opportunities...
+See details
+Principal Software Engineer
+
+11 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...
+See details
+Senior Software Engineer
+
+11 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Software Engineer
+
+11 days ago
+
+Multiple Locations, Romania
+
+Up to 100% work from home
+The Datacenter Manager team forms the core stack that powers the Microsoft Cloud and manages datacenter infrastructure for the global Microsoft fleet, including Azure, Xbox, Exchange and more. Titan is a microservices platform that runs the cloud at massive sc...
+See details
+Senior Software Engineer
+
+11 days ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The Experience plus Devices (E+D) Growth team is seeking a Senior Software Engineer to help accelerate the adoption of Copilot and Microsoft 365. Our team is uniquely positioned at the strategic epicenter of E+D for revolutionizing the productivity business by...
+See details
+Senior Security Research Lead
+
+11 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Senior Software Engineer
+
+11 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Imagine playing a pivotal role in shaping the future of AI within an ecosystem used by billions. In the Windows AI team, we're engineering groundbreaking solutions that empower people around the globe to achieve more with AI. If you're a Senior Software Engine...
+See details
+Senior Architect Epic
+
+12 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Azure Core is Azure's most profitable business and is growing incredibly fast! We provide millions of virtual machines, storage and networking for customers to run their workload in the cloud. We are a globally available foundational service that hosts service...
+See details
+Principal Researcher
+
+12 days ago
+
+Vancouver, British Columbia, Canada + 3 more
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...
+See details
+Senior Product Manager
+
+12 days ago
+
+Multiple Locations, Costa Rica + 1 more
+
+Up to 100% work from home
+Are you an experienced product management leader looking for an opportunity to have outsized impact across multiple products?  Are you passionate about hyper-scale cloud services, using data to drive decisions, and helping to foster an efficiency culture acros...
+See details
+Senior Software Engineer
+
+12 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Azure is the fastest-growing business in Microsoft’s history and is the foundation of Microsoft’s commercial Cloud Services. We are a part of the Azure Core team that builds and manages the core platform across various services.   We have an exciting opportuni...
+See details
+Software Engineer II
+
+12 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Azure is the fastest-growing business in Microsoft’s history and is the foundation of Microsoft’s commercial Cloud Services. We are a part of the Azure Core team that builds and manages the core platform across various services.   We have an exciting opportuni...
+See details
+Software Engineer
+
+13 days ago
+
+Bucharest, Romania
+
+Up to 100% work from home
+Come build community, explore your passions and do your best work at Microsoft. This opportunity will allow you to bring your aspirations, talent, potential and excitement for the journey ahead. As a Software Engineer, you will help plan, design, develop and t...
+See details
+Senior Technical Product Manager-Xbox
+
+13 days ago
+
+San Jose, San José, Costa Rica + 3 more
+
+Up to 100% work from home
+Team Xbox is at the forefront of delivering the industry’s best platform and experiences for both players and game developers. We work closely with industry leaders across hardware, software, firmware, services and our 1st and 3rd party game development partne...
+See details
+Principal Software Engineer Manager
+
+13 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+We are looking for a Principal Software Engineer Manager to join our team! Join us. Make an impact. We are the Sky team and have the mandate and opportunity to: Empower Microsoft Cloud teams and their customers to easily deliver high-quality services using sta...
+See details
+
+Senior Product Manager
+
+13 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+We are part of the CoreAI – Platform and Tools division at Microsoft. Our mission enables every developer to achieve more by using Artificial Intelligence (AI) tools and our platform capabilities to infuse AI in their applications and services. This role is in...
+See details
+Principal Software Engineer
+
+13 days ago
+
+Boston, Massachusetts, United States
+
+Up to 100% work from home
+Azure Machine Learning (ML) is at the center of Microsoft’s Artificial Intelligence (AI) revolution as the world moves towards integrating Artificial Intelligence through Large Language Models (LLMs) into services and applications that impacts millions of peop...
+See details
+Senior Applied Scientist, Azure AI Speech
+
+13 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+The Azure Artificial Intelligence (AI) Speech Group brings together talent in signal processing, speech modeling, statistical modeling, and deep learning to develop and deliver robust, natural, and scalable speech recognition across a wide range of scenarios a...
+See details
+Principal Software Engineering Manager
+
+13 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Azure is the fastest-growing business in Microsoft’s history and is the foundation of Microsoft’s commercial Cloud Services. We are a part of the Azure Core team that builds and manages the core platform across various services.   We have an exciting opportuni...
+See details
+Senior Software Engineer
+
+13 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Azure is the one of the fastest-growing business in Microsoft’s history, The Azure Core team builds and manages the core platform across compute, storage, and networking services. We have an exciting opportunity for you to innovate and shape the world’s comput...
+See details
+Executive Producer / Production Leader
+
+13 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+ Xbox is looking for an experienced Executive Producer / Production Leader to join a game development team. In this senior leadership role, you will lead a game team to their peak performance, health, and well-being.  As Executive Producer / Production Leader ...
+See details
+Principal Graphics Engineer - The Initiative
+
+14 days ago
+
+Santa Monica, California, United States
+
+Up to 100% work from home
+The Initiative is looking for a Principal Graphics Engineer to join our team to work on Perfect Dark. In this role, you will lead our rendering technology group, solving the toughest rendering challenges for the content team and lifting the visual bar and perf...
+See details
+Software Engineer
+
+14 days ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+Have you ever imagined a world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their data from anywhere at any time via any means (e.g., mobile phones, tablets, PCs, smart devices, ...
+See details
+Software Engineering
+
+14 days ago
+
+Multiple Locations, Serbia
+
+Up to 100% work from home
+Come build community, explore your passions and do your best work at Microsoft. This opportunity will allow you to bring your aspirations, talent, potential and excitement for the journey ahead.  As a Software Engineer, you will help plan, design, develop and ...
+See details
+Software Quality Engineer
+
+15 days ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+Have you ever imagined a world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their data from anywhere at any time via any means (e.g., mobile phones, tablets, PCs, smart devices, ...
+See details
+Senior Software Engineer - Word team
+
+15 days ago
+
+Belgrade, Serbia
+
+Up to 100% work from home
+Come join Microsoft Word to work on state-of-the-art services, platforms, distributed systems, user experiences, and modern technology to deliver the next generation of productivity experiences used by hundreds of millions of users. We are looking for Senior S...
+See details
+Security Vulnerability Researcher
+
+18 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+The Microsoft Offensive Research & Security Engineering (MORSE) team is looking for a learn-it-all engineer that will help secure Microsoft products and devices. The MORSE Cloud team is responsible for securing the next-gen Cloud compute platforms and virtuali...
+See details
+Senior SAP Architect
+
+19 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Azure Specialized is powering some of Azure’s most profitable business segments and is growing incredibly fast! We are a globally available foundational service that hosts services and customer workloads with the scale of Bing/Skype/AzureStore/SQL,AI, hosts mi...
+See details
+Software Engineer - Xbox Platform
+
+19 days ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+The group designing and building the next generation of core platform software technologies for the Xbox platform is looking for new talent!  More than 2.5B people play games across console, PC and mobile and our ambition is to reach all of them with industry ...
+See details
+Principal Data Scientist - Customer Experience Engineering
+
+19 days ago
+
+Redmond, Washington, United States + 2 more
+
+Up to 100% work from home
+The OneDrive and SharePoint (ODSP) organization is in the business of launching new innovative services powering Microsoft 365, Microsoft Copilot and Microsoft Viva. As a member of the ODSP Customer Experience Engineering (CXE) Team, you will be embedded as an...
+See details
+Senior Service Engineer
+
+19 days ago
+
+Paris, France
+
+Up to 100% work from home
+Microsoft has an exciting opportunity for an experienced Service engineer to join the International Sovereign Platform Team (ISPT) working on mission critical and highly assured distributed systems.  Specifically, you will help design, deliver and support the ...
+See details
+Senior Service Engineer
+
+19 days ago
+
+Multiple Locations, Germany
+
+Up to 100% work from home
+Overview Microsoft has an exciting opportunity for an experienced service engineer to join the International Sovereign Platform Team (ISPT) working on mission critical and highly assured distributed systems.  Specifically, you will help design, deliver and sup...
+See details
+Principal Software Engineer
+
+20 days ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops AI software that enables running AI models everywhere, from world’s fastest AI supercomputers, to servers, desktops, mobile phones, IoT devices, and internet browsers.  We collaborate with ...
+See details
+Senior Software Engineer
+
+20 days ago
+
+Sydney, New South Wales, Australia
+
+Up to 100% work from home
+The Azure Portal is the main interface of Azure that millions of customers use every month. It provides a unified management experience, targeted toward developers and IT professionals, that brings together diverse experiences in data centers around the globe....
+See details
+Principal Software Engineer
+
+20 days ago
+
+Redmond, Washington, United States + 1 more
+
+Up to 100% work from home
+We are looking for a Principal Software Engineer to join our team! Be a part of our AzureLocal Virtual Machine (VMs) team, where we extend Azure Cloud to on-premises environments, enabling customers to run and manage VMs from anywhere in the world using the Az...
+See details
+
+Principal Product Manager, Copilot
+
+20 days ago
+
+Multiple Locations, Mexico + 3 more
+
+Up to 100% work from home
+Joining our team means working on cutting-edge AI technology that transforms the way millions of people work daily. As part of the Microsoft 365 #Copilot Business Chat team, you’ll have the opportunity to shape the future of AI productivity tools, collaborate ...
+See details
+Senior Software Engineer- LLM Performance
+
+20 days ago
+
+Multiple Locations, United States + 2 more
+
+Up to 100% work from home
+The AI Frameworks team at Microsoft develops AI software that enables running AI models everywhere, from world’s fastest AI supercomputers, to servers, desktops, mobile phones, internet of things (IoT) devices, and internet browsers.  We collaborate with our h...
+See details
+Senior Software Engineering Manager
+
+20 days ago
+
+Bucharest, Romania
+
+Up to 100% work from home
+Join the Azure Compute Foundation team, a vibrant group at the heart of Azure Compute. We shape and manage the lifecycles of millions of machines and containers, combining scale with complexity handling. Here, we foster a growth mindset, cultivating an environ...
+See details
+Principal Software Engineering Manager – Azure Storage Armada Platform
+
+20 days ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+Have you ever imagined the world with an infinite amount of storage available and accessible to everyone? A place where everyone in the world can easily access their books/music/photos/video/any data from anywhere at any time via any means (e.g. mobile phones,...
+See details
+Senior Software Engineer
+
+21 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft Teams is core to Microsoft's vision for intelligent communications and productivity pane into modern workplace. We are fast becoming the hub for teamwork in Office 365 with hundreds of thousands of organizations and tens of millions of users across t...
+See details
+Principal Applied Scientist - Speech Enhancement and Speech Processing
+
+21 days ago
+
+Multiple Locations, Germany
+
+Up to 100% work from home
+Join the Applied Sciences Group and help create the future of Microsoft’s hardware and software businesses. For this opening, we are looking for a Principal Applied Scientist to be a hands-on tech lead for the Microsoft Voice Clarity audio capture pipeline. Th...
+See details
+Principal Software Engineering Manager
+
+22 days ago
+
+Multiple Locations, Serbia
+
+Up to 100% work from home
+It is a mobile first, cloud first world and we’re empowering it.  Microsoft Azure is at the heart of the Microsoft Cloud providing the backend infrastructure for hyper-scale distributed and dynamic computing.  Our team within Azure provides the software platfo...
+See details
+SAP Software Engineer
+
+22 days ago
+
+Redmond, Washington, United States + 4 more
+
+Up to 100% work from home
+MULTIPLE POSITIONS: IC3 (SAP Software Engineer II) and IC4 (Senior SAP Software Engineer)   Microsoft Cloud Operations + Innovation (CO+I) is the team behind building the Microsoft cloud. Within CO+I, the Datacenter Planning & eXecution Engineering (DPXE) team...
+See details
+Principal Software Engineer
+
+22 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Do you want to join a team and make a great impact? Do you like working on technical problems which impact people on a global scale? Microsoft Teams is pivotal to our vision for intelligent communications and collaboration. As the hub for teamwork in Office 36...
+See details
+Principal Software Engineer
+
+22 days ago
+
+Prague (CEE HQ), Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values o...
+See details
+Senior Software Engineer (Icertis)
+
+25 days ago
+
+Redmond, Washington, United States + 4 more
+
+Up to 100% work from home
+Microsoft Cloud Operations + Innovation (CO+I) is the team behind building the Microsoft cloud. Within CO+I, the Datacenter Planning & eXecution Engineering (DPXE) team is responsible for delivering datacenter capacity for Microsoft’s cloud business. We have a...
+See details
+Principal Software Engineer- AI Platform
+
+25 days ago
+
+Redmond, Washington, United States + 1 more
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops AI software that enables running AI models everywhere, from world’s fastest AI supercomputers, to servers, desktops, mobile phones, IoT devices, and internet browsers.  We collaborate with ...
+See details
+Senior Software Engineering Manager
+
+25 days ago
+
+Paris, France
+
+Up to 100% work from home
+Microsoft has an exciting opportunity for an experienced engineering manager to join the our International Sovereign Platform Team (ISPT), leading and growing a geographically distributed team of engineers to build out and support the back-end operations infra...
+See details
+Senior Software Engineering Manager
+
+25 days ago
+
+Multiple Locations, United Kingdom
+
+Up to 100% work from home
+Overview Microsoft has an exciting opportunity for an experienced engineering manager to join the our International Sovereign Platform Team (ISPT), leading and growing a geographically distributed team of engineers to build out and support networking infrastru...
+See details
+Senior Network Engineer
+
+25 days ago
+
+Multiple Locations, Germany
+
+Up to 100% work from home
+Overview Microsoft has an exciting opportunity for an experienced networking engineer to join the International Sovereign Platform Team (ISPT) working on mission critical and highly assured distributed systems.  Specifically, you will help drive the creation a...
+See details
+Industrial Controls Engineering Manager- Data Center
+
+25 days ago
+
+Amsterdam, Noord-Holland, Netherlands
+
+Up to 100% work from home
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a CE Instrumentation Engineer Manager. As a CE Instrumentation Engineer Manage...
+See details
+Security Software Engineer
+
+26 days ago
+
+Multiple Locations, Ireland
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Principal Software Engineer
+
+27 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Within the Developer Division at Microsoft, the Developer Artifical Intelligence team is working on incubating, building and delivering the next generation of AI-enabled developer tooling experiences, across Visual Studio Code, GitHub Copilot extensions, Visua...
+See details
+Member of Technical Staff - Software Engineer
+
+27 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+To Apply Click HereOverviewMicrosoft AI is looking for a Member of Technical Staff - Software Engineer to help build the next wave of capabilities of our personalized AI assistant, Copilot. We�re looking for someone who will bring an abundance of positive ener...
+See details
+Principal Software Engineer
+
+27 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Teams is core to Microsoft's vision for intelligent communications. We are the hub for teamwork in Office 365 with hundreds of thousands of organizations and tens of millions of users across the globe using Teams. We are looking for a Principal Softw...
+See details
+
+Senior Software Engineer
+
+27 days ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Do you want to join a team and make a great impact? Do you like working on technical problems which impact people on a global scale? If yes, you will love this opportunity. This Senior Software Engineer position is with the Microsoft Teams Calling and Meetings...
+See details
+Software Engineer II
+
+27 days ago
+
+Multiple Locations, Ireland
+
+Up to 100% work from home
+With increased need to safeguard customers and Microsoft services, Azure Frontdoor WAF team is expanding to meet these growing needs. Azure Front Door delivers a geographically-distributed internet-facing set of services that provide acceleration, caching , pr...
+See details
+​​Principal PM - Data Science - Bioinformatics ​
+
+29 days ago
+
+Multiple Locations, India
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  Mic...
+See details
+Cybersecurity Incident Response Team Lead
+
+29 days ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+With over 17,000 employees worldwide, the mission of the Customer Experience & Success (CE&S) organization is to empower customers to accelerate business value through differentiated customer experiences that leverage Microsoft’s products and services, ignited...
+See details
+Senior Software Engineer
+
+29 days ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. The ...
+See details
+Software Engineer - Security Focused
+
+29 days ago
+
+Bucharest, Romania
+
+Up to 100% work from home
+Azure Storage is at the core of Azure, providing over 100 exabytes (100 million terabytes) of raw capacity distributed over 3000+ storage clusters in 200+ datacenters across 70 regions worldwide. Azure Storage provides the persistent storage layer in the cloud...
+See details
+Senior Software Engineer
+
+2 months ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...
+See details
+Senior Software Engineer
+
+2 months ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+With growing need to accelerate app delivery, provide intelligent routing and secure customer workloads with minimal possible latency at the edge, Microsoft's Azure Froontdoor team (AFD) is growing to meet these challenges and looking for experienced engineers...
+See details
+Principal Software Engineering Manager
+
+1 month ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values o...
+See details
+Senior Software Engineer
+
+2 months ago
+
+Multiple Locations, Ireland
+
+Up to 100% work from home
+With increased need to safeguard customers and Microsoft services, Azure Frontdoor WAF team is expanding to meet these growing needs. Azure Front Door delivers a geographically-distributed internet-facing set of services that provide acceleration, caching , pr...
+See details
+Senior Research Software Engineer
+
+1 month ago
+
+Redmond, Washington, United States + 4 more
+
+Up to 100% work from home
+Microsoft Research (MSR) AI Frontiers is inviting applications for a Senior Research Software Engineer to join our team. We are focused on solving real-world problems and pushing the boundaries of agentic Artificial Intelligence (AI) systems and research.   Th...
+See details
+Principal Data Scientist
+
+2 months ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  Mic...
+See details
+Senior Machine Learning Research Scientist
+
+1 month ago
+
+Cambridge, Cambridgeshire, United Kingdom
+
+Up to 100% work from home
+Do you want to be at the forefront of innovating the latest hardware designs to propel Microsoft’s cloud growth? Are you seeking a unique career opportunity that combines both technical capabilities, cross team collaboration, with business insight and strategy...
+See details
+Principal Software Engineer
+
+1 month ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft Teams is core to Microsoft's vision for intelligent communications and productivity pane into the modern workplace. We are fast becoming the hub for teamwork in Office 365, with hundreds of thousands of organizations and tens of millions of users acr...
+See details
+Software Engineer-Xbox
+
+3 months ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+The group designing and building the next generation of core platform software technologies for Xbox is looking for new talent! More than 2.5B people play games across console, PC and mobile and our ambition is to reach all of them with industry leading experi...
+See details
+Principal Software Engineering Lead
+
+1 month ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Cloud Operations + Innovation (CO+I) is the team behind building the Microsoft cloud. Within CO+I, the Datacenter Planning & eXecution Engineering (DPXE) team is responsible for delivering datacenter capacity for Microsoft’s cloud business. We have a...
+See details
+Vaga Afirmativa para Pessoas com Deficiência - Engenheiro de Software / Affirmative Job Posting for People with Disabilities - Software Engineer
+
+2 months ago
+
+Multiple Locations, Brazil
+
+Up to 100% work from home
+Software Engineer – People with Disability  The goal of the Ability Hiring Event is to build an inclusive hiring approach that recognizes and embraces the strengths of candidates with all disabilities. The World Health Organization defines disability to arise ...
+See details
+Senior Software Engineer
+
+30 days ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Are you looking to make a real difference in Microsoft’s mission to empower every person and organization to achieve more, with the power of cloud computing? Do you want to work at the forefront of Cloud Computing to design, deliver & operate cloud-scale syste...
+See details
+Senior Software Engineer-Xbox
+
+3 months ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+The group designing and building the next generation of core platform software technologies for Xbox is looking for new talent!  More than 2.5B people play games across console, PC and mobile and our ambition is to reach all of them with industry leading exper...
+See details
+Software Engineering II-Xbox
+
+5 months ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+On Team Xbox, we aspire to empower the world’s 3 billion gamers to play the games they want, with the people they want, anywhere they want. Gaming, the largest and fastest growing category in media & entertainment, represents an important growth opportunity fo...
+See details
+
+Software Engineering II-Xbox
+
+5 months ago
+
+Multiple Locations, Costa Rica + 3 more
+
+Up to 100% work from home
+On Team Xbox, we aspire to empower the world’s 3 billion gamers to play the games they want, with the people they want, anywhere they want. Gaming, the largest and fastest growing category in media & entertainment, represents an important growth opportunity fo...
+See details
+Senior Software Engineering Manager
+
+2 months ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft Teams brings people together by making it easy, productive and fun to communicate and collaborate! Microsoft Teams is the hub where the power and capabilities of M365 come together - Chat, Calling, Meetings, Files, Bots, 3rd Party integrations and mo...
+See details
+Senior Software Engineer
+
+1 month ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Are you passionate about designing elegant software solutions that solve intricate technical problems? Do you thrive on security and quality and enjoy working with large-scale, distributed systems? Please join us in Azure Compute and contribute to an innovativ...
+See details
+Principal Software Engineer
+
+2 months ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Does thinking at hyper scale excite you? Do you love systems design and virtualization technology? Do you enjoy contributing to and working in a healthy, diverse, and inclusive work environment? Do you like driving new initiatives in a fast-paced organization ...
+See details
+Cloud Network Engineer
+
+2 months ago
+
+Dublin, Ireland
+
+Up to 100% work from home
+For this position, you should be familiar with network protocols, network devices include network interface cards, pluggable optics, switches and routers. You should feel comfortable working with large-scale distributed systems that manage the network infrastr...
+See details
+Principal Software Engineer
+
+6 months ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Teams is the fastest growing product within Microsoft. If you are excited about being part of this growing team and want to tackle problems on a vast scale, then look no further than Microsoft Teams. We are looking for a Principal Software Engineer t...
+See details
+Principal Product Manager - Responsible AI
+
+5 months ago
+
+New York City, New York, United States
+
+Up to 100% work from home
+In Azure AI, we are ensuring responsible development and deployment of the next generation of cutting-edge generative AI models like GPT-4. If you join our Responsible AI team, you will join an organization committed to partnering with stakeholders across poli...
+See details
+Software Engineer
+
+2 months ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...
+See details
+Principal Security Research Lead
+
+1 month ago
+
+Multiple Locations, Germany
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Senior Software Engineer
+
+3 months ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+In Core OS, we are responsible for the Operating Systems that power Azure, Microsoft's Linux OS, the platforms for Windows Client and Xbox, and our Windows Server ecosystem – through all of these, we support every one of our cloud businesses and billions of cu...
+See details
+Senior Software Engineer
+
+2 months ago
+
+Multiple Locations, Estonia
+
+Up to 100% work from home
+Microsoft Development Center Estonia, with Offices in Tallinn and Tartu, is part of the Experiences & Devices division within Microsoft and well known for its Skype history. Today, our focus is much broader: We are building the Intelligent Conversations & Comm...
+See details
+Senior Applied Scientist
+
+2 months ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Microsoft Copilot is revolutionizing how people work and has created an unprecedented opportunity to advance the state-of-the-art in a way that benefits millions of people. As a Senior Applied Scientist in Microsoft’s productivity division, your core mission w...
+See details
+Senior Software Engineer
+
+5 months ago
+
+Redmond, Washington, United States + 1 more
+
+Up to 100% work from home
+Are you interested in developing and optimizing deep learning systems?  Are you interested in designing novel technology to accelerate their training and serving for cutting edge models and applications?  Do you want to scale large Artificial Intelligence (AI)...
+See details
+Senior Software Engineering Manager
+
+1 month ago
+
+Bucharest, Romania
+
+Up to 100% work from home
+Microsoft Azure Boost is a highly distributed, massively scalable, and ubiquitously accessible cloud storage system designed to scale out and serve the entire world. Our team is responsible for the systems integration of hardware & software, hardware validatio...
+See details
+Senior Software Engineer
+
+3 months ago
+
+Vancouver, British Columbia, Canada
+
+Up to 100% work from home
+The Artificial Intelligence (AI) Frameworks team at Microsoft develops the AI software used to train and deploy the world’s most advanced AI models. We collaborate with our hardware teams and partners to build the software stacks for Microsoft’s next-generatio...
+See details
+Critical Infrastructure Network Engineer
+
+30 days ago
+
+Singapore
+
+Up to 100% work from home
+In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a Critical Infrastructure Network Engineer. Microsoft’s Cloud Operations & Inn...
+See details
+Software Engineer II
+
+1 month ago
+
+Sydney, New South Wales, Australia + 1 more
+
+Up to 100% work from home
+The Azure Core New Tech team is seeking engineers who are eager to help with the New Technology onboarding process: automating how new hardware is verified, managed, and delivered to Microsoft datacenters for Azure, High-Performance Computing, Office, and Edge...
+See details
+Software Engineer
+
+1 month ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Microsoft Teams is core to Microsoft's vision for intelligent communications and productivity pane into modern workplace. We are fast becoming the hub for teamwork in Office 365 with hundreds of thousands of organizations and tens of millions of users across t...
+See details
+Senior Software Engineering Manager
+
+1 month ago
+
+Bucharest, Romania
+
+Up to 100% work from home
+Azure Storage is at the core of Azure, providing over 100 exabytes (100 million terabytes) of raw capacity distributed over 3000+ storage clusters in 200+ datacenters across 70 regions worldwide. Azure Storage provides the persistent storage layer in the cloud...
+See details
+Software Engineer – Azure Files Linux
+
+10 months ago
+
+Bangalore, Karnataka, India + 2 more
+
+Up to 100% work from home
+Azure Files team is looking for a talented and highly motivated Software Engineer with Linux expertise who can help us ensure that customers running Linux have a great experience when accessing Azure Files. We are building Microsoft’s cloud storage solution - ...
+See details
+
+Senior Researcher
+
+1 month ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+The PROSE team is advancing the state of the art in artificial intelligence for end users and programmers, and shipping these innovations through flagship Microsoft products that impact millions of users worldwide. These products include the world’s most popul...
+See details
+Principal Software Engineer
+
+1 month ago
+
+Multiple Locations, United States
+
+Up to 100% work from home
+Are you interested in high performance hardware, virtualization infrastructure, and hyperscale computing? The Azure Compute team is looking for a strong senior technical leader to accelerate the introduction of new and innovative hardware/software IO accelerat...
+See details
+Senior Data Scientist
+
+1 month ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Microsoft is on a mission to empower every person and every organization on the planet to achieve more. Our culture is centered on embracing a growth mindset, a theme of inspiring excellence, and encouraging teams and leaders to bring their best each day. In d...
+See details
+Cybersecurity Threat Hunter and Forensic Analyst
+
+6 months ago
+
+Singapore
+
+Up to 100% work from home
+With over 18,000 employees worldwide, the Microsoft Customer Experience & Success (CE&S) organization is responsible for the strategy, design, and implementation of Microsoft’s end-to-end customer experience. Come join CE&S and help us build a future where cus...
+See details
+Principal Software Engineer - Threat Intelligence
+
+3 months ago
+
+Dublin, Ireland
+
+Up to 100% work from home
+Security represents the most critical priorities for our customers in a world awash in digital threats, regulatory scrutiny, and estate complexity. Microsoft Security aspires to make the world a safer place for all. We want to reshape security and empower ever...
+See details
+Senior Cloud Network Engineer
+
+2 months ago
+
+Dublin, Ireland
+
+Up to 100% work from home
+As part of Microsoft Azure, the Azure Networking team designs and builds the network infrastructure that powers hundreds of thousands of servers in datacenters around the globe, providing core network infrastructure services for Open AI, Azure, Bing, and other...
+See details
+Azure Messaging Team – Senior Software Engineer​
+
+9 months ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  Mic...
+See details
+Senior Software Engineer
+
+3 months ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mi...
+See details
+Senior Software Engineer - M365 Windows Client Core
+
+1 month ago
+
+Multiple Locations, Colombia + 2 more
+
+Up to 100% work from home
+Are you seeking the opportunity to lead experiences that deliver deep Artificial Intelligence to hundreds of millions of users?  In the Microsoft Search, Assistant, and Intelligence (MSAI) Windows Client team, we are building a team of diverse, talented engine...
+See details
+​​Principal Software Engineer​
+
+1 month ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.  Mic...
+See details
+Principal Software Engineering Manager
+
+1 month ago
+
+Bucharest, Romania
+
+Up to 100% work from home
+Would you like to join a team delivering innovative software that powers millions of Microsoft Azure servers around the world? The Azure Compute Node Services Group manages the lifecycle and operations for Azure servers and virtual machines. As a Principal Sof...
+See details
+Sofware Engineer II
+
+5 months ago
+
+Redmond, Washington, United States
+
+Up to 100% work from home
+Microsoft Azure Storage is a highly distributed, massively scalable, and ubiquitously accessible cloud storage platform. Azure storage already runs at Exascale (storing Exabytes of data) and we will scale our designs over the next decade to support Zettascale ...
+See details
+Software Engineering Manager
+
+2 months ago
+
+Prague, Czech Republic
+
+Up to 100% work from home
+Do you see yourself as a coach, a guide, a collaborator, and an engineer? Would you be excited to drive major changes to a high scale service that is critical to Microsoft? Do you care deeply about fostering a great team culture? We are looking for an Engineer...
+See details
+Senior Software Engineering Manager
+
+1 month ago
+
+Bangalore, Karnataka, India
+
+Up to 100% work from home
+Azure Cloud has one of the highest number of data centers amongst all the cloud providers. Azure Storage, which is a massively scalable, highly distributed, ubiquitously accessible storage system, is designed to scale out and serve the entire world with hundre...
+See details
+Product Manager II- Xbox
+
+3 months ago
+
+Multiple Locations, Chile + 3 more
+
+Up to 100% work from home
+Team Xbox is at the forefront of delivering the industry’s best platform and experiences for both players and game developers. We work closely with industry leaders across hardware, software, firmware, services and our 1st and 3rd party game development partne...
+See details
+Senior Applied Scientist
+
+2 months ago
+
+Multiple Locations, Mexico + 3 more
+
+Up to 100% work from home
+Microsoft Copilot and Business Chat are at the forefront of transforming how businesses operate and communicate. As part of our engineering team, you'll be working on cutting-edge AI technologies that integrate seamlessly with Microsoft 365, enhancing producti...
+See details
+Software Engineer II
+
+2 months ago
+
+Hyderabad, Telangana, India
+
+Up to 100% work from home
+Microsoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. Mic...
+See details
+Senior Researcher – AI (Agentic Systems & Interaction) – Microsoft Research
+
+3 months ago
+
+Redmond, Washington, United States + 4 more
+
+Up to 100% work from home
+Microsoft Research (MSR) AI Frontiers is inviting applications for a Senior Researcher to join our team in solving real-world problems and pushing the boundaries of agentic AI systems and research.     The mission of the AI Frontiers lab is to expand the paret...
+See details
+Senior Software Engineer-Xbox
+
+3 months ago
+
+Multiple Locations, Chile + 3 more
+
+Up to 100% work from home
+At Xbox, our mission is to bring the joy and community of gaming to everyone on the planet.   Gaming today brings people from all walks of life and geographies together—centering them around the thing they love most—GAMES! Our teamThe Xbox Experiences and Plat...
+See details
+
+
+
+
+
+
+
+# Work Site
+1. Up to 50% work from home
+2. Up to 100% work from home
+3. On site only
 
 # Role Types
 1. Individual Contributor
