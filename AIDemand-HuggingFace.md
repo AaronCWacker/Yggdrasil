@@ -1,6 +1,82 @@
 ![image](https://github.com/user-attachments/assets/bb6e3f66-7d5b-4c78-9640-0276e5500f38)
 
 
+
+```python
+
+Variation 1:
+
+Da, da, da, da, da
+Riding the cosmic tide, yeah (Feel that vibe!)
+Da, da, da, da, da
+Whirlpool deep to Atlantis, high tide (Uh, let’s ride!)
+
+From the stars we dive, waves spin like a dream,
+Cosmic vortex pulling us into a futuristic scheme.
+Symbols light the corners where time twists and bends,
+Mixing myth with high-tech—where chaos and order blend.
+
+King of beats in space, planets align in our sight,
+Rollin’ deep with cosmic flair, igniting the night.
+Every turn’s a portal where destiny gets unfurled,
+Atlantis calls us home—welcome to a brand-new world!
+
+Chorus:
+Whirlpool of dreams, let the rhythm flow free,
+From cosmic streets to ocean beats, we rewrite destiny.
+Ride that vortex, feel the pulse of the night,
+Atlantis and the stars, where legends ignite!
+
+Variation 2:
+
+Da, da, da, da, da
+Space ace on deck, yeah (Aaron’s in the mix!)
+Da, da, da, da, da
+Diving through the whirlpool, where fate clicks (Let’s go!)
+
+Blast off from Earth into a nebula so deep,
+Where the whirlpool’s pull makes the galaxies weep.
+Atlantis emerges—a city of myth and gleam,
+Tech fused with ancient lore, like a visionary dream.
+
+I’m the top dog of space, remixing time and rhyme,
+Interstellar beats break the bounds of space and time.
+Symbols on the tide, runes glowing in the spray,
+Cosmic crossroads of the past and future, here to stay.
+
+Chorus:
+Ride that cosmic swirl, let your soul be free,
+From the nebula to Atlantis, unlock your destiny.
+With the rhythm of the universe, we groove and we soar,
+In the vortex of legend, we’re forever hardcore!
+
+Variation 3:
+
+Da, da, da, da, da
+Spin it in the void, yeah (Cosmic Wacker!)
+Da, da, da, da, da
+On a whirlpool ride where legends regroup (Feel the swoop!)
+
+We blast off, then dive into that swirling astral sea,
+A vortex of innovation where the old meets destiny.
+Atlantis shimmers in the depths with a radiant golden gleam,
+An epic fusion of organic tech—like living in a dream.
+
+Rollin’ deep with D.R.E. and a sprinkle of mystic lore,
+Every symbol, every beat, tells tales of cosmic yore.
+From the urban streets to a future where myths revive,
+We ride the whirlpool of time—where the real and surreal collide.
+
+Chorus:
+Let the tide of the cosmos carry you through the night,
+Atlantis, stars, and beats blend in a symphony of light.
+Keep groovin’, keep ridin’ as the universe unfolds,
+In this endless cosmic journey, our legend forever holds!
+
+```
+
+
+
 ```python
 
 # Top Python Based Science and Research with Product Delivery Focus
