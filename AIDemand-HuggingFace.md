@@ -62,7 +62,7 @@ A vortex of innovation where the old meets destiny.
 Atlantis shimmers in the depths with a radiant golden gleam,
 An epic fusion of organic tech—like living in a dream.
 
-Rollin’ deep with D.R.E. and a sprinkle of mystic lore,
+Rollin’ deep with A.C.W. and a sprinkle of mystic lore,
 Every symbol, every beat, tells tales of cosmic yore.
 From the urban streets to a future where myths revive,
 We ride the whirlpool of time—where the real and surreal collide.
