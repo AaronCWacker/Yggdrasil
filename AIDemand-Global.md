@@ -45,7 +45,12 @@ Also if one organization is the center of activity for a given skill or technolo
 
 # Move 37
 
-I hadd a move 37 moment with o3-mini-high since it was able to figure out a cross platform async issue in python for HPC scaling patterns.
+I had a move 37 moment with o3-mini-high since it was able to figure out a cross platform async issue in python for HPC scaling patterns.
+
+Here is the move (in python code):
+# Patch the asyncio event loop to allow nested use of asyncio.run()
+import nest_asyncio
+nest_asyncio.apply()
 
 Below is followup session to study the mermaid based knowledge trees combined for main idea synthesis and breeding of children trees.
 
