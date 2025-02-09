@@ -1,5 +1,76 @@
 # Yggdrasil
 
+1.🧠Deep🐍R🌐E Results..  Mermaid Graphs of LLM Advanced Concepts
+
+```mermaid
+flowchart TD
+    T1["quantum"] --> T2["of the"]
+    T2["of the"] --> T3["this"]
+    T3["this"] --> T4["we"]
+    T4["we"] --> T5["that"]
+    T5["that"] --> T6["approach"]
+    T6["approach"] --> T7["results"]
+    T7["results"] --> T8["zx-calculus"]
+    T8["zx-calculus"] --> T9["kindergarten"]
+    T9["kindergarten"] --> T10["mechanics"]
+    T10["mechanics"] --> T11["pictorial"]
+    T11["pictorial"] --> T12["was"]
+    T12["was"] --> T13["s"]
+    T13["s"] --> T14["stuff"]
+    T14["stuff"] --> T15["kindergarten quantum"]
+```
+
+Title: Kindergarden quantum mechanics graduates (...or how I learned to stop gluing LEGO together and love the ZX-calculus)
+Key Terms: quantum, of the, this, we, that, approach, results, zx-calculus, kindergarten, mechanics, pictorial, was, s, stuff, kindergarten quantum
+ROUGE: 5.36%
+
+```python
+flowchart TD
+    T1["as"] --> T2["ball"]
+    T2["ball"] --> T3["possession"]
+    T3["possession"] --> T4["teams"]
+    T4["teams"] --> T5["have"]
+    T5["have"] --> T6["are"]
+    T6["are"] --> T7["that"]
+    T7["that"] --> T8["the ball"]
+    T8["the ball"] --> T9["more"]
+    T9["more"] --> T10["not"]
+    T10["not"] --> T11["necessarily"]
+    T11["necessarily"] --> T12["lead"]
+    T12["lead"] --> T13["like"]
+    T13["like"] --> T14["over"]
+    T14["over"] --> T15["years"]
+```
+
+
+```python
+flowchart TD
+    T1["we"] --> T2["architectures"]
+    T2["architectures"] --> T3["convolutional"]
+    T3["convolutional"] --> T4["models"]
+    T4["models"] --> T5["audio"]
+    T5["audio"] --> T6["transformer"]
+    T6["transformer"] --> T7["show"]
+    T7["show"] --> T8["from"]
+    T8["from"] --> T9["over"]
+    T9["over"] --> T10["past"]
+    T10["past"] --> T11["have"]
+    T11["have"] --> T12["sound"]
+    T12["sound"] --> T13["computer"]
+    T13["computer"] --> T14["vision"]
+    T14["vision"] --> T15["can"]
+```
+
+
+
+
+
+
+
+
+
+
+
 ```python
 🧪 Quantum Mechanics and Hermitian Conjugate
 🔄 Reversibility and Time Evolution
