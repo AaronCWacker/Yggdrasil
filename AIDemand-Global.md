@@ -1,5 +1,131 @@
 The graphs below represent my multi agent system created synopsis of what technology and skills are most in demand for ML in 2025.
 
+
+
+
+# Top Discoveries in ML - Mermaid Model of LLM Integration
+
+```mermaid
+flowchart TD
+  %% ===== Concept Nodes =====
+  C1[🤖 Multimodal]
+  C2[👁️ Vision]
+  C3[📝 Language]
+  C4[🎥 Video]
+  C5[3️⃣ 3D]
+  C6[🎙️ Audio]
+  C7[💾 Dataset]
+  C8[📊 Benchmark]
+  C9[🗜️ Compression]
+  C10[🔎 Retrieval]
+  C11[💧 Diffusion]
+  C12[⚖️ Contrastive]
+  C13[✨ Generative]
+  C14[💬 Chat]
+  C15[🔍 Detection]
+
+  %% ===== Paper-to-Concept Relationships =====
+  %% P1: Enhancing Multimodal LLMs with Vision Detection Models
+  C1 -- "Enhancing MLLMs" --> C2
+  C2 -- "Enhancing MLLMs" --> C15
+
+  %% P2: Mug-STAN – Adapting Image-Language Pretrained Models for General Video Understanding
+  C1 -- "Mug‑STAN" --> C2
+  C2 -- "Mug‑STAN" --> C3
+  C3 -- "Mug‑STAN" --> C4
+
+  %% P3: LAION‑5B – An Open Large‑Scale Dataset for Training Next Generation Image‑Text Models
+  C1 -- "LAION‑5B" --> C7
+  C7 -- "LAION‑5B" --> C2
+  C2 -- "LAION‑5B" --> C3
+
+  %% P4: SEED‑Bench‑2 – Benchmarking Multimodal Large Language Models
+  C1 -- "SEED‑Bench‑2" --> C3
+  C3 -- "SEED‑Bench‑2" --> C8
+
+  %% P5: Compression of Deep Learning Models for Text: A Survey
+  C3 -- "Compression Survey" --> C9
+
+  %% P6: Retrieval‑Augmented Multimodal Language Modeling
+  C1 -- "Retrieval‑aug MLM" --> C3
+  C3 -- "Retrieval‑aug MLM" --> C10
+  C10 -- "Retrieval‑aug MLM" --> C13
+
+  %% P7: DiffDis – Empowering Generative Diffusion Model with Cross‑Modal Discrimination Capability
+  C1 -- "DiffDis" --> C2
+  C2 -- "DiffDis" --> C11
+  C11 -- "DiffDis" --> C13
+
+  %% P8: DALL‑Eval – Probing the Reasoning Skills and Social Biases of Text‑to‑Image Generation Models
+  C3 -- "DALL‑Eval" --> C2
+  C2 -- "DALL‑Eval" --> C13
+
+  %% P9: COSMO – COntrastive Streamlined MultimOdal Model with Interleaved Pre‑Training
+  C1 -- "COSMO" --> C3
+  C3 -- "COSMO" --> C2
+
+  %% P10: L3GO – Language Agents with Chain‑of‑3D‑Thoughts for Generating Unconventional Objects
+  C1 -- "L3GO" --> C3
+  C3 -- "L3GO" --> C5
+  C5 -- "L3GO" --> C13
+
+  %% P11: OneLLM – One Framework to Align All Modalities with Language
+  C1 -- "OneLLM" --> C2
+  C2 -- "OneLLM" --> C3
+
+  %% P12: UniVL – A Unified Video and Language Pre‑Training Model for Multimodal Understanding and Generation
+  C1 -- "UniVL" --> C3
+  C3 -- "UniVL" --> C4
+
+  %% P13: Bidirectional Cross‑Modal Knowledge Exploration for Video Recognition with Pre‑trained Vision‑Language Models
+  C1 -- "BiCrossModal" --> C4
+  C4 -- "BiCrossModal" --> C2
+
+  %% P14: mPLUG‑2 – A Modularized Multi‑modal Foundation Model Across Text, Image and Video
+  C1 -- "mPLUG‑2" --> C2
+  C2 -- "mPLUG‑2" --> C3
+  C3 -- "mPLUG‑2" --> C4
+
+  %% P15: CrossGET – Cross‑Guided Ensemble of Tokens for Accelerating Vision‑Language Transformers
+  C1 -- "CrossGET" --> C2
+  C2 -- "CrossGET" --> C3
+
+  %% P16: Accountable Textual‑Visual Chat Learns to Reject Human Instructions in Image Re‑creation
+  C1 -- "Accountable Chat" --> C2
+  C2 -- "Accountable Chat" --> C3
+  C3 -- "Accountable Chat" --> C7
+  C7 -- "Accountable Chat" --> C14
+
+  %% P17: Towards Fast Adaptation of Pretrained Contrastive Models for Multi‑channel Video‑Language Retrieval
+  C1 -- "Fast Adapt Contrastive" --> C3
+  C3 -- "Fast Adapt Contrastive" --> C4
+  C4 -- "Fast Adapt Contrastive" --> C12
+  C12 -- "Fast Adapt Contrastive" --> C10
+
+  %% P18: LiDAR‑LLM – Exploring the Potential of Large Language Models for 3D LiDAR Understanding
+  C1 -- "LiDAR‑LLM" --> C3
+  C3 -- "LiDAR‑LLM" --> C5
+
+  %% P19: Unified‑IO 2 – Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
+  C1 -- "Unified‑IO2" --> C2
+  C2 -- "Unified‑IO2" --> C3
+  C3 -- "Unified‑IO2" --> C6
+
+  %% P20: GPT4Point – A Unified Framework for Point‑Language Understanding and Generation
+  C1 -- "GPT4Point" --> C3
+  C3 -- "GPT4Point" --> C5
+  C5 -- "GPT4Point" --> C13
+
+  %% ===== Inherent Concept Relationships =====
+  C2 --- "Visual–Language" --- C3
+  C2 --- "Vision–Video" --- C4
+  C1 --- "Unified" --- C6
+  C7 --- "supports" --- C8
+  C14 --- "dialogue" --- C3
+
+```
+
+
 This list is descending order frequency by volume of demand.
 
 Below is a top 10 list for ML Learning - Topics deserving most study and research based on unique contributions of each organization contributing to 'state of art' evolution in ML.
