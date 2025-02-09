@@ -1,5 +1,210 @@
 The graphs below represent my multi agent system created synopsis of what technology and skills are most in demand for ML in 2025.
 
+# Python app.py v2
+
+import streamlit as st
+
+# Mermaid Diagram - Part 1 (P1-P10)
+mermaid_diagram_part1 = '''
+
+
+```mermaid
+flowchart TD
+    %% Nodes
+    MM[🤖 Multimodal]
+    VI[👁️ Vision]
+    LA[📝 Language]
+    VD[🎥 Video]
+    T3D[🏗️ 3D]
+    AU[🎙️ Audio]
+    DS[💾 Dataset]
+    BM[📊 Benchmark]
+    CO[🗜️ Compression]
+    RE[🔎 Retrieval]
+    DI[💧 Diffusion]
+    CT[⚖️ Contrastive]
+    GE[✨ Generative]
+    CH[💬 Chat]
+    DT[🔍 Detection]
+
+    %% Paper Relationships (P1-P10)
+    %% P1: Enhancing Multimodal LLMs with Vision Detection Models
+    MM -->|Boosts Vision 🚀| VI
+    VI -->|Enables Detection 🔎| DT
+
+    %% P2: Mug-STAN: Adapting Image-Language Pretrained Models for General Video Understanding
+    VI -->|Adapts for Video 🎬| VD
+    LA -->|Aligns with Video 🎬| VD
+
+    %% P3: LAION-5B: An Open Large-Scale Dataset for Training Next Generation Image-Text Models
+    DS -->|Fuels Vision 🔋| VI
+    DS -->|Fuels Language 🔋| LA
+
+    %% P4: SEED-Bench-2: Benchmarking Multimodal Large Language Models
+    MM -->|Benchmark Evaluation 🏆| BM
+    LA -->|Benchmark Evaluation 🏆| BM
+
+    %% P5: Compression of Deep Learning Models for Text: A Survey
+    LA -->|Reduces Model Size 🔽| CO
+
+    %% P6: Retrieval-Augmented Multimodal Language Modeling
+    MM -->|Augments Integration 🔗| LA
+    LA -->|Retrieves Context 📡| RE
+    RE -->|Facilitates Generation ✨| GE
+
+    %% P7: DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability
+    VI -->|Triggers Diffusion 💧| DI
+    DI -->|Enables Generation ✨| GE
+
+    %% P8: DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models
+    LA -->|Probes Visual Context 👓| VI
+    VI -->|Refines Output ✨| GE
+
+    %% P9: COSMO: Contrastive Streamlined Multimodal Model with Interleaved Pre-Training
+    LA -->|Applies Contrastive Learning ⚖️| CT
+    CT -->|Aligns Visual Features 👁️| VI
+
+    %% P10: L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects
+    LA -->|Inspires 3D Creativity 🏗️| T3D
+    T3D -->|Generates Unconventional Forms ✨| GE
+```
+
+'''
+
+# Mermaid Diagram - Part 2 (P11-P20 + Inherent Relationships)
+mermaid_diagram_part2 = '''
+
+```mermaid
+flowchart TD
+    %% Nodes (redeclared for completeness)
+    MM[🤖 Multimodal]
+    VI[👁️ Vision]
+    LA[📝 Language]
+    VD[🎥 Video]
+    T3D[🏗️ 3D]
+    AU[🎙️ Audio]
+    DS[💾 Dataset]
+    BM[📊 Benchmark]
+    CO[🗜️ Compression]
+    RE[🔎 Retrieval]
+    DI[💧 Diffusion]
+    CT[⚖️ Contrastive]
+    GE[✨ Generative]
+    CH[💬 Chat]
+    DT[🔍 Detection]
+
+    %% Paper Relationships (P11-P20)
+    %% P11: OneLLM: One Framework to Align All Modalities with Language
+    VI -->|Aligns Vision & Language 🤝| LA
+    MM -->|Unifies Modalities 🤝| LA
+
+    %% P12: UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation
+    LA -->|Synthesizes Video Content 🎞️| VD
+
+    %% P13: Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models
+    VI -->|Exchanges Visual Cues 🔄| VD
+    VD -->|Reciprocates Vision Signals 🔄| VI
+
+    %% P14: mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video
+    LA -->|Bridges Text & Vision 🔗| VI
+    LA -->|Integrates with Video 🎥| VD
+    VI -->|Leverages Vision for Video 🎥| VD
+
+    %% P15: CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers
+    VI -->|Enhances Matching ⚡| LA
+
+    %% P16: Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation
+    LA -->|Facilitates Dialogue 💬| CH
+    VI -->|Provides Visual Context 👁️| CH
+    DS -->|Supports Chat Data 💾| CH
+
+    %% P17: Towards Fast Adaptation of Pretrained Contrastive Models for Multi-channel Video-Language Retrieval
+    LA -->|Bridges to Video 🔄| VD
+    VD -->|Applies Contrastive Refinement ⚖️| CT
+    CT -->|Facilitates Retrieval 🔍| RE
+
+    %% P18: LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding
+    LA -->|Extends to 3D Modeling 🏗️| T3D
+
+    %% P19: Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
+    VI -->|Fuses Vision & Language 🤝| LA
+    LA -->|Expands into Audio 🎙️| AU
+
+    %% P20: GPT4Point: A Unified Framework for Point-Language Understanding and Generation
+    LA -->|Connects to 3D Understanding 🏗️| T3D
+    T3D -->|Fuels Creative Design ✨| GE
+
+    %% Inherent Concept Relationships
+    VI -->|Visual-Language Integration 🔗| LA
+    VI -->|Vision-to-Video Flow 🎞️| VD
+    MM -->|Unifies Modalities with Audio 🎧| AU
+    DS -->|Data Fuels Benchmarking 📊| BM
+    CH -->|Chat Engages Language 🗣️| LA
+```
+
+
+'''
+
+# Dense Markdown Outline with Glossary for Nodes and Relationships
+markdown_outline = '''---
+### Outline & Glossary
+
+#### Nodes
+- **🤖 Multimodal (MM):** Systems integrating various data types.
+- **👁️ Vision (VI):** Visual processing and image data.
+- **📝 Language (LA):** Text and linguistic data.
+- **🎥 Video (VD):** Video content and processing.
+- **🏗️ 3D (T3D):** Three-dimensional modeling.
+- **🎙️ Audio (AU):** Audio and speech signals.
+- **💾 Dataset (DS):** Data collections for training/evaluation.
+- **📊 Benchmark (BM):** Performance evaluation standards.
+- **🗜️ Compression (CO):** Techniques to reduce model size.
+- **🔎 Retrieval (RE):** Methods to fetch and augment data.
+- **💧 Diffusion (DI):** Diffusion-based generative processes.
+- **⚖️ Contrastive (CT):** Methods for feature alignment via contrast.
+- **✨ Generative (GE):** Models that create new content.
+- **💬 Chat (CH):** Conversational/dialogue systems.
+- **🔍 Detection (DT):** Systems for identifying features.
+
+#### Relationships Glossary
+- **🚀 Boosts Vision:** Enhances visual processing.
+- **🔎 Enables Detection:** Activates detection capabilities.
+- **🎬 Adapts/Aligns for Video:** Connects visuals and language to video.
+- **🔋 Fuels Vision/Language:** Supplies essential input data.
+- **🏆 Benchmark Evaluation:** Assesses performance via benchmarks.
+- **🔽 Reduces Model Size:** Optimizes models through compression.
+- **🔗 Augments/Bridges Integration:** Links different modalities.
+- **📡 Retrieves Context:** Fetches additional relevant information.
+- **✨ Facilitates Generation:** Supports creative output.
+- **💧 Triggers Diffusion:** Initiates generative diffusion processes.
+- **👓 Probes Visual Context:** Investigates visual cues.
+- **⚖️ Applies Contrastive Learning/Refinement:** Aligns features via contrast.
+- **🤝 Aligns/Unifies Modalities:** Integrates vision and language.
+- **🎞️ Synthesizes/Flows Video Content:** Transforms data into video.
+- **🔄 Exchanges/Bridges Visual Cues:** Establishes two-way visual interaction.
+- **🎥 Integrates with Video:** Combines vision for video processing.
+- **💬 Facilitates Dialogue:** Supports conversation systems.
+- **🎙️ Expands into Audio:** Incorporates audio elements.
+- **🏗️ Connects to 3D Understanding:** Relates to 3D modeling.
+- **🎧 Unifies with Audio:** Merges audio with other modalities.
+- **📊 Data Fuels Benchmarking:** Uses data to drive evaluations.
+- **🗣️ Chat Engages Language:** Enables interactive communication.
+''' 
+
+st.title("Mermaid Diagrams & Dense Outline with Glossary")
+
+st.header("Mermaid Diagram - Part 1 (P1-P10)")
+st.code(mermaid_diagram_part1, language="mermaid", line_numbers=True)
+
+st.header("Mermaid Diagram - Part 2 (P11-P20 + Inherent Relationships)")
+st.code(mermaid_diagram_part2, language="mermaid", line_numbers=True)
+
+st.header("Dense Markdown Outline & Glossary")
+st.code(markdown_outline, language="markdown", line_numbers=True)
+
+
+
+
 # Python app.py
 
 import streamlit as st
