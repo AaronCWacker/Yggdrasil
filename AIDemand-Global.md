@@ -1,5 +1,307 @@
 The graphs below represent my multi agent system created synopsis of what technology and skills are most in demand for ML in 2025.
 
+# Python app.py
+
+import streamlit as st
+
+mermaid_diagram = '''
+
+```mermaid
+flowchart TD
+    %% Nodes
+    MM[🤖 Multimodal]
+    VI[👁️ Vision]
+    LA[📝 Language]
+    VD[🎥 Video]
+    T3D[🏗️ 3D]
+    AU[🎙️ Audio]
+    DS[💾 Dataset]
+    BM[📊 Benchmark]
+    CO[🗜️ Compression]
+    RE[🔎 Retrieval]
+    DI[💧 Diffusion]
+    CT[⚖️ Contrastive]
+    GE[✨ Generative]
+    CH[💬 Chat]
+    DT[🔍 Detection]
+
+    %% Paper Relationships
+
+    %% P1: Enhancing Multimodal LLMs with Vision Detection Models
+    MM -->|Boosts Vision 🚀| VI
+    VI -->|Enables Detection 🔎| DT
+
+    %% P2: Mug-STAN: Adapting Image-Language Pretrained Models for General Video Understanding
+    VI -->|Adapts for Video 🎬| VD
+    LA -->|Aligns with Video 🎬| VD
+
+    %% P3: LAION-5B: An Open Large-Scale Dataset for Training Next Generation Image-Text Models
+    DS -->|Fuels Vision 🔋| VI
+    DS -->|Fuels Language 🔋| LA
+
+    %% P4: SEED-Bench-2: Benchmarking Multimodal Large Language Models
+    MM -->|Benchmark Evaluation 🏆| BM
+    LA -->|Benchmark Evaluation 🏆| BM
+
+    %% P5: Compression of Deep Learning Models for Text: A Survey
+    LA -->|Reduces Model Size 🔽| CO
+
+    %% P6: Retrieval-Augmented Multimodal Language Modeling
+    MM -->|Augments Integration 🔗| LA
+    LA -->|Retrieves Context 📡| RE
+    RE -->|Facilitates Generation ✨| GE
+
+    %% P7: DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability
+    VI -->|Triggers Diffusion 💧| DI
+    DI -->|Enables Generation ✨| GE
+
+    %% P8: DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models
+    LA -->|Probes Visual Context 👓| VI
+    VI -->|Refines Output ✨| GE
+
+    %% P9: COSMO: COntrastive Streamlined MultimOdal Model with Interleaved Pre-Training
+    LA -->|Applies Contrastive Learning ⚖️| CT
+    CT -->|Aligns Visual Features 👁️| VI
+
+    %% P10: L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects
+    LA -->|Inspires 3D Creativity 🏗️| T3D
+    T3D -->|Generates Unconventional Forms ✨| GE
+
+    %% P11: OneLLM: One Framework to Align All Modalities with Language
+    VI -->|Aligns Vision & Language 🤝| LA
+    MM -->|Unifies Modalities 🤝| LA
+
+    %% P12: UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation
+    LA -->|Synthesizes Video Content 🎞️| VD
+
+    %% P13: Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models
+    VI -->|Exchanges Visual Cues 🔄| VD
+    VD -->|Reciprocates Vision Signals 🔄| VI
+
+    %% P14: mPLUG-2: A Modularized Multi-modal Foundation Model Across Text, Image and Video
+    LA -->|Bridges Text & Vision 🔗| VI
+    LA -->|Integrates with Video 🎥| VD
+    VI -->|Leverages Vision for Video 🎥| VD
+
+    %% P15: CrossGET: Cross-Guided Ensemble of Tokens for Accelerating Vision-Language Transformers
+    VI -->|Enhances Matching ⚡| LA
+
+    %% P16: Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation
+    LA -->|Facilitates Dialogue 💬| CH
+    VI -->|Provides Visual Context 👁️| CH
+    DS -->|Supports Chat Data 💾| CH
+
+    %% P17: Towards Fast Adaptation of Pretrained Contrastive Models for Multi-channel Video-Language Retrieval
+    LA -->|Bridges to Video 🔄| VD
+    VD -->|Applies Contrastive Refinement ⚖️| CT
+    CT -->|Facilitates Retrieval 🔍| RE
+
+    %% P18: LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding
+    LA -->|Extends to 3D Modeling 🏗️| T3D
+
+    %% P19: Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
+    VI -->|Fuses Vision & Language 🤝| LA
+    LA -->|Expands into Audio 🎙️| AU
+
+    %% P20: GPT4Point: A Unified Framework for Point-Language Understanding and Generation
+    LA -->|Connects to 3D Understanding 🏗️| T3D
+    T3D -->|Fuels Creative Design ✨| GE
+
+    %% Inherent Concept Relationships
+    VI -->|Visual-Language Integration 🔗| LA
+    VI -->|Vision-to-Video Flow 🎞️| VD
+    MM -->|Unifies Modalities with Audio 🎧| AU
+    DS -->|Data Fuels Benchmarking 📊| BM
+    CH -->|Chat Engages Language 🗣️| LA
+```
+
+'''
+
+markdown_outline = '''---
+### Markdown Outline & Glossary
+
+#### Nodes
+
+- **🤖 Multimodal (MM):**  
+  Represents systems or models that integrate multiple modalities (e.g., vision, language, audio).
+
+- **👁️ Vision (VI):**  
+  Focuses on image or visual information processing.
+
+- **📝 Language (LA):**  
+  Pertains to text-based or linguistic data and processing.
+
+- **🎥 Video (VD):**  
+  Represents video data and related processing models.
+
+- **🏗️ 3D (T3D):**  
+  Denotes three-dimensional data processing and modeling.
+
+- **🎙️ Audio (AU):**  
+  Covers sound and speech-related processing.
+
+- **💾 Dataset (DS):**  
+  Represents large-scale datasets used for training and evaluation.
+
+- **📊 Benchmark (BM):**  
+  Used for evaluation metrics and performance benchmarks.
+
+- **🗜️ Compression (CO):**  
+  Refers to techniques that reduce model size or complexity.
+
+- **🔎 Retrieval (RE):**  
+  Denotes mechanisms for retrieving and augmenting information.
+
+- **💧 Diffusion (DI):**  
+  Represents diffusion models in generative modeling.
+
+- **⚖️ Contrastive (CT):**  
+  Pertains to contrastive learning methods for feature alignment.
+
+- **✨ Generative (GE):**  
+  Focuses on models that generate new content (text, images, etc.).
+
+- **💬 Chat (CH):**  
+  Represents conversational or dialogue-based systems.
+
+- **🔍 Detection (DT):**  
+  Involves models that detect or identify visual elements.
+
+#### Edge Labels (Relationships)
+
+- **Boosts Vision 🚀:**  
+  Enhances the visual processing capability of multimodal systems.
+
+- **Enables Detection 🔎:**  
+  Facilitates the detection of visual details and features.
+
+- **Adapts for Video 🎬:**  
+  Modifies visual information for video understanding.
+
+- **Aligns with Video 🎬:**  
+  Integrates language with video content.
+
+- **Fuels Vision 🔋:**  
+  Provides essential data to enhance vision models.
+
+- **Fuels Language 🔋:**  
+  Supplies linguistic data for language models.
+
+- **Benchmark Evaluation 🏆:**  
+  Evaluates model performance against established benchmarks.
+
+- **Reduces Model Size 🔽:**  
+  Applies compression techniques to optimize text models.
+
+- **Augments Integration 🔗:**  
+  Strengthens the connection between modalities.
+
+- **Retrieves Context 📡:**  
+  Fetches relevant data to support model performance.
+
+- **Facilitates Generation ✨:**  
+  Enables models to generate new, creative outputs.
+
+- **Triggers Diffusion 💧:**  
+  Initiates the diffusion process in generative models.
+
+- **Probes Visual Context 👓:**  
+  Examines visual cues to improve model understanding.
+
+- **Refines Output ✨:**  
+  Enhances the quality of generated content.
+
+- **Applies Contrastive Learning ⚖️:**  
+  Uses contrastive methods to align and refine features.
+
+- **Aligns Visual Features 👁️:**  
+  Synchronizes visual cues for better integration with text.
+
+- **Inspires 3D Creativity 🏗️:**  
+  Drives innovative applications in 3D modeling.
+
+- **Generates Unconventional Forms ✨:**  
+  Produces novel designs and creative outputs in 3D.
+
+- **Aligns Vision & Language 🤝:**  
+  Integrates visual and textual data seamlessly.
+
+- **Unifies Modalities 🤝:**  
+  Combines different data modalities into a cohesive system.
+
+- **Synthesizes Video Content 🎞️:**  
+  Transforms language inputs into video outputs.
+
+- **Exchanges Visual Cues 🔄:**  
+  Enables two-way transfer between vision and video systems.
+
+- **Reciprocates Vision Signals 🔄:**  
+  Facilitates mutual exchange of visual information.
+
+- **Bridges Text & Vision 🔗:**  
+  Connects textual data with visual information.
+
+- **Integrates with Video 🎥:**  
+  Merges language and vision into video frameworks.
+
+- **Leverages Vision for Video 🎥:**  
+  Utilizes visual features to enhance video processing.
+
+- **Enhances Matching ⚡:**  
+  Improves the alignment between vision and language signals.
+
+- **Facilitates Dialogue 💬:**  
+  Enables effective conversational interactions in chat systems.
+
+- **Provides Visual Context 👁️:**  
+  Supplies essential visual data to support dialogue.
+
+- **Supports Chat Data 💾:**  
+  Uses datasets to underpin chat system performance.
+
+- **Bridges to Video 🔄:**  
+  Connects language directly to video processing pipelines.
+
+- **Applies Contrastive Refinement ⚖️:**  
+  Uses contrastive techniques to improve video features.
+
+- **Facilitates Retrieval 🔍:**  
+  Enhances the retrieval process to support model performance.
+
+- **Extends to 3D Modeling 🏗️:**  
+  Adapts language models for 3D data interpretation.
+
+- **Fuses Vision & Language 🤝:**  
+  Combines visual and textual information for unified processing.
+
+- **Expands into Audio 🎙️:**  
+  Incorporates audio data into multimodal models.
+
+- **Connects to 3D Understanding 🏗️:**  
+  Links language inputs to 3D modeling processes.
+
+- **Fuels Creative Design ✨:**  
+  Drives generative design and innovation in 3D outputs.
+
+- **Visual-Language Integration 🔗:**  
+  Inherently integrates visual and textual modalities.
+
+- **Vision-to-Video Flow 🎞️:**  
+  Ensures smooth translation of visual data into video.
+
+- **Unifies Modalities with Audio 🎧:**  
+  Integrates audio into the broader multimodal framework.
+
+- **Data Fuels Benchmarking 📊:**  
+  Leverages datasets to support evaluation and benchmarking.
+
+- **Chat Engages Language 🗣️:**  
+  Enhances conversational capabilities through language integration.
+'''
+
+st.title("Mermaid Diagram & Markdown Outline with Glossary")
+st.code(mermaid_diagram, language="mermaid", line_numbers=True)
+st.code(markdown_outline, language="markdown", line_numbers=True)
 
 
 
