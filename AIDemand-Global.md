@@ -7,122 +7,110 @@ The graphs below represent my multi agent system created synopsis of what techno
 
 ```mermaid
 flowchart TD
-  %% ===== Concept Nodes =====
-  C1[🤖 Multimodal]
-  C2[👁️ Vision]
-  C3[📝 Language]
-  C4[🎥 Video]
-  C5[3️⃣ 3D]
-  C6[🎙️ Audio]
-  C7[💾 Dataset]
-  C8[📊 Benchmark]
-  C9[🗜️ Compression]
-  C10[🔎 Retrieval]
-  C11[💧 Diffusion]
-  C12[⚖️ Contrastive]
-  C13[✨ Generative]
-  C14[💬 Chat]
-  C15[🔍 Detection]
+    %% Nodes
+    MM[🤖 Multimodal]
+    VI[👁️ Vision]
+    LA[📝 Language]
+    VD[🎥 Video]
+    T3D[🏗️ 3D]
+    AU[🎙️ Audio]
+    DS[💾 Dataset]
+    BM[📊 Benchmark]
+    CO[🗜️ Compression]
+    RE[🔎 Retrieval]
+    DI[💧 Diffusion]
+    CT[⚖️ Contrastive]
+    GE[✨ Generative]
+    CH[💬 Chat]
+    DT[🔍 Detection]
 
-  %% ===== Paper-to-Concept Relationships =====
-  %% P1: Enhancing Multimodal LLMs with Vision Detection Models
-  C1 -- "Enhancing MLLMs" --> C2
-  C2 -- "Enhancing MLLMs" --> C15
+    %% Paper Relationships
+    %% P1: Enhancing Multimodal LLMs with Vision Detection Models: "Enhancing MLLMs"
+    MM -->|Enhancing MLLMs| VI
+    VI -->|Enhancing MLLMs| DT
 
-  %% P2: Mug-STAN – Adapting Image-Language Pretrained Models for General Video Understanding
-  C1 -- "Mug‑STAN" --> C2
-  C2 -- "Mug‑STAN" --> C3
-  C3 -- "Mug‑STAN" --> C4
+    %% P2: Mug-STAN: "Mug-STAN"
+    VI -->|Mug-STAN| VD
+    LA -->|Mug-STAN| VD
 
-  %% P3: LAION‑5B – An Open Large‑Scale Dataset for Training Next Generation Image‑Text Models
-  C1 -- "LAION‑5B" --> C7
-  C7 -- "LAION‑5B" --> C2
-  C2 -- "LAION‑5B" --> C3
+    %% P3: LAION-5B: "LAION5B"
+    DS -->|LAION5B| VI
+    DS -->|LAION5B| LA
 
-  %% P4: SEED‑Bench‑2 – Benchmarking Multimodal Large Language Models
-  C1 -- "SEED‑Bench‑2" --> C3
-  C3 -- "SEED‑Bench‑2" --> C8
+    %% P4: SEED-Bench-2: "SEEDBench2"
+    MM -->|SEEDBench2| BM
+    LA -->|SEEDBench2| BM
 
-  %% P5: Compression of Deep Learning Models for Text: A Survey
-  C3 -- "Compression Survey" --> C9
+    %% P5: Compression of Deep Learning Models for Text: "Compression Survey"
+    LA -->|Compression Survey| CO
 
-  %% P6: Retrieval‑Augmented Multimodal Language Modeling
-  C1 -- "Retrieval‑aug MLM" --> C3
-  C3 -- "Retrieval‑aug MLM" --> C10
-  C10 -- "Retrieval‑aug MLM" --> C13
+    %% P6: Retrieval-Augmented Multimodal Language Modeling: "RetrievalAugMLM"
+    MM -->|RetrievalAugMLM| LA
+    LA -->|RetrievalAugMLM| RE
+    RE -->|RetrievalAugMLM| GE
 
-  %% P7: DiffDis – Empowering Generative Diffusion Model with Cross‑Modal Discrimination Capability
-  C1 -- "DiffDis" --> C2
-  C2 -- "DiffDis" --> C11
-  C11 -- "DiffDis" --> C13
+    %% P7: DiffDis: "DiffDis"
+    VI -->|DiffDis| DI
+    DI -->|DiffDis| GE
 
-  %% P8: DALL‑Eval – Probing the Reasoning Skills and Social Biases of Text‑to‑Image Generation Models
-  C3 -- "DALL‑Eval" --> C2
-  C2 -- "DALL‑Eval" --> C13
+    %% P8: DALL-Eval: "DALLEval"
+    LA -->|DALLEval| VI
+    VI -->|DALLEval| GE
 
-  %% P9: COSMO – COntrastive Streamlined MultimOdal Model with Interleaved Pre‑Training
-  C1 -- "COSMO" --> C3
-  C3 -- "COSMO" --> C2
+    %% P9: COSMO: "COSMO"
+    LA -->|COSMO| CT
+    CT -->|COSMO| VI
 
-  %% P10: L3GO – Language Agents with Chain‑of‑3D‑Thoughts for Generating Unconventional Objects
-  C1 -- "L3GO" --> C3
-  C3 -- "L3GO" --> C5
-  C5 -- "L3GO" --> C13
+    %% P10: L3GO: "L3GO"
+    LA -->|L3GO| T3D
+    T3D -->|L3GO| GE
 
-  %% P11: OneLLM – One Framework to Align All Modalities with Language
-  C1 -- "OneLLM" --> C2
-  C2 -- "OneLLM" --> C3
+    %% P11: OneLLM: "OneLLM"
+    VI -->|OneLLM| LA
+    MM -->|OneLLM| LA
 
-  %% P12: UniVL – A Unified Video and Language Pre‑Training Model for Multimodal Understanding and Generation
-  C1 -- "UniVL" --> C3
-  C3 -- "UniVL" --> C4
+    %% P12: UniVL: "UniVL"
+    LA -->|UniVL| VD
 
-  %% P13: Bidirectional Cross‑Modal Knowledge Exploration for Video Recognition with Pre‑trained Vision‑Language Models
-  C1 -- "BiCrossModal" --> C4
-  C4 -- "BiCrossModal" --> C2
+    %% P13: Bidirectional Cross-Modal Knowledge Exploration: "BiCrossModal"
+    VI -->|BiCrossModal| VD
+    VD -->|BiCrossModal| VI
 
-  %% P14: mPLUG‑2 – A Modularized Multi‑modal Foundation Model Across Text, Image and Video
-  C1 -- "mPLUG‑2" --> C2
-  C2 -- "mPLUG‑2" --> C3
-  C3 -- "mPLUG‑2" --> C4
+    %% P14: mPLUG-2: "mPLUG2"
+    LA -->|mPLUG2| VI
+    LA -->|mPLUG2| VD
+    VI -->|mPLUG2| VD
 
-  %% P15: CrossGET – Cross‑Guided Ensemble of Tokens for Accelerating Vision‑Language Transformers
-  C1 -- "CrossGET" --> C2
-  C2 -- "CrossGET" --> C3
+    %% P15: CrossGET: "CrossGET"
+    VI -->|CrossGET| LA
 
-  %% P16: Accountable Textual‑Visual Chat Learns to Reject Human Instructions in Image Re‑creation
-  C1 -- "Accountable Chat" --> C2
-  C2 -- "Accountable Chat" --> C3
-  C3 -- "Accountable Chat" --> C7
-  C7 -- "Accountable Chat" --> C14
+    %% P16: Accountable Textual-Visual Chat: "AccountableChat"
+    LA -->|AccountableChat| CH
+    VI -->|AccountableChat| CH
+    DS -->|AccountableChat| CH
 
-  %% P17: Towards Fast Adaptation of Pretrained Contrastive Models for Multi‑channel Video‑Language Retrieval
-  C1 -- "Fast Adapt Contrastive" --> C3
-  C3 -- "Fast Adapt Contrastive" --> C4
-  C4 -- "Fast Adapt Contrastive" --> C12
-  C12 -- "Fast Adapt Contrastive" --> C10
+    %% P17: Towards Fast Adaptation of Contrastive Models: "FastAdaptContrastive"
+    LA -->|FastAdaptContrastive| VD
+    VD -->|FastAdaptContrastive| CT
+    CT -->|FastAdaptContrastive| RE
 
-  %% P18: LiDAR‑LLM – Exploring the Potential of Large Language Models for 3D LiDAR Understanding
-  C1 -- "LiDAR‑LLM" --> C3
-  C3 -- "LiDAR‑LLM" --> C5
+    %% P18: LiDAR-LLM: "LiDARLLM"
+    LA -->|LiDARLLM| T3D
 
-  %% P19: Unified‑IO 2 – Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action
-  C1 -- "Unified‑IO2" --> C2
-  C2 -- "Unified‑IO2" --> C3
-  C3 -- "Unified‑IO2" --> C6
+    %% P19: Unified-IO 2: "UnifiedIO2"
+    VI -->|UnifiedIO2| LA
+    LA -->|UnifiedIO2| AU
 
-  %% P20: GPT4Point – A Unified Framework for Point‑Language Understanding and Generation
-  C1 -- "GPT4Point" --> C3
-  C3 -- "GPT4Point" --> C5
-  C5 -- "GPT4Point" --> C13
+    %% P20: GPT4Point: "GPT4Point"
+    LA -->|GPT4Point| T3D
+    T3D -->|GPT4Point| GE
 
-  %% ===== Inherent Concept Relationships =====
-  C2 --- "Visual–Language" --- C3
-  C2 --- "Vision–Video" --- C4
-  C1 --- "Unified" --- C6
-  C7 --- "supports" --- C8
-  C14 --- "dialogue" --- C3
-
+    %% Inherent Concept Relationships
+    VI -->|Visual-Language Integration| LA
+    VI -->|Vision-to-Video Flow| VD
+    MM -->|Unifies Modalities| AU
+    DS -->|Data Fuels Benchmarking| BM
+    CH -->|Enables Conversational Language| LA
 ```
 
 
