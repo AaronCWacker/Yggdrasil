@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/984e2e87-148f-4645-81b5-458e6ab0999d)
 
 markdown_outline = """
-# Unique Skills List (Ordered Descending by Demand, Grouped by First Word)
+# Unique Skills List
 
 ## 1. 🖥️ HPC, Distributed Systems & Low-Level Engineering
 1. 🔧 Cross-layer performance tuning (hardware + software)  
