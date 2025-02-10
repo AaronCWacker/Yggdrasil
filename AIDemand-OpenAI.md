@@ -2,11 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/984e2e87-148f-4645-81b5-458e6ab0999d)
 
-
-# This Python script prints a markdown outline of a unique skills list.
-# Within each category, the numbered sublist items are re-arranged
-# so that items with similar first words appear together (sorted alphabetically by their first word).
-
 markdown_outline = """
 # Unique Skills List (Ordered Descending by Demand, Grouped by First Word)
 
