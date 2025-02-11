@@ -3,6 +3,140 @@
 ![image](https://github.com/user-attachments/assets/bb6e3f66-7d5b-4c78-9640-0276e5500f38)
 
 
+# 2-11-2025, 5:09 PM - The Power of Transformers
+
+From first principles I show how to use transformers to use AutoModel, AutoTokenizer and save huggingface models locally.
+
+Complete a streamlit user interface that makes each parameter below editable and then creates some internal data to load a few different types of huggingface models and then at the end demonstrates saving the model locally.  Use these code patterns:  1) from transformers import AutoModel, AutoTokenizer, 2) model_name - 'openai-gpt', 3) model = AutoModel.from_pretrained(model_name), 5) model.save_pretrained('./hugging/').  After the streamlit app.py version is complete, show an equal listing with gradio and again instrument each feature as a single line if possible with basic additions of UI with emoji labels and short words summarizing almost a glossary of what is happening in mermaid blocks (```mermaid to start, ``` to end) and markdown and python blocks.  Show both app.py and requirements.txt for the streamlit example and the gradio example.   
+
+# Streamlit Version 1
+```python
+import os
+import streamlit as st
+from transformers import AutoModel, AutoTokenizer
+
+st.title("HuggingFace Model Loader & Saver")
+st.write("Load a model from HuggingFace and save it locally. Edit parameters below:")
+
+# Editable parameters
+model_name = st.text_input("Model Name", value="openai-gpt", help="Enter the HuggingFace model name (e.g., openai-gpt)")
+save_dir = st.text_input("Save Directory", value="./hugging", help="Local directory to save the model")
+additional_models = st.multiselect(
+    "Additional Models",
+    options=["bert-base-uncased", "gpt2", "roberta-base"],
+    help="Select additional models to load and save"
+)
+
+if st.button("Load and Save Model"):
+    st.write("### Processing Primary Model")
+    try:
+        st.write(f"Loading **{model_name}** ...")
+        model = AutoModel.from_pretrained(model_name)
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        # Ensure a safe folder name (replace / if necessary)
+        model_save_path = os.path.join(save_dir, model_name.replace("/", "_"))
+        os.makedirs(model_save_path, exist_ok=True)
+        model.save_pretrained(model_save_path)
+        st.success(f"Model **{model_name}** saved to `{model_save_path}`")
+    except Exception as e:
+        st.error(f"Error loading/saving model **{model_name}**: {e}")
+
+    if additional_models:
+        st.write("### Processing Additional Models")
+        for m in additional_models:
+            try:
+                st.write(f"Loading **{m}** ...")
+                model = AutoModel.from_pretrained(m)
+                tokenizer = AutoTokenizer.from_pretrained(m)
+                model_save_path = os.path.join(save_dir, m.replace("/", "_"))
+                os.makedirs(model_save_path, exist_ok=True)
+                model.save_pretrained(model_save_path)
+                st.success(f"Model **{m}** saved to `{model_save_path}`")
+            except Exception as e:
+                st.error(f"Error loading/saving model **{m}**: {e}")
+```
+
+```python
+requirements.txt
+
+streamlit
+transformers
+torch
+```
+
+# Gradio Example
+```python
+import os
+import gradio as gr
+from transformers import AutoModel, AutoTokenizer
+
+def process_models(model_name, save_dir, additional_models):
+    log_lines = []
+    
+    # Process primary model
+    log_lines.append(f"🚀 Loading model: **{model_name}**")
+    try:
+        model = AutoModel.from_pretrained(model_name)
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        model_save_path = os.path.join(save_dir, model_name.replace("/", "_"))
+        os.makedirs(model_save_path, exist_ok=True)
+        model.save_pretrained(model_save_path)
+        log_lines.append(f"✅ Saved **{model_name}** to `{model_save_path}`")
+    except Exception as e:
+        log_lines.append(f"❌ Error with **{model_name}**: {e}")
+    
+    # Process additional models if any
+    if additional_models:
+        for m in additional_models:
+            log_lines.append(f"🚀 Loading model: **{m}**")
+            try:
+                model = AutoModel.from_pretrained(m)
+                tokenizer = AutoTokenizer.from_pretrained(m)
+                model_save_path = os.path.join(save_dir, m.replace("/", "_"))
+                os.makedirs(model_save_path, exist_ok=True)
+                model.save_pretrained(model_save_path)
+                log_lines.append(f"✅ Saved **{m}** to `{model_save_path}`")
+            except Exception as e:
+                log_lines.append(f"❌ Error with **{m}**: {e}")
+    
+    return "\n".join(log_lines)
+
+# Mermaid glossary: a one-line flow summary of our UI actions.
+mermaid_glossary = """
+"""
+```
+
+```mermaid
+graph LR
+A[🚀 Model Input] --> B[Load Model]
+B --> C[💾 Save Model]
+D[🧩 Additional Models] --> B
+```
+
+Explanation of Key Code Patterns
+Both implementations use the following HuggingFace patterns:
+
+Importing libraries:
+```python
+from transformers import AutoModel, AutoTokenizer
+```
+Loading a model using a parameterized model name:
+```python
+model = AutoModel.from_pretrained(model_name)
+```
+Saving the model locally:
+```python
+model.save_pretrained('./hugging/')
+```
+
+1. In the Streamlit version, interactive widgets allow you to edit these parameters.
+2. In the Gradio version, each input is annotated with emojis and supplemented by a mermaid diagram that quickly illustrates the data flow.
+
+These examples are designed to be clear and modular so you can expand them further in your projects. 
+Happy coding!
+Aaron
+
+
 # This Python script prints a markdown outline of your skills.
 # Run this script to see the markdown-formatted skills listing.
 
