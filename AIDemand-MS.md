@@ -1,4 +1,170 @@
 
+markdown_outline = """
+# Unique Skills List for MoE Training of Skill Agents
+
+This comprehensive list synthesizes all key technology requirements and benchmarking areas
+from the sample roles. Each category below covers a distinct domain of expertise. New acronyms
+and emerging terms have been explicitly included to ensure full coverage.
+
+---
+
+## 1. 🎥 3D Computer Vision, Graphics & Video Services
+1. 🎥 **3D computer vision** & **neural rendering** (including radiance fields)
+2. 🎥 **Advanced 3D reconstruction techniques** (Gaussian splatting, NERF)
+3. 🎥 **Deep learning for graphics** (using Unreal, Unity)
+4. 🎥 **Low‑level rendering pipelines** (DirectX, Vulkan, DX12)
+5. 🎥 **Performance‑optimized CV algorithms** (real‑time tracking, relighting)
+6. 🎥 **Semantic video search** & **3D reconstruction** services
+
+*(Sorted: "3D computer vision", "Advanced 3D reconstruction techniques", "Deep learning for graphics", "Low‑level rendering pipelines", "Performance‑optimized CV algorithms", "Semantic video search")*
+
+---
+
+## 2. ☁️ Cloud, Containers & Multi‑cloud Infrastructure
+1. ☁️ **Automation & reliability** in cloud environments (including cost optimization and security)
+2. ☁️ **Cloud‑based microservices** using Helm & Kubernetes
+3. ☁️ **Containerized cloud‑native software** (Kubernetes, Docker)
+4. ☁️ **Hybrid cloud integration** & virtualization technologies
+5. ☁️ **Multi‑cloud platform build & modernization** initiatives
+6. ☁️ **Confidential computing** (Azure Confidential Cloud, secure enclaves)
+7. ☁️ **Data center management & Azure Storage** (including Intune and OTA mechanisms)
+
+*(Sorted: "Automation & reliability", "Cloud‑based microservices", "Confidential computing", "Containerized cloud‑native software", "Data center management", "Hybrid cloud integration", "Multi‑cloud platform build")*
+
+---
+
+## 3. 🤖 AI Inference, LLM, Deep Learning & Generative AI Productization
+1. 🤖 **AI/DL model productization** (using libraries and frameworks)
+2. 🤖 **AI frameworks** (PyTorch, JAX, TensorFlow, TorchDynamo)
+3. 🤖 **AI Inference APIs, MLOps & Python development** (🐍)
+4. 🤖 **Agentic AI, RAG & generative AI solutions** (with LangChain, AutoGen)
+5. 🤖 **End‑to‑end AI lifecycle management** & distributed team leadership
+6. 🤖 **Full‑stack AI shipping** with parallel and distributed training
+7. 🤖 **GPU kernel integration** (CUDA, TensorRT) & roadmap alignment
+8. 🤖 **Large‑language model inference & microservices**
+9. 🤖 **LLM‑based enterprise analytics** systems
+10. 🤖 **LLM/diffusion‑based product development** (🧠)
+11. 🤖 **LLM alignment & RLHF pipelines** for safety
+12. 🤖 **Mixed‑precision & HPC algorithm development** (💻)
+13. 🤖 **Optimizing open‑source DL frameworks** (PyTorch, TensorFlow)
+14. 🤖 **Parallel/distributed training architectures** & reinforcement learning (PPO, SAC, Q‑Learning)
+15. 🤖 **Python development** (🐍) & large‑scale MLOps deployment
+16. 🤖 **Scaling AI inference** on hundreds of GPUs
+17. 🤖 **System design for multi‑agent AI workflows**
+
+*(Sorted: "AI/DL model productization", "AI frameworks", "AI Inference APIs, MLOps & Python development", "Agentic AI, RAG & generative AI solutions", "End‑to‑end AI lifecycle management", "Full‑stack AI shipping", "GPU kernel integration", "Large‑language model inference", "LLM‑based enterprise analytics", "LLM/diffusion‑based product development", "LLM alignment & RLHF pipelines", "Mixed‑precision & HPC algorithm development", "Optimizing open‑source DL frameworks", "Parallel/distributed training architectures", "Python development", "Scaling AI inference", "System design for multi‑agent AI workflows")*
+
+---
+
+## 4. 🛠️ IT Operations, Automation, Observability & Distributed Systems
+1. 🛠️ **Cross‑team platform innovation** & proactive ML-based resolution
+2. 🛠️ **Distributed systems design** & scalable architectures
+3. 🛠️ **Observability, anomaly detection & automated triage** (AIOps, Python/Go)
+4. 🛠️ **ServiceNow expansions, AIOps & AI automation**
+5. 🛠️ **User‑centric IT workflows** & design integration
+
+*(Sorted: "Cross‑team platform innovation", "Distributed systems design", "Observability, anomaly detection & automated triage", "ServiceNow expansions", "User‑centric IT workflows")*
+
+---
+
+## 5. 💻 HPC, GPU Acceleration, Data Pipelines & Performance Optimization
+1. 💻 **C++ & GPU‑accelerated pipelines** (using CUDA, TensorRT)
+2. 💻 **CI/CD & build systems** (cmake, pip, conda, GitHub, GitLab)
+3. 💻 **Complex data pipelines** & HPC optimization techniques
+4. 💻 **Cross‑team leadership** for GPU numeric performance
+5. 💻 **GPU driver & DLA development** for specialized accelerators
+6. 💻 **HPC algorithm development** (including mixed-precision methods)
+7. 💻 **HPC cluster monitoring & distributed compute design**
+8. 💻 **Large‑scale data ingestion, transformation & curation**
+9. 💻 **Multi‑modal data processing** for diverse inputs
+10. 💻 **Python‑based pipelines** (🐍) & HPC for ML integration
+11. 💻 **Timing analysis & EDA** (SPICE, BSIM, transistor‑level STA)
+12. 💻 **Cross‑platform packaging & CI/CD integration** in HPC environments
+
+*(Sorted: "C++ & GPU‑accelerated pipelines", "CI/CD & build systems", "Complex data pipelines", "Cross‑team leadership for GPU numeric performance", "GPU driver & DLA development", "HPC algorithm development", "HPC cluster monitoring & distributed compute design", "Large‑scale data ingestion", "Multi‑modal data processing", "Python‑based pipelines", "Timing analysis & EDA", "Cross‑platform packaging")*
+
+---
+
+## 6. ⚙️ Advanced System Design, Concurrency, EDA, Hardware Modeling & Prototyping
+1. ⚙️ **Agent frameworks & LLM pipelines** (LangChain, AutoGen)
+2. ⚙️ **Concurrency in C++/Python** (🐍) & vector database integration
+3. ⚙️ **Cross‑layer performance analysis** & debugging techniques
+4. ⚙️ **EDA & transistor‑level performance modeling** (SPICE, BSIM, STA)
+5. ⚙️ **GPU/SoC modeling & SoC architecture** (SystemC, TLM; includes SoC-level design)
+6. ⚙️ **Next‑gen hardware bringup** & system simulation
+7. ⚙️ **Parallel computing fundamentals** & performance simulation
+8. ⚙️ **Software advanced development** for programmable networks (SDN, SONiC, P4)
+
+*(Sorted: "Agent frameworks & LLM pipelines", "Concurrency in C++/Python", "Cross‑layer performance analysis", "EDA & transistor‑level performance modeling", "GPU/SoC modeling & SoC architecture", "Next‑gen hardware bringup", "Parallel computing fundamentals", "Software advanced development")*
+
+---
+
+## 7. 🔒 Security, Identity, Compliance & Confidential Computing
+1. 🔒 **Active Directory (AD) & Azure AD management**
+2. 🔒 **Confidential computing** (Azure Confidential Cloud, secure enclaves)
+3. 🔒 **Identity management**: MFA, SSO, Zero Trust, privileged account management
+4. 🔒 **Security research, vulnerability analysis & penetration testing**
+5. 🔒 **Security & operational excellence** in IT and cloud
+6. 🔒 **Regulatory compliance** & data privacy best practices
+
+*(Sorted: "Active Directory (AD) & Azure AD management", "Confidential computing", "Identity management", "Regulatory compliance", "Security research", "Security & operational excellence")*
+
+---
+
+## 8. 🚗 Autonomous Vehicles, Sensor Fusion & Robotics
+1. 🚗 **Advanced AI for self‑driving software**
+2. 🚗 **Autonomous vehicle data pipelines** & debugging
+3. 🚗 **Car fleet software updates** (OTA) & telemetry management
+4. 🚗 **Large‑scale multi‑sensor data operations** & calibration
+5. 🚗 **Path planning & decision‑making** in robotics
+6. 🚗 **Real‑time embedded systems** (C++/Python) for robotics
+7. 🚗 **Sensor fusion & HPC integration** for perception systems
+
+*(Sorted: "Advanced AI for self‑driving software", "Autonomous vehicle data pipelines", "Car fleet software updates", "Large‑scale multi‑sensor data operations", "Path planning & decision‑making", "Real‑time embedded systems", "Sensor fusion & HPC integration")*
+
+---
+
+## 9. 🎮 Reinforcement Learning, Simulation & Timing Analysis
+1. 🎮 **Domain randomization & sim‑to‑real transfer** for RL
+2. 🎮 **GPU‑accelerated physics simulation** (Isaac Sim)
+3. 🎮 **Large‑scale RL methods** (PPO, SAC, Q‑Learning)
+4. 🎮 **Policy optimization for robotics** at scale
+5. 🎮 **Reinforcement learning orchestration** & simulation-based training
+
+*(Sorted: "Domain randomization & sim‑to‑real transfer", "GPU‑accelerated physics simulation", "Large‑scale RL methods", "Policy optimization for robotics", "Reinforcement learning orchestration")*
+
+---
+
+## 10. 🌐 Networking, Data Centers, Hardware Verification & Communications
+1. 🌐 **Communication libraries** (NCCL, NVSHMEM, UCX)
+2. 🌐 **HPC networking** (InfiniBand, RoCE) & distributed GPU programming
+3. 🌐 **GPU communications libraries management** & performance tuning
+4. 🌐 **Hardware prototyping & verification** (SDN, SONiC, P4, programmable hardware)
+5. 🌐 **Senior software architecture for data centers** (Ethernet/IP design, switch OS)
+
+*(Sorted: "Communication libraries", "HPC networking", "GPU communications libraries management", "Hardware prototyping & verification", "Senior software architecture for data centers")*
+
+---
+
+## 11. 🎨 Product Design, User Experience & Creative Services
+1. 🎨 **Collaborative experience design** & user research
+2. 🎨 **Innovative UX/UI design** for productivity platforms (Teams, MSN)
+3. 🎨 **Product design & visual design excellence**
+4. 🎨 **Design leadership** & creative direction
+
+*(Sorted: "Collaborative experience design", "Innovative UX/UI design", "Product design", "Design leadership")*
+
+---
+
+## 12. 📊 Product Management, Strategy & Developer Experience
+1. 📊 **AI developer experience** & SDK/product management (Copilot)
+2. 📊 **Cloud & data strategy** for enterprise solutions
+3. 📊 **Developer ecosystem strategy** & innovative platform management
+4. 📊 **Product management** for AI and cloud platforms
+
+*(Sorted: "AI developer experience", "Cloud & data strategy", "Developer ecosystem strategy", "Product management")*
+
+
 
 
 # o3-mini-high creative resolution
