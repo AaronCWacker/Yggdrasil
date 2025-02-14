@@ -1,5 +1,39 @@
 # Evaluation
 
+Eval..
+
+
+# app.py
+
+import streamlit as st
+
+# Markdown outline for scenes and characters
+markdown_outline = """
+# 🖼️ **Image Generation Outline**
+
+1. 🌅 **Opening Scene: Sunrise Over a Village**
+   - A peaceful village at dawn, with the sun rising over a distant hill, casting golden light on thatched cottages.
+   
+2. 🧙‍♂️ **Main Character: The Wandering Mage**
+   - A hooded mage standing by a cobblestone path, holding a glowing staff, with arcane symbols faintly visible on his robe.
+   
+3. 🏰 **Castle on the Cliff**
+   - A towering stone castle perched on the edge of a steep cliff, overlooking a turbulent sea.
+
+4. 🐉 **The Dragon’s Lair**
+   - A cavernous lair illuminated by the glow of gold and jewels, with a sleeping dragon nestled at its heart.
+
+5. ⚔️ **Final Battle: Hero vs. Villain**
+   - A dramatic clash between two warriors on a rain-soaked battlefield, their swords crossing as lightning flashes in the background.
+"""
+# Display the markdown outline in the Streamlit app
+st.markdown(markdown_outline)
+
+
+
+
+
+
 Triage evaluation: 
 Assessing potential risks and issues with an AI system before deployment.
 
