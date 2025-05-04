@@ -1,12 +1,16 @@
 
-# GPT vs Gemini vs Grok vs Claude
+# 1. GPT vs Gemini vs Grok vs Claude
+## 1. Four Part Battle of Causal LMs
+### 1. GPT (Gpt)
+### 2. Gemini (Gmni)
+### 3. SuperGrok
+### 4. Claude
 
 
-4 Part Battle of Causal LMs
-1. GPT (Gpt)
-2. Gemini (Gmni)
-3. SuperGrok
-4. Claude
+
+
+
+
 
 
 
