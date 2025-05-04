@@ -1,5 +1,6 @@
 
-# 1. GPT vs Gemini vs Grok vs Claude
+# 1. GPT vs Gemini vs Grok vs Claude (initial random rank order)
+
 ## 1. Four Part Battle of Causal LMs
 
 **Prompt**:
@@ -9,7 +10,13 @@ Lets define a modern kilt based outfit for Aaron with his upcoming competition a
 
 While all four had a request to return as markdown, none return markdown "Code".
 When asked to supply markdown **code** which ones do it properly?
+1. GPT had no issues, markdown branches were two level.  Emojis up front are good.  Bold labels.  Consistent indent, breaks, table.  100%
+2. Gemini had double issues with emojis - twice and failure to match font showing unknown unicode values not helpful.  Similar to X/Grok mixup with unicode emojis and fonts.  Smart recommendations of items with moderate success.  70%
+3. Grok had three sentence intro, multilevel markdown, classification, nested levels.  Emojis at end of line - preference is front.  Will include that in future.  Set based first principles better reasoning structures.  100%
+4. Claude had sparse simplistic outline with multi level and emojis.  Optimized for reading and memory.  Lacking a bit in substance and density.  However simplistic rules were closely adhering to ask.  100%
 
+## New rankings after Experiment 1
+1. 
 
 ### 1. GPT (Gpt)
 ```markdown
