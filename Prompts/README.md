@@ -1,4 +1,22 @@
 
+# GPT vs Gemini vs Grok vs Claude
+
+
+4 Part Battle of Causal LMs
+1. GPT (Gpt)
+2. Gemini (Gmni)
+3. SuperGrok
+4. Claude
+
+
+
+
+
+
+
+
+
+
 # AI Zero to Hero - 3/9/2023
 
 # Multiply your productivity by 100 times today using AI:
