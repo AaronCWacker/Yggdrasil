@@ -275,3 +275,95 @@ https://claude.ai/public/artifacts/a31a23b9-0fe9-4420-9fb9-a30bf922f2c3
     <text x="0" y="65" class="speed-text" fill="#2ecc71">■ Listening: ~275 WPM</text>
   </g>
 </svg>
+
+
+
+```markdown
+
+5:48
+It's a very good way of understanding how we communicate linguistically. - So if the words spring to the visual,
+5:55
+full visual complexity and then that can then transform itself into action. - And change in perception. - Change in perception.
+6:02
+- Well those are both relevant and it's an important thing to understand because the classic empiricists make the presumption,
+6:10
+and it's an erroneous presumption, that perception is a value free enterprise.
+6:16
+And they assume that partly because they think of perception as something passive. You know, you just turn your head
+6:21
+and you look at the world and there it is. It's like perception is not passive. There is no perception without action, ever, ever.
+6:29
+And that's a weird thing to understand because even when you're looking at something like your eyes are moving back and forth, if they ever stop moving
+6:35
+for a 10th of a second, you stop being able to see. So your eyes are jiggling back and forth, just to keep them active.
+6:41
+And then there's involuntary movements of your eyes, and then there's voluntary movements of your eyes. Like what you're doing with your eyes is very much like
+6:48
+what a blind person would do if they were feeling out the contours of a object. You're sampling and you're only sampling
+6:56
+a small element of the space that's in front of you. And the element that you choose
+7:01
+to sample is dependent on your aims and your goals. So it's value saturated. And so all your perceptions are action predicated.
+7:09
+And partly what you're doing when you're communicating is therefore not only changing people's actions, let's say, but you're also changing the strategy
+7:18
+that they use to perceive. And so you change the way the world reveals itself for them. See, this is why it's such a profound experience
+7:25
+to read a particularly deep thinker because you could also think of your perceptions
+7:30
+as the axioms of your thought. That's a good way of thinking about it. A perception is like a, what would you say?
+7:36
+It's a thought that's so set in concrete that you now see it rather than conceptualize it.
+7:42
+A really profound thinker changes the way you perceive the world. That's way deeper than just how you think about it
+7:47
+or how you feel about it. - What about not just profound thinkers, but thinkers that deliver a powerful idea?
+
+```
+
+
+
+
+```markdown
+
+5:48
+It's a very good way of understanding how we communicate 🗣️linguistically🗣️. - So if the words 🌊spring🌊 to the 👁️visual👁️,
+5:55
+full 👁️visual👁️ 🌈complexity🌈 and then that can then 🌟transform🌟 itself into 💪action💪. - And change in 👁️perception👁️. - Change in 👁️perception👁️.
+6:02
+- Well those are both relevant and it's an important thing to understand because the classic empiricists make the 🤔presumption🤔,
+6:10
+and it's an erroneous 🤔presumption🤔, that 👁️perception👁️ is a value free enterprise.
+6:16
+And they 🌫️assume🌫️ that partly because they 🤔think🤔 of 👁️perception👁️ as something passive. You know, you just turn your head
+6:21
+and you 👀look👀 at the 🌍world🌍 and there it is. It's like 👁️perception👁️ is not passive. There is no 👁️perception👁️ without 💪action💪, ever, ever.
+6:29
+And that's a weird thing to understand because even when you're 👀looking👀 at something like your 👁️eyes👁️ are moving back and forth, if they ever stop moving
+6:35
+for a 10th of a second, you stop being able to 👀see👀. So your 👁️eyes👁️ are jiggling back and forth, just to keep them active.
+6:41
+And then there's involuntary movements of your 👁️eyes👁️, and then there's voluntary movements of your 👁️eyes👁️. Like what you're doing with your 👁️eyes👁️ is very much like
+6:48
+what a blind person would do if they were feeling out the contours of a object. You're 🌟sampling🌟 and you're only 🌟sampling🌟
+6:56
+a small element of the space that's in front of you. And the element that you 🌟choose🌟
+7:01
+to 🌟sample🌟 is dependent on your 🎯aims🎯 and your 🎯goals🎯. So it's value saturated. And so all your 👁️perceptions👁️ are 💪action💪 predicated.
+7:09
+And partly what you're doing when you're 🗣️communicating🗣️ is therefore not only changing people's 💪actions💪, let's say, but you're also changing the strategy
+7:18
+that they use to 👁️perceive👁️. And so you change the way the 🌍world🌍 reveals itself for them. See, this is why it's such a profound experience
+7:25
+to read a particularly deep 🤔thinker🤔 because you could also 🤔think🤔 of your 👁️perceptions👁️
+7:30
+as the axioms of your 🤔thought🤔. That's a good way of 🤔thinking🤔 about it. A 👁️perception👁️ is like a, what would you say?
+7:36
+It's a 🤔thought🤔 that's so set in concrete that you now 👀see👀 it rather than conceptualize it.
+7:42
+A really profound 🤔thinker🤔 changes the way you 👁️perceive👁️ the 🌍world🌍. That's way deeper than just how you 🤔think🤔 about it
+7:47
+or how you feel about it. - What about not just profound 🤔thinkers🤔, but 🤔thinkers🤔 that deliver a powerful 💡idea💡?
+
+
+```
