@@ -20,3 +20,17 @@
 - **Conversational speech comprehension:** 150–160 WPM
 - **Audiobook listening:** 200–300 WPM (some people can comprehend up to 400 WPM)
 - **Fast-paced lectures or speed-listening:** 275–400+ WPM (varies by training and practice)
+
+
+Youtube:
+https://www.youtube.com/watch?v=q8VePUwjB9Y&t=309s
+Jordan Peterson states, 
+'''You can imagine that the words are surrounded by a cloud.
+A cloud of images that they evoke.
+The images can be translated into actions.
+The greatest writing uses words.
+In a manner that profoundly affects perceptioon and action.
+I would take the manner in which I act and behave.
+Translate that into a set of images.
+My dreams do that for me for example.
+Then I compress them into words.'''
