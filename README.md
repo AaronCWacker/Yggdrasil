@@ -1,5 +1,13 @@
 # Yggdrasil
 
+# 07212025
+
+On goals and perception:
+1. We see pathways.
+2. We see tools and obstacles. (things)
+3. We see friends and foes.  (people)
+4. We see agents of transformation.
+5. Agents of transformation change your goal.
 
 
 ## ⚙️ Parallel Processing in Python for AI 🧠
