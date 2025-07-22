@@ -1,5 +1,69 @@
 # Yggdrasil
 
+# Goals and Magic:
+https://youtu.be/TwfJQa-_Y9Q?t=3419
+
+reality itself, you know. So, at least I was sort of open to the possibility. But, you know, this was also the age
+56:26
+where I was watching, you know, reading comic books and, you know, magic seemed more accessible. But you know as an
+56:33
+adult I started thinking that you know I must be living in some kind of a simulation and that somehow the way I
+56:41
+steer the simulation is by imagining what it is that I want to go toward and
+56:46
+then things fall in line. Yeah. And uh you you used the word authoring before and that that's my
+56:53
+favorite word for uh controlling the simulation because you author a story
+56:59
+and then you find yourself in the story later and it's just like it's just like you
+57:05
+wrote the book and then you became the character in the book. And how do I explain that?
+57:10
+That that goes way beyond anything I can put together with cause and effect. So,
+57:17
+um I'm not 100% sure that we live in a simulation, but uh I wouldn't be
+57:22
+surprised if the day I die I wake up in a gamer share and and they say only 5
+57:28
+minutes has gone by, but you you live this entire other life in the game. Um so I always wonder, you know, maybe
+57:35
+maybe there's more to find out. You never know. Here's one that might actually surprise
+57:41
+you. Thread count is a huge myth that many people believe when shopping for sheets. If you truly want great sheets,
+57:46
+you need to look at thread quality, not count. That's why Bolan Branch focuses on using the highest quality organic
+57:52
+cotton threads, creating long- lasting sheets that actually get softer over time, rather than relying on inflated
+57:57
+thread count numbers to impress customers. Bowling Branch's sheets are crafted from the finest 100% organic cotton in a soft, breathable, and
+58:04
+durable weave that delivers quality that you can feel from the moment you touch them. With their 30-9 worry-free
+58:09
+guarantee, you can experience this exceptional comfort risk-f free, ensuring you'll love how these premium sheets transform your sleep experience.
+58:16
+Recently, I went camping and my back is still killing me. I also missed my soft, breathable Boland Branch sheets. Get the
+58:22
+best savings of the season during Bowling Branch's annual summer event. Get 20% off plus free shipping on your
+58:28
+first set of sheets at bolandbranch.com/peterson. That's Boland Branch. B- o l a n
+58:33
+dbranch.com/person to save 20% and unlock free shipping. Limited time only. Exclusions do apply.
+58:42
+Well, the fact that we represent the world with stories primarily, and that we're instinctively oriented to find
+58:49
+stories attractive, even stories of magic. Like, it was only this year that I figured out what an
+58:56
+agent of magical transformation was because they pop up in stories all the time. And I cuz I think concretely, I
+59:02
+think biologically. It's like why are we predisposed to believe in agents of
+59:08
+magical transformation. And then I thought, oh, I see. An agent of magical transformation is someone who comes
+59:14
+along and changes the game, changes the aim. And that that's what Gandalf does
+59:19
+for the Hobbit. You know, he he elevates him into a new game. And so that kind of
+59:24
+magic happens all the time. And it's definitely the case that we perceive in relationship to a goal. There's there's
 
 # Song: "Pathways to Change"
 
