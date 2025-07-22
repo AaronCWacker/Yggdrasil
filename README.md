@@ -1,5 +1,69 @@
 # Yggdrasil
 
+# Song: "Author of the Dream"
+
+Verse 1
+I’m livin’ in a world that feels like a game,
+A comic-book story where I stake my claim.
+At fifty-three, I’m dreamin’ like a kid again,
+Magic’s in the air, and I’m wonderin’ when.
+I steer this life by picturin’ my goal,
+Imagination’s power takes hold of my soul.
+
+Pre-Chorus
+Pathways light up, like stars in the night,
+I write the story, and it feels so right.
+Tools of my mind, obstacles fade away,
+Friends lift me up, foes teach me how to play.
+
+Chorus
+I’m the author of the dream, in a simulation scheme,
+Craftin’ stories, spinnin’ worlds, livin’ out my theme.
+With a spark of magic, I’ll change the game’s design,
+An agent of transformation, makin’ reality mine!
+
+Verse 2
+Could be a gamer’s chair when I leave this place,
+Five minutes in, but I’ve lived a life’s race.
+I write the book, then step inside the page,
+Becomin’ the hero on this cosmic stage.
+No cause and effect can explain what I see,
+This world’s a tale that’s authored by me.
+
+Pre-Chorus
+Pathways open, goals shift in the light,
+I dream of magic, and it feels so right.
+Tools are my will, obstacles just a test,
+Friends are my guide, foes push me to my best.
+
+Chorus
+I’m the author of the dream, in a simulation scheme,
+Craftin’ stories, spinnin’ worlds, livin’ out my theme.
+With a spark of magic, I’ll change the game’s design,
+An agent of transformation, makin’ reality mine!
+
+Bridge
+Gandalf came knockin’, changed the hobbit’s aim,
+Lifted him higher, rewrote the game.
+I’m my own wizard, with a pen in my hand,
+Shapin’ the story of this wonderland.
+On Boll & Branch sheets, so soft and so fine,
+I dream up new worlds, where my goals align!
+
+Chorus
+I’m the author of the dream, in a simulation scheme,
+Craftin’ stories, spinnin’ worlds, livin’ out my theme.
+With a spark of magic, I’ll change the game’s design,
+An agent of transformation, makin’ reality mine!
+
+Outro
+Campin’ was rough, my back’s feelin’ sore,
+But those organic sheets? I’m dreamin’ for more!
+In this simulation, I’ll write what I see,
+An agent of magic, I’m shapin’ my destiny.
+So here’s to the pathways, the goals that I chase,
+Authorin’ my story in this magical space!
+
 # Goals and Magic:
 https://youtu.be/TwfJQa-_Y9Q?t=3419
 
