@@ -1,5 +1,14 @@
 # Yggdrasil
 
+# 08/07/2025 - New HTMLApps
+
+For HTML Apps I am starting to gather them by name to pose them as assets from anywhere allowing you to quickly access HTML tools.
+
+This can be used from AI or manually with knowledge of the github URL in which it resides.
+
+1. https://github.com/AaronCWacker/Yggdrasil/blob/main/HTMLApps/ThreeJS-Datasets.html
+
+
 # Song: "Author of the Dream"
 
 Verse 1
@@ -14959,3 +14968,4 @@ Tool design for Roots: URL.
 Bloom on Wikipedia: URL.
 
 Bloo
+
