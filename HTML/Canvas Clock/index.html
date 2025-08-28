@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Canvas Real-Time Clock</title>
+  <style>
+    body { background: #222; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    canvas { background: #fff; border-radius: 50%; }
+  </style>
+</head>
+<body>
+  <canvas id="clockCanvas" width="256" height="256"></canvas>
+  <script>
+    const canvas = document.getElementById('clockCanvas');
+    const ctx = canvas.getContext('2d');
+
+    function drawClock() {
+      ctx.clearRect(0, 0, canvas.width, canvas.height);
+      ctx.save();
+      ctx.translate(128, 128);
+
+      // Draw clock face
+      ctx.beginPath();
+      ctx.arc(0, 0, 120, 0, 2 * Math.PI);
+      ctx.fillStyle = "#fff";
+      ctx.fill();
+      ctx.strokeStyle = "#000";
+      ctx.lineWidth = 6;
+      ctx.stroke();
+
+      // Draw hour marks
+      ctx.lineWidth = 4;
+      for (let i = 0; i < 12; i++) {
+        ctx.save();
+        ctx.rotate(i * Math.PI / 6);
+        ctx.beginPath();
+        ctx.moveTo(0, -100);
+        ctx.lineTo(0, -115);
+        ctx.stroke();
+        ctx.restore();
+      }
+
+      // Get current time
+      const now = new Date();
+      const sec = now.getSeconds();
+      const min = now.getMinutes();
+      const hr = now.getHours() % 12;
+
+      // Draw hour hand
+      ctx.save();
+      ctx.rotate((Math.PI / 6) * hr + (Math.PI / 360) * min);
+      ctx.strokeStyle = "#000";
+      ctx.lineWidth = 8;
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.lineTo(0, -60);
+      ctx.stroke();
+      ctx.restore();
+
+      // Draw minute hand
+      ctx.save();
+      ctx.rotate((Math.PI / 30) * min + (Math.PI / 1800) * sec);
+      ctx.strokeStyle = "#222";
+      ctx.lineWidth = 5;
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.lineTo(0, -90);
+      ctx.stroke();
+      ctx.restore();
+
+      // Draw second hand
+      ctx.save();
+      ctx.rotate((Math.PI / 30) * sec);
+      ctx.strokeStyle = "#e33";
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.lineTo(0, -110);
+      ctx.stroke();
+      ctx.restore();
+
+      ctx.restore();
+    }
+
+    setInterval(drawClock, 1000);
+    drawClock();
+  </script>
+</body>
+</html>
