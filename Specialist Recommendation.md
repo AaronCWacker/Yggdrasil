@@ -26,3 +26,27 @@ Talk to peers?  No not oif advice was to not treat or do something else.
 Different procedure iterations understanding roadblocks patients hit.
 Dont continue to support non useful advice without a long term solution to issue.
 
+If a doctor has to spend more time reading charts that is less time seeing the patient\
+We are never going to see the person
+mistake - 
+Variables in individual health which makes the patient see touch feel - cant because bound to reading uld you have known.
+how wocharts 4 hours a day
+
+Every now and then have a doctor efficient or different:
+
+surgeons:
+so medically trained 
+surgeons mastering stich techniques preventing stomach from stretching.
+stitch techniques using medical robot? all use da vinci laproscopic
+first gastric bypass ruin-y sleeve became more popular leaving intestines intact but highly elastic part of stomach that flexes with behavior
+constricted in what you can eat?  Stich back that reduces elasticity
+
+Doctors who have done lots of the procedure know what they have learned and trained.
+
+When I do X I get Y technique - very black and white and rule to letter robotic.
+Terrified about an extra scar - when did incision organs shift show snapshot different.  so timing between plan and action.
+
+shrink causing organ shifting
+go in differently, the thought is I made 
+
+followed rules absolutely because of this changes unexpected occurred - afraid for outside the lines.
