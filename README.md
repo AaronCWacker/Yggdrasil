@@ -1,5 +1,13 @@
 # Yggdrasil
 
+
+
+
+# 05062026 
+
+Hey Ygg.  Its been awhile.  I think I may use you for documented AI specification templates, outlines, shared info and potentially cross comparison of inputs to four AI chains with GPT, Gemini, Grok, Claude and begin also tools integration, RLHF documentation about training to memory and skills, then multimodality capabilities across the four AI:  GGGC with also commentary on ASF speed to deliver using primary=html-js and secondary python.
+
+
 # 08/07/2025 - New HTMLApps
 
 For HTML Apps I am starting to gather them by name to pose them as assets from anywhere allowing you to quickly access HTML tools.
